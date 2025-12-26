@@ -1,71 +1,71 @@
 Chương 88
 
-Lý Mục thở phào nhẹ nhõm. Hai ngày nay cậu bận tối mắt tối mũi.
+Lý Mục thở phào nhẹ nhõm. Hai ngày nay cậu rất bận rộn.
 
-Trang web Y Thính (Yi Ting) đang trong giai đoạn kiểm tra cuối cùng trước khi chính thức đi vào hoạt động. Mặc dù đội ngũ của Khổng Lệnh Vũ chịu trách nhiệm thực hiện, nhưng Lý Mục vẫn phải sát sao theo dõi tiến độ và đưa ra các đề xuất để tránh việc họ đi chệch hướng.
+Trang web Y Thính đang trải qua cuộc kiểm tra cuối cùng trước khi trực tuyến. Mặc dù được thực hiện bởi nhóm của Khổng Lệnh Vũ, nhưng Lý Mục vẫn phải theo dõi tiến độ của họ và đưa ra các đề xuất để ngăn họ đi sai hướng.
 
-Về phần thiết kế giao diện web, sau cả buổi sáng trao đổi với nhân viên thiết kế mỹ thuật và qua vài lần chỉnh sửa, cuối cùng cũng đã đạt được yêu cầu của Lý Mục.
+Về thiết kế của trang web, sau khi trao đổi với người thiết kế mỹ thuật cả buổi sáng và trải qua vài lần sửa đổi, cuối cùng nó cũng đáp ứng được yêu cầu của Lý Mục.
 
-Để đối phó với lượng người truy cập khổng lồ mà web Y Thính sẽ thu hút, Lý Mục đã yêu cầu Khổng Lệnh Vũ bổ sung thêm máy chủ và băng thông. Bước đầu tiên là phải đảm bảo khả năng chịu tải cho ít nhất 100.000 người nghe nhạc trực tuyến cùng lúc.
+Để đối phó với số lượng lớn người dùng bị thu hút bởi trang web Y Thính, Lý Mục yêu cầu Khổng Lệnh Vũ thêm máy chủ và băng thông mới. Bước đầu tiên là có thể đối phó với ít nhất 100.000 người nghe nhạc trực tuyến cùng một lúc.
 
-Ngoài ra, giám đốc dự án do Công ty Xây dựng Thành Vũ cử đến chịu trách nhiệm thi công cửa hàng cũng đã vội vã đến Hải Châu, mang theo hai bộ bản vẽ thiết kế cho Lý Mục lựa chọn. Lý Mục chọn một phương án và cho bắt đầu thi công ngay.
+Ngoài ra, một quản lý dự án do Công ty xây dựng Thành Vũ cử đến, người chịu trách nhiệm cải tạo cửa hàng, cũng vội vã đến Hải Châu với hai bộ bản vẽ thiết kế để Lý Mục lựa chọn. Lý Mục chọn một bộ và bắt đầu thi công.
 
-Thực tế, Lý Mục không có nhiều quyền tự quyết trong việc trang trí cửa hàng. Trụ sở chính có những yêu cầu rất chi tiết về việc trang trí, thậm chí có cả một cuốn cẩm nang tiêu chuẩn riêng. Từ tường đến gạch lát sàn đều có quy định nghiêm ngặt về kích thước, màu sắc và hoa văn. Các khu vực kệ hàng, trưng bày, quầy thu ngân, ánh sáng... đều có mẫu chuẩn, cá nhân không được phép tự ý thay đổi linh tinh.
+Thực tế, Lý Mục không có nhiều quyền tự chủ khi nói đến việc cải tạo cửa hàng. Trụ sở chính có những yêu cầu rất chi tiết cho việc cải tạo. Có một sổ tay tiêu chuẩn cải tạo đặc biệt. Từ tường đến gạch lát sàn, có những yêu cầu nghiêm ngặt về kích thước, màu sắc và thậm chí cả hoa văn. Cũng có các mẫu chính thức cho kệ, khu vực trưng bày, thu ngân, ánh sáng, v.v. Các cá nhân không được phép làm lung tung.
 
-Dù sao thì theo tiêu chuẩn thống nhất, phong cách trang trí của các cửa hàng đều na ná nhau, nên Lý Mục cũng chẳng can thiệp nhiều.
+Dù sao thì, theo các tiêu chuẩn thống nhất, trang trí của cửa hàng gần như giống nhau, vì vậy Lý Mục không can thiệp nhiều.
 
-Giám đốc dự án tuyển vài công nhân thời vụ tại địa phương và dẫn đội bắt đầu làm việc. Thời gian thi công từ bảy giờ sáng đến chín giờ tối. Nghe nói làm thêm giờ là chuyện thường tình ở công ty họ. Lý Mục đương nhiên rất hài lòng với tác phong làm việc này.
+Quản lý dự án đã tuyển dụng một vài công nhân bán thời gian từ địa phương và dẫn đầu nhóm bắt đầu làm việc. Thời gian thi công là từ bảy giờ sáng đến chín giờ tối. Nghe nói làm thêm giờ là chuyện thường tình trong công ty của họ. Lý Mục tự nhiên rất vui về phương pháp làm việc này.
 
-Trong quá trình thi công cửa hàng, Lý Mục không đưa ra yêu cầu gì khác. Cậu chỉ đến công ty quảng cáo đặt làm một tấm bạt quảng cáo khổng lồ, treo thẳng từ trên đỉnh cửa cửa hàng xuống đất. Chiều rộng của tấm bạt cũng chiếm hơn một nửa mặt tiền cửa hàng.
+Trong quá trình thi công cửa hàng, Lý Mục không có bất kỳ yêu cầu nào khác. Cậu đến công ty quảng cáo để đặt một tấm bạt quảng cáo khổng lồ, treo trực tiếp từ trên cửa cửa hàng xuống đất. Chiều rộng của tấm bạt cũng chiếm hơn một nửa toàn bộ cửa hàng.
 
-Trên tấm bạt, ngoài logo Metersbonwe khổng lồ, còn có hai bức ảnh cực ngầu của Quách Phú Thành cao gần 2,5 mét. Ngoài ra còn có dòng chữ bắt mắt: "Cửa hàng Metersbonwe Hải Châu sắp khai trương, hãy cùng chờ đón."
+Trên tấm bạt, ngoài logo Metersbonwe khổng lồ, còn có hai bức ảnh ngầu lòi của Quách Phú Thành, cao gần 2,5 mét. Ngoài ra, còn có những dòng chữ bắt mắt: "Cửa hàng Metersbonwe Hải Châu sắp khai trương, hãy đón chờ."
 
-Dù sao đây cũng là con phố sầm uất nhất. Trong hai tháng thi công, Lý Mục không muốn chỉ cắm đầu vào làm mà quên mất việc quảng bá. Tấm bạt khổng lồ cực kỳ bắt mắt này có thể nhìn thấy rõ từ cách đó cả trăm mét, coi như là một bước quảng bá trước.
+Dù sao thì, đó cũng là con phố sầm uất nhất. Trong hai tháng cải tạo, Lý Mục không muốn tập trung vào công việc mà quên quảng bá cho cửa hàng. Bây giờ tấm bạt khổng lồ cực kỳ bắt mắt, có thể nhìn thấy rõ từ cách xa hàng trăm mét. Nó có thể được coi là một sự quảng bá trước.
 
-Bất kỳ thanh niên nào đi ngang qua cũng sẽ bị tấm biển quảng cáo khổng lồ này thu hút, và ngay lập tức nhận được thông điệp mà họ mong chờ: Metersbonwe sắp khai trương ở Hải Châu.
+Mỗi người trẻ đi ngang qua sẽ bị thu hút bởi tấm quảng cáo khổng lồ, và sau đó ngay lập tức nhận được một thông điệp mà họ mong đợi: Metersbonwe sắp khai trương ở Hải Châu.
 
-Video vòng bán kết dự kiến sẽ được Đài truyền hình vệ tinh Nam Tô phát sóng vào ngày kia. Thời điểm chính thức ra mắt trang web Y Thính cũng được ấn định vào 12 giờ trưa cùng ngày. Lý Mục quyết định sẽ đi Kim Lăng.
+Video vòng bán kết dự kiến sẽ được công chiếu bởi Đài truyền hình vệ tinh Nam Tô vào ngày kia. Việc ra mắt chính thức trang web Y Thính cũng được lên lịch vào lúc 12 giờ đêm hôm đó. Lý Mục quyết định đến Kim Lăng.
 
-Lý Mục đã thông báo trước cho Khổng Lệnh Vũ rằng cậu sẽ dẫn dắt đội ngũ kỹ thuật làm thêm giờ vào ngày kia, và sẽ trả lương làm thêm gấp ba lần cho mọi người. Đến lúc đó, cậu sẽ đến văn phòng và cùng mọi người chứng kiến khoảnh khắc lịch sử khi trang web Y Thính ra mắt.
+Lý Mục thông báo trước cho Khổng Lệnh Vũ rằng cậu sẽ dẫn dắt nhóm kỹ thuật làm thêm giờ vào ngày kia. Cậu sẽ trả cho mọi người gấp ba lần tiền làm thêm giờ. Khi thời điểm đến, cậu sẽ đến văn phòng và chứng kiến khoảnh khắc lịch sử khi trang web Y Thính ra mắt cùng với mọi người.
 
-Sau đó, Lý Mục đến phòng tập của ban nhạc Simple Plan vào buổi trưa ngày hôm sau. Đầu tiên, cậu nghe họ tập lại bài "Lão Nam Hài" vài lần. Khả năng kiểm soát ý tứ trong giọng hát của Trương Khắc Thiên rất tốt, sự phối hợp và hòa âm của ban nhạc cũng thể hiện bài hát rất xuất sắc. Lý Mục ngày càng cảm thấy bốn thành viên của Simple Plan có tiềm năng để trở nên rất nổi tiếng. Sẽ thật tuyệt nếu sau này họ có thể học cách tự sáng tác bài hát cho riêng mình.
+Sau đó, Lý Mục đến phòng tập của Simple Plan vào trưa ngày hôm sau. Đầu tiên cậu nghe họ tập bài "Lão Nam Hài" vài lần. Việc kiểm soát ý nghĩa nghệ thuật trong giọng hát của Trương Khắc Thiên rất tốt, và sự hợp tác cũng như phối khí của ban nhạc cũng đã thể hiện bài hát rất tốt. Lý Mục ngày càng cảm thấy rằng bốn người của Simple Plan có tiềm năng để trở nên rất nổi tiếng. Sẽ thật tuyệt nếu họ có thể học cách tự viết bài hát trong tương lai.
 
-Sau khi nghe xong, Lý Mục đưa ra đánh giá xác đáng cho cả bốn người: "Hiện tại, chắc chắn sẽ không có vấn đề gì khi lọt vào vòng đầu tiên của chung kết."
+Sau khi nghe xong, Lý Mục đưa ra cho bốn người họ một đánh giá xác đáng. "Hiện tại, sẽ không có vấn đề gì khi xuất hiện trong vòng chung kết đầu tiên."
 
-Vòng chung kết được chia làm hai vòng. Vòng đầu tiên sẽ chọn ra top 5 từ 18 thí sinh, và vòng cuối cùng sẽ chọn ra top 3 từ 5 thí sinh đó.
+Vòng chung kết được chia thành hai vòng. Vòng đầu tiên sẽ chọn ra top 5 trong số 18 đội, và vòng cuối cùng sẽ chọn ra top 3 trong số 5 đội.
 
-Ngay sau đó, Lý Mục và bốn người họ lao vào phòng thu âm và bắt đầu quá trình thu âm kín.
+Ngay sau đó, Lý Mục và bốn người kia lao vào phòng thu âm và bắt đầu thu âm kín.
 
-Quy trình thu âm cơ bản là thu nhạc cụ trước, sau đó đến giọng hát, rồi mới đến xử lý hậu kỳ và biên tập. Nói chung, những bài hát chúng ta nghe đều được thu đi thu lại nhiều lần, sau đó những đoạn tốt nhất của các lần thu sẽ được cắt ghép lại với nhau. Đây là phương pháp thu âm khoa học hơn. Thậm chí sau này, ngày càng có nhiều ca sĩ "tông điếc" bắt đầu phát hành album. Về cơ bản, chỉ cần họ đọc lời bài hát vài lần, kỹ thuật viên có thể chỉnh lại cao độ trong khâu hậu kỳ là xong.
+Quy trình thu âm về cơ bản là thu âm nhạc cụ trước, sau đó là giọng hát, và sau đó là hậu kỳ và chỉnh sửa. Nói chung, những bài hát mà chúng ta nghe được thu âm nhiều lần, và sau đó những phần tốt hơn của nhiều lần đó được lấy ra và chỉnh sửa lại với nhau. Đây là một phương pháp thu âm khoa học hơn. Thậm chí sau này, ngày càng có nhiều người nổi tiếng mù âm nhạc bắt đầu phát hành album. Về cơ bản, ngay cả khi họ đọc lời bài hát vài lần, họ vẫn có thể điều chỉnh cao độ trong quá trình hậu kỳ.
 
-Bài hát đầu tiên mà Lý Mục và Simple Plan thu âm là "Lý Bạch". Phần nhạc cụ của bài này được thu ba lần mới xong phần đệm. Tuy nhiên, phần giọng hát của Trương Khắc Thiên phải thu đi thu lại hơn mười lần. Không phải vì cậu ấy hát không tốt, mà là do Lý Mục muốn theo đuổi sự hoàn hảo.
+Bài hát đầu tiên mà Lý Mục và Simple Plan thu âm là "Lý Bạch". Nhạc cụ của bài hát này được thu âm ba lần trước khi phần đệm được hoàn thành. Tuy nhiên, giọng hát của Trương Khắc Thiên được thu âm hơn mười lần. Không phải anh thể hiện không đủ tốt, mà là Lý Mục đang phấn đấu cho sự hoàn hảo.
 
-Nghe bản thu âm rất khác so với xem biểu diễn trực tiếp (live). Bản live có thể bỏ qua một số sai sót và khuyết điểm nhỏ, nhưng bản thu âm thì không thể. Nó phải hoàn hảo không tì vết. Với mỗi đĩa đơn được thu trong phòng thu, Lý Mục đều phải cố gắng đạt đến độ hoàn hảo. Đây là nhạc pop, và nó phải đối mặt với vô số khán giả. Nó khác với bài "Ngựa Vằn, Ngựa Vằn", một bài nhạc folk kén người nghe mà cậu tự thu âm trước đó.
+Nghe phiên bản thu âm của bài hát rất khác so với xem trực tiếp. Phiên bản trực tiếp tự nhiên có thể bỏ qua một số sai lầm và thiếu sót, nhưng phiên bản thu âm thì không thể. Nó phải hoàn hảo. Mỗi đĩa đơn được thu âm trong phòng thu, Lý Mục đều phải phấn đấu để trở nên hoàn hảo. Đây là nhạc pop, và nó phải đối mặt với vô số người. Nó khác với "Zebra, Zebra" (Ngựa Vằn, Ngựa Vằn), vốn là một bài hát nhạc folk kén người nghe mà cậu tự thu âm.
 
-Cuối cùng "Lý Bạch" cũng đạt yêu cầu của Lý Mục. Sau đó, mọi người nghỉ ngơi một lát trước khi bắt đầu thu âm bài "Hướng Dương". Với kinh nghiệm trước đó, phần thể hiện của Trương Khắc Thiên trong bài "Hướng Dương" ổn định hơn nhiều. Các vấn đề về giọng hát đã được giải quyết chỉ sau năm lần thu.
+"Lý Bạch" cuối cùng cũng đáp ứng được yêu cầu của Lý Mục. Sau đó, mọi người nghỉ ngơi một lúc trước khi bắt đầu thu âm "Hướng Dương". Với kinh nghiệm trước đó, màn trình diễn của Trương Khắc Thiên trong "Hướng Dương" ổn định hơn nhiều. Các vấn đề về giọng hát đã được giải quyết sau năm lần thu.
 
-Khi cả hai bài hát đã hoàn thành, vẫn còn dư dả thời gian. Lý Mục nói: "Thế này đi, chúng ta chơi lớn luôn, thu âm 'Lão Nam Hài' luôn nhé. Vài ngày nữa, các cậu sẽ phải đi Bắc Kinh để tham gia vòng chung kết. Lúc đó phải bay đi bay lại, tôi sợ các cậu sẽ không có thời gian và không giữ được phong độ tốt."
+Khi cả hai bài hát đã hoàn thành, vẫn còn nhiều thời gian. Lý Mục nói: "Thế này đi, hãy nỗ lực hết mình và thu âm 'Lão Nam Hài' luôn. Vài ngày nữa, các ông sẽ đến Yến Kinh để tham gia vòng chung kết. Lúc đó, các ông sẽ phải bay đi bay lại. Tôi sợ rằng các ông sẽ không có thời gian và sẽ không ở trong tình trạng tốt.
 
 "OK!"
 
-Mọi người cũng đang hứng khởi, nên họ ăn chút đồ gọi bên ngoài rồi bắt đầu thu âm "Lão Nam Hài" với khí thế hừng hực. Trương Khắc Thiên đã dùng giọng hơi nhiều, nên Lý Mục cho cậu ấy nghỉ ngơi hơn hai tiếng. Đến khi phần nhạc đệm của "Lão Nam Hài" được thu xong, giọng của Trương Khắc Thiên cũng đã gần như hồi phục. Lúc đó, cậu ấy đang ở trạng thái tốt nhất. Thêm vào đó, họ đã tập luyện "Lão Nam Hài" suốt mấy ngày qua, nên việc thu âm bài này diễn ra nhanh hơn hai bài kia.
+Mọi người cũng đang vui vẻ, nên họ ăn đồ ăn mang đi và bắt đầu thu âm "Lão Nam Hài" hết công suất. Trương Khắc Thiên sử dụng giọng của mình hơi quá nhiều, nên Lý Mục để anh nghỉ ngơi hơn hai giờ. Đến khi phần đệm cho "Lão Nam Hài" được thu âm xong, giọng của Trương Khắc Thiên gần như đã hồi phục. Lúc đó, anh đang ở trong trạng thái tốt nhất. Ngoài ra, họ đã tập luyện "Lão Nam Hài" trong vài ngày qua, nên việc thu âm bài hát này nhanh hơn hai bài hát kia.
 
-Sau khi cả ba bài hát được thu xong, mọi người tìm một nhà hàng để ăn một bữa. Lý Mục dặn dò họ chú ý đến trang web Y Thính. Ngoài ra, trước khi bài hát của họ được phát hành trên Y Thính, họ tuyệt đối không được để lộ file gốc ra ngoài. Cả bốn người đều ý thức rõ điều này nên gật đầu liên tục.
+Sau khi cả ba bài hát được thu âm xong, mọi người tìm một nhà hàng để ăn một bữa. Lý Mục hướng dẫn họ chú ý đến trang web Y Thính. Ngoài ra, trước khi các bài hát của họ được phát hành trên trang web Y Thính, họ không được để lộ các tệp nguồn của các bài hát. Bốn người họ nhận thức rõ điều này, nên họ gật đầu lia lịa.
 
-Cuối cùng Lý Mục cũng thở phào nhẹ nhõm. Tám giờ tối nay, Đài truyền hình vệ tinh Nam Tô sẽ phát sóng video vòng bán kết. Triệu Khang đang ở Hải Châu đã chờ sẵn. Mấy ngày qua, đội Thủy quân mạng của nó đã khơi mào một chủ đề trong cộng đồng fan của Simple Plan: Đâu là nơi có thể nghe bản chính thức của "Lý Bạch" và "Hướng Dương"? Mọi người chỉ được nghe bản thu âm trực tiếp, và hiệu ứng âm thanh thực sự không tốt lắm.
+Lý Mục cuối cùng cũng thở phào nhẹ nhõm. Vào lúc tám giờ tối nay, Đài truyền hình vệ tinh Nam Tô sẽ phát sóng video vòng bán kết. Triệu Khang, người đang ở Hải Châu, đã đợi sẵn. Trong vài ngày qua, Thủy quân Internet của cậu đã khơi mào một chủ đề trong cộng đồng người hâm mộ Simple Plan: Chúng ta có thể nghe phiên bản chính thức của "Lý Bạch" và "Hướng Dương" ở đâu? Mọi người đều nghe âm thanh trực tiếp, và hiệu ứng âm thanh thực sự không tốt.
 
-Tuy nhiên, các fan đều nói rằng Simple Plan chưa ký hợp đồng với công ty thu âm nào, nên họ chưa vào phòng thu để thu âm bài hát. Mọi người đều đang chờ bản thu âm của họ ra mắt, nhưng chắc sẽ còn lâu.
+Tuy nhiên, tất cả người hâm mộ đều nói rằng Simple Plan chưa ký hợp đồng với bất kỳ công ty thu âm nào, vì vậy họ chưa vào phòng thu để thu âm các bài hát. Mọi người đang chờ đợi phiên bản thu âm của họ ra mắt, nhưng có lẽ vẫn còn một thời gian nữa.
 
-Trong số đó, nhiều fan đang phân tích các mốc thời gian. Có một giả thuyết được các fan công nhận nhiều nhất, đó là: Simple Plan sẽ có thể thu hút một công ty thu âm "hạng nặng" ký hợp đồng sau vòng chung kết vào giữa tháng 8. Sẽ mất ít nhất nửa năm từ khi ký hợp đồng đến khi phát hành album đầu tay. Nói cách khác, ước tính trong năm nay, mọi người sẽ không có cơ hội nghe bản thu âm các tác phẩm của Simple Plan, cũng như không thể mua album của họ.
+Trong số đó, nhiều người hâm mộ đang phân tích các mốc thời gian. Có một kế hoạch được người hâm mộ công nhận nhất, đó là: Simple Plan sẽ có thể thu hút một công ty thu âm thực sự nặng ký ký hợp đồng với họ sau vòng chung kết vào giữa tháng Tám. Sẽ mất ít nhất nửa năm từ khi hoàn thành hợp đồng đến khi phát hành album đầu tiên. Nói cách khác, năm nay, ước tính mọi người sẽ không có cơ hội nghe phiên bản thu âm các tác phẩm của Simple Plan, cũng như không thể mua album của Simple Plan.
 
-Tuy nhiên, đội quân Thủy quân mạng của Triệu Khang bắt đầu chiến dịch tuyên truyền. Họ tung "tin đồn" trên mạng, nói với tất cả fan của Simple Plan rằng bản thu âm chính thức đĩa đơn đầu tay "Lý Bạch" của Simple Plan thực ra đã được thu xong trong phòng thu, bao gồm cả bài "Hướng Dương". Hai bài hát này sẽ sớm được phát hành trên mạng, gây ra những cuộc thảo luận sôi nổi giữa các fan trên Internet.
+Tuy nhiên, Thủy quân Internet của Triệu Khang bắt đầu một cuộc tấn công công khai. Họ lan truyền "tin đồn" trên Internet, nói với tất cả người hâm mộ của Simple Plan rằng phiên bản thu âm chính thức đĩa đơn đầu tiên của Simple Plan, "Lý Bạch", thực sự đã được thu âm trong phòng thu, bao gồm cả "Hướng Dương". Hai bài hát này sẽ sớm được phát hành trên Internet, gây ra cuộc thảo luận sôi nổi giữa những người hâm mộ trên mạng.
 
-Lý Mục mang theo file gốc đến văn phòng của trang web Y Thính. Khổng Lệnh Vũ đang đợi ở tòa nhà văn phòng cùng hai kỹ thuật viên toàn thời gian, một kỹ thuật viên máy chủ và vài sinh viên năm cuối làm thêm bán thời gian tại địa phương.
+Lý Mục đến văn phòng trang web Y Thính với các tệp nguồn. Khổng Lệnh Vũ đang đợi trong tòa nhà văn phòng với hai kỹ thuật viên toàn thời gian, một kỹ thuật viên máy chủ và một vài sinh viên năm cuối làm thuê ngoài bán thời gian tại địa phương.
 
-Trước khi chính thức ra mắt, Lý Mục đã kiểm tra nền tảng front-end và back-end cùng mọi người. Mọi thứ đều rất suôn sẻ, không có vấn đề gì. Quan trọng nhất là giao diện của trang web rất đẹp. Ít nhất vào thời điểm hiện tại, Y Thính chắc chắn là trang web nghe nhạc trực tuyến "ngầu" nhất.
+Trước khi ra mắt chính thức, Lý Mục đã kiểm tra các nền tảng trước và sau với mọi người. Mọi thứ đều rất suôn sẻ, và không có vấn đề gì. Quan trọng nhất là giao diện của trang web rất đẹp. Ít nhất là vào lúc này, Y Thính chắc chắn là trang web nghe nhạc thử ngầu nhất.
 
-Tất cả các bài hát trong thư viện nhạc đều lấy từ Internet, đây cũng là đặc điểm chung của tất cả các trang web nghe nhạc thời điểm này. Lý Mục biết rằng tích lũy tư bản ban đầu là một tội lỗi, và ngành công nghiệp Internet cũng không ngoại lệ. Trong tương lai, có vô số ông lớn sở hữu hàng tỷ tỷ đô la đi lên nhờ đạo nhái, bắt chước, vi phạm bản quyền và làm hàng giả để kiếm tiền. Vào lúc này, cậu không cần phải quá xấu hổ. Nếu cậu nương theo nhịp điệu của thời đại, cậu sẽ không bị mọi người chỉ trích. Trước mắt, Y Thính là quan trọng nhất.
+Tất cả các bài hát trong thư viện nhạc đều đến từ Internet, đây cũng là một đặc điểm chung của tất cả các trang web nghe thử vào thời điểm đó. Lý Mục biết rằng sự tích lũy tư bản ban đầu là một tội lỗi, và ngành công nghiệp Internet cũng không ngoại lệ. Trong tương lai, có vô số ông lớn trị giá hàng tỷ đô la dựa vào đạo văn, bắt chước, vi phạm bản quyền và làm hàng giả để kiếm tiền. Lúc này, cậu không nên quá xấu hổ. Nếu cậu theo nhịp điệu của thời đại, cậu sẽ không bị mọi người chỉ trích. Trước tiên, Y Thính là quan trọng nhất.
 
-Đúng tám giờ, chương trình của Đài truyền hình vệ tinh Nam Tô lên sóng.
+Vào lúc tám giờ, chương trình của Đài truyền hình vệ tinh Nam Tô được phát sóng.
 
-Rất nhiều người trên mạng đang làm "ngập lụt" các diễn đàn. Mọi người đều mong chờ video biểu diễn của ban nhạc Simple Plan, nhưng ai cũng biết rằng họ là người biểu diễn cuối cùng trong vòng bán kết, và thời gian phát sóng chắc chắn sẽ là sau chín giờ.
+Nhiều người trên Internet đang làm ngập diễn đàn. Mọi người đều mong chờ video biểu diễn của ban nhạc Simple Plan, nhưng mọi người cũng biết rằng họ là người cuối cùng xuất hiện trong vòng bán kết, và thời gian phát sóng chắc chắn sẽ là sau chín giờ.
