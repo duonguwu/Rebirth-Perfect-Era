@@ -1,0 +1,91 @@
+Chương 60
+
+Sau khi tái sinh, hiếm khi Lý Mục gặp được một chuyên gia như Khổng Lệnh Vũ – người có hiểu biết sâu rộng về Internet và cũng rất lạc quan về tương lai của nó.
+
+Sau một cuộc trò chuyện dài, Lý Mục đánh giá rất cao Khổng Lệnh Vũ. Không cần phải nói, chính Khổng Lệnh Vũ cũng bị chấn động bởi những gì Lý Mục thể hiện. Lý Mục có một sự hiểu biết sâu sắc về Internet, đến mức Khổng Lệnh Vũ đôi khi còn không thể hiểu nổi dù chỉ một mẩu thông tin nhỏ mà cậu tình cờ tiết lộ.
+
+Ví dụ, Lý Mục nói rằng Dịch Thính (Easy Listening) muốn thử nghiệm dịch vụ nghe nhạc trên nền tảng đám mây cơ bản. Khổng Lệnh Vũ thực sự chẳng hiểu cái "đám mây" đó là cái quái gì.
+
+Thế nhưng, đối với Lý Mục, khái niệm lưu trữ đám mây vốn là thứ đã quá quen thuộc trên Internet ở kiếp trước của cậu. Nói cho cùng, dù có hoa mỹ đến đâu thì nó cũng chẳng qua là chuyển dữ liệu vốn dĩ nên được lưu trữ tại địa phương (máy tính người dùng) lên máy chủ đám mây. Những việc đáng lẽ phải xử lý tại máy tính người dùng thì nay sẽ được xử lý trên máy chủ đám mây.
+
+Cái dịch vụ nghe nhạc đám mây đơn giản nhất, nói trắng ra, chính là một danh sách nghe nhạc trực tuyến.
+
+Trong tương lai, phần backend của trang web sẽ lưu trữ một danh sách nghe nhạc được tùy chỉnh riêng cho từng người dùng đã đăng ký. Như vậy, sau này bất kể người dùng có thay đổi thiết bị truy cập nào đi chăng nữa, chỉ cần họ đăng nhập vào tài khoản, họ sẽ có thể mở ngay được danh sách các bài hát yêu thích của mình.
+
+Mười năm sau, bất kỳ trang web nào không có chức năng này chắc chắn sẽ bị người dùng "ném đá" tơi tả. Thế nhưng, ở thời đại hiện nay, loại dịch vụ này chỉ mới xuất hiện sơ khai trong các trò chơi trực tuyến và phần mềm nhắn tin tức thời. Âu cũng là bởi các nhà phát triển vẫn chưa thực sự phổ cập được khái niệm "phục vụ người dùng" một cách đúng nghĩa.
+
+Sau một giờ trò chuyện, Khổng Lệnh Vũ cũng tâm sự về trang web của mình. Sau khi chứng kiến hao123 thu hút được một lượng lưu lượng truy cập khổng lồ, anh ta cảm thấy có cơ hội làm ăn lớn ở đó. Vì vậy, anh ta đã làm ra một thứ tương tự. Thế nhưng, hiện tại đang có một vấn đề nảy sinh. Công nghệ của một trang web điều hướng rất đơn giản, yêu cầu về máy chủ cũng không cao. Thế nhưng, việc quảng bá lại là một bài toán nan giải.
+
+Anh ta đã hì hục làm nó được gần nửa năm rồi, vậy mà đến nay mỗi ngày cũng chỉ có chưa đầy 3.000 lượt khách truy cập duy nhất (unique visitors). Có thể nói đây là một con số cực kỳ hẩm hiu.
+
+Lý Mục vốn không mấy lạc quan về tương lai của loại trang web điều hướng này. Hao123 tuy là một trong những trang điều hướng tốt nhất, nhưng cái giá mà sau này nó được bán cho Baidu cũng chỉ dừng lại ở con số hàng chục triệu tệ. Hơn nữa, trong tương lai, nhiều trang cổng thông tin và công ty phần mềm sẽ tận dụng chính lưu lượng truy cập và dung lượng cài đặt sẵn của họ để quảng bá trang điều hướng riêng. Chi phí cho việc này là quá thấp, và rào cản gia nhập thị trường cũng cực kỳ lỏng lẻo. Tuy có nhiều lưu lượng truy cập nhưng nó không có sự gắn bó thực sự của người dùng (user stickiness), lại càng khó có khả năng chuyển đổi người dùng thành nguồn thu nhập trực tiếp. Nguồn thu lớn nhất trong tương lai chắc cũng chỉ đến từ việc bán quảng cáo mà thôi.
+
+Hơn nữa, sau khi Baidu thâu tóm hao123, họ đã không ngừng sử dụng lượng lưu lượng truy cập khổng lồ của Baidu để nuôi sống hao123. Vì thế, đó là một thương vụ đôi bên cùng có lợi. Nếu Baidu chấp nhận bỏ công sức ra vận hành một trang web tương tự, thị trường trang điều hướng sẽ có diện mạo hoàn toàn khác. Nó vốn không thể hình thành nên một chuỗi ngành công nghiệp vững mạnh được.
+
+Tuy nhiên, khái niệm về một trang cổng thông tin âm nhạc lại mang nhiều ý nghĩa hơn hẳn so với một trang web điều hướng.
+
+Lý Mục thừa biết rằng trong tương lai, giới Internet sẽ chứng kiến vô số những thương vụ thâu tóm và sáp nhập khổng lồ. Chúng đều có một đặc điểm chung: bên đầu tư thâu tóm thường làm việc đó trong chính lĩnh vực mà họ còn yếu kém. Mục đích của việc thâu tóm là để hoàn thiện hệ sinh thái của riêng mình và không cho đối thủ cạnh tranh có cơ hội chen chân vào.
+
+Ví dụ như Tencent đầu tư vào Didi Taxi, còn Ali đầu tư vào Kuaidi Taxi. Sau đó, cả hai bên cùng vung tiền tạo ra một cuộc chiến trợ cấp đẫm máu. Thực chất, mục đích thực sự đằng sau cuộc chiến đó chính là để gia tăng thị phần trong ngành thanh toán di động.
+
+Hay như sau khi Alibaba lấn sân sang mảng giải trí, họ đã thâu tóm Youku Tudou để lấp đầy khoảng trống trong ngành video trực tuyến.
+
+Baidu thì lại thâu tóm 91 Assistant để lấp đầy lỗ hổng trong mảng điện thoại di động.
+
+Cái giá của những thương vụ thâu tóm kể trên đều tính bằng đơn vị "hàng trăm triệu", và đó là hàng trăm triệu đô la Mỹ hẳn hoi.
+
+Khi nhu cầu nghe nhạc trực tuyến và tải nhạc MP3 bùng nổ trong tương lai, các gã khổng lồ chắc chắn sẽ không rời mắt khỏi miếng bánh béo bở này. Nếu Dịch Thính (Easy Listening) trở thành kẻ dẫn đầu trong lĩnh vực này vào thời điểm đó, nó sẽ mang lại giá trị vô cùng to lớn. Đương nhiên, định giá của nó chắc chắn sẽ không hề thấp chút nào.
+
+Lý Mục không hề phủ nhận giá trị trang web điều hướng của Khổng Lệnh Vũ. Thay vào đó, cậu đã đạt được một thỏa thuận với anh ta. Trên cơ sở không ảnh hưởng đến tiến độ dự án Dịch Thính, Khổng Lệnh Vũ hoàn toàn có thể tiếp tục vận hành dự án riêng của mình. Thậm chí sau này anh ta còn có thể tận dụng sức mạnh của đội ngũ Dịch Thính. Nếu một ngày nào đó Khổng Lệnh Vũ muốn bán trang điều hướng của mình, Lý Mục sẽ là người đầu tiên xem xét việc mua lại nó.
+
+Về mức lương của Khổng Lệnh Vũ, ban đầu được ấn định ở mức 3.000 tệ mỗi tháng. Tuy nhiên, sẽ có một khoảng thời gian thử việc là hai tháng. Trong thời gian thử việc, mức lương vẫn sẽ giữ nguyên không đổi. Sau khi kết thúc thử việc, Lý Mục sẽ thông qua công ty nhân sự để hỗ trợ anh ta đóng các khoản bảo hiểm xã hội.
+
+Khổng Lệnh Vũ thừa biết Lý Mục là một cá nhân khởi nghiệp và chưa hề thành lập công ty chính thức nào. Vì vậy, anh ta cũng không có ý kiến gì. Mức lương mà Lý Mục đưa ra gần như tương đương với thu nhập của anh ta hồi ở Yahoo. Dù sao đây cũng là Kim Lăng, chi phí sinh hoạt thấp hơn một bậc so với Bắc Kinh. Vì thế, Khổng Lệnh Vũ cảm thấy rất hài lòng với mức thù lao này.
+
+Sau khi hai bên đã chốt xong xuôi, Lý Mục mời anh ta ở lại dùng bữa trưa và nhờ anh ta cùng mình phỏng vấn những người khác vào buổi chiều.
+
+Lý Mục cần Khổng Lệnh Vũ đóng vai trò là một đầu tàu. Trong tương lai, cậu chỉ có thể kiểm soát phương hướng chung cho Dịch Thính, còn những chi tiết triển khai cụ thể thì cần phải nhờ đến Khổng Lệnh Vũ thực hiện giúp mình.
+
+Buổi chiều, cả hai cùng phỏng vấn thêm một chuyên viên phát triển web khác. Đó là một chàng thanh niên chỉ ngoài đôi mươi và vừa mới tốt nghiệp đại học. Sau khi trao đổi và thực hiện một vài bài kiểm tra kiến thức chuyên môn, cả Lý Mục và Khổng Lệnh Vũ đều cảm thấy chàng trai này thuộc diện "thùng rỗng kêu to", kiến thức thì ít mà ảo tưởng thì nhiều.
+
+Về mảng kỹ thuật máy chủ thì không có vấn đề gì lớn. Còn về chuyên viên thiết kế mỹ thuật (art designer) là một nữ sinh vừa tốt nghiệp Đại học Kim Lăng. Tuy chưa có kinh nghiệm làm việc nhưng trông cô nàng có vẻ rất thực tế và cũng có hiểu biết nhất định về Internet.
+
+Sau khi bàn bạc một hồi, Lý Mục và Khổng Lệnh Vũ quyết định thuê chuyên viên kỹ thuật máy chủ và chuyên viên thiết kế mỹ thuật. Còn vị trí phát triển web, cậu để Khổng Lệnh Vũ từ từ tuyển dụng sau. Lý Mục không còn thời gian để tiêu tốn ở Kim Lăng thêm nữa.
+
+Lý Mục cũng bàn giao toàn bộ các yêu cầu phát triển chi tiết cho Dịch Thính lại cho Khổng Lệnh Vũ. Thậm chí ngay cả việc mua sắm máy tính văn phòng và các trang thiết bị cần thiết trong tương lai, cậu cũng tin tưởng giao phó hết cho anh ta.
+
+Lý Mục thực sự đang rất thiếu thời gian và cả kinh nghiệm quản lý thực tế nữa. Cậu chỉ có thể cố gắng vận dụng nhân tài một cách hợp lý nhất và để Khổng Lệnh Vũ lo liệu mọi chuyện. Còn về việc có thể tin tưởng được hay không, Lý Mục cũng chả buồn bận tâm. Hiếm khi tìm được người hợp cạ như vậy, cậu cứ việc "dùng người thì không nghi, mà nghi người thì không dùng" mà thôi!
+
+Vì chưa có công ty đăng ký chính thức, Lý Mục không tìm đến công ty kế toán bán thời gian. Cậu quyết định giao phó toàn bộ vấn đề hỗ trợ tài chính bên phía mình cho Diệp Thiên Minh lo liệu.
+
+Diệp Thiên Minh cũng rất nhiệt tình. Anh ta trực tiếp gọi một nữ kế toán từ công ty của bố mình ở trong tòa nhà xuống và nhờ cô ấy giúp Lý Mục xử lý mọi khoản chi phí tại nơi làm việc. Nữ kế toán này sẽ chịu trách nhiệm rà soát và chi trả lương cho Khổng Lệnh Vũ cùng các nhân viên khác, cũng như lo liệu việc mua sắm hàng ngày và thanh quyết toán các khoản chi. Nếu Khổng Lệnh Vũ cần sắm sửa thêm thiết bị văn phòng, anh ta chỉ việc báo một tiếng là xong.
+
+Còn về quỹ duy trì cho toàn bộ dự án, Diệp Thiên Minh đã trực tiếp đứng ra đảm nhiệm.
+
+"Anh không cần phải lo lắng về chuyện này đâu. Bốn anh em tụi em đã hứa với anh từ đầu rồi, nếu anh giúp tụi em, tụi em sẽ dốc hết sức và cả tiền bạc để giúp anh vận hành cái mảng kinh doanh này."
+
+Vì có người ngoài nên Diệp Thiên Minh cũng thấy ngại khi không dám nói rõ ra là Lý Mục đang giúp họ cái gì.
+
+Nhưng Lý Mục thừa hiểu rằng họ thực sự đã đạt được thỏa thuận đó ngay từ đầu. Trong trường hợp này, cậu cũng chẳng việc gì phải khách sáo với họ cả. Dù sao thì túi tiền của cậu cũng chẳng có bao nhiêu. Chi phí mở cửa hàng độc quyền chắc cũng ngốn đứt khoảng 500.000 tệ ngay lập tức rồi, cậu sẽ chẳng còn lại là bao đâu.
+
+Trước khi Lý Mục rời đi, bốn người trong ban nhạc Kế Hoạch Đơn Giản đã bỏ ra thêm 200.000 tệ nữa. Họ không đưa trực tiếp số tiền này cho Lý Mục mà lập một tài khoản riêng. 200.000 tệ này sẽ được sử dụng độc lập cho việc phát triển Dịch Thính sau này. Nếu thiếu, bốn người họ sẽ tiếp tục đóng góp thêm.
+
+Tính đến hôm nay, Trương Khắc Thiên và ba người còn lại đã chi tổng cộng 380.000 tệ. Đó không phải là một con số nhỏ, nhưng với bốn người họ thì cũng chẳng thấm tháp vào đâu. Tuy nhiên, Lý Mục đã có những tính toán riêng trong lòng. Hiện tại với số vốn 200.000 tệ đầu tư thêm, nó đã đủ để Dịch Thính khởi động suôn sẻ rồi. Còn về các khoản chi phí phát sinh sau này, cậu không định để họ tiếp tục gánh vác nữa. Khi "Truyền Kỳ" (Legend of Mir) chính thức lên sóng vào tháng chín năm nay, cậu sẽ có một nguồn thu nhập ổn định. Đến lúc đó, việc dùng nó để nuôi sống Dịch Thính sẽ không còn là vấn đề nan giải nữa.
+
+Sau khi đã thu xếp ổn thỏa mọi việc ở Kim Lăng, Lý Mục mua vé tàu hỏa quay về Hải Châu vào lúc 7 giờ tối. Trương Khắc Thiên và ba người còn lại nhất quyết đòi đãi Lý Mục một bữa cơm để tiễn chân. Thế nhưng, ngay trong bữa ăn đó, Lý Mục đã âm thầm lẻn ra thanh toán hóa đơn trước.
+
+Trương Khắc Thiên tỏ ra rất không hài lòng khi biết Lý Mục đã bí mật trả tiền. Ba người còn lại cũng lên tiếng phàn nàn. Theo ý họ, Kim Lăng vốn là sân nhà của họ. Có họ ở đây mà lại để Lý Mục phải tốn tiền ở Kim Lăng thì quả thực là khiến họ mất mặt quá.
+
+Thế nhưng, Lý Mục chỉ mỉm cười và bảo: "Mọi người cứ coi như tớ đang giúp mọi người ăn mừng trước đi. Kế Hoạch Đơn Giản chắc chắn sẽ giành chức quán quân cấp tỉnh và tiến thẳng tới Yanjing để tham gia vòng chung kết!"
+
+Trương Khắc Thiên gật đầu lia lịa. Hễ cứ nhắc tới chuyện thi đấu là anh ta lại hăng hái hơn bất kỳ ai khác. Anh ta đứng phắt dậy, tuyên bố đầy khí thế: "Mục tiêu của Kế Hoạch Đơn Giản là phải đoạt chức vô địch quốc gia kìa!
+
+Chỉ cần có Mục Ca ở đây sát cánh, chức vô địch chắc chắn sẽ nằm trong tầm tay!"
+
+Ba người còn lại cũng hò reo cổ vũ đầy phấn khích. Trong lúc hưng phấn nhất, Trương Khắc Thiên bèn hỏi Lý Mục: "Mục Ca ơi, nếu tụi em giành chức vô địch cấp tỉnh, lúc đó tụi em sẽ cần thêm hai bài hát nữa. Chẳng hay anh đã chuẩn bị sẵn sàng cho tụi em chưa?"
+
+"Sẵn sàng hết rồi." Lý Mục mỉm cười nhẹ nhàng: "Giờ chỉ còn tùy thuộc vào bản lĩnh của tụi cậu thôi đấy."
+
+"Anh có thể cho tụi em nghe thử trước được không?"
+
+Cả bốn người họ đều tràn đầy vẻ mong đợi. Những bài hát hay nào khác mà Lý Mục sẽ dành tặng họ trong tương lai chính là điều mà họ quan tâm nhất bấy giờ.

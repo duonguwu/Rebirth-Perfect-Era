@@ -1,0 +1,137 @@
+Chapter 190
+
+Fifteen days?
+
+Twenty days?
+
+Li Mu listened to these two time points and smiled in his heart. He said, "You have to think before you do anything. Although I'm not sure when Alipay will be launched, you should develop it as soon as possible because I already have a schedule in mind for the development needs. After Alipay is done, Tieba needs to be upgraded."
+
+Kong Lingyu nodded. Based on his understanding of Li Mu, the upgrade of Tieba was inevitable. At present, the number of users of Tieba was increasing. It would not be long before it became the largest online Chinese community. At that time, Li Mu would definitely have better product designs to maintain and expand users.
+
+Then, Li Mu and Kong Lingyu touched on the core framework that he had built for Alipay. He did not require other functions in the early stage, mainly basic functions such as fund transfer, payment, transfer, inquiry, and record. On this basis, he also needed to develop another interface. Any third Fang Ping station could use this payment platform as long as they signed an agreement with Alipay.
+
+Kong Lingyu asked Li Mu, "If you don't integrate Alipay into 3321, it seems that Alipay should be an independent product, right?"
+
+Li Mu said, "Not only independent operation, but also independent registration of the company."
+
+Kong Lingyu was slightly surprised. "Not in Makino Technology?"
+
+"Of course not."
+
+Li Mu smiled and said, "The core products of Makino Technology are community and social. In the future, it will also be developed around this core. The core of Alipay is payment. It will be an open third-party online payment platform that can be opened to any company in the future."
+
+Li Mu had long separated the fields that he wanted to dabble in. Projects in different fields would not be operated under the same shell as much as possible.
+
+Kong Lingyu understood Li Mu's meaning, and then began to carefully study the framework provided by Li Mu. If there was anything that he did not understand, he would immediately ask. Because once he left this place, he would have to devote all his time to development. If he went back and called the boss to ask what he did not understand, he would be slapping his own face.
+
+…
+
+Zhao Ziqiu was a little annoyed these two days. She hadn't seen Li Mu for a few days.
+
+Li Mu didn't contact her either. Although she knew that Li Mu had been very busy recently and had accepted countless interviews, when she thought of him, she couldn't help but think of him.
+
+Zhao Ziqiu still had some unusual longing in his heart. This kind of longing was not as simple as seeing him. Sometimes he wanted to swim with him. Sometimes he wanted to sit in his rented car and wander aimlessly in this city. Sometimes he just wanted to stay with him.
+
+As for what he did, it didn't matter.
+
+The other reason was that her parents had come over last week and stayed at their villa near the Asian Games Village for a few days. In addition to being busy with his own matters, her father had also introduced her to a family that was his business partner. The family of three were all from Yanjing, and coincidentally, the son of that family happened to be a sophomore at Yanjing University.
+
+Whether it was in terms of appearance, figure, upbringing, or background, he could be said to be top-notch.
+
+He was also an influential person at Yanjing University. Zhao Ziqiu once heard from a female classmate that there were countless girls who liked him at Yanjing University. However, he had always remained single and had a very good reputation at Yanjing University.
+
+Although the parents of both sides did not mention anything about their children at the dinner table, Zhao Ziqiu could still see a hint of tacit understanding on the faces of the two sets of parents.
+
+In the next few days, Zhao Ziqiu would receive text messages from that person every day. Every time, the other party would only greet her politely with a hint of concern. He had a very good grasp of the scale.
+
+However, Zhao Ziqiu didn't know why, but she felt very repulsed in her heart. She felt repulsed for no reason.
+
+On Friday, Zhao Ziqiu took the afternoon off.
+
+At noon, she had lunch at the Asian Games Village and was about to send her parents to the airport. However, she didn't expect her parents to call the son of their business partner over. He drove an imported Benz to the airport with Zhao Ziqiu's family. Zhao Ziqiu, who was sitting in the front passenger seat, felt uncomfortable the entire way.
+
+After sending her parents to the airport, Zhao Ziqiu originally wanted to watch them go through the security check and then take the bus back by herself.
+
+However, before her mother left, she deliberately asked the other party to send her safely to school and told her not to run around alone.
+
+Basically, one sentence from the other party blocked her way out.
+
+On the way back, Zhao Ziqiu took the initiative to sit in the back row. The other party was very indifferent and didn't say much or force her. On the way to drive Zhao Ziqiu, he asked her gentlemanly if she wanted to have dinner together that night. Zhao Ziqiu said she wasn't hungry, so the other party didn't say anything more.
+
+On Friday night, Zhao Ziqiu's mother called her for a very long time. For the first ten minutes, she was concerned and exhorted. Ten minutes later, her mother changed the topic and said that the young man she met last time was very good. Both her father and her mother thought he was a good person. She asked Zhao Ziqiu to keep in touch and get along as friends. Who knows, they might end up together in the future.
+
+Zhao Ziqiu was very repulsed in her heart. She said that she hadn't thought about dating during her university days.
+
+Her mother didn't say much. She also knew what it meant to stop before going too far. It was fine as long as the words were pointed out. If she said too much, it would be counterproductive.
+
+Zhao Ziqiu was not very satisfied with her parents' subtle approach. She always felt angry in her heart. She wasn't really angry with her parents, but she felt that they shouldn't try to control her emotions, even if their way could be considered very gentle.
+
+She was annoyed, but she couldn't express her dissatisfaction to her mother. Zhao Ziqiu complained that her parents didn't think of bringing her any hairy crabs when they came, and they didn't love her at all.
+
+It could be considered as using a gentle method to vent the dissatisfaction in her heart.
+
+However, speaking of which, girls in Jiangsu and Zhejiang generally loved to eat hairy crabs, especially since Hangzhou was very close to Yangcheng Lake. Zhao Ziqiu's family was well-off, so in the past, when the hairy crabs were fat and plump every November, her mother would find someone to go to Yangcheng Lake to find a reliable farmer and buy the best crabs for her family to eat. This year was Zhao Ziqiu's first year going to school. It just so happened that it was at this time, so she really missed it a little.
+
+When Zhao Ziqiu's mother heard this, she sent someone to Yangcheng Lake early on Saturday morning. In the evening, 50 kilograms of hairy crabs had already been transported to their home in Hangzhou. On Sunday morning, Zhao Ziqiu's father's driver flew to Yan Jing and sent two boxes of hairy crabs to the villa in the Asian Games Village.
+
+Zhao Ziqiu didn't expect her mother to immediately make up for her casual complaint yesterday. When she received the call, her father's driver had already left. Her mother first apologized on the phone and said that she couldn't make it for her personally. She simply explained how to steam it and how to make the sauce. Then, she told her not to eat too much at once and said that women should control their eating of cold food.
+
+Her mother's concern made the grudge and guilt in Zhao Ziqiu's heart disappear. However, when she remembered that the boy was in the same school as her, she still felt a little uncomfortable.
+
+The more uncomfortable she felt, the more she wanted to see Li Mu.
+
+She even angrily thought about why she didn't make any mistakes during the college entrance examination. How good would it be if she was also in the National People's Congress.
+
+Zhao Ziqiu simply took a taxi to the Asian Games Village. Then, she picked out 20 of the best hairy crabs from the two boxes and repacked them. After she went out, she hailed a taxi and went straight to Yucheng Garden.
+
+Sharing food was a good excuse to meet. She wanted to personally make hairy crabs for him to eat.
+
+When she got in the car, Zhao Ziqiu called Li Mu. The moment she picked up, she said, "Are you in Yucheng Garden?
+
+My mom asked someone to bring me some hairy crabs. I don't have a place to cook them by myself. Why don't we go to Yucheng Garden and eat them together? "
+
+At this time, Li Mu was communicating with Kong Lingyu about the framework. After listening to Zhao Ziqiu, he smiled and said, "Auntie is really interesting. She knows that you don't have a place to cook them, but she still brought them to you. Moreover, I don't have any kitchenware or cutlery here."
+
+Zhao Ziqiu could have directly invited Li Mu to the Asian Games Village. That way, she wouldn't have to carry crabs everywhere. However, this thought only flashed through her mind and was immediately thrown to the back of her mind. She didn't want to be too high-profile in front of Li Mu, lest he thought that she was showing off …
+
+"My mom thought that the dormitory could have an electric stove …" Zhao Ziqiu lied and then said coquettishly, "Are you free or not? The crabs can't be kept for too long. Besides, it's not very troublesome to eat crabs. Just buy a steamer. The ingredients for the dipping sauce are also very simple. I can buy them while I'm at it …"
+
+Li Mu smiled and said, "I'm in Yucheng Garden. You can come here directly. After you arrive, I'll go buy other things with you."
+
+Zhao Ziqiu was delighted and quickly said, "Then I'll go now."
+
+"Okay, do you need me to go downstairs to pick you up?"
+
+"No need, I remember the house number."
+
+Zhao Ziqiu's voice suddenly became cheerful. After hanging up the phone, even her mood from a few days ago was swept away.
+
+…
+
+When Li Mu heard the knock on the door, he quickly got up and opened the door. Outside the door, Zhao Ziqiu was holding a foam box with both hands. When she saw Li Mu, she giggled and pushed her hands forward. She said coquettishly, "Quick, take it. I can't carry it anymore."
+
+Li Mu quickly took the foam box and weighed it in his hand. He exclaimed, "My goodness, it's at least ten to twenty kilograms, right?
+
+How can you eat so much? "
+
+Zhao Ziqiu covered her mouth and laughed. "In order to keep it fresh, I put a lot of ice bags in it. Are you stupid?"
+
+Li Mu smiled awkwardly and said, "Come in first."
+
+When Zhao Ziqiu entered the room, Kong Lingyu, who was in the living room, also stood up and was about to greet Li Mu's guest. However, he didn't expect that the person who came in was a great beauty.
+
+Zhao Ziqiu also didn't expect that there would be other people in Li Mu's room. She looked at Kong Lingyu in surprise. Kong Lingyu hurriedly greeted, "Hello, I'm Li Zong's …"
+
+When Kong Lingyu was thinking about how to introduce himself, Li Mu, who put the hairy crabs in the kitchen, walked out and said with a smile, "Let me introduce you. Kong Lingyu is the technical director of my side. Zhao Ziqiu is my friend."
+
+After the two greeted each other, Kong Lingyu said to Li Mu, "Boss, I understand the framework. Should I go back first?"
+
+Li Mu said, "Stay for lunch together. Ziqiu brought some hairy crabs."
+
+Kong Lingyu hurriedly waved his hand and said, "I'd better go back to eat."
+
+The leader was dating a beauty at home. If he foolishly agreed to stay for lunch, his brain would be squeezed by the door.
+
+(To be continued.)
+
+PS:

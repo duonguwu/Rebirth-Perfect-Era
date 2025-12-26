@@ -1,0 +1,75 @@
+Chapter 987
+
+"Speedy Rescue" was for the sake of the Skynet system and the future of Makino Vision. The registration of Makino Vision was also being carried out in an orderly manner.
+
+Li Mu, on the other hand, began to think about several problems. First of all, which video surveillance equipment manufacturer should he acquire after the establishment of Makino Prestige?
+
+Secondly, where should Makino Vision be located after the manufacturer was acquired?
+
+Should it be located in Yanjing, Hangzhou, or a third city?
+
+Lin Ching-ah's statistical report showed that more than 70% of Hua Xia's video recording equipment manufacturers, as well as the upstream and downstream enterprises of the entire industry chain, were basically rooted in the southern section of Shenzhen. This was within Li Mu's expectations. Shenzhen was practically the most powerful heart of Hua Xia's electronic hardware market. Not only did it supply the nation with electronic hardware, but it also nourished a large number of local hardware R&D and production enterprises.
+
+In his previous life, Li Mu had a certain understanding of Daji's success. Speaking of Daji's accumulation of technology, especially in the field of hardware, to a large extent, it was inseparable from the strong support provided by the electronic city of Shenzhen. After all, Shenzhen's accumulation of electronic components was second to none in the country.
+
+Not to mention the many related enterprises in Shenzhen, as well as the industries of import and export, smuggling, foreign garbage, and other industries, just in Huaqiangbei alone, the hardware here was so abundant that as long as one had the technical ability, one could almost build a phased array radar here.
+
+Therefore, the unique hardware conditions of Shenzhen made Li Mu, who was in the hardware industry, yearn for it.
+
+After carefully thinking about the security surveillance industry, Li Mu felt that no matter how the industry developed, in the end, hardware production and sales would be the main focus, and technology and software support would be secondary.
+
+All the back-end technology, software support, and advanced technological functions would basically be carried by hardware. Therefore, it seemed particularly necessary to establish Makino Vision in Shenzhen in the future.
+
+After thinking about it for a while, Li Mu's idea was to directly choose a relatively suitable company among the surveillance equipment manufacturers in Shenzhen and let Makino Vision invest in it. At the same time, he would pull all the team from Hikvision to Shenzhen and build Makino Vision's headquarters there.
+
+At the same time, Fang Xudong's development team would temporarily be responsible for the core software support in Yanjing. In the future, he would separate the development team responsible for Makino Vision and move it to Shenzhen.
+
+Moving the future Makino Vision to Shenzhen, which was more than 2,000 kilometers away, was a long-term strategic plan for Li Mu.
+
+Shenzhen was at the forefront of the reform, and its policies were relatively loose. It also had the best hardware development soil in the country. Li Mu felt that as long as Makino Vision could take root in Shenzhen, he would invest a huge amount of money to establish a truly large-scale hardware development center in Shenzhen. When that time came, his first entry point would be a complete set of solutions for digital photography.
+
+Surveillance video was only a starting point in the hardware industry. In order to do this well, strong hardware production capacity, software development capabilities, and the ability to integrate and integrate software and hardware were required. What Li Mu wanted was to start researching the core technology of digital photography from surveillance video, so as to prepare in advance for the future era of mobile phone cameras.
+
+Although mobile phone cameras had been invented as early as 2000, it was only after 2003 that they became truly popular. Mobile phone cameras went from 100,000 pixels to 300,000 pixels, then to 8 megapixels, and even more than 10 megapixels. This road took a total of more than a decade. Among them, the real king was Steve Jobs' most classic work: the iPhone.
+
+In the entire smartphone market, Apple phones had two advantages that their competitors couldn't match. One was the iOS system, which was supported by the entire Apple ecosystem, and the other was the unique photography quality.
+
+Since the era of the iPhone 4, Apple phones' camera quality was the best among all smartphone manufacturers. All the new products launched by their competitors would always use Apple phones as a benchmark, and the most popular comparison was the camera quality.
+
+However, no matter how the competitors compared, how many parameters they piled up, how many concepts they changed, and how many false promotions they made, the eyes of the users were as clear as snow. The pixels of Apple's camera might be a lot worse than those of the competitors, but when it came to the image quality, most users still believed that Apple's camera was the best.
+
+Why did Apple's 8 megapixels image quality almost instantly beat all Android smartphones, and even the competitors that were equipped with 10 to 20 megapixels cameras? In fact, what was really awesome was not that Apple's camera hardware was good, but that Apple's entire image processing solution was too awesome.
+
+The entire image processing solution included the level of the camera hardware, as well as specialized optimization for the camera hardware, specially developed image processing chips, and supporting software. Finally, it was combined with the user's own light and shadow adjustment solution. Only then could the final product be formed.
+
+So many hardware and software technologies were integrated together, gradually optimized, and mutually enhanced. Finally, a set of excellent image processing solution could be formed. In the iPhone's entire camera solution, other than the camera hardware itself, which did not have any unique advantages, Apple had its own unique solutions for other core elements.
+
+Everyone was using the same Sony camera, but Apple's image quality was much better than the competitors'. This was the unique advantage of the iPhone in terms of camera quality, and it was also the fundamental reason why no matter how much other manufacturers boasted about their image quality, they would never be as good as Apple's.
+
+Li Mu felt that this was not only a good opportunity to get involved in security surveillance video, but it was also a good opportunity to accumulate related solutions in advance. If he could have his own image processing solution, this solution could not only be used for security surveillance, but it could also be adjusted to fit more fields.
+
+If he had a good image processing solution, then under the framework of this solution, if he focused on enhancing the capture of the impact of motion, he could quickly finish off the GoPro problem.
+
+Similarly, with this framework, if he could miniaturize the hardware, or wait for Sony and other hardware suppliers to come up with better camera hardware, he could immediately come up with an image processing solution for mobile phones. Maybe when the smartphone era came, he could be the first to come up with an image processing solution that was better than Apple's.
+
+The development of the solution was similar to the development of a successful car model. For example, Volkswagen's Golf. Once the Golf was successful, on this basis, he could flatten it a little, lengthen it to become a Speedo, lengthen it to become a Passat, rename it to become a Maiteng, subtract a back seat to become a CC, lengthen it to become a Phaeton, raise it to become a Tiguan, raise it to become a Touareg, and raise it to become a Touran.
+
+Although it sounded like a joke and couldn't stand up to serious scrutiny, the logic was the same. Therefore, the core idea of Li Mu's future hardware development was to first come up with a complete set of solutions!
+
+After making up his mind, Li Mu immediately contacted Zhong Xinhua of Hikvision. Li Mu didn't tell Zhong Xinhua that he wanted to move the entire Hikvision team to Shenzhen. He only asked if Hikvision had any suggestions on acquiring a camera equipment manufacturer.
+
+After all, he was buying a partner for Hikvision, and in the future, the camera equipment manufacturer would also cooperate with Hikvision. Therefore, Hikvision had the right to choose a partner.
+
+Zhong Xinhua told Li Mu, "We have already screened some relevant domestic companies. Among them, we strongly recommend that Muye Vision acquire Shenzhen Guang An Surveillance Technology Co., Ltd. This company has a strong advantage in the production of surveillance cameras, and they have accumulated a certain amount of technology. They are very suitable for Muye Vision's current overall plan."
+
+Li Mu suddenly remembered Lin Ching-ah's investigation report. In her report, this Shenzhen company called Guang An Surveillance had also given a relatively high evaluation.
+
+Guang An Surveillance had accumulated many years of hardware production. Several of their surveillance cameras were now more popular products in the domestic financial industry, and their performance was also relatively good.
+
+Zhong Xinhua said, "Li Zong, this company is now the most sought after by security and surveillance installation companies. Many security and surveillance installation companies will use Guang An's hardware when building surveillance systems for their customers. Guang An's hardware is not only cost-effective, but also of good quality and stability."
+
+Li Mu asked him, "How do security and surveillance installation companies usually build a complete set of surveillance systems for their customers?"
+
+Zhong Xinhua said, "Generally speaking, they buy cameras, processing boards, and hard disk recorders. They are like machine dealers who accumulate the most cost-effective system, and then install and debug it for their customers. Basically, they don't have their own software support. In the end, they are just a supplier of sales, installation, and after-sales services."
+
+As he spoke, Zhong Xinhua said, "These small companies actually occupy more than half of the security and surveillance market. In order to make profits, they usually do some tricks in their hardware. The most common ones are using pirated cards and very low-quality hard disk recorders. Customers have no problems at first, but after ten days or half a month, they can see the difference. Generally speaking, a good solution will not crash for a month, but the solutions provided by these machine dealers are frequently problematic."

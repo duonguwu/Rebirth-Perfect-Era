@@ -1,0 +1,97 @@
+Chapter 1704
+
+Initially, when everyone saw these funny and cute GIFs, they only thought that they were interesting. They did not think that they would have much use in YY. However, after Li Mu's introduction, they realized that these GIFs were a new way of chatting that could replace text.
+
+In the past, most of the time, emoji could only be used as a textual aid in chatting. It was like adding salt to a dish. It could enhance the taste of the dish, but it could not be eaten as a dish alone.
+
+Now, the panda bear GIF that Li Mu created could completely replace text in many situations with exaggerated and funny movements. Moreover, everyone felt that this way of chatting was really too interesting. It was far better than chatting with text.
+
+All of a sudden, the atmosphere in the entire conference room became lively. Everyone was excited because they saw a new way of presenting online chatting. It was a new and interesting presentation.
+
+Fang Xudong also finally understood what Li Mu wanted to do. He looked at these expressions and could not help but shake his head and sigh. "Li Zong, I thought you wanted to make a GIF that could be sent to the other party in real time. Then, the other party could directly preview it in the dialog box, just like a file transfer. I didn't expect you to use it to subvert the traditional way of online chatting …"
+
+Li Mu smiled and said, "GIF emoji is a new direction that we will focus on. From this perspective, technology is actually serving the content."
+
+Fang Xudong asked curiously, "Li Zong, under normal circumstances, since we have created this chat mode, shouldn't we encourage users to create their own content? That way, the number of GIFs will continue to increase. Why do we have to block users from uploading and adding?"
+
+Li Mu said, "You're right. Normally, after your function is developed, I shouldn't block users from uploading and adding their own GIFs. However, I have four considerations in the early stages:
+
+First, if the child is still young and just learning to read, don't bring him to the bookstore or the library. If there are too many books, he won't be able to choose, and it will be easy for him to choose the wrong books.
+
+Second, all parents will impose their own values and cognition on their children. Therefore, when the child first learns to read, the parents will decide what to read based on their own preferences. This is the only way to ensure that the child will not deviate too much.
+
+Third, you have to know the difference between built-in content and custom content. For example, our 20 GIFs are built into YY. Assuming that the users have updated the new version of YY, we don't need to really send emoticons when users send emoticons to other users. What we send at the data transmission level is actually a string of character instructions.
+
+For example, if the string of the first GIF is BQ0001, then when a user sends the first image to another user, all we have to do is send the command BQ0001 to the other party, and the other party's YY will directly retrieve the image from the local area and display it. For us, a 1MB image might be reduced to 10 bytes. How many times would the bandwidth usage be reduced? "
+
+Fang Xudong blurted out, "1MB is equal to 1024 KB, 1KB = 1024 bytes. If we reduce it from 1MB to 10 bytes, the bandwidth should be reduced by about 100,000 times."
+
+Li Mu nodded and said, "That's right. The absolute difference between 1MB and 1 byte isn't that big. But think about it, we have more than 600 million users now, which basically accounts for more than 90% of the world's netizens. If each of these 600 million users sends an 1MB GIF every day on average, how much bandwidth will it take?"
+
+Then, Li Mu said, "If we allow users to create and send their own GIFs, then these unofficial built-in GIFs won't be able to be transmitted with short character instructions. When the time comes, all kinds of custom GIFs will be popular among users all over the world. That will take up a lot of bandwidth. Therefore, we don't need to let them enjoy it alone. We should give priority to everyone else."
+
+Fang Xudong asked again, "Li Zong, what's the fourth consideration?"
+
+Li Mu smiled and said, "The fourth is that I want to smuggle the panda bear around the world. I want to get rid of the function of users adding their own GIF and then put panda emojis in it for them to use. I want all foreigners to know that panda bears are a specialty of Hua Xia.
+
+Let them know that pandas are a specialty of Hua Xia. Let them like or like pandas more. Let them want to come to Hua Xia to see pandas. Let them choose where we, Taobao, go to. "
+
+Speaking up to this point, Li Mu was a little excited. He stood up and asked with a smile, "Think about Australia. What's the first animal that comes to mind?"
+
+"Kangaroos!" Everyone said in unison.
+
+Li Mu nodded and said with a smile, "Think about it. Kangaroos are so ugly, big, and fierce. They're not cute at all. Every year, people in Australia are beaten to death by kangaroos. This is not what I said, it's official data.
+
+But even so, there are still a large number of tourists flocking to Australia to see them every year. Compared to them, our national treasure, the panda, can be said to be one of the cutest animals. I don't think it's a problem to go there. So why can't we develop panda tourism? "
+
+The core members finally understood Li Mu's intentions. Fang Xudong said excitedly, "Li Zong, then we'll build these emojis into the new version of YY today!"
+
+Li Mu nodded and said, "This batch will be listed as' Panda Bear Episode One. 'Then remind users that the second episode of' Panda Bear 'is in production. Let them pay close attention."
+
+As he said this, he told Fang Xudong, "The first episode of the emojis will be updated with our new version of YY. The data will be put directly into the installation package. But if there are new emojis in the future, let users directly download and cache the data of the emojis in YY."
+
+For a software product, the release of a new feature was a relatively big upgrade. One would have to download and install the new version again.
+
+This was like the early days of WeChat Moments, which did not allow users to post videos. Later on, they added the ability to take a ten-second video and post it on their Moments. This required a version upgrade.
+
+Later on, WeChat further upgraded the video function. Users could choose a video from their photo album and take a ten-second clip to post on their Moments. This also required a version upgrade.
+
+Just like the dynamic emojis in YY, it required a version upgrade. However, in the future, new emojis only needed to be downloaded and cached in the emojis function.
+
+In addition to custom emojis in WeChat, there were also some official themed emojis. These emojis all needed to be downloaded. In the future, YY's GIF emojis would also use this model. Users could download it if they were interested. After downloading it, it would appear in their own emojis list. This way, when sending it to the other party, it would not take up bandwidth.
+
+Fang Xudong thought for a while and said, "Director Li, the first episode's expression pack is built into the installation package. That's easy to deal with. But if we release a new expression pack, even if the releasing user downloads the expression pack but the receiving user doesn't, we will still have to use up a portion of the outgoing bandwidth even if we save a portion of bandwidth."
+
+User A cached the second episode's emojis and sent one of them to User B. The logic of the data flow was that User A would first send the file to YY's server, and then the server would send it to User B.
+
+Since User A had already cached it, he only needed to send a character command to the server, and the server would know what he wanted to send. If User B also cached the second episode's emojis, then the server only needed to send the character command to B.
+
+However, if User B did not have a cache, then the command would not be able to pull up the image locally. Therefore, the image could only be transmitted to B.
+
+Li Mu thought for a while and said to Fang Xudong, "Add a set of code to the new version of YY. As long as it is an official emojis, we can choose whether or not to have the user's computer automatically cache it."
+
+Fang Xudong asked in surprise, "When you say automatic cache, do you mean to inform the user or?"
+
+"Of course not." Li Mu said seriously, "Silently caching will do."
+
+"Silently caching?"
+
+Fang Xudong asked worriedly, "If our peers or users find out, will they complain that we forced the user to cache the emojis data without their permission?"
+
+Li Mu waved his hand. "This is not invading the user's privacy, and it will not bring any security risks to the user. It is just a normal caching of the software's own data. If it is exposed, we can say that it is to improve the user's experience. If the user does not have a cache of the emojis, he will need to use up the network speed when he receives the emojis. If the network speed is not good, the loading speed may take a long time, and it will affect the user's experience."
+
+In fact, Li Mu knew better than anyone else that there was no software in the world that was not a rogue.
+
+Rogue software did not have to be as obvious as 3721 or a certain family bucket. For example, when Microsoft released Windows 10, it became a rogue software.
+
+In the era of the mobile Internet, many software would have high-definition open screen advertisements, and some would even have video advertisements. These software would symbolically add a reminder like "the advertisement has been cached in the iFi". But didn't it not play advertisements even on the iFi?
+
+If it did not exist, it would still automatically cache all kinds of advertisements for the user, and it would annoy the user.
+
+Take WeChat for example, there would often be advertisements in WeChat's WeChat Moments. This also required data and traffic. Why would it consume the user's traffic and put advertisements in the user's WeChat Moments?
+
+Needless to say, half of the comments on Weibo were advertisements. What was even more hateful was that half of the comments on Weibo were advertisements. In order to increase the number of advertisements, the platform had done everything it could to increase the number of advertisements.
+
+Not to mention that many software would secretly record the user's private information such as cookies, browsing history, contacts, and photo albums.
+
+YY only helped the user to cache the emojis data. If this could be considered a rogue, then it would really be the world's most gentlemanly rogue. Moreover, in the Internet industry, there were no truly gentlemanly products.

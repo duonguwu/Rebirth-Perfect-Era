@@ -1,0 +1,93 @@
+Chapter 446
+
+Jonathan Ive was the soul of Apple's industrial design. He had been the chief designer since the iPod era, and after the iMac and iPad, he reached the pinnacle of his career in the iPhone era. He was known as the smartest designer in the world, and was the secret weapon that all competing companies wanted. For a long time, he was the best industrial designer in the world.
+
+If it wasn't for Apple, Li Mu might not even have remembered the name of the designer. That was why he didn't know how much Arya had accomplished in the field of industrial design in his previous life. But just from the sketches she had drawn in one night, Li Mu felt that the woman must have been quite accomplished.
+
+What Li Mu didn't know was that Arya and Jonathan were schoolmates. They both graduated from Northumbria University's design school. In the future, Arya joined Apple in 2003 and became Jonathan's most capable assistant.
+
+Arya showed the sketches to Li Mu and asked, "Mr Li, which of these sketches is closer to what you want?"
+
+Li Mu thought for a while and said, "I think the last one that's still being painted is closer."
+
+"Really?"
+
+Arya quickly flipped to the last page. The sketch was just a simple line. Just then, Li Mu pointed at the top and bottom cross-sections she had drawn and said, "But here, I hope that the two sides can be narrowed and made into a flat circle."
+
+Arya nodded and quickly erased the cross-section sketch with an eraser. Then she drew a new oblate circle.
+
+Li Mu was satisfied. He said to her, "It would be great if you could make it thinner."
+
+"It's just a sketch," Arya said. "You can draw however you want, but I still need to consider the hardware configuration, including what kind of screen, what kind of buttons, what kind of memory, and most importantly, what kind of battery you want to use. If it's a lithium battery, the design will be more flexible. If it's a normal AA or AAA battery, the design will be more limited because the battery is thicker, so …"
+
+Only then did Li Mu realize that it wasn't a problem to use the iPod-nano4 design for the MP3 player, but the most critical problem was the hardware and technology. If he wanted to use the flat shape of the nano4, the biggest problem was the battery. If he didn't use the lithium battery, even if he used the smallest AAA battery, which was the number seven battery, the thickness would be greatly affected.
+
+If you use a lithium battery, the thickness problem could be solved, but the cost would naturally be much higher. It was 2002, and the cost of a lithium battery was shockingly high. A cell phone battery could easily cost hundreds of dollars. If you used a lithium battery on an MP3, the cost would be beyond what the user could afford.
+
+Currently, the purchasing power of domestic users was still relatively weak. Li Mu had to consider the cost. Otherwise, if he really made an MP3 player like the iPod that easily cost two or three thousand dollars, it would completely mess up his plan.
+
+This also made Li Mu realize how one-sided a layman could be. He actually didn't think of something as important as a battery in advance.
+
+Li Mu smacked his lips and asked Arya, "If we use a normal battery, do you have any good design suggestions?"
+
+Arya said, "Most MP3 players use normal dry batteries. There's only one drawback. The overall design needs to be based on the battery. However, if we use a single AAA battery, the design will be more controllable. I suggest using this method. In this case, we can use the triangular design just now. I can make the front as wide as possible and reduce the thickness. If we use an isosceles triangle design, we can make the angle of the top as big as possible. This way, it will be lighter and more prominent on the front of the player."
+
+Li Mu nodded and said, "Try changing it."
+
+Arya immediately flipped to a new page and started drawing lines with a pencil in her hand.
+
+The front of the body was quickly outlined. Then, Arya started drawing the cross-section. She first drew an isosceles triangle with a large top angle.
+
+Li Mu put forward his own suggestion, "Can the three corners of the cross section be made into an arc design?
+
+That should make it look more natural. "
+
+Arya tapped the pencil on the sketchbook. Her eyes lit up. "That's a great suggestion!"
+
+After saying that, Arya began to work on the edges of the isosceles triangle, making the edges more natural and smooth. It was similar to the iPhone 6's four arcs design, but the cross-section was made into a triangular arc. This way, the overall design felt a little better.
+
+The design of the battery compartment was appropriately arranged in the corner of the equilateral triangle. The protruding arc could fit the battery inside, and the narrowing on both sides gave the illusion that the whole thing was thinner.
+
+Almost an hour passed. Arya's pencil was drawing more and more lines. Gradually, the blank paper was covered. A sketch that looked like a sketch appeared in front of Li Mu. Li Mu was amazed.
+
+The overall layout of the product was similar to the iPod-nano, but Arya had added a lot of her own design elements. Because of the battery compartment, it was thicker in the middle than the nano. But overall, it still looked beautiful. It looked better than any MP3 player in this era.
+
+The design of the battery compartment was more traditional. It was a battery cover not much bigger than a No.7 battery. At the bottom of the back of the player, there was a recessed slot for the battery cover.
+
+Li Mu was not satisfied with this design. He said to Arya, "Can you make the whole back a removable battery cover?"
+
+Arya asked, surprised, "The whole back?
+
+Wouldn't it be too troublesome to disassemble it? "
+
+Li Mu smiled and said, "If you want to disassemble it as a whole, you can't use this kind of buckle. You need to use a hidden buckle, which means that the back should be designed to be push-pull. When you push the buckle, you can remove it. When you close the back, there won't be any gaps or traces."
+
+This kind of design was still very novel now, but in the future, almost all electronic product remote controls would use this kind of hidden buckle method. The biggest advantage of this method was that it was beautiful and integrated, unlike the traditional battery cover that was out of place.
+
+Arya had never seen this design before, but after listening to Li Mu's brief introduction, she immediately knew what Li Mu wanted. In about ten minutes, she had a sketch of the back cover. It looked very good.
+
+This made Arya look at Li Mu in a new light. Although he had never studied design, his inspiration in design seemed to surpass many people. Even in her eyes, he was very avant-garde.
+
+As for the design of the headphones, Li Mu wanted it to be as simple as possible. Under Li Mu's instructions, Arya changed the design a few times. In the end, she came up with a design that looked like an iPhone headphone. Li Mu was very satisfied with the design. It couldn't be helped. Apple's industrial design was recognized by the world in his previous life. The only people that Li Mu could think of were representatives of the industry.
+
+After the overall design was finalized, Arya loved the final design. She said to Li Mu sincerely, "Mr. Li, actually, most of this player was your idea. As for the cost we agreed on, I think it would be more appropriate to cut it in half."
+
+Li Mu said seriously, "These are two different things. Even if part of it is my idea, you are the one who helped me perfect it. There is no reason to give a discount on the cost. Besides, if you are working with other companies and they put forward some requirements for you to change according to their requirements, do you still want to give them a discount?
+
+That doesn't seem like your professional style. "
+
+Arya hurriedly said, "I didn't mean that..."
+
+Li Mu smiled and said, "Then it's fine. Although we didn't sign a contract, we talked about the money before. You and I have to abide by the spirit of the contract. That way, if there's a chance to work together in the future, it will be better."
+
+Arya was very talented and professional in design, but she had never entered the workplace. She was a little subjective when it came to cooperation. She felt that the work she did was much less than she expected, so she didn't want to take more money. However, after Li Mu showed her the spirit of the contract, she didn't insist. She said to Li Mu, "Mr. Li, I will start the rendering and the official design drawings from today. When the official design is out, I will give the screen, motherboard, buttons, jacks, and other internal hardware design standards. You can talk to the OEM and ask them to design the internal hardware according to the standards."
+
+Li Mu nodded. He was looking forward to the results of the rendering and design drawings. This was an important strategy for Taobao and Easyting. If this MP3 player was successful, Taobao would have to struggle less for at least a year. If Easyting's official flagship store in Taobao could sell hundreds of thousands of MP3 players in a year, then he could start a B2C platform similar to Tmall in 2003. He could sell hundreds of thousands of MP3 players online. By that time, there would be many companies that were tortured by traditional sales channels and costs.
+
+…
+
+Three days later, Li Mu received the complete design of the MP3 player from Arya. It included the detailed design drawings of every component, as well as the explosion and rendering of the entire design.
+
+Li Mu asked Arya to make a stunning rendering. There were nine new MP3 players in the drawing. Although the models were the same, the colors of the shells were different. There were a total of nine colors: red, orange, yellow, green, blue, purple, silver, and black. The nine colors were displayed at the same time to imitate the Nano. On the one hand, it was to improve the style of his product group, and on the other hand, it was to cater to more people's tastes.
+
+Li Mu was very satisfied with Arya's design. The rendering was so good that Li Mu thought he had traveled five years in time.

@@ -1,0 +1,129 @@
+Chapter 1277
+
+Lei Jianguo roughly understood Li Mu's intention. What Li Mu wanted to do was to use an extremely cost-effective product to attract users and satisfy the majority of users' needs for this type of product. This would greatly limit the market space of other similar products.
+
+In this day and age, the iPod did not really have a strong style. Its high price, closed data loop, and software adaptation were all very big problems. If there was a cost-effective product in the market, the development of this type of product would definitely be greatly affected.
+
+However, Lei Jianguo said with some worry, "Li Zong, Mango-ME's current production capacity is very sufficient, but the problem is that we don't have sales channels in Europe and America. When the time comes to distribute the goods, what method are you going to use?"
+
+Li Mu smiled and said, "With YY, do you still need to worry about distribution channels?"
+
+Lei Jianguo said, "After all, Mango-ME is a physical product. We need a sales network and an after-sales network."
+
+Li Mu said, "This is very simple. I will contact the American side. Amazon, eBay, and even other offline distributors are our partners. We are different from other manufacturers. Other manufacturers only have products, no users, and no traffic. But we not only have products, but we also have traffic. Whoever is willing to sell our Mango-ME and provide delivery services, then I will use YY to guide traffic to their platform. We have more than 100 million users in Europe and America. With such a large traffic flow, I'm afraid these companies will rush to cooperate with us."
+
+Lei Jianguo immediately said, "I understand!
+
+With such a large traffic flow, we can even turn around and ask them for cooperation fees. "
+
+"That's right," Li Mu said, "I will bring this wave of traffic to whoever gives me a satisfactory condition."
+
+Lei Jianguo said, "Li Zong, then I suggest that you cooperate with offline chain distributors. Because if we cooperate with online platforms, once we want to do e-commerce business in Europe and America in the future, the traffic output this time will be like raising a tiger. But if we guide the traffic to offline distributors, there will not be such a problem."
+
+"That makes sense."
+
+Li Mu thought about it seriously for a moment before he nodded and said, "When the time comes, we can cooperate with the distributors with the most complete sales network in Europe and the United States to let our users buy Mango-ME offline. This is a good idea. Otherwise, if we direct the traffic to Amazon or eBay, their profits will be too great."
+
+Li Mu then said, "Hurry up and implement this matter, especially the stock of the regular version of Mango-ME. Starting today, I'll ask my colleagues in the US to immediately start applying for the import license of Mango-ME in the US."
+
+"Alright, I'll arrange it right away!"
+
+After hanging up Lei Jianguo's call, Li Mu's lips curled into a sinister smile. You're playing with an iPod that's worth a few hundred dollars, I'll play with a Mango-ME that's worth a few tens of dollars first. If my product can't beat yours, I'll use other products to make up for it. I'll buy a Mango-ME and get a free one-year membership. How about that?
+
+How about a few dozen US dollars worth of YY coins?
+
+What I'll do first is to make Mango-ME so common in Europe and the United States that you'll lose your source of new users. Then, I'll wait for the high-end products to come out and slowly play with you.
+
+Chen Wan couldn't help but tease Li Mu at this time, "What are you holding back?
+
+Your smile is so sinister. "
+
+"Really?"
+
+Li Mu raised his eyebrows and laughed, "I love digging holes for others the most. Either I dig a hole for others to step on, or I dig a ring-shaped hole that hollows out the other party's surroundings. This kind of feeling is especially great."
+
+Chen Wan laughed, "You're so naughty. Whoever gets targeted by you is really unlucky."
+
+Li Mu said, "This time, I'm targeting a company in the US. If I kill him, I can go to the US to plunder their wealth in the future."
+
+Chen Wan asked, "What if you can't kill him?"
+
+Li Mu said, "If you can't kill him, he'll come to our Hua Xia to plunder the wealth of the people."
+
+Chen Wan hurriedly said, "Then you better kill him."
+
+Li Mu blinked and said, "Let me make another call."
+
+This call was made by Li Mu to Fang Xudong.
+
+As the CTO under him, which was also the chief technology officer, all of Li Mu's technical needs could be directly found by him, and he would organize people to develop and implement it.
+
+Once the call was connected, Li Mu gave Fang Xudong a simple and straightforward task, "Xudong, research America's Apple's iTunes. I want you to develop a similar product that is much more useful than it in the shortest amount of time. Try to be as small as possible, boot as fast as possible, and use as little hardware as possible. Then, add its quick boot into the next version of YY."
+
+"iTunes?" Fang Xudong said in surprise, "Li Zong, you want to do digital music?"
+
+"Yes!" Li Mu asked him, "Do you understand iTunes?"
+
+"Yes."
+
+Fang Xudong said, "I'm an iPod user myself. When I'm in America, it's more convenient to use iTunes because most digital music can be purchased and downloaded from iTunes. Then, it's more convenient to use it with an iPod."
+
+Li Mu said, "This is what we want, and the name of the product is YTunes. YTunes needs two major functions. One is to download online music and support direct import into the mobile hardware, and the other is to buy digital music online. So, you have to make a good interface for online payment. We can connect to PayPal overseas and Alipay domestically."
+
+Fang Xudong said, "This is no problem. I'll immediately sort out the specific product requirements. Because it involves the music market, we need to develop a management platform for the products on the shelves."
+
+Li Mu said, "You can coordinate this. I won't interfere with the specific technical issues. Once the UI design is done, just bring it to me for a look. You must pay attention to the user experience. The simpler and smoother the better. We must make it so that after using our product, iTunes users can't help but think that iTunes is a pile of sh * t."
+
+"Understood." Fang Xudong said, "I'll start now."
+
+"Okay."
+
+Li Mu said, "Once this is done, together with our Mango-ME, we might be able to take down Apple's iPod + iTunes combo. At that time, the European and American digital music market, which is worth tens of billions of US dollars a year, will be our world. Together with our YY's strong promotion ability, we can dominate the entire European and American music market before next year. We can even turn the tables on the record companies. So, you must give it the utmost attention and do your best to do it well."
+
+The impact of digitization on the recording industry was like a nuclear bomb. At first, iTunes was a distribution platform that helped record companies make money. But soon, because it completely subverted the consumption habits of music users, the sales of traditional physical records were gradually suppressed to the extreme. In the era of the decline of physical records, iTunes became the king of the music industry. If the combination of Mango-ME and YTunes could be done, the profits of this market alone would be unimaginable. A profit of a billion US dollars a year would be child's play.
+
+A strong social product like YY was almost invincible in the current Internet environment. If it was 2003 in history, when QQ and Taobao started as an e-commerce platform at the same time, even if Boss Ma was given 800 Arhats, Taobao would not be able to do it. However, QQ was three years late. These three years gave Boss Ma the window to consolidate the foundation, which was how he created the invincible empire of Taobao.
+
+If the iPod and iTunes were given another two years to accumulate users, YY would not be able to shake them. Fortunately, they had not been molded to gold yet, and he could still break them with a little force.
+
+Li Mu still had a lot of ruthless tricks to play against Apple. If his current offensive was not sharp enough, he would play dirty with Apple.
+
+For example, Li Mu could take out a large amount of money at any time and throw it at a record company, asking for exclusive cooperation. If a record company could collect 5 million US dollars a year from iTunes, then he would throw them 7 million US dollars. His only request was for all the music to be exclusively licensed to him. The current Apple was not as rich as Makino Technology. He could just throw money at it. Moreover, he could also import YY's traffic resources into Apple, just like how he promoted singers in China. He could help record companies create stars. This would definitely be very attractive.
+
+If this still did not work, then he would drag PayPal down with him and force PayPal to stand on his side.
+
+After all, iTunes was an online trading platform, and the payment channel was its lifeblood. Currently, the only payment channel in the European and American market was PayPal. It was just like when WeChat Pay had not started yet, Alipay had an absolute monopoly in China.
+
+If PayPal no longer supported iTunes, then iTunes would definitely be finished. PayPal would at most have to pay a little compensation and bear some criticism. He believed that as long as he gave them enough benefits, PayPal would still be willing to stand on his side.
+
+All of his plans revolved around one goal for Li Mu. Before Apple started with iOS and iPhone, he would suppress Apple until it could not breathe. He would then let it put all its remaining energy into its deathbed struggle. Then, he would destroy their team and directly poach Makino Technology.
+
+At that time, he could combine the IOS team and the Android team to develop a brand-new mobile phone operating system that belonged to Makino Technology. At the same time, he would develop Makino Technology's own full-touch smartphone. The market space was huge, and the profits contained in it could rival a country.
+
+…
+
+After two phone calls, Li Mu explained the two major strategies to encircle and suppress Apple. Lei Jianguo and Fang Xudong were both capable people. Li Mu believed that with their assistance, and with his personal control, he would definitely win this battle even though it had not started yet.
+
+After hanging up, Li Mu turned his head to look at Chen Wan and said with a straight face, "Now it's time for us to settle the score."
+
+Chen Wan smiled and said, "Settle what score?
+
+I don't owe you money. "
+
+Li Mu said, "You lied to me and deceived my feelings. You made me think that I would not be able to see you again. I even felt disappointed for a while. Shouldn't you give me an explanation?"
+
+Chen Wan smiled sweetly and said, "I just wanted to give you a surprise."
+
+Speaking up to this point, Chen Wan said again, "Suddenly seeing me when you are unprepared is better than seeing me when you are prepared, right?"
+
+Li Mu curled his lips and said, "As expected of a host. Your little mouth is getting better and better at talking."
+
+Chen Wan smiled and said, "I became a host because of you, so you have to eat the bitter fruit that you sowed."
+
+Li Mu sighed helplessly and stopped joking. He asked her, "How long will you be back this time?"
+
+"Three days." Chen Wan said, "The station can only give you three days at most. They are really too busy."
+
+Li Mu nodded and said, "I only have three days this time."
+
+Chen Wan said with some disappointment, "I might not have time to see you alone …"

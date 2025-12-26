@@ -1,0 +1,103 @@
+Chapter 288
+
+At 8: 30 PM, the Q Bar employee who was in charge of monitoring Tieba reported to Luo Zhongwen, "The people on Tieba are announcing that it's time for the forum to explode. They said to come to us at 8: 40 PM!"
+
+Luo Zhongwen looked at the time and sneered. "Ten minutes is enough for us to get ready. Tech department, get ready. From 8: 50 PM onwards, all users who post on Q Bar will be permanently banned from posting in the next half an hour!"
+
+The employees of the tech department immediately got ready and prepared to follow Luo Zhongwen's instructions to eliminate the opponent's strength at the first instance.
+
+If the accounts of millions of users could not post on Q Bar, then they basically had no combat power.
+
+Luo Zhongwen was so nervous that his hands were trembling. He seemed to be slightly excited as he clenched his fists tightly. He thought to himself, "I want to see what other tricks you guys have up your sleeves today."
+
+At 8: 40 PM, the number of users who logged in to Q Bar increased from 50,000 at 6 PM to 1.45 million. It was a sudden increase of 1.4 million people. It was obvious what these 1.4 million people were here for.
+
+The 1.4 million users were rather organized and disciplined. They logged in but did not post. Each of them hid in their assigned Q Bar, wrote the topic and content, and waited for the time to post.
+
+As time passed, Luo Zhongwen was so nervous that he was sweating. It was the same for the other employees. With their first experience, they knew that victory or defeat was actually decided in an instant. As long as they could withstand the first wave, Q Bar would definitely win. However, if they could not withstand the first wave, then there was nothing they could do. If the server crashed due to overloading, then there was nothing they could do.
+
+When it was two to three minutes to 8: 50 PM, there were already a few thousand people who could not wait any longer and started posting. A few thousand people was nothing to the current Q Bar server. It was like a drizzle.
+
+Once it was 8: 50 PM, countless netizens in front of their computers gave up everything they were doing and gathered in Q Bar to post. Previously, there were a million people who responded, but a few hundred thousand people crashed the Q Bar's server. The remaining people could not squeeze in. However, it was different this time. There were a million people posting at the same time. The system only lagged for the first two minutes, but there was no situation where it could not be opened.
+
+Li Mu had been repeatedly opening the Q Bar webpage. Although it was a little slow, it was not like the previous time where he could not squeeze in. This proved that Q Bar had indeed spent a lot of money to upgrade its server. It was no longer a problem for Q Bar to host a million people posting at the same time.
+
+Luo Zhongwen stared at the statistics of the technical statistics. From 8: 40 am to 8: 53 am, a total of more than 1.3 million posts were posted in these 13 minutes.
+
+There were more than 1.3 million posts, and the content was basically denouncing Q Bar's method of shirking responsibility. The content mostly revolved around a few key points: Copying Tieba's content was clearly their official action, but they still found all sorts of excuses to push the blame onto the user's account, making the user take the blame for their infringement. This kind of shamelessness was rare in the world.
+
+1.3 million posts meant that 1.3 million users had lost their ability to fight. This was almost the majority of the number of posts that had exploded tonight.
+
+Luo Zhongwen could not help but laugh out loud. The first wave of 1.3 million traffic had been blocked. This proved that the Q Bar's server had reached a rather impressive stage. It was indestructible. The other party's 1.3 million users could not post anymore. The remaining one to two hundred thousand users could not do anything at all.
+
+He said to everyone excitedly, "Tieba has exhausted all its tricks. We're going to win this time!"
+
+As he said that, he immediately instructed the staff, "Hurry up and deal with the junk content that they sent."
+
+"Okay!"
+
+The excited staff also began to deal with the large amount of junk content that had just surged in. The people in the technical department began to run the scripts to permanently ban users from posting in batches. There were more than a million users, so it would take some time to go through all of them.
+
+The entire Q Bar's department was in a jubilant mood. Everyone was full of energy and began to work hard to clean up the battlefield.
+
+Luo Zhongwen was in high spirits. He called Boss Ma, who was far away in Beijing for the Internet Conference. The first thing he said was, "Boss Ma, Tieba has just planned another Tieba event."
+
+Boss Ma hurriedly asked, "How's the situation?"
+
+Luo Zhongwen said excitedly, "Our server's capacity has far exceeded their expectations. More than 1.3 million users posted on Tieba, and our server has handled it very well. Now we're concentrating on setting a permanent ban on more than a million users."
+
+Boss Ma said with satisfaction, "Well done. You must keep it up. We can't let anything happen to Q Bar."
+
+Luo Zhongwen said very firmly, "Boss Ma, don't worry. I will do my best in this matter!"
+
+Just as Luo Zhongwen was excitedly reporting to Boss Ma, Li Mu said to Zhao Kang, who was next to him, "Let's start. Let everyone attack first and see how long their server can last!"
+
+Zhao Kang could not help but laugh out loud. "Although their server did not crash, half of the posts just now only showed that they were successfully published after a minute. The server's response time is too long. Faced with our attack in the next few seconds, I think they will be completely finished in a minute!"
+
+Li Mu smiled and said, "Hurry up and give the orders. I can't wait anymore!"
+
+More than a million users who could no longer post on Q Bar received a notification that spread like wildfire. When they found out about the latest method of Tieba, they immediately opened the Q Bar's internal message function and began to prepare to send internal messages. At this moment, Luo Zhongwen and the entire staff of Q Bar were completely unaware. They were still immersed in the joy of victory and could not extricate themselves. They believed that the friends in Tieba no longer had any combat power. Even if each of them logged in another sockpuppet and continued to post, Q Bar did not have to worry at all because they could withstand the flood of traffic brought by more than a million people.
+
+However, they never expected that everyone would change their strategy. They prohibited users from posting and replying to posts, but they never prohibited users from sending internal messages …
+
+The technicians who were deleting content and running scripts to block accounts suddenly realized that their execution speed began to become abnormally slow. The scripts running in the server, which could originally block thousands of users in a second, suddenly slowed down to only running a dozen or so per second. The speed of deleting content also dropped to single digits per second. One of the technicians could not help but blurt out, "What's going on?
+
+The server's execution speed suddenly slowed down so much? "
+
+Just as he finished speaking, the speed slowed down again …
+
+At this moment, all the Tieba users who participated in Tieba were using the Q Bar's internal message function to randomly send messages to each other. They could send an internal message in a few seconds, and in an instant, there would be a million internal messages flooding into the server. The server would then distribute the messages and increase the server's capacity in an instant. If it was just a wave of internal messages, the server could still handle it, but the problem was that the server needed to send and receive millions of internal messages and then provide feedback on the status of the delivery. This process would take at least ten seconds or even longer. However, the second wave of internal messages from the users would flood in within a few seconds and start queuing up in the receiving and receiving system to be processed. In an instant, the load on the server was greatly increased.
+
+When it came to the third round, only ten seconds had passed. Three to four million internal messages were already very hard for the server to handle. It was also at this time that the staff of Q Bar realized that the script running in the background had suddenly slowed down a lot.
+
+But at this time, the load on the server was already very high.
+
+They didn't even have the time to investigate what the problem was. Immediately after, another wave of internal message requests flooded into the server. As the number of internal messages increased, to the server, it was like a delivery warehouse on Double 11. For example, if the warehouse had a capacity of ten thousand tons, and the company mobilized all the transportation resources, they could transport three thousand tons of goods a day. They thought that it was enough to handle it, but they didn't expect that the goods that flooded into their warehouse could reach three thousand tons every hour. After a few rounds, the warehouse would be completely overcrowded.
+
+The logic behind overloading the server and the logistics warehouse were the same. Originally, the Q Bar had already set a limit to the total amount of goods that flooded in daily. But unexpectedly, Li Mu changed his approach. You don't want to take in the goods?
+
+Alright, then I won't give you the goods. I'll transport the trash for you. Anyway, the goal is to fill your warehouse to the brim. It doesn't matter what you use, as long as it's full.
+
+In half a minute, the Q Bar's server was on the brink of collapse. A few of the technical staff said in shock,
+
+"It seems like there's suddenly a huge demand for data, and this demand is still increasing!"
+
+"This doesn't make sense!
+
+We've clearly restricted their accounts from posting and replying. Even if they register new accounts, these one million people won't be able to shake our server! "
+
+"The backend script can't run at all!"
+
+"The abnormal data on the server can't be seen. It's almost jammed. Even we can't access it."
+
+Luo Zhongwen's legs turned to jelly, and he almost couldn't stand. They were just celebrating their victory a moment ago. How did the situation suddenly take such an unbelievable turn?!
+
+The server was about to crash, but who could tell him what was going on?
+
+Which part of the system went wrong?
+
+At this moment, the technical staff suddenly shouted in grief, "It's over, the server is down!"
+
+Everyone's faces turned ashen. Compared to their excited expressions half a minute ago, it was like heaven and earth.
+
+Luo Zhongwen's vision turned black, and he fell to the ground.

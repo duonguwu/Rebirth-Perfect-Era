@@ -1,0 +1,117 @@
+Chapter 136
+
+The so-called weighted scoring was to set up several reference items for college students, and then set a scoring weight for these items to be used to evaluate students who intended to do part-time tutoring.
+
+The logic of Li Mu's initial idea was very simple. He would first set up five reference items: college, department, college entrance examination scores, and additional honors such as Olympiad, Math, Olympiad, and English.
+
+College was based on the school's national ranking, with a full score of 100 points. For example, Peking University, which was ranked first, could get a weight of 100 points in this category. As for Tsinghua University, because it was ranked lower, it was slightly reduced to 95 points. The National People's Congress could get 90 points. As for Peking University, which was ranked around 30 in the country, the weight was only 70 points.
+
+The department was based on the popularity of the student's department in the school. Li Mu planned to set up five levels. The most popular major could get a weight of 20 points; the relatively popular major could get a weight of 10 points; the ordinary major could not get a weight of 10 points; the unpopular major could get a weight of 20 points; the super unpopular major could get a weight of 20 points.
+
+The college entrance examination score was based on the score that exceeded the local key line, and then divided by 5. For example, if a student scored 650 points this year, and the local key line was 600 points, and exceeded the key line by 50 points, he could get a weight of 10 points. The top scorer of the city college entrance examination would get a weight of 20 points, and the top scorer of the provincial college entrance examination would get a weight of 50 points. The title of the top scorer was very attractive to parents, so the weight was not exaggerated.
+
+As for Olympiad, Olympiad, and English, the first prize was 20 points, the second prize was 10 points, and the third prize was 5 points.
+
+In this way, the basic weight of a freshman could be calculated based on his information, and this value was also more in line with their mastery of the three years of high school knowledge. The higher the score, the more solid the three years of high school knowledge, and the more attention it could attract from parents. At that time, he could open the bidding mechanism for the parents of the college students with high scores, and let the parents bid for the college students they were interested in online, and the highest price would win.
+
+Li Mu could foresee that once this weighting and bidding mechanism was popularized to the parents of high school students, it would definitely trigger an extraordinary bidding frenzy. Therefore, Li Mu wanted to set a percentage of commission. For every student who successfully signed a tutoring agreement on 3321, the website would charge the parents and the student 5% of the transaction amount.
+
+If there was still money left after the basic operating cost of 3321 was met, the profits could be used to establish a college scholarship fund to help poor students in major colleges. Anyway, he was not going to make money by doing this.
+
+Every university student who wanted to work part-time as a tutor could set up a part-time class option according to their schedule, and then let their parents bid according to their schedule. The unit of price was based on the hour. For example, if Student A's weighting score reached 150 points, he could, according to his schedule, put up the class he wanted to sell on 3321. For example, there were two hours from 8-10pm every day. If he wanted to do it for 20 days a month, he could put up 40 hours of class on 3321. The starting price was 10 yuan.
+
+If the parents were interested, they could directly bid on 3321. If Parent B bid for student A at 30 yuan per hour, then he would need to pay the employer's information to 3321 for 40 class hours, and 5% commission, which was 60 yuan. After 3321 received the money, it would send the employer's information to student A, and student A could directly go to the employer's child to teach. After the class was over, student A could get 1200 yuan for tuition, and deduct the same 5% commission, which was 1140 yuan.
+
+At the moment, Li Mu did not have enough technical means, manpower, and resources to make online payments. He was temporarily unable to develop a product like Alipay, but this was not important. What Li Mu wanted to do now was in Beijing, and it was targeted at the students' parents. Even if there was an online payment method now, it would be difficult to popularize it to the students' parents. Therefore, for the payment aspect, he could first use bank transfer and door-to-door collection. Once they started to use 3321, he would then develop an online payment tool and force them to use it.
+
+If this online payment tool could reach the initial stage of Alipay, then he could directly use the Taobao project. Anyway, the domain name was still in his hands.
+
+After thinking about this, Li Mu's thoughts suddenly spread out. He immediately started to write the website requirements, and then found Kong Lingyu to participate in the discussion. When Kong Lingyu heard about Li Mu's idea, he was extremely supportive. He also thought that this could help the students in school to show their value to the greatest extent. Moreover, it would also give many high school students a more perfect choice of home tutor. It was a great deed that was immeasurably beneficial.
+
+Therefore, the online speed of 3321's launch must be fast!
+
+He had to develop the front and back end as soon as possible, and then quickly launch it. After it was launched, Li Mu began to think of ways to promote it locally in Beijing. If this model was feasible, he could launch the same service in other cities in the future.
+
+At the moment, Kong Lingyu already had a technical team of five people, and there were also a few students working part-time. Therefore, the technical strength was still very strong. Moreover, Li Mu's plan for 3321 was very clear, and the technical difficulty was not high. Therefore, it would not be long before it could be developed and launched.
+
+Li Mu himself also decided to participate in the development of 3321. This was such a meaningful thing, so he must get it up and running as soon as possible so that it could be used quickly.
+
+Communicating with Kong Lingyu made Li Mu almost forget the time until his phone rang. It was Zhao Ziqiu who actually answered the call.
+
+"Hello, what are you doing?"
+
+Li Mu smiled and said, "I'm busy with something. What about you?"
+
+"I'm preparing to board the plane. It will take off in half an hour, and we will reach Beijing in two and a half hours."
+
+Only then did Li Mu remember that he had previously promised Zhao Ziqiu that he would pick her up on the 7th, but he had completely forgotten about it.
+
+However, Li Mu said calmly, "Okay, hurry up and board the plane. See you at the airport."
+
+When Zhao Ziqiu heard the words "see you at the airport" from Li Mu, she happily giggled and said, "I can't wait to see you now."
+
+After hanging up the call with Zhao Ziqiu, Li Mu typed a line of words to Kong Lingyu on QQ, "Hurry up and ask the designers to produce version 1.0 of the website design for 3321. Remember, it must be simple, direct, and practical!"
+
+After giving these instructions, he turned off the computer and went out. He went to the place where he rented a car last time and rented a car. He calculated the time and drove to the airport.
+
+After not seeing her for a few days, Zhao Ziqiu was still so charming.
+
+Seeing her coming out of the arrival hall, Li Mu even thought that if this woman changed into a stewardess's clothes, she would look more like a stewardess than a stewardess. Because she was more beautiful than any stewardess he had ever seen, and her figure was also the best.
+
+As soon as Zhao Ziqiu came out, she saw Li Mu standing in the crowd. Her heart was happy, and a little woman's smile unconsciously appeared on her face. Her footsteps almost doubled, and she almost jumped up to Li Mu.
+
+A few men dressed like successful people had been watching Zhao Ziqiu on the plane. When they got off the plane, they were about to catch up with her to ask for her phone number. They didn't expect that Zhao Ziqiu would trot all the way out of the cabin door. Now, she even ran directly to a handsome young man and said shyly, "You're here."
+
+The handsome young man nodded and took over Zhao Ziqiu's suitcase. Zhao Ziqiu also took advantage of the situation and grabbed one of his arms. The two turned around and left, leaving a group of men looking at their backs and beating their chests and stamping their feet.
+
+The man was tall and handsome, and the woman was graceful and charming. It was a match made in heaven. Unfortunately, in this way, other people lost the possibility of getting close to them.
+
+Li Mu came to the parking lot with Zhao Ziqiu, stuffed the suitcase into the trunk, and got in the car with Zhao Ziqiu. He drove her to the city.
+
+Zhao Ziqiu, who was sitting in the passenger seat, took out a few exquisite gift boxes from her shoulder bag and waved them in front of Li Mu. She said, "I told my dad that a male classmate specially rented a car to send me to the station. My dad asked me if I smoked. I said I did, so he asked me to give this to you."
+
+Li Mu had just driven out of the parking lot. He was stunned when he saw the gift boxes in Zhao Ziqiu's hands. He simply pulled over and held them in his hands to look at them. "Oh my god, this is a panda!"
+
+Li Mu still remembered that when he was in high school, he thought that the most expensive cigarette in the country was Soft Zhonghua. But when he went to university, he heard that the most expensive cigarette was actually Panda cigarettes. Compared to Small Panda cigarettes, people were used to calling it Panda cigarettes.
+
+There were generally two kinds of Panda cigarettes. The ordinary one was in a yellow hard box. There were two pandas on the box, one sitting and the other lying. This kind of cigarette cost about 100 yuan per pack. It was the top luxury cigarette in that era. However, the one in Zhao Ziqiu's hand was a green box of Panda.
+
+Li Mu remembered that he had heard from someone that this kind of Panda cigarette was commonly known as the Panda Hard Special Edition. It was the best of the Panda cigarettes and belonged to the collection version. The former leader, Grandpa Deng, loved to smoke this brand of cigarettes. There were only two packs of this Panda Hard Special Edition in each gift box. It came with a lighter and a crystal ashtray. It was definitely the most powerful hard cigarette among smokers.
+
+Just when Li Mu was fascinated by it, Zhao Ziqiu took out two similar gift boxes and complained, "This thing is too heavy, so I didn't bring too many."
+
+Li Mu asked in surprise, "There is a lighter inside. How did you bring it on the plane?"
+
+Zhao Ziqiu said in surprise, "No one said that I couldn't bring it."
+
+Li Mu was stunned, and then he was relieved. It may be that there was no such regulation in civil aviation.
+
+However, focusing on the three gift boxes again, Li Mu couldn't help but ask Zhao Ziqiu, "Is your father a local tyrant?"
+
+"Local tyrant?"
+
+Zhao Ziqiu was not used to this word. She hurriedly said, "My father is not a local tyrant. Don't put on a label."
+
+Li Mu smiled. In any case, he just gave a few packs of cigarettes to thank his daughter's classmate. Li Mu was really convinced that this was a hard panda gift box.
+
+Zhao Ziqiu was still saying, "The main thing is that it's too heavy. I don't want to bring too much, and I don't want you to smoke too much. You can smoke for fun."
+
+Seeing that she was serious, Li Mu said, "Just in time. I'll smoke one first."
+
+Zhao Ziqiu nodded and said, "You can smoke. You're not in a hurry to go back to school."
+
+Li Mu opened one of the gift boxes, took out a cigarette, lit it with the lighter inside, and took a deep breath. It was really amazing.
+
+The taste was mellow and peaceful, and he could feel a little sweetness in his throat. The smoke went from his trachea to his lungs, but he didn't feel choked at all. He was almost drunk after smoking.
+
+Zhao Ziqiu reached out to fan the smoke and asked Li Mu, "I'll treat you to dinner tonight. What do you want to eat?"
+
+Li Mu looked at her, and his eyes couldn't help lowering a little. He looked at the rise and fall of her chest, exhaled a mouthful of smoke, and sighed, "If you want to eat, let's go to a more formal place to eat, or I'm afraid I'll get into trouble again."
+
+Zhao Ziqiu saw that he was staring at her chest and said such words, so she naturally knew what he meant. She said with embarrassment and a little shyness, "If you don't like me wearing this kind of clothes, then I'll wear more loose sports clothes in the future."
+
+Li Mu blurted out, "Don't. Why do you hide such a good thing? Besides, you can't hide it."
+
+His involuntary words made Zhao Ziqiu blush like a Fuji Apple.
+
+Li Mu thought to himself that he had sinned. He was already an old man, and logically speaking, he shouldn't be so frivolous. He really didn't know what was wrong with him. The girl beside him seemed to have a demonic nature that could confuse one's mind!

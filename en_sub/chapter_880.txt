@@ -1,0 +1,119 @@
+Chapter 880
+
+It wasn't an exaggeration to say that Plants vs Zombies was a very unique tower defense game, or rather, the best tower defense game. In his previous life, it became extremely popular all over the world. It was likely that the game was popular in every country. Not only did it have a PC version, there was also a Flash version, an Android version, an IOS version, and almost every platform you could think of. All in all, it was an extremely successful classic game.
+
+No matter if it was a man or a woman, old or young, no matter how high or low their education level was, they were all under the spell of this game. The gameplay was extremely simple, but it was because of this simplicity that every player was able to be deeply attracted to the game in the shortest amount of time. It was one of the most immersive standalone games.
+
+Although smartphones hadn't really taken off yet, Plants vs Zombies didn't require much effort to play on the PC. All the players needed to do was click the mouse, and they would be able to play the game smoothly and effortlessly.
+
+Plants vs Zombies, whether it was the structure, the gameplay, the graphics, or the technical difficulty, all belonged to the category of mini-games.
+
+Moreover, the best part was that the game's overall development difficulty was very simple. It was much lower than the current Happy Farm, but it wasn't too far off from the original Happy Farm.
+
+Thinking about it, what did Plants vs Zombies have?
+
+It was nothing more than a few dozen plants, a few dozen zombies, a few items, a few modes, and a single character.
+
+A game like this might not even be as complicated as the original Happy Farm. After all, Happy Farm had close to a hundred types of plants at different stages, such as buying seeds, planting seeds, growing, and harvesting. Other than that, there were also many other items to support the game, as well as a system to sell fruits, as well as a system to develop and decorate the farm.
+
+Just these gameplay elements alone made Happy Farm a lot more complicated than Plants vs Zombies. Moreover, Happy Farm was an online social game, with friends interacting with each other. It was a type of online game, while Plants vs Zombies was a standalone game for its own entertainment.
+
+However, Li Mu couldn't help but admit that even though Plants vs Zombies was very simple and didn't have much technical content, its popularity far exceeded that of Happy Farm.
+
+The overall development of Plants vs Zombies wasn't difficult at all. If Li Mu directly gave out the game's framework and style, and handed it over to a professional and powerful development team, then a few designers would be able to design the elements of the game within three to five days. As for the overall development of a small game like this, it wouldn't take more than a month for a team of a few dozen people to finish.
+
+In his previous life, Plants vs Zombies only had a team of four people. It took them three years, but most of that time was spent polishing and perfecting the game. Most of the time was spent on thinking and trial and error, so the actual development was a lot easier.
+
+It was still the same logic. Those who did not know the exit of the maze might not be able to get out in a few hours, but those who knew the route could pass through the entire maze in three minutes. The difference between a few hours and three minutes was a hundredfold!
+
+With a team of a few dozen people, if they didn't take any detours, they might be able to complete a small game like this in half a month.
+
+As for Plants vs Zombies, the moment Li Mu thought of it, he made up his mind to make it happen. Therefore, he wasn't thinking about how to develop it, but how to better integrate it with YY.
+
+Without a doubt, Happy Farm was the game that had the best integration with YY. After it became a client-side game, it could be launched from within YY with a single click, and the account could be logged in. Moreover, it could make use of all the players in YY. However, Plants vs Zombies wasn't a social game, it was a standalone game!
+
+How could he make it play the role of a social game?
+
+Li Mu went through the product logic in his mind. First, he had to make sure that he couldn't make Plants vs Zombies a standalone game again. If that happened, it wouldn't be able to pull the players in YY as much. Therefore, he decided on the first important idea: Plants vs Zombies had to be made into an online version!
+
+After confirming that Plants vs Zombies had to be made into an online version, Li Mu started to think about how he could make Plants vs Zombies use their social network like Happy Farm.
+
+There were only a few ways to make use of their social network. Either everyone could play together, or they could play against each other.
+
+If they wanted to play together, Player A and Player B could defend a house at the same time, planting plants and blocking the zombies from two different perspectives. However, that way, it would become a real-time strategy mini-game, and wouldn't give the players a long-term goal.
+
+After thinking about it, Li Mu felt that it was more important to let everyone compete against each other. Only by doing so would there be competition. Once the players in a game started to think of competing against each other, then the players would naturally stick together.
+
+Therefore, Li Mu decided on a basic idea: Plants vs Zombies needed to be like Happy Farm, using a long leveling process to allow the players to keep up with their friends. This way, they would be able to immerse themselves in the game for a long time. This way, there would be a strict level restriction on the types of plants that could be used.
+
+Therefore, Li Mu stayed in his office for a long time, and came up with a game plan for a social version of Plants vs Zombies.
+
+The core rules were: Every player of Plants vs Zombies, after registering, would have their own small villa, as well as a front yard. The front yard would have five horizontal paths, which the zombies would use to attack the villa. Each path would be ten squares long, which meant that there would be a total of fifty different types of plants. That was the basics.
+
+At the start, the players would only have three types of plants that they could use: Single Headed Sunflower, Single Headed Peashooter, and Small Nut Wall.
+
+When the players first entered the game, they would be like Happy Farm. They would have to plant sunflowers and harvest sunlight. Only after accumulating enough sunlight would they be able to plant Peashooters and Small Nut Wall.
+
+The zombies' attacks would no longer be based on the level system, but on the timer system. Li Mu's idea was that the players would have a chance to start a round of Zombie Attack and Defense Battle every ten minutes. After defending against the zombies' attacks, the players would receive a certain amount of experience and gold.
+
+Experience was the key for the players to level up. Only when they reached a certain level would they be able to unlock more plants. This was similar to Happy Farm. Moreover, Li Mu wouldn't let them level up multiple times in a day. He had to control the pace, making it harder for them to level up, and harder for them to obtain new plants and items of higher levels. Only then would they be able to maintain the pace of playing the game.
+
+Gold could be used to buy all sorts of items. Li Mu felt that it was important to have as many items as possible, so that the players would be able to get more gold, or even top up. For example, they could design all sorts of cards, such as a Fury Card that increased the attack speed of plants, an Enhance Card that increased the attack and defense of plants, a Haste Card that increased the rate at which sunflowers produced suns, a Deceleration Card that slowed down the zombies' attack speed, or a Weaken Card that was used on boss-level zombies, and so on. Cherry bombs could also be included in the item category, rakes, mines, and so on.
+
+As for why the Zombie Attack and Defense Battle could be started every ten minutes, the reason was that if the players wanted to level up quickly, they had to stay online for the longest period of time!
+
+If the players could only play the game for half an hour every day, they could only start three rounds of Zombie Attack and Defense Battle. The experience gained from three rounds of Zombie Attack and Defense Battle was very limited. If your friend played for an hour every day, he would gain experience twice as fast as you. If you wanted to catch up to him, you would have to play the game longer than him. This was the same principle as in Happy Farm.
+
+As players continued to level up, with sufficient levels and the support of Coins and top-up, players could open up new plots of land. The five horizontal passages could not be changed. However, the layout of each passage's ten grids could be changed. If players used Coins or top-up, they could open up more grids. For example, upgrading from ten grids to eleven grids per row would not only increase the Zombies' attack range and slow their Movement Speed, but they could also plant more plants.
+
+When the players played the game, they would no longer be in a branch. From the beginning, the players would be managing this area, so they had to manage their own territory well. When that time came, the lifespan of each plant would be limited. For example, a sunflower had a lifespan of 24 hours, a peashooter had 48 hours, and other plants had different lifespans. The players had to constantly eradicate dead plants and plant new ones to ensure their defense was stable. Therefore, the players had to constantly consume, produce, and consume again. This way, they would have the habit of farming and harvesting in Happy Farm.
+
+As for how this game could be combined with social interaction, Li Mu thought of two plans.
+
+The first plan: Steal!
+
+If the players wanted to steal as much fun as stealing vegetables, then on the basis of the core principles, all plants had to be set to produce, harvest, and store.
+
+For example, if the sunflower produced the sun, if the players did not harvest it, a portion of it would be stolen by their friends. Another example was that the peashooter had a limited number of peas. Every once in a while, it would produce 10 or 20 peas. The players had to harvest enough peas to accumulate enough 'bullets' for the peashooter to kill the zombies. The principles of the Ice Peashooter, Peashooter, Corn Thrower, Cabbage Thrower, and Watermelon Thrower were all the same. If the players did not plant and harvest, they would not have any bullets to use. When that time came, the plants alone would not be able to withstand the zombies' attack.
+
+Once all the plants needed to be produced and harvested, players could go to their friends' houses to steal fruits, sunlight, peas, corn, and watermelons. The more bullets they stole, the more they could accept [Zombie Attack and Defense Battle], and the more experience points and gold coins they could obtain, the more bullets they could steal.
+
+Under such circumstances, it was natural to create a storage system. For example, each person's granary could only store 300 units. If they wanted to store more, they would have to upgrade it. What would they need to upgrade?
+
+Special materials!
+
+How would they get the special materials?
+
+After successfully resisting the [Zombie Attack and Defense Battle], the reward would be …
+
+At the same time, they would create a sunlight harvesting system and store the collected sunlight inside. The principle of the upgrade system was the same as the principle of the crop storage system.
+
+This way, the players' enthusiasm to steal each other's fruits would greatly increase, and the interaction would immediately increase.
+
+Moreover, Li Mu believed that friends should not only steal, but also help each other!
+
+For example, each player could water five of their friends' dying crops every day. After watering, they would receive a certain amount of experience, and their friends' plants would receive a certain extension of their lifespan.
+
+In addition, each player could bind three special friends. When the players could not withstand the [Zombie Attack and Defense Battle] during a critical moment, they could urgently call for help from the special friends. The special friends could buy a plant at the critical moment and gift it to the other party. It could be an offensive or defensive plant, but the gifted plant would only be effective during the current [Zombie Attack and Defense Battle]. After the [Zombie Attack and Defense Battle] ended, the system would take it back regardless of the outcome.
+
+The second solution: Dungeon!
+
+Once a player reached a certain level, they would have their own plant bank that they could purchase. The number of plants in the bank would vary according to the level. The system could give players a chance to challenge the dungeon. They could challenge the dungeon by themselves, or they could invite friends to join them. The dungeon mode was the original single-player mode of Plants vs Zombies. Success or failure wouldn't affect the player's original 'base'.
+
+If a player invited friends to challenge the dungeon together, the more players there were, the more zombies there would be. For example, one person could clear five tunnels, two people could clear ten tunnels, three people could clear fifteen tunnels, and the upper limit was four people clearing twenty tunnels. In such a situation, the players would have to work closely with each other, as the zombies might focus on a few tunnels. A single person wouldn't be able to hold them off, so they would have to rely on their teamwork.
+
+Moreover, due to the different levels of the friends who were challenging the dungeon together, the higher the level, the stronger the weapon, and the more friends would want to challenge the dungeon with them. This made the high-level players the most popular among friends!
+
+The benefit of this was that not only did it give the high-level players more pride, but it also gave the low-level players more motivation to level up.
+
+The difficulty of the dungeon would increase. As long as they made use of the random combinations of the terrain, as well as the logic of the various zombies' strength and numbers, the number of stages could theoretically be unlimited.
+
+The more stages there were, the more playable the game would be. At the same time, the more stages the players completed, the more rewards they would receive. At the same time, when challenging the dungeon, the players would be able to experience the thrill of teamwork. This was something that normal tower defense games, like Happy Farm, or the original Plants vs Zombies didn't have.
+
+As long as they could do this, Li Mu believed that the social game version of Plants vs Zombies would definitely surpass Happy Farm. In a short amount of time, it would become the most popular social game in the world!
+
+Moreover, once the game was released, it wouldn't be a problem for it to be popular for at least two to three years.
+
+When the time came, Li Mu would use special techniques to completely bind Plants vs Zombies to YY. If he was a bit more conservative, he would use a strategy that didn't allow players to register directly, and only allowed YY accounts to log in. This would force players who weren't YY players to register for YY accounts.
+
+If he was a bit more aggressive, he could set Plants vs Zombies to be a one-click YY launch mode. Only after downloading YY and Plants vs Zombies would they be able to launch and log into Plants vs Zombies in YY. Otherwise, if they only downloaded Plants vs Zombies, they wouldn't be able to log in. Naturally, they wouldn't be able to play the game.

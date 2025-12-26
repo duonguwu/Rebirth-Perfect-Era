@@ -1,0 +1,79 @@
+Chapter 1198
+
+Regarding Li Mu's cooperation plan, Coca-Cola itself was particularly amazed. However, this kind of offline product exchange code and online platform exchange for virtual currency was something no one in the retail industry had tried before. Therefore, even a giant like Coca-Cola could not understand it.
+
+Bruce represented Coca-Cola and asked Li Mu, "Mr. Li, according to the proposal, we only need to print special exchange codes on the inside of the bottle cap of the product. So, are you going to provide the hundreds of millions of exchange codes?
+
+How do you implement the online exchange? "
+
+Li Mu could not help but feel a little surprised. As a top five executive of Coca-Cola, Bruce actually did not understand such a simple online and offline interaction logic.
+
+It was not just him, it seemed like the entire senior management of Coca-Cola could not understand it.
+
+From the looks of it, in 2003, the World's Top 500 Internet companies still had a very shallow understanding of the Internet. In the future, if they specifically used the words of the Internet to lobby these companies, they might be able to pull a larger scale business cooperation.
+
+Thinking of this, Li Mu explained to Bruce, "If the Coca-Cola Company decides to cooperate with us, then I will have our technicians develop a set of programs to use the combination of letters and numbers to generate hundreds of millions of random combinations in batches. When the time comes, we will package this batch of data and give it to you. All you need to do is to use a special method to print these combinations on the inside of the bottle cap."
+
+Bruce's mathematics was very poor. After pondering for a long time, he still did not quite understand it. He continued to ask, "Generating hundreds of millions of random combinations in batches, will they accidentally repeat?
+
+Also, will someone see the pattern and crack a large number of exchange codes in one go, causing others to realize that their exchange codes have already been exchanged by someone else when they exchange? "
+
+Li Mu could not help but laugh. "Bruce, programming is a very rigorous matter, and computers are the most obedient execution machines. As long as the programmer uses the computer language to give the computer a command that does not allow repetition, then in theory, even if a trillion combinations are generated, as long as the combinations themselves have the possibility of redundancy, the computer's generated combinations will definitely not repeat.
+
+"Also, when we generate the combinations, there are many ways to avoid the pattern. If an individual wants to deduce the logic, it is basically as difficult as ascending to heaven. It is very likely that even if they try hundreds of thousands of times, they will not be able to get it right. Also, we will add certain restrictions on the page. For example, an IP address can only be exchanged once every thirty seconds. This way, even if the other party uses software to buy exchange codes in batches, it will not be possible. So, we will completely eliminate the situation you mentioned."
+
+Bruce asked again, "Then how should we distribute the hundreds of millions of exchange codes to factories around the world?
+
+If we use USD as the exchange unit, how will users from other countries exchange codes?
+
+For example, how will users from Hua Xia exchange codes that contain 10 cents of YY currency? "
+
+Li Mu smiled slyly and said, "We currently have two settlement models for YY currency. One is the settlement standard in RMB, and the other is the settlement standard in USD. Basically, all users who use PayPal use USD as the settlement standard. So, the plan I'm giving you is also targeted at users who use PayPal and use USD as the settlement standard."
+
+Bruce frowned and thought about it, then asked Li Mu, "Mr. Li, do you mean that if we accept this cooperation plan, the cooperation between your company and us can only be promoted in countries other than Hua Xia?"
+
+"Yes."
+
+Li Mu nodded and said with a smile, "The current situation of online payment is the same. Basically, other than my Alipay, it's PayPal's world. PayPal has always used USD as the settlement standard. So, we can only work with countries and regions other than Hua Xia.
+
+"When the time comes, we can follow your requirements and divide the generated combinations into separate packages. You can decide on your own based on the situation of your factories around the world and the local sales. For example, if you have 50 factories in countries and regions other than Hua Xia, then your company can arrange the weights for these 50 factories. When the time comes, we can arrange the weights according to the weights and generate 50 sets of corresponding packages. When the time comes, we can send the packages to the corresponding factories and let them produce according to the exchange codes in their packages."
+
+The internet in 2003 wasn't powerful enough, especially the efficiency of international connections. Li Mu didn't dare to promise to set up a unified database for Coca-Cola. He didn't want their dozens of factories to obtain data from the database when they were producing. If there was a problem with the data exchange with one of the factories, it could affect the normal operation of the entire database. Once there was a deviation, it was highly likely that there would be a problem.
+
+So, Li Mu proposed such an isolated solution for Coca-Cola. By dividing all the exchange codes, each factory could get their own set of data. This way, there wouldn't be a need for real-time data exchange. Everyone could produce their own products. Anyway, there wouldn't be any possibility of duplication or conflict.
+
+Bruce roughly understood what Li Mu meant. He said gloomily, "Mr. Li, we value the Hua Xia market very much. But in your proposal, you only avoided the Hua Xia market. To us, this is a huge loss. Hua Xia has hundreds of millions of YY users. We hope to cooperate with YY to increase Coca-Cola's share in the Hua Xia market."
+
+Li Mu nodded and said with a smile, "This problem is actually very easy to solve. As I said just now, most of the online payment platforms are settled in RMB and US dollars. My previous plan has covered the users who are settled in US dollars. If you still want to cover the users in Huaxia, then we can follow this plan and do another activity based on the Huaxia market and RMB."
+
+After saying that, Li Mu did some calculations on his own and muttered to himself, "China has such a large population and consumables. If you want to make an impact, you have to prepare at least 300 to 500 million exchange codes. Furthermore, the amount of YY can't be too little. Otherwise, users will lose interest. So, in order to get 300 to 500 million exchange codes, you have to prepare at least 300 to 400 million YY."
+
+Bruce sighed inwardly. Li Mu was really black-hearted. His 100,000,000 USD promotion plan actually couldn't include Hua Xia. If he wanted to include Hua Xia, he would have to sign another agreement and spend more money.
+
+Previously, Li Mu asked Lin Ching-ah to quote a price of 100 million USD for Coca-Cola, including 200 million YY, a secondary page, and corresponding promotional resources.
+
+In Coca-Cola's view, 200 million YY was actually a very low cost for Makino Technology. In Li Mu's proposal, the most valuable thing was the secondary domain name and the promotional resources on YY.
+
+Up until now, no company had ever advertised on YY. Therefore, it was a target that countless companies fought over, not to mention the secondary page. If YY opened up a dedicated secondary page for Coca-Cola, it would greatly enhance Coca-Cola's brand on the internet.
+
+Therefore, Coca-Cola felt that Li Mu's price of 100 million USD was worth it. As long as the operation logic and method of the exchange codes were confirmed, and there were no loopholes, Coca-Cola was willing to sign a contract with Makino Technology.
+
+However, when Bruce arrived, he found out that Li Mu had actually kept the Hua Xia region. Now, the Hua Xia region had to be taken out separately. According to Li Mu's calculation, the cooperation cost for the Hua Xia region would be at least 100 to 200 million RMB.
+
+Bruce naturally did not have the authority to decide on the sudden increase in the cost. Therefore, he could only fulfill his obligation to think for the company and was prepared to bargain for Li Mu. Therefore, he asked tentatively, "Mr. Li, according to what you said just now, how much is the price you quoted for the Hua Xia market?"
+
+Li Mu extended three fingers. "300 million RMB."
+
+"So high!" Bruce could not help but stare. "Mr. Li, isn't this price a bit too high?"
+
+Li Mu said seriously, "Bruce, the demand for fast consumer goods in the Hua Xia market is very high, and the growth rate is very fast. It won't take long for Hua Xia to become the country with the largest sales volume after America. Therefore, it is very important for you to plan ahead. Makino Technology can provide the key solution at the crucial moment. Isn't this worth 300 million RMB?
+
+You know, if converted to US dollars, it is less than 40 million US dollars. "
+
+Bruce couldn't help but say, "Mr. Li, let's not talk about other things first. Just based on the cost alone, in our 100 million USD cooperation plan in the USD settlement region, the 100 million USD promotion cost already includes the cost of this second-level domain name. Since that's the case, we should exclude the cost of this second-level domain name from the promotion plan in the RMB settlement region."
+
+Li Mu hurriedly shook his head and said, "Bruce, don't forget that although more than half of the online payments in the world are settled in US dollars, they may not be able to read English. In the future, there will not only be English pages, but also corresponding pages in Chinese, Japanese, Korean, and Portuguese. This means that the English website and the Chinese website will be two completely different concepts."
+
+Speaking of this, Li Mu saw that Bruce was looking at him gloomily. He smiled and said, "In addition, I also have an implantation method. However, you have to accept my two cooperation plans before you are qualified to choose this method."
+
+Bruce saw Li Mu's confident look and knew that he must have a better promotion plan. However, Li Mu was too evil. If he wanted to choose the third promotion plan, he must first accept the first two. In other words, he could only accept all three plans.

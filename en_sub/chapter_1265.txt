@@ -1,0 +1,71 @@
+Chapter 1265
+
+Other than OFO, which only relied on a four-digit mechanical password lock, other shared bicycles, such as Mobike, all used smart locks with Internet and positioning functions.
+
+Although this kind of smart lock was only born around 2016, its product logic was actually very simple. It was basically the same logic as what Li Mu just said. First, there was a GPS module used for real-time positioning so that users could see the location of the shared bicycles nearby. The company could also monitor the actual location and route of each bicycle.
+
+Then there was the GSM module, which was the core part of the bicycle's Internet connection. The GSM module transmitted data through the mobile operator's network, transmitting user unlock requests, server unlock instructions, GPS signals, and user lock signals.
+
+The single chip microcomputer and the relay worked together. In the locked state, the single chip microcomputer controlled the relay to instantly unlock the bike.
+
+Finally, every shared bicycle had a fixed QR code, which was actually just an ID. In the era of smartphones, it was naturally the easiest to scan the code to unlock. However, in modern times, it could be replaced by sending a text message. Hence, there was no need for smartphones at all.
+
+A normal capacity lithium battery consumed very little power for such a simple device. However, no matter how low the power consumption was, it would still run out of power. Hence, when it was used to manufacture the entire vehicle, there was a need to add an additional micro-power generation system. When the user was riding or braking, it would drive the micro-power generator to charge the lithium battery. This way, it could basically ensure that the shared bicycle's smart lock did not need manual charging and could be on standby indefinitely.
+
+Fang Xudong was very sensitive to technical issues. Although he had never seen a shared bicycle before, he understood the entire set of logic that Li Mu said. To him, Li Mu's unconstrained creativity was really admirable.
+
+After everyone recovered from the shock and excitement, Li Mu said, "In the example I just mentioned, I added a relay controlled by the single chip microcomputer. This way, the moment the relay receives the command, it will immediately work to unlock the bike. In other words, this system has the ability to actually operate through the Internet. This is the more in-depth Internet of Things that I mentioned. Not only can it connect items to the Internet, but it can also control items to a certain extent through the Internet."
+
+Speaking up to this point, Li Mu continued, "Think about it, if we produce 10,000 of these bicycles and throw them on the streets of Beijing for our users to ride, what do you think of this model?"
+
+Everyone's expression changed from surprise to surprise. They looked at each other in dismay. They didn't understand why Li Mu wanted to put 10,000 bicycles on the street. What was the meaning behind it?
+
+Also, this kind of "Internet of Things" bicycle would not be cheap. Just a set of GPS + GSM + MCU, relay, and lithium battery control module would cost a lot of money. The cost would definitely be in the four digits.
+
+Li Mu saw that everyone was confused. He wanted to explain to them how to share bicycles, but after thinking about it carefully, he gave up. The bicycle-sharing model was too advanced, and this kind of operating model that relied on the user's deposit to play the capital game was also very risky. Now that the development of mobile devices was still very restricted, it was not the right time to share bicycles. Even if he explained it to them now, it would be difficult for them to understand. If he explained it too clearly, it might give birth to an unexpected abnormal product. Therefore, Li Mu waved his hand and said, "I'm just making a simple analogy. If we are familiar with this hardware, we can use it in the future."
+
+After that, Li Mu said, "Let me make another analogy. If we mature the GSM module, the MCU module, and the relay module, we can use it in many areas of life. For example, we can use it to create a remote control socket. The user only needs to send a command to the GSM module to control the relay to turn on the power, and the socket will be powered on. Similarly, the user only needs to send a command to turn the relay off, and the socket will stop supplying electricity. This way, we can remotely control the home appliances. If we connect the socket to the water heater, we can send a text message to ask the water heater to boil before we go home. Connect it to the rice cooker, and when we leave, send a text message to ask it to start. When we get home, there will be a pot of delicious rice waiting for you. Connect it to the light, and it can be turned on or off automatically …"
+
+"What I just said is only the most basic functions based on GSM data and SMS functions. If we connect this set of equipment to the PC, think about how many changes will occur. We can add a variety of intuitive and visual operating interfaces on the PC, such as smart homes. All the switches of household appliances will be connected to the network and can be edited on the PC."
+
+"If we add an infrared emitter with learning function to our hardware, we can control all the home appliances through the computer. We can remotely turn on the air conditioner and set the temperature, turn on the TV, remotely control the curtains, lights, stereo, and so on.
+
+"If we add a temperature and humidity sensor, we can let the user know the temperature and humidity of their home at any time. If we add a smoke and gas alarm, once there is smoke or gas leakage in the home, we can immediately send an alert message to the user …"
+
+"If we use it on a car in the future, as long as we combine it with the car circuit, we can use a text message to make the car start the engine and turn on the air conditioner in advance. We can even connect to the various sensors in the car, and let the system send all the status of the car to the user's phone, including the car's fuel level, the amount of water in the glass, the battery voltage, the mileage information, and so on …"
+
+Li Mu's god-like way of thinking stunned all the people present.
+
+No one thought that Li Mu's thinking could be so advanced. He had even completely surpassed the entire Internet field and become a true god in the Internet industry.
+
+Disassembling it, whether it was the GPS, GSM, SCM, relays, or other functional modules, they were all very mature products. But no one thought that when these things were combined with the Internet, they could have such a high-tech product idea. Moreover, everyone was in the industry. Even if some people did not understand technology, according to the logical analysis, it was clear that there were no technical obstacles to realizing what Li Mu said with the current level of technology. To put it more bluntly, these could all be realized right now!
+
+At this time, Fang Xudong and the two technicians were already eager to develop the set of things that Li Mu said. It was very likely to open up a new field and a new era.
+
+Li Mu also said to them seriously, "In the future, we will make a big fuss about hardware, so everyone must pay attention to this research and development task. It is very likely to lay a solid foundation for our hardware road. It all depends on what kind of product you can come up with in the end."
+
+Li Mu would definitely not let go of the mobile phone market in the future. In fact, to a certain extent, the hardware development this time could accumulate a certain amount of technology for the future development of mobile phones. If they did more of such projects, when they really started to make mobile phones, they would find that they already had a variety of hardware solutions in their hands, which could make the development of mobile phones twice the result with half the effort!
+
+Fang Xudong nodded, and said seriously, "Don't worry Li Zong, we will definitely do our best to complete this task."
+
+Li Mu was very satisfied with Fang Xudong's attitude, and said with a smile, "I believe that you will definitely succeed. Also, further increase the manpower of our hardware development team, especially in the field of communications. In the future, we will definitely have a bright future in this field."
+
+"Alright!" Fang Xudong said, "I'll arrange for HR to find a group of top talents in the field of communications as soon as possible."
+
+Li Mu grunted, then asked him, "What's the current situation with the data processing centers around the world?"
+
+Fang Xudong said, "They're currently being perfected, and the number of servers is still increasing. This will require a relatively long period of time to increase the scale."
+
+Li Mu asked again, "Then when will our Plants vs Zombies ONLINE be released to the world?"
+
+Fang Xudong said, "We should be able to start the open beta next month. I've talked to Qing Ya about it, and the gaming department is currently doing the closed beta. Once the data processing centers around the world are slowly being used, we'll start the open beta worldwide. At that time, all YY users will have a chance to play the open beta."
+
+“OK。”
+
+Li Mu said, "Plants vs Zombies ONLINE is the next leap for our Makino Technology. If this game takes the world by storm, YY will also go to the next level. Therefore, make sure you coordinate well with the servers, and don't let the servers run out of capacity.
+
+"Don't worry Li Zong, we'll make sure that all of Makino Technology's online products in the future won't run out of capacity!"
+
+Plants vs Zombies ONLINE was the next social game that Li Mu was aiming to take the world by storm, after Happy Farm and Paradise Town. At the moment, YY was almost monopolizing the entire internet. However, this wasn't enough for Li Mu. The next stage of YY was to solidify its position as the leader of all instant messaging software, and at the same time, prepare for the online gaming business.
+
+At least for now, the most profitable industry in the internet industry was still gaming. When Tengxun had a market cap of several hundred billion USD, the gaming business accounted for 50-60% of the company's total revenue, or even more. CF: Battlefront, DNF Dungeon, LOL, League of Legends, Honor of Kings, and so on were all gold mines. If YY games wanted to reach that level, they had to keep building up their brand awareness in the gaming industry. If Plants vs Zombies ONLINE became popular all over the world, YY's users would be able to grow, and YY's operational strength would be fully reflected in the eyes of the internet companies and gaming companies.

@@ -1,0 +1,83 @@
+Chapter 1436
+
+When Andy Rubin heard that Larry Page was going to introduce him to Li Mu, Andy Rubin was stunned for a long time. He instinctively thought that Larry Page was joking with him. He only believed it when he repeatedly asked Larry Page for confirmation.
+
+Subsequently, Andy Rubin hurriedly confirmed the time with Larry Page. In an hour, he would come to Makino Technology to meet Li Mu on time.
+
+After hanging up the phone, Andy Rubin was so excited that he was at a loss.
+
+In Andy Rubin's understanding of Silicon Valley's big shots, Larry Page was already a very top big shot. As for people like Bill Gates, he was basically a God-level figure that could only be admired. The young man from Hua Xia, Li Mu, was a non-human existence in Andy Rubin's eyes.
+
+Looking at the entire Internet industry, there was no one like Li Mu who could completely start from scratch and create such a big business in a short period of time, except for Li Mu.
+
+There were many self-made billionaires in Silicon Valley, but there was no one who could start from scratch and still be worth tens of billions of dollars. Bill Gates?
+
+He did not start from scratch. There were really few people from Silicon Valley who could compare to Bill Gates.
+
+Because of this, Andy Rubin felt unbelievable. Under normal circumstances, even if he went to a company like Makino Technology to apply for a job, he would not have the opportunity to see Li Mu. Unless it was a very high management position, he would not even be able to see the vice president of Makino Technology.
+
+The bigger the company, the clearer the internal hierarchy. This was not to highlight the privileges of the management, but rather a way for the management to save time. Whether it was recruitment interviews or cooperation talks, the internal management must follow a clear hierarchical logic. Otherwise, if all the interviews and talks were sent directly to the CEO, the CEO would probably be exhausted to death.
+
+For a company like Makino Technology, unless it was an interview for a talent at the vice president level or an important position such as the head of a large business department, which required Li Mu's personal confirmation, Li Mu did not even have time to understand the other levels of positions, because the person in charge of the position would be responsible for the person and the position. He only needed to look at the feedback from the person in charge.
+
+The same was true for investment and financing.
+
+Makino Technology had its own investment department. This investment department did not serve the will of Li Mu alone, but it served the entire Makino Technology. External investments ranged from millions to tens of millions, or even hundreds of millions, or billions of dollars. Li Mu would personally check on investments of more than 100 million dollars. For investments of less than 100 million dollars, the person in charge of the investment department and the person in charge of the business department would agree.
+
+For investments of less than 10 million dollars, an investment manager and the investment department committee could make decisions.
+
+For Andy Rubin, the financing target of his new project was less than 10 million US dollars. In Li Mu's eyes, such a project was a waste of time. He could directly arrange an investment manager with the corresponding amount of authority to talk to him.
+
+However, Li Mu insisted on meeting him in person, which made Andy Rubin both excited and nervous.
+
+… …
+
+Larry Page left Muye Technology Company. Before he left, he sent a message to the board of directors of Google, telling them to prepare for an emergency meeting. No matter what, Li Mu only wanted part of the profits from Google's pocket, and he didn't want to be Google's enemy. That was enough to make the board of directors of Google heave a sigh of relief. What was left was to communicate with the board of directors as soon as possible to see how much profit they could give Li Mu, the businessman from Venice, as a ticket to cross the sea.
+
+Li Mu was in his office, looking at Apple's share prices today. Apple's share prices had fallen by 2% today, and it had stabilized.
+
+Within Apple, the loss-stoppers and counter-attacking factions were still working hard for their own goals.
+
+The loss-stoppers were still negotiating with Microsoft about the acquisition, but there was little progress. Microsoft's attitude was firm, and they only want Apple's operating system and PC manufacturing business. They are not going to take over the rest of the business.
+
+However, Apple's internal department wanted to sell everything. This meant that the buyer would have to pay for Apple's terrible iPod business. Although the iPod business could still squeeze out about 100 million USD as a temporary cash flow, it was like drinking poison to quench one's thirst. The aftermath of the iPod business was the scariest. Production lines would stop working, OEM factories would settle accounts, users and distributors would return and refund the iPods. A large amount of inventory would need to be sold at reduced prices to recoup losses. Even so, all the iPods in stock would not be able to recover from the fate of incurring losses.
+
+If Microsoft does not want to keep the iPods, then the loss-stoppers will not be able to bear the losses.
+
+But the counter-attacking faction is trying to find a solution.
+
+This group of geeks, consisting of programmers, product managers, and various technical personnel, all banded together at the critical moment, desperately looking for a way to break out of the situation. This was also an unprecedented unity in Apple's internal business line. Although Tim Cook was appointed in the face of danger, he maintained the mentality and fighting spirit of the business team very well.
+
+The counter-attacking faction had a general idea of what to do. They felt if they stop the iPod business and shut down the iPod production line, the losses will be too much for Apple to bear. So, they decided to find a new breakthrough in the iPod business. First, they must reduce the iPod production to the lowest level while maintaining the production line. After that, they must solve the problem of iPod returns and clearance. Second, they must develop a new iPod!
+
+Developing a new iPod was the most important thing. Tim Cook believed that although Muye Technology's Mango-ME2 was very cost-effective, its current production capacity had not reached the stage where it could be distributed globally. This meant that Mango-ME2 still had a long way to go. In the future, it would need to continuously increase its production capacity, expand its sales and after-sales system, and then complete its market share. During this process, it would be difficult for Muye Technology to have extra time to invest in a new generation of Mango-ME. Therefore, while Muye Technology was running at full speed and could not turn around, Apple had to quickly develop a new generation of iPod that could surpass Mango-ME2. This was the most important thing for Apple to counterattack.
+
+Tim Cook had even started to lead his team to develop the next generation of iPod. They had chosen a preliminary product plan, which was to implement networking in the next generation of iPod.
+
+Networking meant that the iPod would be separated from the computer to a certain extent and become a terminal device that was directly connected to the Internet. On this basis, the iPod itself must be connected to iTunes through the Internet. At the very least, music could be downloaded directly from iTunes through the iPod.
+
+The counter-attacking faction was divided on this issue. Some thought that they could directly write the iPod version of iTunes into the MCU system, and then add a WLAN module to the iPod. This way, users could download songs through the Internet and the iTunes software on the iPod. The advantage of this solution was that it could be developed quickly and had a low cost. However, the disadvantage was also obvious. If they used this method to design the next generation of iPod, there would be little room for expansion.
+
+Another group of people thought that since they wanted to counterattack Makino Technology and completely reverse the iPod's defeat, they had to catch up with Makino Technology at the most core level. They had to solder a WLAN module and write a simple iTunes MCU into the iPod. Although the iPod could be connected to the Internet and be used without the computer, Makino Technology also knew how to do this. They could also write YYtunes into the MCU, then bundle it with the WLAN module and add it to the next generation of Mango-ME. When the next generation of Mango-ME caught up with the iPod in terms of performance, there would be a price war. At that time, what would Apple do?
+
+Therefore, this group of people proposed a solution with a long-term goal: to develop an operating system for the iPod!
+
+Not only did they have to implement the use of iTunes on the iPod, but they also had to implement the use of other software. This way, the iPod would undergo a qualitative change.
+
+For most of the IT companies in the world, developing an operating system was an extremely large project. Most of the companies did not have the foundation to do so. However, Apple was different. Apple had the technical strength to do so, and it had a very strong technical reserve.
+
+Apple was able to launch the IOS in just over a year in its previous life. To a large extent, it was because of the Mac OS operating system. It could be seen that with enough foundation, it was not difficult to develop a mobile operating system on the basis of a desktop operating system.
+
+This group of people wanted to rely on the Mac OS to develop a mobile operating system for the iPod and completely widen the gap with Muye Technology. If Muye Technology wanted to develop a mobile operating system, it would take at least three to five years to see results even if they recruited top teams from all over the world. This time difference was enough for Apple to make a beautiful comeback.
+
+However, this solution also had its drawbacks. In order to deal with a mobile operating system, Apple needed to carry out a disruptive redesign and upgrade of the iPod's hardware. This would greatly increase the cost of the iPod, and on the other hand, it would also prolong the development cycle.
+
+If it was a single-chip computer, Apple could immediately start developing it. The hardware was mature, and the software was also mature. However, if it was a mobile operating system, the amount of work would immediately increase exponentially.
+
+In addition to developing its own mobile operating system, Apple also needed to conduct in-depth research and understanding of microprocessors and other hardware on the market. Then, it would develop multiple sets of hardware matching plans. After that, it would repeatedly conduct various tests and demonstrations, and finally choose a solution.
+
+For Apple, the single-chip computer solution was like assembling a non-powered glider toy. It was not difficult.
+
+However, the operating system solution was equivalent to upgrading a non-powered glider toy to assembling a stable, reliable, high-performance remote-controlled aircraft model. It was much more troublesome.
+
+The selection of materials, the selection and matching of motors and batteries, the selection and matching of remote transceiver modules, electric adjustment, and steering gear. The overall amount of work was huge. Even for Apple, it was a huge project.

@@ -1,0 +1,79 @@
+Chapter 624
+
+As an important part of the future product ecosystem of Makino Technology, the portal had always been a component that Li Mu attached great importance to. For the portal, he had spent a lot of energy on the stubborn Chen Tong, which was enough to show his determination to do a good job with the portal.
+
+After the Zu Yaoting incident, Li Mu attached more importance to the portal. Although YY and Tieba were platform products for Makino Technology to gather a large number of users, they only provided certain product-level services, such as instant messaging and interest exchange, but they could not provide information services. Without its own information dissemination, these two products had no potential and attributes to become media.
+
+A portal was a comprehensive media information platform. Not only did Makino Technology want to create an Internet news dissemination channel, but it also wanted to create an information dissemination channel. At present, Makino Technology only had products and users, but in the world of the Internet, it did not have its own views!
+
+Even if it had views, there was no clear platform to publish its views, so its own views could not be clearly expressed to users. But with the portal, this problem could be fundamentally solved.
+
+With a powerful portal, Li Mu could achieve: What I want to promote, I will promote with great fanfare; what I want to criticize, I will criticize with great fanfare; what I want to change, what I want to influence, I can publish through my own portal platform. This was the first strategic significance of the portal.
+
+The first version of the YY portal had been developed. It was called "YY net" to the public, with the main domain name of Makino Technology enabled. The design of the website was avant-garde and refreshing, with detailed and clear categories. The pioneering waterfall reading function was a major highlight of the user's browsing experience. While browsing for information, it would be more convenient for users to comment and interact. Because in this version of YY net, Li Mu launched a reply mode similar to NetEase's post, which made the interaction between users more direct.
+
+More importantly, in order to make up for the lack of content, Li Mu had already proposed a number of solutions to Wang Nan. First of all, Makino Technology had paid for the rights to republish the content of many vertical portals, such as the currently popular IT category. Bubble Net, Zhongguancun Online, and Pacific Computer Network were all partners of YY portal. Therefore, at present, YY had sufficient content reserves.
+
+Apart from that, YY website also had very favorable conditions for soliciting contributions. Once it was launched, it would push for contribution channels through YY, calling for everyone to contribute to YY website, constantly adding new content.
+
+Lu Xinyi and a few other people in charge of the sub-channels, including Lu Xinyi, had already prepared a large amount of content for the sub-channels they managed. This was especially true for Lu Xinyi, who had a lot of resources in the entertainment industry. She had directly negotiated with a few Hong Kong print media companies to share their manuscripts with her after they passed the internal review. She would then publish them on YY website. Together with a full-time entertainment editorial team, Lu Xinyi's entertainment channel now had a very strong content, staff, and channels.
+
+After a day of meetings, everyone had touched on all the problems and sorted them out. Now, YY website was ready to go online at any time. All it lacked was a strong wind and a suitable opportunity.
+
+Wang Nan's idea was to go online as soon as possible. Once it was online, he would immediately start promoting and guiding the flow through YY website. He would first make a name for himself, then continue to convert and retain users.
+
+However, Li Mu felt that going online right away was not grand enough. It would be best if there was an opportunity for it to gain attention as soon as it went online.
+
+Therefore, Li Mu voiced out his thoughts, hoping that everyone could brainstorm and think of a good point that could be used to make a big deal out of YY as soon as it was launched.
+
+Everyone thought hard for a long time, and Wang Nan suggested, "The World Cup is almost over, and there are only two games left. Why don't we seize this opportunity and make a special topic?"
+
+Li Mu waved his hand. "The third and fourth place finals are the day after tomorrow, followed by the finals the day after that, and the entire World Cup is over. Making a special topic now obviously won't be able to keep up with the opportunity, and it won't last long."
+
+Lu Xinyi suddenly suggested, "By the way, Li Zong, I heard that Aunt Mei is coming to the mainland with big brother to be the student ambassador of 3321?"
+
+Li Mu nodded. "They'll be here on the 1st, and Mo Wenwei will be coming with them."
+
+Lu Xinyi asked curiously, "Mo Wenwei is coming to Beijing too?
+
+Isn't she going to Xiang City to participate in the filming of Happy Camp? "
+
+Li Mu said, "Her manager said that she wants to visit Beijing, and it just so happens that Zhang Guorong and Mei Yanfang are coming too, so the three of them will be together on the same flight to Beijing."
+
+Lu Xinyi said in surprise, "Why don't we make a special report on the three of them? From the moment they get off the plane, our professional reporters will follow them all the way, interview and publish on the platform. We can also arrange an exclusive interview and arrange a simple sightseeing tour around Beijing. The three of them are A-list celebrities from Hong Kong, and they should be quite influential in the mainland. After they finish their trip in Beijing, we will send a team to follow big brother and Aunt Mei to the poor areas to help out, and then we will follow and report on the process of helping out in the same way."
+
+Li Mu furrowed his eyebrows slightly, thinking that Lu Xinyi's suggestion was indeed a good idea. The netizens needed first-hand information, and they needed to understand the rolling news of the hot topics. The arrival of a few big celebrities in the mainland should be a hot topic, and if they used this method to conduct an exclusive "live broadcast", the enthusiasm of the netizens should be quite high. After all, there were so many live broadcasting platforms in the future, and the popularity of live broadcasting was so high that the netizens subconsciously had this kind of demand. It was just that there was no suitable opportunity to stimulate this demand.
+
+On the other hand, the reason why Chen Tong could use the 24-hour rolling news broadcast to help Sina succeed was actually because he had made use of the mentality of the netizens to a certain extent. The continuous coverage gave the netizens a smooth continuous attention experience, and it captured the subconscious desire of the netizens to follow the news.
+
+However, the only thing that Li Mu was worried about was the problem of technology.
+
+Li Mu could not be satisfied with a text broadcast, as it lacked visual impact. For a web portal, making good use of pictures and videos was the way to success. But at the moment, if he really wanted to do a live broadcast, once he entered an outdoor environment, even a text and picture broadcast would be very difficult. The biggest limitation was the speed of the internet. China's GPRS had only just started, and the speed of the internet transmission was ridiculously slow, and the cost of data flow was frighteningly high. If he wanted to do a live broadcast, the transmission of information would be a big problem.
+
+Li Mu found the technical department's employees, who were in charge of Java development and mobile DreamNet, and asked them for a solution for the outdoor news broadcast. The employees in these two areas should have a deeper understanding of the current mobile network's hardware and software.
+
+The two of them discussed for a while, and finally came up with a solution: using a GPRS adapter card, paired with a laptop, they could use the mobile network to achieve an average transmission speed of about 20 kilobytes per second. Pictures would be a little more difficult, but text would definitely not be a problem.
+
+Li Mu asked the two of them, "Is the speed stable at 20 kilobytes per second?"
+
+The employee in charge of DreamNet said confidently, "It's basically stable."
+
+Li Mu nodded. "In that case, we can basically solve the problem. We'll send two photographers, two writers, and three or more laptops and GPRS adapter cards. The transmission of the pictures will be split between three computers, and the efficiency will be much higher. At the same time, we can also improve the quality of the pictures, and improve the clarity of the website."
+
+Lu Xinyi said excitedly, "That's great! We'll organize a team of reporters, and no matter where they go, they can send back pictures and information. Our editors will polish, arrange, and process it, and then we can publish it directly on the website."
+
+Li Mu looked at Wang Nan, and asked him, "What do you think?"
+
+Wang Nan nodded without hesitation. "I think it's very feasible. If that's the case, our special tracking report can last at least a week, maybe even longer. Through the users' attention on these celebrities, we can continuously provide them with the latest and exclusive news. It'll definitely attract a lot of users' attention, and become a hot topic."
+
+Li Mu nodded, and said, "Alright, Wang Nan, I'll worry about this matter here. After we've created this wave of momentum, the rest will depend on you and Lu Xinyi's cooperation. YY is the most important part of your work, and it's the first hot topic when it comes online. You must do your best. If you need any resources, just say the word, and the company will definitely help you arrange it."
+
+Wang Nan and Lu Xinyi immediately expressed their determination, and then Lu Xinyi reminded Li Mu, "Li Zong, you have to confirm with Big Brother and Lady Mei in advance. If they don't want to do this kind of tracking report, then it'll be troublesome."
+
+Li Mu said, "I'll communicate with them as soon as possible, but I don't think there'll be any changes."
+
+Li Mu could be sure that Zhang Guorong was a person who knew how to repay favors. He had helped him with the Seedling Protection Fund, so Zhang Guorong took the initiative to release the video of that day to clear Du Wei's scandal. This was also a blessing in disguise. Because he exposed Zu Yaoting's shamelessness in front of the entire Hong Kong people, Zhang Guorong received unprecedented support in Hong Kong. Even the media supported him to the end, and those who used to follow the trend to slander him and harp on his sexual orientation didn't dare to continue anymore. Otherwise, they would be committing a crime. The example of the Zu family was right in front of them, and it was a huge deterrent.
+
+After the two incidents, Zhang Guorong was actually the real winner. Li Mu believed that he should be very clear about this, so he wouldn't refuse to do things like tracking reports and live news broadcasts. Speaking of Mei Yanfang, she could put down her work and come to the mainland to accompany Zhang Guorong, which was enough to show that they had a good relationship. Such a little sacrifice should not be a problem. Moreover, Makino Technology still had some influence on Hong Kong and Taiwan stars. Mei Yanfang was also a big sister in the entertainment industry for so many years, and she was also proficient in the ways of the world. Therefore, Li Mu had to give her some face, right?
+
+As for Mo Wenwei, Li Mu wasn't worried at all. After all, she had benefited greatly from Makino Technology, so she must be looking forward to this kind of high-density continuous reporting.

@@ -1,0 +1,77 @@
+Chapter 1625
+
+Li Mu had a bad habit. He summed it up as OCD.
+
+People like him liked to have all kinds of accessories. When he was in elementary school, other people brought food, drinks, and money for spring excursions, but he still had to bring an umbrella, a band-aid, and a compass. Even if he knew the sky was clear, he still had to put an umbrella in the side pocket of his school bag, because that was the only way he could feel at ease.
+
+When he grew up, others would buy a car, fill it up, and drive around the world. He had prepared an air pump, a window breaker hammer, a flashlight, and even a 220V inverter in his car. These things had basically never been used since they were bought, but he still felt more at ease with them in the car.
+
+Because of this, Li Mu really hoped that he could directly customize a more powerful, better quality, and more efficient electric bike for Hungry Mike's future deliverymen. A custom-made electric bike, on the one hand, would lower the threshold for riders to enter the industry, on the other hand, it would also unify the company's image. It would set a high standard for the industry, and it would not be easy for people to come in later.
+
+If an industry was filled with bumpkins, it would be very difficult to raise the entry threshold of this industry in the future. If O2O developed according to normal circumstances, a distribution station, a few delivery men, and a few second-hand electric scooters would be enough to cover a small area. If Li Mu's Hungry Man also started like this, there would definitely be a lot of imitators behind it.
+
+However, if Li Mu started with a high standard and let others see that this was a heavy investment project, then there would be almost no people who were born in the industry. Even if there were people who were born in the countryside, they would first have to accumulate enough energy before they could cross this hurdle.
+
+Also, Li Mu really felt that the Tesla team that Elon Musk invested in, since they had the 18650 lithium battery pack technology, it would be very good to emasculate it into an electric bike. When the time comes, the design team would come up with a set of overall plans, then they would first test out a few prototypes. If it was okay, then they would immediately hand it over to the OEM factory.
+
+Tesla's battery management technology was very good. Under normal circumstances, a Tesla was composed of 6-7000 18650 batteries. These batteries were divided into 14 independent battery packs, and each pack was composed of a few hundred batteries. It had strong advantages in heat dissipation, charging, and discharging management, as well as safety.
+
+With such a high standard of battery technology, it should be very easy to emasculate it into a simple battery pack of a hundred 18650 batteries. Under normal circumstances, a hundred 18650 batteries could allow an ordinary electric bike to travel more than ten kilometers. If the motor technology was good, and the weight was good, it would not be difficult to travel more than a hundred kilometers.
+
+It should be very easy for Tesla to take the time to create a small battery pack for him.
+
+The batteries could be purchased directly from Panasonic through Tesla, and the battery pack could also be handed over to Tesla to arrange for the OEM factory. This could further reduce the cost. Then, he could directly import the finished battery pack into China, and then hand it over to the electric bike factory for assembly.
+
+Covering the entire Yanjing, it was estimated that there would only be 10,000 electric bikes in the early stage. Also, 10,000 electric bikes would be delivered in several batches. Using the 18650 lithium battery as the power unit, the cost of a single bike should be more than two to three thousand yuan. The hardware cost of the electric bike alone would be more than ten million yuan in a city. This was nothing to Taobao, but there were very few entrepreneurial teams that could afford it.
+
+The electric bike problem was solved, and the remaining problem was the order delivery. Now that there were no smartphones, Li Mu decided to use SMS to distribute orders in the early stage. Then, he would try to limit each rider's activity area to a five-kilometer radius. This way, he would be able to ensure the timeliness of each rider's activity.
+
+However, SMS was only a temporary solution at this stage. The next step would be when smartphones became popular, mobile GPS matured, and data costs were slightly reduced. Then, riders would be able to use smartphones to receive orders. At the same time, they would be able to use GPS to provide real-time feedback on their location.
+
+At that time, users could also place orders through mobile apps. Basically, they would be entering the mobile Internet O2O era in advance.
+
+After Li Mu finished talking about his ideas, everyone present had basically been brainwashed by him. Everyone was imagining the day when they could see all the restaurants and dishes within a five-kilometer radius by turning on the computer, and they could order and pay directly on the computer and wait for the food to be delivered to their door. If that day really came, it would definitely be another great progress in changing people's lives with technology.
+
+Actually, the problem of white-collar workers, workers, and students having a hard time eating and being lazy didn't only exist after the birth of the Internet. Instead, it had existed since the birth of these groups.
+
+The reason why Hungry Man was founded in the future was because the founder was too lazy to go out to eat. Therefore, he wanted to create an online food delivery platform. He didn't expect that he would suddenly grasp the pain point of a large number of people and suddenly become a giant Internet company.
+
+When Li Mu was in university, he didn't just have a hard time eating, he was lazy to the point of having cancer of laziness.
+
+There were eight people in a dormitory. On weekends, no one was willing to go downstairs to buy food. They were all lazing around in the dormitory.
+
+Sometimes, the eight of them would starve on their beds until everyone's stomachs were growling, but they still wouldn't go downstairs. When one of them was so hungry that he decided to go downstairs to buy food, the other seven would immediately say at the same time, "Help me buy some, I want to eat stone-pot rice.", "I want shredded pork with green peppers on rice.", "I want a bowl of ramen.", "I want steamed pork with rice and a bottle of beer.", "Two donkey stew, a bowl of soup, and some soft red plums. Thank you."
+
+In the past, tens of millions of college students in the country faced this kind of predicament. However, no one thought about solving this problem until the founding team of Hungry Man came up with this idea.
+
+Therefore, Li Mu firmly believed that even if Alibaba launched a few years earlier, it would definitely not be left out. On the contrary, it might be able to eliminate competitors like Meituan and Baidu ahead of time because of its earlier and higher threshold of heavy asset operation, and become the sole dominant company.
+
+When everyone in the meeting room was filled with ambition, Li Mu started to divide the work.
+
+He turned to Fang Xudong and said, "Xudong, you'll lead the technical team to modify Taobao's current framework to make it more suitable for takeout. Furthermore, it can have two secondary domain names, one is and one is. Fang Xudong immediately nodded his head and said solemnly," Don't worry, Director Li. We have a ready-made framework and code, and it will be completed in the shortest time possible. "
+
+Li Mu smiled with satisfaction and said, "Other than that, you need to focus on solving the order system for food delivery and the algorithm for ordering. This is very important. The efficiency of our entire product in the future will depend on the rationality and science of your algorithm."
+
+Fang Xudong immediately said, "Don't worry, we will do our best."
+
+"Okay."
+
+Li Mu then looked at Lei Jianguo and said, "Chairman Lei, you need to immediately train up a marketing team. This team's first task is to immediately go to all the restaurants in Beijing and persuade them to join Hungry Man after our platform is completed. However, we need to set a threshold for entry. All the restaurants that are connected to the platform must have complete industrial and health qualifications."
+
+Chairman Lei immediately said, "Leave it to me!"
+
+Li Mu said, "This team must be heavily trained. In the future, when we start to expand into the country, we will split them up and send them to various parts of the country to be marketing managers."
+
+Chairman Lei made an 'OK' gesture and said, "I will definitely train up a powerful marketing team."
+
+Li Mu continued, "Your second task is to train up a marketing team. This marketing team will immediately go to all the office buildings, colleges, and residential areas in Beijing after our marketing team is done with the restaurants and the platform. We will promote it and guide the customers to order using Hungry Man."
+
+Chairman Lei nodded his head and couldn't help asking, "Using a computer to order is indeed convenient, but there are still some operational requirements. Will there be some customers who are too lazy to try it for the first time and can't get in?"
+
+Li Mu smiled and said, "User activation is indeed a very important problem. We can pay a certain amount of cost to get users to activate. At that time, we can provide a series of coupons for every new user. For example, we can provide a few coupons that cost 5 yuan for every 10 yuan. As a form of subsidy, we will first encourage them to join our platform and activate them. As long as they activate and use our delivery service, after a few times, they won't be able to leave this highly convenient service. At that time, we will stop the user subsidy and recover the cost from the users."
+
+Chairman Lei smiled and said, "There shouldn't be a problem like this!"
+
+Li Mu then looked at Liu Shixiong and said, "Liu Shixiong, you're good at logistics and also good at managing a large team. Therefore, your task is to supervise the custom-made production of our electric scooters, insulated boxes, and uniforms. At the same time, you will recruit and train our deliverymen. Since our deliverymen might directly go to the customers' doorsteps in the future, we must ensure that our deliverymen receive sufficient training. At the same time, we must strictly check their social backgrounds. Those with criminal records will not be hired. If any district manager recruits a deliveryman with a criminal record, they will be severely punished."
+
+Liu Shixiong immediately nodded his head and said, "No problem, I will definitely complete this task."

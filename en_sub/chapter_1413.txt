@@ -1,0 +1,81 @@
+Chapter 1413
+
+Li Mu attached great importance to matters related to the co-branded headphones. Therefore, on the same day, Animal Husbandry Technology contacted Sennheisel and Bayer Dynamics, the two German companies. They vaguely revealed that Makino Technology intended to customize more than one million pairs of high-end headphones from their companies. The two companies replied to Makino Technology in the shortest time possible, expressing their admiration for the great Internet company, Makino Technology, and their expectations for cooperation with Makino Technology.
+
+Therefore, Fang Xudong temporarily transferred four research and development personnel from the hardware laboratory, and together with the business team of Makino Technology, they prepared to set off for Germany.
+
+Before the team departed, Li Mu held a small meeting with them. On the one hand, he wished them a smooth journey and a successful completion of the mission. On the other hand, he reiterated the core goal of the custom-made headphone plan.
+
+This was the first time that a custom-made headphone was used in various music-based electronic products around the world.
+
+Li Mu hoped to enhance the sound quality of the Mango-ME2 through the co-branded cooperation with the headphone manufacturers, as well as its price-performance ratio in the eyes of consumers. Moreover, through the co-branded cooperation with the headphone manufacturers to produce high-quality custom-made headphones, the core gap between the Mango-ME2 and its competitors could be widened. Since the custom-made headphones were not sold separately, if consumers were interested in this unique headphone, the only way was to buy a Mango-ME2, or buy it from a Mango-ME2 user.
+
+However, Li Mu did not intend to equip every Mango-ME2 with such custom-made headphones. He planned to divide each model of Mango-ME2 into two versions, one was the ordinary version, and the other was the deluxe version. The ordinary version would be matched with the original Mango-ME headphones, and the deluxe version would be matched with the future co-branded custom-made headphones.
+
+The reason for the division was mainly because the increase in cost indicated that the terminal price would also increase. In many developing countries and regions in China, including Hua Xia, consumers generally did not have enough purchasing power. Therefore, the addition of custom-made headphones would probably increase the burden on ordinary consumers, so they wanted to give them a cheaper option.
+
+Currently, domestic music lovers rarely bought high-end players and headphones. For most consumers who used MP3 players to listen to songs, most of them used headphones that cost less than 50 yuan, and most of them used headphones that cost less than 20 yuan. Similarly, the sales of the expensive iPod in Hua Xia were very low. Most consumers who liked music were not even willing to spend a few hundred yuan on an MP3 player. The iPod, which cost thousands or even thousands of yuan, was the choice of a very small number of high-end players in China.
+
+However, in developed countries in the West, the sales of high-end players like the iPod were still very shocking. The price of a few hundred US dollars was not a large amount of money for music lovers in developed countries. The iPod's simple design, huge storage space, excellent sound quality, and high-end style had a great appeal to these consumers who could afford it.
+
+However, even if it was Apple's iPod, its hardware cost was mainly concentrated in the body itself. The quality of the headphones was relatively average, and the sound quality was not outstanding. At best, the headphones were at the standard of a hundred yuan.
+
+The main goal of the addition of the co-branded custom-made headphones was to compete head-on with the iPod's target market. At that time, the co-branded custom-made headphones would become an important part of the Mango-ME2's sound quality to crush the iPod. Moreover, if Apple wanted to catch up, it would take a long time.
+
+If Apple found out that the sound quality of the Mango-ME2, which used the co-branded custom-made headphones from well-known manufacturers, was much better than the iPod, there were only two ways for Apple to respond. They could either lower the price or catch up. Li Mu was the least afraid of Apple lowering the price of the iPod. If Apple dared to lower the price of the iPod to zero or even extremely low profit, then Apple would be strangling its own money source. Therefore, the only effective way for Apple to respond was to catch up.
+
+However, it was not that easy to catch up with the iPod in terms of hardware. The first thing Li Mu could confirm was that Apple did not have its own production line for headphones. If they wanted to upgrade the Apple headphones, then the only thing they could do was to entrust their headphone OEM company to upgrade the Apple headphones. This was not something that could be completed in a few days. Even if it was done in a hurry, it would still take at least a few weeks.
+
+Moreover, upgrading the headphones meant an increase in overall costs for Apple. If Apple passed on this additional cost to the consumers, then the iPod's disadvantage in terms of price would increase. If Apple were to bear this part of the cost, then its profit margin would be greatly affected.
+
+Still, at this stage, Li Mu could lose money in the sale of the player, but Apple could not. This was its Achilles' heel!
+
+…
+
+The small team that went to Germany set off. Li Mu still had to make the final preparations for the launch of YYtunes. The most important thing was to confirm the payment process and payment channels for YYtunes.
+
+In overseas countries and regions with strong copyright protection, the popularity of paying for music was very high. However, the traditional way to pay for music was to buy a genuine physical album, whether it was a tape, CD, or MD. Apple's iTunes had just started to experiment with paying for online music this year. It was considered to be somewhat effective, but after all, it had just started and was not mature yet. Therefore, the chances of YYtunes catching up were very high.
+
+As Makino Technology was extremely well-known around the world and had the largest number of users in the Internet field, YYtunes was very attractive to record companies. Therefore, Makino Technology was far more attractive to record companies than Apple, which had just started its online music store. When Makino Technology contacted these record companies, hoping to get their authorization to carry out online music sales and share the profits with them, almost none of the record companies refused to cooperate. Compared to Apple, some record companies were still in the hesitant and wait-and-see stage. Therefore, before YYtunes was launched, its copyright library had already surpassed Apple, which had just started.
+
+At present, YYtunes had obtained the copyright authorization of most of the world's record companies and had fully digitized these music. At the same time, according to Li Mu's request, the technical staff stored three different versions in YYtunes' own database. The three versions were divided based on the sound quality: standard, high, and extremely high.
+
+YYtunes' music sales method was divided into two: download purchase and monthly purchase.
+
+In YYtunes, single and album downloads needed to be purchased separately. For online listening, one only needed to pay a fixed monthly fee. Online listening did not need to pay for individual songs. As long as one paid a certain amount every month, one could become a member of YYtunes and listen to any song in the online library for free.
+
+Like iTunes, YYtunes also adopted a profit sharing ratio of 3: 7 with the record company. For example, the download price of a song was priced at 0.99 US dollars. For every song that was downloaded, the record company would take 0.69 US dollars and give most of the profits to the record company. This would bring more digital copyright income to the record company, thus increasing the overall scale of the music industry.
+
+As for the monthly sharing, it used the logic of "sharing the revenue based on the number of plays" designed by Li Mu. For example, YYtunes' monthly fee was 9.90 US dollars. In June this year, there were ten million monthly subscriptions and 99 million US dollars of monthly revenue was generated in June. According to the 3: 7 distribution ratio, the total amount to be distributed to the record company was 69.3 million US dollars. At the beginning of July, the platform would calculate the number of monthly broadcasts in June. For example, the entire platform had ten million monthly subscriptions. In the past June, a total of one billion plays were generated. Then, the 69.3 million US dollars that was distributed to the record company would be divided by one billion plays to calculate the revenue sharing that should be given to the record company for each single broadcast.
+
+Based on this calculation, the revenue per single broadcast per user was 0.069 US dollars. If a record company licensed a total of 20000 songs, and these 20000 songs were played a total of 2 million times in June, the company would receive a revenue of 138600 US dollars in June. If a popular singer's single was played a total of 10 million times in June, then the revenue for this single in a month could reach 690,000 US dollars.
+
+This set of "sharing the revenue based on the number of plays" was recognized by all the record companies. They were initially worried that the distribution of monthly revenue would be uneven and unfair, but based on this settlement logic, they did not have to worry at all.
+
+Li Mu did all this not only to snipe at Apple, but also to support the development of the music industry. This stemmed from his absolute respect for creation and intellectual property rights.
+
+In order to strengthen the promotion of the music industry, Li Mu also deliberately opened up a path for independent musicians to apply for entry into YYtunes. If independent musicians wanted to sell their music through YYtunes, they could apply for a musician account backstage and upload their music content. After being reviewed, their songs would be available in YYtunes. Independent musicians could increase their income by selling their music through YYtunes.
+
+Most original singers lived in poverty, not just in China, but all over the world. For an original singer without company packaging and financial support, if he wanted to record an original song, he would first have to complete the lyrics and music composition, then try to arrange it himself or hire someone to arrange it. After the arrangement was completed, he would have to spend money to hire professional musicians to record the accompaniment, such as guitar, bass, drums, keyboards, and other instrumental music and harmonies. After the musicians were assembled, he would have to pay a sum of money to rent a recording studio. The recording studio would record it, and after post-processing, it would be made into an album. Many original singers would go bankrupt just to record a single song, let alone an entire album.
+
+For such musicians, what they needed the most was a channel to make money through music. Otherwise, when their creation was not rewarded, it would be difficult for them to continue their musical path. It was very likely that they would bid farewell to music, and the songs that they could have created would also be stillborn. No one knew how much good music a guy who sat in front of a computer writing code or a guy who washed dishes in a restaurant could bring to the masses if he embarked on the path of music.
+
+However, for these people, it was too difficult to make money through traditional forms of music. They could only achieve it through signing a contract with a record company. Now, they could quickly make money through YYtunes. Moreover, YYtunes would rely on YY's strong traffic in the future, and it would definitely become an opportunity platform for original musicians to go from grassroots to popular.
+
+However, in the first phase of YYtunes' launch, these charging methods would only be implemented in economically developed countries or regions that had passed copyright protection standards. These were mainly developed countries in the West, as well as Japan and South Korea.
+
+Therefore, at present, the payment channel adopted by YYtunes was mainly PayPal, which was settled in US dollars, followed by the respective credit card electronic payment channels of VISA and Master-Card. Although Alipay was also connected to YYtunes, Li Mu estimated that Alipay would not be used by many users. This was mainly because he knew that it was impossible to expect netizens in Hua Xia to pay for online music at this stage.
+
+In Hua Xia, YYtunes was launched under the name "YY Music", and the first phase of its launch was completely free.
+
+The reason why it was completely free was because Li Mu knew that if YY Music forcibly charged fees in China, there would basically be only one ending: death, and a very quick death.
+
+Domestic intellectual property protection was far from being able to eliminate piracy. In fact, the crackdown on piracy was only at the stage of scratching an itch. More importantly, the concept that online music should be free was deeply ingrained in domestic users at this stage. There was no ground for charging fees at all.
+
+Regarding this point, Li Mu himself was very helpless. However, there was no effective way. Therefore, he could only make it free for now and let users accept the free original music. In the future, when the market and legal conditions allowed it, paid music would be introduced.
+
+In order to make the record companies willing to provide free online auditions and downloads to Hua Xia users in Hua Xia, Li Mu specially added a few advertising sections in YY Music. In the future, these advertisements would all be used to pay for advertising for medium and large enterprises with sufficient social credibility. All the advertising revenue would be used to subsidize the record companies. At that time, the dual model of "sharing the revenue according to the number of plays and the number of downloads" would be used to distribute the advertising fees to the major record companies in a fair and just manner.
+
+Advertising revenue was naturally much less than paid revenue. These record companies also knew in their hearts that in this way, they would not actually get too much money. At least, the scale of the revenue was not something they could imagine. However, looking at the problem from another perspective, everything suddenly became clear.
+
+After all, there was currently no record company in the world that could earn digital copyright revenue in Hua Xia, especially in Hua Xia. The income from music products was also pitifully low due to the strong impact of piracy. Therefore, if they did not agree to Li Mu's cooperation plan, their music would still be listened to and downloaded on Hua Xia's network. Moreover, no one would give them a single cent. At the very least, Li Mu would use all the advertising revenue to subsidize them. Who would say no to money?

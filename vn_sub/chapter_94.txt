@@ -1,0 +1,97 @@
+Chương 94
+
+Giấy báo trúng tuyển vừa đến, tin vui liền tới tấp bay về.
+
+Triệu Khang cũng đã nhận được giấy báo. Không có gì bất ngờ về trường đại học mà cậu ta nộp đơn.
+
+Sau đó, vòng đầu tiên của chung kết Simple Plan cuối cùng cũng được phát sóng.
+
+Lần này thực sự rất hoành tráng. Trước đây, video biểu diễn của Simple Plan chỉ được phát trên Đài truyền hình vệ tinh Nam Tô. Bây giờ, không chỉ Nam Tô, mà cả Đài truyền hình vệ tinh Yến Kinh và hơn mười đài truyền hình vệ tinh hợp tác khác trong cả nước cũng phát sóng.
+
+Bài hát "Lão Nam Hài", với giai điệu xuất sắc cùng ca từ đầy cảm hứng và cảm động, đã chiếm trọn trái tim của khán giả cả nước ngay trong ngày phát sóng.
+
+Lượng truy cập trên trang web Y Thính cũng phi thường. Trải nghiệm người dùng tuyệt vời và cơ chế phần thưởng cho người dùng đăng ký trước đó đã khiến một lượng lớn người dùng bắt đầu tụ tập trên trang web Y Thính. Tốc độ này nhanh đến mức ngay cả Lý Mục cũng không thể tin được.
+
+Nhìn hàng chục ngàn tin nhắn về Simple Plan và bốn thành viên trên trang web Y Thính, trong đầu Lý Mục chợt lóe lên một ý tưởng.
+
+Tại sao không tạo một Tieba Ngôi sao (Star Tieba) cho người hâm mộ vui chơi ngay trên nền tảng của trang web Y Thính nhỉ?
+
+Dù sao thì cậu cũng đã chiếm lĩnh thị phần của Baidu MP3 rồi, nên chiếm luôn cả Baidu Tieba cũng chẳng sao.
+
+Lý Mục phân tích kỹ về Baidu Tieba trong tương lai. Baidu Tieba tương lai dựa vào công cụ tìm kiếm, nên các quy tắc tạo Tieba về cơ bản là hoàn toàn mở. Không chỉ ca sĩ, không chỉ người nổi tiếng, bất kỳ sự vật hay danh từ nào cũng có thể được dùng để tạo một Tieba.
+
+Tuy nhiên, cậu không có công cụ tìm kiếm để dựa vào, nên không thể chơi lớn với một sản phẩm đồ sộ như vậy. Hơn nữa, cậu cũng không có sự hỗ trợ phần cứng và phần mềm mạnh mẽ đến thế.
+
+Do đó, Lý Mục quyết định mở chức năng Tieba trên trang web Y Thính, nhưng giai đoạn đầu chỉ giới hạn cho các ca sĩ. Nói cách khác, khi người dùng vào trang web Y Thính để nghe nhạc, mỗi ca sĩ hiện tại đều có một trang phụ (sub-page) thuộc về họ. Bây giờ, Lý Mục muốn thêm một Tieba cá nhân cho họ. Bằng cách này, nó có thể kích thích sự nhiệt tình thảo luận của người hâm mộ và tăng thêm độ gắn kết của người dùng.
+
+Điều thú vị nhất là tên miền của Tieba cũng nằm trong tay Lý Mục...
+
+Lý Mục lập tức gọi cho Khổng Lệnh Vũ: "Lão Khổng, tôi có ý tưởng mới. Nghe kỹ nhé. Nếu có thắc mắc gì thì đợi tôi nói xong hãy hỏi."
+
+Khổng Lệnh Vũ biết ông chủ trẻ tuổi của mình thường có những ý tưởng không tưởng nhưng tuyệt vời, nên cậu ta lập tức lấy giấy bút, kẹp điện thoại giữa vai và mặt, nói: "Sếp nói đi."
+
+"Hiện tại, người dùng của chúng ta chỉ có thể để lại tin nhắn trên trang phụ của mỗi người nổi tiếng. Mặc dù có rất nhiều tin nhắn, nhưng chúng là một chiều và khép kín theo từng ngày. Nó không thể được sử dụng để giao lưu với người hâm mộ. Vì vậy ý tưởng của tôi là chúng ta có thể phát triển một chức năng mới cho người hâm mộ. Nó tương đương với một BBS (diễn đàn) tối giản để họ có thể thảo luận về thần tượng của mình, nhưng không được phức tạp như một diễn đàn BBS thực thụ."
+
+Khổng Lệnh Vũ sững người một lúc rồi hỏi: "Sếp, ý sếp là mở một BBS tối giản cho mỗi ca sĩ ấy hả?"
+
+"Đúng vậy."
+
+Lý Mục cười nói: "Cái BBS tối giản này chỉ cần hỗ trợ các bài đăng văn bản và hình ảnh. Nghĩa là chúng ta sẽ phát triển một mẫu (template) và sau đó mở một cái cho mỗi ca sĩ. Nó khác với những BBS rất rộng lớn kia. Mỗi BBS tối giản của chúng ta có vị trí chuyên sâu nhất (vertical position), đó chính là bản thân ca sĩ."
+
+Mắt Khổng Lệnh Vũ sáng lên: "Vậy là để người hâm mộ của mỗi ca sĩ trò chuyện và thảo luận trong BBS tối giản của ca sĩ đó. Tương đương với việc tìm một ngôi nhà trên Internet cho người hâm mộ của mỗi ca sĩ?"
+
+"Đại loại thế."
+
+Lý Mục cười nói: "Chúng ta sẽ không gọi nó là BBS hay ngôi nhà Internet với cái tên quê mùa như vậy. Nói đơn giản, chúng ta sẽ gọi nó là Tieba."
+
+"Tieba? Ý sếp là gì?"
+
+"Cậu biết quán bar (bar) là gì chứ?"
+
+Giọng Khổng Lệnh Vũ lập tức trở nên phấn khích: "Em hiểu rồi! Trời ơi, Sếp, sếp đúng là thiên tài. Sao não sếp lại nghĩ ra được hay thế nhỉ? Nếu loại Tieba này được phát triển và ra mắt, trang web Y Thính sẽ thực sự trở thành nơi tụ tập trên mạng của tất cả người hâm mộ cả nước!"
+
+Lý Mục cười nói: "Tieba là bước đầu tiên để tiến vào mảng cộng đồng. Cậu phải chú ý đến nó và đưa ra ý tưởng sản phẩm càng sớm càng tốt. Tôi sẽ dành thời gian đến Kim Lăng trong hai ngày tới để thảo luận với cậu."
+
+...
+
+Vào ngày thứ hai sau khi phiên bản chính thức của "Lão Nam Hài" được phát hành, Simple Plan lại lên đường đến Bắc Kinh. Và từ hôm nay trở đi, tất cả các đài phát thanh lớn đều phát sóng bài hát này như điên!
+
+Đây là một bài hát đại chúng gây được tiếng vang với mọi lứa tuổi. Hơn nữa, ca sĩ chính Trương Khắc Thiên lại là một anh chàng đẹp trai. Sau khi được phát sóng trên rất nhiều đài truyền hình, không có gì lạ khi bài hát này trở nên nổi tiếng.
+
+Chẳng bao lâu, toàn bộ ngành công nghiệp nhạc pop đại lục đã bị chấn động bởi ban nhạc có tên Simple Plan này. Trước khi vòng đầu tiên của chung kết Bắc Kinh được phát sóng, không ai trong ngành nhạc pop biết đến cái tên "Simple Plan". "Lý Bạch" và "Hướng Dương" không thu hút nhiều sự chú ý trong ngành khi chúng leo lên bảng xếp hạng trên một số đài phát thanh. Tuy nhiên, "Lão Nam Hài" đã trực tiếp đưa Simple Plan đến với khán giả toàn quốc. Lúc này, những người trong ngành ngạc nhiên phát hiện ra rằng Simple Plan đang nằm trên các bảng xếp hạng nhạc pop của tất cả các đài phát thanh lớn. Hơn nữa, ban nhạc của họ chiếm hẳn ba vị trí.
+
+"Lão Nam Hài" vọt lên vị trí đầu bảng của tất cả các bảng xếp hạng lớn trong nước. "Lý Bạch", bài hát mang chút phong cách "trai hư" (playboy), xếp thứ hai trên hầu hết các bảng xếp hạng và thứ ba trên một số ít bảng xếp hạng. "Hướng Dương", cũng là một bài hát truyền cảm hứng, cũng nằm trong top 5.
+
+Trong ngành công nghiệp nhạc pop, đã lâu lắm rồi không có một "tên khốn" nào thống trị các bảng xếp hạng như vậy.
+
+Trong tương lai, Châu Kiệt Luân chắc chắn sẽ là một trong số đó. Đáng tiếc, album đầu tay "Jay" của Châu Kiệt Luân mới chỉ đạt được thành công bước đầu ở Đài Loan. Người trong ngành âm nhạc Đài Loan vẫn còn đang ngơ ngác, và album thực sự nổi tiếng của Châu Kiệt Luân, "Phàm Đặc Tây" (Fantasia), phải đến tháng 9 mới được phát hành. Do đó, nếu Châu Kiệt Luân muốn thực sự trở nên nổi tiếng ở Trung Quốc đại lục, cậu ấy sẽ phải đợi đến đầu năm 2002.
+
+Hiện tại, thực sự là một cơ hội tốt để tạo dựng tên tuổi trong ngành âm nhạc. Không giống như trong tương lai, Lý Mục chưa bao giờ mơ rằng "Mục Tử", người không mấy nổi tiếng trên Y Thính, lại đột nhiên trở nên nổi tiếng khắp cả nước. Và lý do cho điều này là vì một hành vi vi phạm bản quyền trắng trợn.
+
+Hóa ra Đài truyền hình Trung Quốc có một chương trình giờ vàng tên là "Nghệ thuật Nhân sinh", chuyên phỏng vấn một số nghệ sĩ nổi tiếng trong nước. Nó đi theo hướng tình cảm, ấm áp và lấy nước mắt. Tập gần đây nhất đã phỏng vấn một ca sĩ cực kỳ nổi tiếng trong nước. Khi ca sĩ này hồi tưởng về người vợ quá cố của mình, nhạc nền là bài "Khi Em Già Đi" của Mục Tử.
+
+Khi đoạn nhạc này vang lên, kết hợp với chủ đề đầy cảm xúc, nó ngay lập tức tạo ra hiệu ứng lấy nước mắt hoàn hảo, làm lay động vô số khán giả. Sau khi chương trình được phát sóng, vô số người đã tìm kiếm đoạn nhạc nền này trên Internet, và sau đó tập trung vào Mục Tử từ trang web Y Thính.
+
+Số lượt nghe "Khi Em Già Đi" trên Y Thính tiếp tục tăng với tốc độ gấp nhiều lần, đồng thời cũng kéo theo sự gia tăng dữ liệu của bài "Ngựa Vằn Ngựa Vằn". Nhìn thấy vô số bình luận tích cực của cư dân mạng về "Khi Em Già Đi" khiến Lý Mục cảm thấy có chút tự hào.
+
+Còn về việc Đài truyền hình sử dụng bài hát này làm nhạc nền trái phép, Lý Mục không có cảm giác tiêu cực nào trong lòng. Môi trường hiện tại là như vậy. Gần như không có sự ủy quyền nào cho bất kỳ bài hát nào được phát bởi các đài truyền hình và phát thanh. Tuy nhiên, kiểu phát sóng tùy tiện này cũng tạo ra những ngôi sao mà vô số khán giả quen mặt. Đó cũng là một đặc điểm của thời đại này.
+
+Trong một khoảng thời gian rất ngắn, "Khi Em Già Đi" cũng lọt vào các bảng xếp hạng âm nhạc lớn với tốc độ không thể tưởng tượng nổi. Hiện tại, trong top 10 của các bảng xếp hạng âm nhạc lớn, có bốn bài hát độc quyền của Y Thính. Ngay cả khi chúng bị vô số trang web sao chép lậu, điều đó cũng không thành vấn đề. Chiến lược tiếp thị khan hiếm của Lý Mục đã nói rõ cho người dùng biết rằng Y Thính là trang web đầu tiên có nhạc của Simple Plan và Mục Tử.
+
+Điều Lý Mục không ngờ tới là thành công bất ngờ của Y Thính đã khiến cuộc trình diễn nội bộ của Baidu về triển vọng của MP3 diễn ra sớm hơn nửa năm so với kiếp trước.
+
+Baidu chính thức ra mắt dịch vụ tìm kiếm MP3 vào tháng 9 năm 2002, nhưng dự án này đã được trình diễn sớm hơn nửa năm.
+
+Vào thời điểm đó, Baidu đã phát hiện ra rằng nhu cầu tìm kiếm nhạc của người dùng Internet đang tăng nhanh. Họ nhận thấy một lượng lớn người tìm kiếm nhạc được chuyển hướng đến các trang web nhạc lậu lớn thông qua công cụ tìm kiếm. Baidu cảm thấy rằng nếu họ có thể giữ chân nhóm người dùng này, nó sẽ làm tăng đáng kể lưu lượng truy cập và độ gắn kết của Baidu. Do đó, Baidu MP3 đã ra đời. Ngay khi nó ra đời, gần như tất cả người dùng tìm kiếm nhạc trên Baidu đều bị chặn lại (giữ lại trên Baidu MP3 thay vì chuyển hướng đi).
+
+Vào thời điểm đó, các trang web khác vẫn chưa thực sự tạo dựng được tên tuổi. 80% lưu lượng người dùng hoặc thậm chí nhiều hơn cần phải dựa vào Baidu. Do đó, một khi Baidu chặn dòng chảy của người dùng ngay tại nguồn, điều đó tương đương với việc bóp nghẹt cổ họng họ.
+
+Tuy nhiên, hiện tượng này không phải là vấn đề lớn đối với trang web Y Thính. Người dùng hiện tại của nó được chuyển đổi trực tiếp thông qua các chương trình khuyến mãi khác nhau. Hầu hết những người dùng truy cập trang web Y Thính sẽ trực tiếp nhập tên miền của Y Thính thay vì mất công vào Baidu lần nữa. Do đó, Baidu không thể nắm được huyết mạch của trang web Y Thính.
+
+Lần này, cuộc trình diễn nội bộ của Baidu nhanh chóng xác nhận ý tưởng làm tìm kiếm MP3. Tại cuộc họp trình diễn, ban quản lý kiên quyết làm tìm kiếm MP3 đã công bố dữ liệu của Y Thính kể từ khi ra mắt. Những tiếng nói bất đồng tại hiện trường lập tức biến mất.
+
+Cũng có một giọng nói tại hiện trường: "Đà phát triển của Y Thính này khá mạnh. Tôi cũng đã thấy các phương thức quảng bá của họ trước và sau khi lên mạng, cũng như việc phát triển sản phẩm, âm nhạc độc đáo, vận hành trang web và giữ chân người dùng của họ. Kết hợp với dữ liệu của họ, tôi có thể tưởng tượng rằng thương hiệu và đội ngũ này chắc chắn sẽ có triển vọng lớn trong tương lai. Tại sao chúng ta không mua lại họ luôn?"
+
+Một trong những cấp cao tại hiện trường lắc đầu: "Đội ngũ này còn quá trẻ, và dịch vụ họ cung cấp cũng rất đơn giản. Chắc chắn sẽ là một vấn đề lớn đối với họ trong việc giữ chân người dùng trong tương lai. Hơn nữa, họ may mắn ở chỗ hiện tại chưa có thiên địch. Nếu chúng ta tung ra tìm kiếm MP3, lưu lượng truy cập của họ chắc chắn sẽ giảm mạnh. Thực tế, tôi nghĩ rằng một khi Baidu chúng ta tung ra dịch vụ tìm kiếm và tải xuống MP3, tất cả các trang web trong lĩnh vực này về cơ bản có thể tuyên bố là đã chết!"
+
+Tôi tự hỏi ông ta sẽ cảm thấy thế nào khi nhìn thấy Tieba của Y Thính trong vài ngày tới...

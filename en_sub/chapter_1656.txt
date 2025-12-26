@@ -1,0 +1,81 @@
+Chapter 1656
+
+The entire senior management of Mars racked their brains but could not figure out how Li Mu managed to block all the private Titter accounts of the entire company that were involved in the dissemination of the pictures.
+
+However, Mars was in a very passive situation.
+
+First, all their official Titter accounts were banned.
+
+Second, all of their partner media outlets had collectively lost their voice. After receiving Li Mu's warning, no media outlet was willing to speak up for them.
+
+Third, the private accounts of their employees could not escape surveillance. Just as they were about to stir up trouble, they were pinned down on the ground by Li Mu.
+
+Now, Mars suddenly realized that as one of the world's top 500 companies, they did not even have a channel to speak up!
+
+Mars' CEO Neil began to panic. He originally thought that he would jump out and try to gain some popularity, and Li Mu would not care. However, he did not expect that Li Mu could not tolerate his behavior at all. He had to make Neil and the entire Mars Group pay the price and give them a severe punishment.
+
+Just as Mars could not think of a solution for a while, a tweet suddenly became popular on Weibo's Titter.
+
+This tweet was specially attached with the link to an article. This article was filled with a large number of netizens from all over the world complaining and complaining about Mars' products. Most of them were related to food safety, such as excessive use of certain food additives, concealment of actual calories, failure of health inspection, illegal addition of food attractants, and various other negative news. These negative news came from the personal experiences of netizens from all over the world.
+
+As soon as this article came out, a large number of users reposted it. Some even copied and pasted it directly to their personal homepage, attracting a lot of attention in an instant.
+
+The time span of the material in the article was about the last two to three years. Some of these negative news had once attracted a certain amount of attention in a certain area at a certain time, and even caused a sizable sensation. However, thanks to Mars' strong public relations capabilities, these negative news gradually sank into the sea.
+
+However, now, these negative news had all been excavated and made public to the world again. A large number of negative news was exposed at the same time, and it immediately attracted a lot of attention.
+
+Negative news alone was not convincing enough for most users. However, when a large number of negative news swarmed in, each negative news had a mutually reinforcing effect. In the eyes of the people, not only could they increase each other's credibility, but they could also verify each other's authenticity.
+
+Although what Li Mu arranged for Zhao Kang to do was sinister, there was no slander. All the negative news in this article had actually happened. Therefore, even if people thought it had ulterior motives, Li Mu did not care at all.
+
+This made things difficult for Mars. They had used so much manpower and material resources, and paid so much cost to finally resolve the negative news one after another. Now, all the evidence that had been buried had been dug out and even spread wantonly on the entire Internet. This had a huge impact on Mars' reputation.
+
+There was suddenly a lot of scolding on the Internet. Many people did not have a good impression of Mars. Now that these dark history had been exposed, it made everyone's impression of Mars even worse.
+
+The most unacceptable thing for Mars was that there was originally no content about Mars in the entire Weibo Titter platform because it was all officially blocked. Now, the name of Mars, as well as the names of a large number of its products, had finally appeared on Weibo Titter again. However, it was done in such a dark way, which was even more unacceptable for Mars.
+
+Neil, the CEO of Mars, yelled at the computer, "What the hell is that damn Makino Technology doing?
+
+Didn't they block our keywords?
+
+Why can this article still be displayed unscrupulously? "
+
+A manager in charge of Mars' own IT department said, "We have tried several times before. Our company name and product name have indeed entered the blocking logic of Weibo Titter. As long as it is triggered, it will definitely be blocked."
+
+Neil reprimanded, "Then let me ask you, why is there no problem reading this article?
+
+According to the shielding logic you mentioned, it shouldn't be able to be displayed! "
+
+The technical manager explained, "Mr. Neil, generally speaking, no set of algorithms can only have one logic. There are inclusiveness and primary and secondary logic. For example, we can set a logic that blocks any content that contains any of the five numbers 1, 2, 3, 4, 5. If that's the case, then no matter what number we post, as long as it contains any of these five numbers, it will be blocked."
+
+As he said that, the technical manager explained, "On this basis, I can write an exception logic. For example, block any content that contains any of the five numbers 1, 2, 3, 4, 5. However, when '1122334455' appears as a field, this content will not be blocked. In this way, 1122334455 is an invisible key, an absolutely safe security code. As long as you write '1122334455' in the article, your content will definitely not be blocked."
+
+Neil frowned and said, "You mean, Makino Technology added a keyword of exception logic to this article?"
+
+The technical manager nodded and said, "I really think so."
+
+Neil could not help but ask, "Then can you calculate what the trigger word of Li Mu's exceptional logic is?
+
+If we can find that security code, we can also use this security code. Then, can't we publish freely? "
+
+The technical manager smiled bitterly and said, "Mr. Neil, this article has thousands of words. It is too difficult to test which is the security code."
+
+Neil said in exasperation, "Try it bit by bit. I really don't believe it. Check it carefully!
+
+The technical manager said helplessly, "Then I'll use the elimination method first."
+
+“
+
+As he said that, he opened his Weibo account, Titter, and reposted the article that ridiculed Mars just now without missing a word.
+
+Immediately after that, he used a colleague's computer to log into another Titter account and follow himself. This time, he was surprised to find that the content he posted was finally displayed.
+
+Neil did not understand the technical manager's trick and could not help but ask, "What do you mean by reposting this article?"
+
+The technical manager said, "First, make sure that this article itself will not be blocked. Now, this has been confirmed."
+
+As he said that, the technical manager said again, "Now, I will randomly change a letter and try again. This article has thousands of words and over ten thousand letters. If I randomly change a letter, I am afraid that it will be difficult to trigger their blocking logic with a change rate of less than one in ten thousand. If it does not trigger, I will continue to look. If it does trigger, there is no need to look anymore."
+
+Neil asked in surprise, "There is no need to look anymore if it triggers?
+
+What does that mean? "

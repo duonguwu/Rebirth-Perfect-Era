@@ -1,0 +1,105 @@
+Chapter 242
+
+The new week meant a lot to Li Mu.
+
+On Monday, Hui Ka Ming accompanied him to sign the contracts with the two major banks.
+
+On Tuesday, Li Mu got the same contracts from Bank of China and Construction Bank.
+
+In other words, after getting the four contracts, Li Mu's Alipay plan was completely smooth. All that was left was to connect to the banks and test it online.
+
+In order to encourage the parents and students of 3321 to use Alipay to pay and receive payments, Li Mu decided to waive all commissions for Alipay users during the first week of Alipay's launch. Because the students of 3321 took weeks to upload their lessons, this discount would have a negligible impact on the student's financial aid in the future. However, a real discount would definitely make users brave enough to take the first step to use Alipay.
+
+Once Alipay was launched, it would be very closely bound to 3321. Currently, even online banking users would need to log in to the online banking after bidding for the students' lessons, enter and verify the remittance amount and account number. The user would have to wait for the customer service of 3321 to verify it. Because 3321 remitted a lot of money every day, it would take time for it to be verified.
+
+If the online banking users switched to Alipay, it would be very simple. After the user finished bidding, the page would show the amount of payment and give the Alipay payment option. The Alipay user only needed to click on the Alipay payment option, and an order would be generated just like Taobao in the future. The order had a clear amount of money and a unique order number. The user could directly log in to their Alipay account to make the payment. There was no need to enter the amount of money or the account number. Moreover, as long as the user transferred money to Alipay from any of the four major banks, it could be confirmed in real time. Because Alipay had merchant accounts in the four major banks, it was easy and fast to transfer money from each bank into Alipay.
+
+Things that truly brought convenience to users only needed to let them take the first step. Then, things would be much simpler in the future. Everything would come naturally.
+
+Li Mu waited for the official launch of Alipay. At the same time, he had to start preparing for the financial aid in Haizhou this weekend.
+
+Li Mu knew Haizhou very well. It was not very poor, but there were many poor students. For example, there was a middle school in the town where his grandparents lived. Although it was not as poor as Liu Nian's hometown, it was not much better.
+
+On Monday, Li Mu and Dong Ai decided on this middle school. He asked Dong Ai to contact the school and set the financial aid period for next Monday. He could also take some time to go back and visit his parents.
+
+It was said that Dong Ai knew that she would go to Li Mu's hometown to be a tutor this time, so she suddenly became very excited. She did a lot of things by herself, and she was thinking over every detail repeatedly. She was very careful.
+
+On Tuesday night, Li Yawei returned to the dormitory and said to Li Mu, "Senior Sister Ai is a little strange this week. She used to let us handle a lot of things, but this time, she suddenly went over on her own. She dragged us through the details several times at night."
+
+Li Mu did not think much about it. After all, it was his first time going to his hometown. He was also the founder of 3321. It was normal for Dong Ai to put in more effort for his sake.
+
+…
+
+These days, Li Mu only thought about two things. Write the core framework of the social media software and write the script.
+
+Li Mu was going to name it YY. It was not that he wanted to make a voice now, but it was easier to remember and pronounce the two letters together. Crooked Crooked Crooked Crooked Crooked Crooked.
+
+For Li Mu, who had experienced the era when the mobile Internet completely crushed the traditional Internet, he understood that the purpose of a name must be easy to remember and read. As for how much meaning there was in it, there was no need to pursue it. Users would not care.
+
+Whether it was QQ, MSN, UC, WeChat, Momo, or Mi Chuan, the name did not have much meaning.
+
+Li Mu's settings for the first version of YY not only had to include all the current QQ functions, but also a few more important functions. For example, the friend group chat function, the user ranking system, the personal cartoon show function, and the electronic pet function.
+
+Li Mu felt that these four core functions were the most necessary products at the moment. The use of group chat with friends was aimed at the currently popular online games and competitive games. Users with the same hobbies and attributes urgently needed a group chat tool for instant messaging. However, the QQ group service would not appear in the next one or two years. Therefore, if he took this function out, it would definitely be very attractive to QQ users.
+
+The user ranking system was to increase user loyalty. Needless to say, everyone knew this.
+
+The personal cartoon show was to imitate the QQ show because the current Internet was too monotonous. The current QQ was extremely ugly, without any details or beauty to speak of. The current website was also extremely old-fashioned and square. In order to open it quickly and save bandwidth, even the pixels of the pictures were pathetically low. Users needed a strong visual impact. If the QQ show was introduced at this time, it would definitely be an earth-shattering event for young people.
+
+The electronic pet was very simple. This thing was designed to increase user loyalty. Its logic was the same as the happy farm. It wanted to stimulate users to go online as much as possible every day and ensure that they stayed online for as long as possible. Moreover, the pets could do a lot of interaction with friends' pets. To a certain extent, it would promote the interaction between users.
+
+In addition to these three functions, there were also Tieba's personal space and Happy Farm. When the time came, Tieba would also be renamed to YY Tieba, and it would be deeply integrated with YY software. With this combination, Tencent would be dumbfounded and overwhelmed.
+
+As for the functions such as email, network hard drive, file transfer, and so on, to the current netizens, they were almost useless, so it was not considered for the time being.
+
+In addition to these sections, there were also some subdivided functions, such as custom friend groups, custom friend notes, custom friend access space, photo album permissions, and so on. These were all small details to enhance the user experience.
+
+The last important thing was the VIP privileges. Li Mu planned to directly imitate the future QQ. VIP would have a red name and a built-in top in the friend list. VIP could be invisible to specific users when they were online, and could be visible to specific users when they were offline. They could customize auto-reply when they were offline, and they could have more fun emoticons. Most importantly, it was the cloud service. As most users did not have their own computers, they were all online in Internet cafes. Therefore, Li Mu wanted to develop a cloud storage function for VIP users, which was similar to QQ's chat history roaming.
+
+In addition to these, the rest was the UI design. It must be beautiful, novel, and high-class. It must be on Windows 98, Windows 2000, and WINDO WS-Xp. It must be the most beautiful software with the UI design.
+
+If all these could be achieved, they would have a 99% chance of winning the foundational battle.
+
+The requirements were listed, but it was a long process to write the core framework. Luckily, Li Mu was not in a hurry. He will wait until his Weibo and Happy Farm were released and became popular before he released it. At that time, Tencent might not realize that Tieba was a social media platform. They might be trying to copy Li Mu's Happy Farm. But they did not expect Li Mu to release a new social media platform that was more advanced than QQ. Li Mu had taken out the firewood from under their feet.
+
+Since it was the foundational battle, it was better to be ruthless.
+
+Li Mu had made some changes to the script of Oldboys based on the original novel.
+
+First of all, the main characters changed from the Chopsticks Brothers to Simple Plan. The main male character was Zhang Kexuan, the second male character was Ye Tianming, and the female character was Zhang Kexuan's first love in high school. As for the third male character, he was the villain. He was in the same high school as the main character, but he was always suppressed by the main character. He was even taught a lesson by the main character. After he entered society, he made a lot of money and got the female character.
+
+In terms of the plot, Li Mu's settings were: Simple Plan. The four of them were obsessed with Beyond in their third year of high school. When their classmates were preparing for the college entrance examination, they played a band instead. The male and female characters liked each other, showing a vague campus relationship that evoked memories of their youth. The villain also liked the female character, but he could not attract her attention.
+
+Then, in a campus singing competition, Simple Plan performed a classic love song "Like You" by Beyond. Before going on stage, the male character, played by Zhang Kexuan, used this song to confess to the female character. After the performance, the two finally got together. Originally, they planned to go to school in Yan Jing, which they both dreamed of. Unexpectedly, out of jealousy, the male villain told the teacher about their love, which caused the teacher to be furious. Later, the teacher informed the parents of the two. Zhang Kexuan was slapped in public by his furious father, while the female character was arranged to transfer schools by her parents.
+
+The male character, played by Zhang Kexuan, ran away from home with a guitar because of the conflict between him and his father. He became a vagrant singer. The female character was admitted to a famous university in Yan Jing as she wished, but she could not contact him no matter how hard she tried. Thinking of their original agreement, the female character was heartbroken. When she took the train to Yan Jing to go to school, the male villain also boarded the train with her. The male character, played by Zhang Kexuan, also boarded the train in a city midway with his guitar on his back. However, one of them tossed and turned sleepless in the sleeper, while the other smoked at the junction of the hard-seat carriages all night. They did not meet.
+
+Many years later, the male character, played by Zhang Kexuan, was still a bar singer in a bar in Yan Jing. The second male character, played by Ye Tianming, had long given up music. Just like Wang Taili in the original plot, he opened a shabby barbershop at the corner of the street in his hometown. Customers deliberately made things difficult for him.
+
+At the same time, Zhang Kexuan saved money to buy a second-hand Alto in Yan Jing. Just when he was happy that he had his own car, he had a rear-end accident on the road and hit the male villain, Benz. Here, it was the same as in the original plot. The male protagonist, played by Zhang Kexuan, would be slapped in the face by the male villain with a smile. The male villain would also tell him that he had produced a music competition program on the TV station. Here, Li Mu made a little change. He let the male villain personally tell the male protagonist that he had tried his best to marry his first love during the years when the male protagonist was missing.
+
+The male protagonist, played by Zhang Kexuan, was devastated. After drowning his sorrows in alcohol, he recalled the band brothers and his first love. Suddenly, he cheered up and immediately bought a ticket to return to his hometown. He found Ye Tianming, who opened a barbershop and was depressed. He also found two other friends whose dreams had already been worn down by the salt and vinegar. The four of them formed a band for the sake of the prize money and their dreams. They also wrote a song, "Fly Higher".
+
+They brought "Fly Higher" to Yan Jing. The four of them won first place in the preliminary competition. The male villain saw that he had outsmarted himself and tried to use his connections to make them fail in the live finals. He did not expect that in the finals, the band would bring out a tear-jerking song, "Old Boys", which moved all the judges and the audience. Even though the male villain kept sending text messages to the judges, threatening them to change their scores, the judges were unmoved.
+
+In the end, with a simple plan, the four of them finally reached the top of the competition as they wished. The female protagonist, who was watching the live broadcast in the mansion, cried her eyes out. She got up and ran out the door without a care. The entire drama gradually came to an end with her back view and the song "Old Boys".
+
+In the original script, the female protagonist was basically a supporting character, and she was a bit of a gold-digger. However, in this version of the script written by Li Mu, he tried his best to portray the female protagonist in a positive light. He did not portray her as a realistic gold-digger. Instead, he portrayed her as someone who was hurt by the male protagonist, played by Zhang Kexuan. Zhang Kexuan had avoided her for many years, but she still loved him even after so many years.
+
+The reason for this setting was because Li Mu felt that the biggest difference between this drama and the original version of "Old Boys" was that the original version of "Old Boys" was focused on making the Chopsticks Brothers famous, so almost all of its energy was focused on the two of them. Under such circumstances, the original version naturally could not portray a female protagonist who could move and make the audience like her. However, in this version, there was no need to deliberately make these people famous. Especially Zhang Kexuan, who was already very popular. In this micro movie, he would become the target of everyone's attention and love. Under such circumstances, he might as well portray a positive female protagonist, one that could move and make the audience like her. It could also be considered as making full use of the resources.
+
+Moreover, in his mind, Li Mu already had a perfect candidate for the role of the female protagonist.
+
+This candidate was Du Wei, whom he met at the birthday party.
+
+Du Wei was still young, but her looks were very good. She looked very pure and fresh, and with the fact that she studied music, she had an aura of spirituality about her. She was very suitable for the role of the female protagonist. Moreover, she was also Zhang Kexuan's fan, so if he tricked her into acting in this movie, he might even be able to save on her salary. Moreover, this girl's looks were very good. Perhaps after this micro movie was released, it would also make her famous. In the future, even if she did not take the film route and chose to take the music route, it would still be a great help to her. Even if Du Wei's family was very rich, they might not be able to help her find good works, nor might they be able to make it popular. But this micro movie had been very popular in his previous life. Now, this movie had a simple plan, Zhang Kexuan, stirring up emotions, nostalgia, campus youth, and the song "Old Boys" to back it up. As long as it was released, it would definitely become very popular.
+
+After the script was written, Li Mu immediately contacted Zhang Kexuan. He spent half an hour on the phone to repeat the script in detail to Zhang Kexuan. Zhang Kexuan turned on the speaker and gave a simple plan. The other three also listened on the side without missing a word.
+
+After listening to it, the four of them did not speak for a long time. When Li Mu asked how it was, the four of them replied excitedly in unison, "Good!
+
+That's great!
+
+When do we start filming?
+
+What do you need us to do? "

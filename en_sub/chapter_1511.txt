@@ -1,0 +1,75 @@
+Chapter 1511
+
+Twitter itself was a pure web product. The core was to publish information and display information flow through the web. The overall difficulty of developing it was not high.
+
+If you were to develop a website, you would need to have a front desk and two to three back offices. The front desk would be the display page of the website, an author's back office would be for the authors to upload their works, a back office would be for the editors to manage the works and various recommendation spots on the website, and a back office would be used to monitor the website's data.
+
+Since Twitter was within Makino Technology's own big data architecture, other than the front desk, only an additional management back office would be needed.
+
+Makino Technology already had several large web products such as YY net, YY space, and blog. Therefore, not only did it have a strong advantage in product development and technology construction, but it could also save a lot of effort in the underlying architecture. Moreover, it had its own powerful data processing center, so it was very easy to support the launch of such a product.
+
+Overall, Chen Tong told Li Mu that Twitter only needed to wait for a little more than a week, at most ten days, before it could start internal testing.
+
+In Li Mu's previous life, Sina decided to develop Weibo in July 2009, and the closed beta version was already launched in August of the same year. From this, it could be seen that for a big company, the development of a web product was not a big project at all.
+
+After Li Mu got this timing, a bad idea came to his mind. He said to Chen Tong, "Microsoft is plotting to re-enter the social network route. I guess they want to bring out MSN and its series of products again. Based on your understanding of Microsoft, where do you think they will cut in from?"
+
+Chen Tong asked in surprise, "Is Microsoft really going to re-create MSN?"
+
+Li Mu said, "I'm not 100% sure, but I'm at least 80% sure."
+
+Chen Tong nodded gently, thought for a moment, and said to Li Mu, "Although Microsoft is powerful, they do not have a strong internet product distribution channel. If they directly launch MSN, it will be like Sun Wukong at the foot of the Five Elements Mountain in front of YY. It will be too much pressure. So I think Microsoft may find a way to cut in from other areas."
+
+Li Mu said, "The other areas that I can think of are social games, social networks, online music, and blogging platforms. Social games need social software as the soil, so they can't develop this first. Web portals have accumulated a lot of traffic. In this era of information explosion, content homogenization is also very serious. It will be difficult for MSN portals to develop in a short period of time. As for online music, I think it's even more hopeless. YYtunes has the support of Mango-ME player, so Microsoft can't touch it at all. So I think Microsoft may cut in from blogs, or other areas that we don't know yet."
+
+"Blogs …" Chen Tong said, "Actually, after this period of operation, and comparing the data of your short blog, we can conclude that blogs will not be widely used. Microsoft's choice of blogging at this time is a little off."
+
+Speaking up to here, Chen Tong asked Li Mu, "Do you think Microsoft will also choose the same direction as us, which is to reduce the weight of their blogs?"
+
+Li Mu laughed and said, "Every company has its own exploration stage. Only we know what we did when we crossed the river, and they still need to go through it again. Based on Microsoft's way of doing things, I don't believe they can skip the blogs and directly enter Weibo."
+
+Chen Tong nodded lightly and sighed in relief. "I've been busy with the design and development of Twitter, and I feel that this is a new direction for a social product. Moreover, it's quite fast-paced. All the comments and opinions of users from all over the world are gathered on Twitter. It's like everyone is making a dish for the users to choose from, and every user is eating a custom-made buffet. This kind of product model has a huge freshness and appeal to users, so it's very important to take the lead. If we lose the lead, it'll be very difficult to rise against the trend even with YY's support."
+
+Li Mu agreed with what Chen Tong said. Tengxun's QQ is way ahead of Sina, but on Weibo, Tengxun can't shake Sina Weibo's position. This is the importance of taking the lead.
+
+Other than that, the reason why Sina Weibo could remain invincible in the era of Weibo's popularity was because of their celebrity resources.
+
+In the era of blogging, Sina had many celebrity bloggers. These celebrity bloggers were basically big shots in the entertainment industry with their own traffic. Even if they were not A-listers, they were at least A-listers or B-listers. So, when Weibo started, these opinion leaders with their own traffic had a strong effect. They were like sponges that absorbed water and could quickly attract a large number of users.
+
+By the time Tengxun wanted to catch up, most of the celebrities had already joined Sina Weibo. That's why Tengxun was in a passive position. Furthermore, the product experience was not good enough, and the follow-up operations were not good enough. That's why it was hard to even get close to Sina Weibo, let alone overtaking Sina Weibo.
+
+However, Li Mu now had a very good foundation. Stars from the mainland, Hong Kong, Macao, and Taiwan, as well as from neighboring countries such as Malaysia, Singapore, Japan, and South Korea were all very close to Muye Technology. They had already started to run their own Tieba and later their own blogs. They had a large number of fans in the product system of Muye Technology. If Muye Technology's Weibo, or Twitter, was launched, these stars could be converted into Big V users in the first place.
+
+As for Europe and the US, Makino Technology has YYtunes, a leading online music product. It will not be a problem for Makino Technology to recruit singers. Also, Tengxun does not have to worry about movie stars. After all, there is still Spielberg. Most of the Hollywood stars will have to give in to Spielberg. This way, all the celebrities in Asia, Europe, and the US will join Twitter immediately. By that time, Microsoft will not be able to catch up even if it wants to.
+
+… …
+
+At this time, Microsoft is still trying to find out the true meaning of the "Twitter Division."
+
+The reason why Microsoft has been thinking about Makino Technology's Twitter Division is because Twitter's debut is a social product. Microsoft is much weaker than Makino Technology in terms of social networking. Based on the current situation, it will be difficult for Microsoft to steal a wave of social networking. If Makino Technology has new products in this field, then Microsoft's preparations will be in vain.
+
+Although Microsoft is a giant in the software and operating system industry, its foundation in the Internet industry is very ordinary. Compared to Makino Technology, Microsoft is like heaven and earth.
+
+If the entire PC industry is compared to the physical industry, hardware manufacturers are like real estate developers. Every netizen's residence is closely related to them. Whether it is renting a house or buying a house, it is inseparable from the buildings built by these developers.
+
+A company like Microsoft, which focuses on developing operating systems and software, is like the leader in the home improvement industry. Netizens need to use the flooring, lighting, kitchen appliances, and toilets provided by them.
+
+But a pure Internet company like Makino Technology does not participate in these competitions. Makino Technology provides its users with a TV, telephone, and mobile phone. Of course, houses are more important to the users. But it is undeniable that the closest to the users are still the mobile phone, telephone, and TV. This is because these include people's daily needs for entertainment, social interaction, and information.
+
+Makino Technology is the Godfather of the Internet industry. No other company is closer to the users than them, and no other company has a better relationship with the users. That's why Microsoft's top management is very concerned about Twitter. They tried all sorts of methods, but they could not find out the true identity of the Twitter project.
+
+However, they never dreamed that their social conspiracy has been seen through by Li Mu. All this is thanks to their Vice President. If he did not show too much attention to the Twitter project in front of Li Mu, Li Mu would not be suspicious of Microsoft's current intentions.
+
+At Microsoft's internal meeting, the new head of MSN Division reported to Bill Gates: "We have deeply studied the blog business of Makino Technology at this stage, and we can basically conclude that Makino Technology has not launched its blog business globally. The main market of their blog is in Hua Xia, at most the Chinese user market. They have not taken the initiative to push into the non-Chinese user market. Now the overseas users are basically natural. Because there are not enough well-known non-Chinese bloggers, their foundation in the overseas market is still very weak. This is a good opportunity for our blog product to cut in."
+
+Bill Gates carefully looked at the development of Makino Technology's blog at this stage, and he also very much agreed with the view of the head of MSN Division. At present, Makino Technology's product line is too wide. It is like a country's battle line is too long during wartime. There will inevitably be weak links. It seems that the weak link of Makino Technology at this stage is the blog.
+
+Microsoft was very well prepared for the blog this time. They not only developed the MSN-Blog, but also developed a supporting blog editor. This editor is really very useful for the blog. It is undeniable that Microsoft's research and development of software tools is absolutely the world's top.
+
+The most amazing thing is that the Microsoft team also made this editor into a plug-in that supports Office. Users can directly import the original office files into the editor, and the editor can directly convert it into a blog and publish it. All the formats, pictures, tables, hyperlinks, and other information can be completely restored on the Web. Whether it is Word, Excel, or PPT, the effect is perfect.
+
+Microsoft is very satisfied with this editor and the supporting office plug-in. They think that this thing is simply a genius. However, if Li Mu sees this thing, Li Mu will definitely give it all the disdain.
+
+This was indeed how a group of engineering men did things. They liked to solve all their needs with a complete set of engineering solutions. The simplest example was that when liberal arts students were in the pet market, they would think of designing cute pet costumes, leashes, pet toys, and other pet products. However, the research direction of engineering men had completely deviated from the skill tree. They would develop automatic water dispensers, automatic feeders, automatic litter boxes, and automatic dog-walking robots, and they would go further and further down the road of automation …
+
+Microsoft did not understand one thing. People are not enthusiastic about the blog. It is not because the specific operation of the blog is too troublesome. The two biggest hindrances to the development of the blog are the authors' ideas too troublesome, and the readers' reading is too troublesome. These two points cannot be solved by tools alone. Even if they solve these problems with an automated editor, it will only be like scratching an itch through the boot.

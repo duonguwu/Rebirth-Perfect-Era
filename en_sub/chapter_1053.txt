@@ -1,0 +1,99 @@
+Chapter 1053
+
+The launch of the YY "discussion group" function once again refreshed the elite group's understanding of YY, as well as their understanding of the creation of YY products.
+
+Originally, as one of the core functions of YY, the YY group had already surprised users who had a need for group chat. Even now, the popularity of the YY group had not subsided. Even now, MSN and ICQ were still working hard to develop their own "YY group" functions.
+
+In the end, no one expected YY to launch a new product that strongly complemented the YY group at this time. Moreover, the way it was used was so simple that it made people cry.
+
+When a user temporarily needed to engage in a small group chat, he no longer needed to specifically register a YY group, nor did he need to worry about reaching the limit of the number of YY groups. He only needed to open a dialog box with one of the people, then use the mouse to "pull" the person he wanted to join the group chat.
+
+As long as a person was added to a one-on-one private chat, YY would automatically create a discussion group with three users. With a click and drag of the mouse, a good friend would be pulled into the group. This extremely smooth experience was addictive.
+
+In order to widen the gap with the YY group, to a greater extent and not conflict with each other, the YY discussion group function had certain castration and restrictions. First of all, the upper limit of the discussion group members could not exceed 20 people. Second, the discussion group did not have an ID. In other words, the discussion group could not be opened to all YY users to join. It could only be manually pulled in by the members of the discussion group. In this way, the discussion group itself had become a place for friends to communicate with friends, or with friends of friends of friends, and the relationship with real people was closer.
+
+In addition, there was a very important difference between the discussion group and the YY group.
+
+Because of the large number of people in the YY group and the messy network, the user had to take the initiative to apply to join the group, and the group manager had to confirm; or the group manager and the manager had to invite the invited person to join the group, and the invited person needed to confirm to join the group.
+
+On the other hand, the product logic of the discussion group was very clear. Because the members of the discussion group were all good friends or good friends of good friends, their connections were relatively simple. Moreover, those who could pull one into a certain discussion group must be one's good friend. Therefore, the possibility of being pulled into a discussion group by mistake or being pulled into a discussion group maliciously was greatly reduced.
+
+It was precisely because of this clear understanding that the discussion group did not need to verify the need to recruit people, further simplifying the process of creating a discussion group. The product logic might not seem impressive, but after careful speculation, one would find that the product had in-depth research on users, user relationships, and user experience.
+
+This was the key reason why the majority of the industry, and even the entire elite group, admired Teng Xun. But fundamentally, it was also a display of Li Mu's admiration for Teng Xun's products. It was undeniable that in his previous life, Teng Xun was Hua Xia's best at playing with products on the internet. He also had the deepest understanding of users.
+
+Because the discussion group function was full of surprises, it immediately became popular among the YY users as soon as it was released!
+
+The data in the background of YY showed that within twenty minutes of the new update, the server had received an astonishing 27 million discussion group creation requests. It seemed that everyone was enjoying this function.
+
+The American elites, who happened to be around nine o 'clock in the morning, were playing with this function. They would always casually create a small internal discussion group, and then create a few other strange discussion groups.
+
+For example, they would create a discussion group that liked to buy Starbucks coffee every morning, create a discussion group that liked to eat Chinese food at noon, create a discussion group that liked to hang out in bars after work …
+
+In short, because the discussion group was completely open to applications and there was no limit to the number, everyone felt the thrill of "extravagance" for the first time.
+
+In the past, the number of YY groups was very precious. Even the members had to use it sparingly. It was impossible for three to five people to casually create a group chat. However, all this experience had been subverted. Users could mix friends at their fingertips and form groups at will. Their desire for control was unprecedentedly satisfied.
+
+However, the major update of YY 3.0 was far more than that.
+
+What really made the elite group kneel down was YY's incomparably powerful online preview function.
+
+Whether it was a user's offline file transfer, a user's YY email attachment, whether it was Word, Excel, PPT, TXT, PDF, or all kinds of pictures and blueprints, all could now be viewed online in YY.
+
+The most powerful thing about this heaven-defying online preview function was that it did not require the user to install the corresponding software.
+
+If you did not have Word on your computer, whether it was a Word file sent by a friend or a Word file attached to an email, the first thing you had to do to open it and view the contents was to download the Office-Word software.
+
+The same applied to other types of documents.
+
+Now, YY grandly announced to all users: Your previous experience of document interaction was all inferior!
+
+Now, YY will bring you to experience a whole new realm of document interaction!
+
+From now on, you don't need to download any software. As long as you have YY software and YY email, you can basically achieve most of your document interaction needs.
+
+For ordinary users, this function may not be that amazing. It was not even one-tenth as interesting as the discussion group. However, for the elite group, this was simply a subversive office experience.
+
+With this function, their work efficiency in the future would be greatly improved. They could view any document at any time without considering whether or not there was a software environment. As long as they had the Internet and YY, most work-related documents could be viewed online. With this powerful function accompanying their daily work, not only would their efficiency be greatly improved, but their experience would also be qualitatively improved.
+
+All the YY users who were in contact with computers during their daily work just wanted to cheer in front of their computers at that moment. Meanwhile, the entire Silicon Valley's Internet counterparts were stunned by this new function of YY.
+
+How did Makino Technology do it?
+
+How did he achieve the online preview function for a variety of documents in IE or in a preview window?
+
+Wasn't this a little too much?
+
+How much technical cost was needed to achieve this step?
+
+However, after the experts studied it, they were shocked. It turned out that the product logic of Makino Technology was very simple. All the file types were placed in the server to complete the reading, and then the server converted them into page form before presenting them to the user visually. This method of saving the country in a roundabout way really subverted the understanding of all product managers.
+
+For the peers, YY could always subvert the understanding of the peers. It even used its unique product concept to make peers mistakenly think that they did not understand the product at all.
+
+According to the logic of everyone's previous consideration of the problem, users needed to interact with each other. Then, they would satisfy their file interaction needs. For mailers, they would add an attachment function to the mailbox. For instant messaging, they would add a file transfer function. Wouldn't it be fine as long as the user's need to transfer the file to another user?
+
+Who the f * ck cared what the user would do after receiving the file?
+
+If he wanted to open it, he could open it with the corresponding software. If he didn't want to open it, he could just leave it there and no one would care.
+
+However, the logic of Makino Technology was completely different.
+
+If Makino Technology was just like other mailbox and instant messaging software, which only solved the problem of users transferring files to another user, then Li Mu would be no different from the product managers of other companies.
+
+If he wanted to polish a more detailed product, he must learn to "answer questions beyond the syllabus." He must not only meet the needs of users to transfer files, but also further meet the needs of users after receiving the file, such as online preview.
+
+Only by considering things for users that he himself had not considered, could such a product be successful.
+
+At this moment, Makino Technology truly conquered its peers in Silicon Valley with its product concept that transcended the entire Internet industry.
+
+At this moment, Microsoft's MSN team was almost in complete despair.
+
+The current opponent was almost invincible. Compared with YY, whether it was the current version of MSN, the new MSN that was about to be launched, or the complete version of the new MSN that MSN originally planned to develop, they could not be compared with YY at all.
+
+The state that Li Mu conveyed to the world, on the surface, seemed to be the old Hua Xia saying "sharpening the knife will not delay the work of cutting firewood." But what he really wanted to express was his calmness and confidence.
+
+When everyone thought that YY was impeccable, the latest version update led by Li Mu let the world see the ingenuity of Makino Technology in making products. At the same time, it also won the respect of all peers. This update made the entire Western Internet industry begin to reflect on their previous lack of ambition and narrow-mindedness. At the same time, it also opened up a new world for them. It made the practitioners with real pursuits realize that a truly good product was the endless exploration of user needs.
+
+After experiencing the latest version of YY, the editor-in-chief of Silicon Valley Magazine excitedly made a three-word evaluation of YY in his blog: Best-Product-Ever (the best product in history).
+
+He didn't feel that his evaluation was inappropriate at all. He said in his blog: "YY may not be the greatest product in the history of the Internet, but it is definitely the most perfect product in the history of the Internet. A series of great products, including Windows, are of great significance in the history of the Internet, but these products do not understand users better than YY and can surprise users more. If Windows is the wheat in your Internet life, then YY is your dream lover in your Internet life. It can help you realize everything you think about, even things you didn't think of, it can help you realize!"

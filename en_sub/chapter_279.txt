@@ -1,0 +1,75 @@
+Chapter 279
+
+A product manager's focus on the user experience was the biggest characteristic of his career. The Q Bar's product manager was no exception. The server was overcrowded and the website had to be shut down temporarily. This in itself was a great harm to the user experience. Now that they had to activate the verification code and limit the time users could post, the impact on the user experience was even greater.
+
+However, Luo Zhongwen knew that it was nonsense to talk about the user experience now. Having been in touch with the Internet for so long, he had never heard of nearly a million people attacking a website together. This was probably a record. If he didn't quickly come up with an effective response, he would have to prepare his resignation letter tomorrow. In times of crisis, how could he still care about the user experience?
+
+Besides, the Q Bar didn't have many loyal users now. Now that it had attracted a million people to cause trouble, if he still cared about the user experience now, he would basically be digging his own grave.
+
+Therefore, at 10: 20 AM, the Q Bar could no longer be opened …
+
+After Luo Zhongwen requested for the server to be shut down, he immediately called his direct superior, the company's vice president, to report the sudden situation. When the other party heard about the Q Bar's explosion, he was silent for a while before saying solemnly, "We'll do as you say for now. But before we go online again, these rubbish data must be deleted. If there are any more users causing trouble after we go online, select the most active ones and block a batch of accounts to serve as a warning to others."
+
+Luo Zhongwen hurriedly said, "I understand. I'll arrange for the technicians to delete all the new content after 10 AM."
+
+"Also, hide the content you moved from Tieba first. This matter has blown up so much that the industry insiders will probably hear about it tomorrow. We don't know what kind of negative impact it will bring. The Internet Conference is the day after tomorrow, so don't release this batch of content for now. See if there's any reaction from the industry. If there's no reaction, then release the content."
+
+"I understand. Don't worry." Luo Zhongwen also knew that if the industry insiders were to comment on this matter, the Q Bar would definitely not get any sympathy.
+
+In that case, Q Bar would definitely not receive any sympathy. It might even be nailed to the pillar of shame on the internet. It was also a good thing to hide this batch of content first to prevent others from making an issue out of it.
+
+Taking a step back, even if someone came looking for trouble, Q Bar could still find an excuse for itself. It could completely blame the copying of Tieba's content on the actions of certain users. Then, Q Bar could stand on the moral high ground and announce that it had taken the initiative to delete the content and deal with the infringing users.
+
+How many other companies in the industry were so responsible?
+
+After hanging up the phone, Luo Zhongwen immediately arranged for the technical staff to work in various directions. They wrote a ready-made verification code mechanism into the Q Bar's backend program, and started to delete content and restrict users from posting. Most importantly, they had to immediately expand the server and bandwidth. Otherwise, even if the Q Bar limited users to one post per hour, the hundreds of thousands of users would probably crash the Q Bar's server once again.
+
+Luo Zhongwen requested for the server to be able to handle millions of users posting at the same time.
+
+This way, if the other party were to make a comeback, the Q Bar would be able to stand firm in the first wave of posts. As long as it could stand firm in the first wave, it would be easy to deal with it. The one hour limit would be effective. This one hour was enough for the technical staff to delete content and ban accounts. It would definitely be able to reduce the other party's aggressiveness by more than half!
+
+…
+
+During the period when the Q Bar could not be accessed, the forum members returned to the "Tieba Family" to celebrate their victory.
+
+Hundreds of thousands of people posting and replying at the same time. The speed at which the screen was refreshed could practically set a Guinness World Record.
+
+The various titles basically had a few core themes: The forum members of Tieba are too awesome, the forum members are too united, the forum members are too powerful, the Q Bar is kneeling, it should have been kneeling long ago …
+
+With such a huge influx of data, it really tested the capacity of the Tieba Bar's server.
+
+Fortunately, Li Mu kept telling Kong Lingyu that the server and bandwidth reserves must be sufficient.
+
+The server and bandwidth reserves must be sufficient. From the start of the Easy Listening Network until now, Li Mu had never let his two websites be troubled by server problems. It was the same now. He was strongly supporting this carnival of Tieba users.
+
+Li Mu held his laptop at home and watched the battle. Although he did not personally participate in the activities of the Tieba Bar, he personally planned this incomparable large-scale online battle.
+
+But after personally planning this unparalleled large-scale online battle, he felt a sense of pride in his heart. Didn't Q Cafe pirate his own content?
+
+This time, I gathered hundreds of thousands of users to send content to you guys. Did you guys feel good all of a sudden?
+
+However, while the friends on Tieba were celebrating, Li Mu felt that this was just the beginning. He called Zhao Kang and asked him when he got up, "Kang Zi, have you finished the screenshot work that I asked you to arrange for people to do?"
+
+"It's done."
+
+Zhao Kang said, "Our Internet Water Army all know how to use screenshot software. The batch of content that Q Bar copied has already been taken and saved. When the Tieba Bar exploded today, they also took a lot of screenshots."
+
+Li Mu said with satisfaction, "Save these screenshots well. They will be of great use in the future. Also, find the most representative ones from these two types of pictures and get the media to help report them."
+
+Zhao Kang immediately replied, "Okay, I'll settle the media tomorrow."
+
+Li Mu said, "You're in Beijing. Most of the online media headquarters are also in Beijing. I'll leave this matter to you. Tomorrow morning, I'll get the company's finance department to give you 200,000 to be used for public relations with these media. It's best to do it together with the TV and print media. We must make a statement at the same time and point the finger of the incident at Q Bar. If the money is not enough, I won't hesitate even if it's 400,000 or 500,000. I only have one goal, and that is to make this matter known to the whole country. We must stand on the moral side and trample Q Bar to death!"
+
+Zhao Kang's voice turned cold. He blurted out, "I'll definitely do this well!"
+
+Li Mu reminded again, "Get your people to remind everyone not to celebrate too early. Q Bar won't be closed for too long, and they will definitely have a backup plan.
+
+"I'll arrange it now!"
+
+After hanging up the phone, Li Mu sneered in his heart. He started to realize that the appearance of Q Bar might be a stepping stone that Teng Xun gave to Tieba out of thin air.
+
+Until now, Tieba had not made any big moves that could really cause a stir in the industry. Originally, he planned to launch Happy Farm on New Year's Day as the first big move he planned for Tieba. Now, it seemed that the explosion of Tieba might be the first big move.
+
+The day after tomorrow would be the Beijing Internet Forum. Li Mu suddenly felt a little impatient. He did not know how these big shots would view Tieba at that time.
+
+At this time, Zhao Kang's fake reviewers started to release new messages on Tieba, reminding everyone not to celebrate too early. The closure of Q Bar was only temporary. They would definitely not disappear just like that. They would secretly make preparations before going online again. Moreover, this should not be too long.

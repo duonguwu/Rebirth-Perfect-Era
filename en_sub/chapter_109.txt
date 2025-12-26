@@ -1,0 +1,107 @@
+Chapter 109
+
+On the morning of September 2nd, in the Baidu company far away in Beijing, several senior management and technical and product development leaders sat in the conference room early.
+
+In the conference room, the Vice President asked everyone what they thought of the new minimalist forum called "Tieba". 80% of the people gave the same evaluation: Awesome.
+
+What was awesome was the creativity of this product and its ability to integrate.
+
+The Easy Listening Network itself was a platform that provided music listening and downloading. Its users were all fans of various singers. The Post Bar's current Star Post Bar happened to be a small independent forum for each singer. It was an excellent way to gather the fans of a singer into the Post Bar under his name.
+
+This not only increased the stickiness of the original users of the Easy Listening website, but it could also attract users who did not listen to songs on the Easy Listening website but liked certain singers. This was because there was an exclusive forum named after their idols. With so many fans gathered here, the community effect was very strong.
+
+The Vice President said bitterly, "Why don't we have such advanced product thinking?
+
+If we build a Baidu Tieba on the basis of the search service, it can become the largest online community in the country in one step! "
+
+He was right. In the future, Baidu Tieba would have more than a billion registered users. It would indeed be the largest Chinese community in the world. Although they seemed to have no integrity in buying and selling Tieba, the scale was undeniable.
+
+The director in charge of new product development, who was the one who asserted that the Easy Listening website was too monotonous at the last meeting, was embarrassed to death. He originally thought that as long as Baidu launched MP3 downloads, the end of the Easy Listening website would not be far. He did not expect that they would come up with a heavyweight product like the singer Tieba not long after. It was simply a slap in the face.
+
+The executive blurted out, "In that case, let's also make a Tieba. Make MP3 and Tieba together!"
+
+The Vice President glanced at him and shook his head. "I don't need you to give me such a belated conclusion. What I want is your innovation ability. Do you understand?
+
+What I want is not for you to prepare to copy others after seeing others use MP3 and Tieba. I want you to create a powerful product like Tieba. As the leader of new product development, you can't always copy others' ideas! "
+
+The executive's face turned red. He was so ashamed that he did not dare to raise his head.
+
+At this moment, the Vice President's emotions calmed down a little. He said, "We definitely have to make MP3 and Tieba. However, have you thought about it? Now that such a large group of singers has been created by the Easy Listening website. How should we operate it?
+
+Moreover, I checked. Their Tieba is not only tied to the Easy Listening website. They even have their own top-level domain name. and this domain name is now open. In other words, they combined the strengths of the Easy Listening website to create Tieba. However, they want to create Tieba as an independent product. "
+
+Creating an independent Tieba was also Li Mu's consideration. After all, the Easy Listening website only gathered music lovers. If the Easy Listening website was used as a carrier, it could only be a singer's Tieba. This was far from enough for Li Mu. Therefore, he used it to create a Tieba homepage with a search function. Users could directly enter the Tieba homepage, search for the singer's name, and enter the singer's Tieba.
+
+At the same time, Li Mu had instructed Kong Lingyu to develop a Tieba registration function. In the future, his own Tieba would also have the ability to be created by users. Moreover, Kong Lingyu was also leading a group of part-time employees to collect information on all celebrities in the fields of film, television, sports, variety, and so on. It was expected that it would not be long before Tieba's registration would be open, and all celebrities' Tieba would be online. At that time, Tieba would be beyond the limitations of the Easy Listening website and singers.
+
+At this time, at the meeting table of Baidu's upper echelons, a few managers who had returned from overseas were all stunned. They were already thinking of splitting up independently. Who was the person behind the Easy Listening website?
+
+In fact, Li Mu's idea was to create an ecosystem. The Easy Listening website and Tieba were just the beginning of the ecosystem. In the future, Li Mu had many plans for this ecosystem.
+
+The simple plan was to let the Easy Listening website start in the field of music listening and downloading. Then, it would gather users who wanted to listen and download music together. The current Tieba had started the first step of the ecosystem chain, becoming a community.
+
+Once the community was started, there would be too many things that could be done. Personal space, photo albums, stealing vegetables, ranches, and parking spaces were all magic weapons in the future community field. Moreover, the domain name of Taobao was still in his hands. In history, Ali had to wait until 2003 to establish Taobao. The reason was also because of the special nature of the SARS period. If they had started a year or half a year earlier than Ali, relying on their own accumulated users, it should have been easier to start than Ali.
+
+An operations director sighed and said, "The other party has the top-level domain name of Tieba. This is very passive for us unless we change the name and stop calling it Tieba. Then, we can quickly develop a mature product and go online as soon as possible. Then, we can use future keywords to guide our own Tieba products."
+
+The person in charge of technical development said in surprise, "Although the concept of the Easy Listening website is not bad, from a technical point of view, the things they are playing with are not difficult. It is easy to imitate them. Moreover, their strength is limited after all, and they do not have anything to rely on. If they cannot find a profitable model in a short period of time, they will probably reach a bottleneck soon. So, I think we are overestimating them.
+
+We have such powerful resources. Once we develop the product, it will not take long for us to replace them. "
+
+The Vice CEO shook his head. "You can't just look at the problem from a technical point of view, and you can't think that others will not be able to survive without a profitable model. Their concept can shock us, and it will definitely shock others, especially venture capital. Although the impact of the Internet bubble is still there, the sense of smell of capital is very sharp. They have already started to realize that the next spring of the Internet is coming. They are also looking for suitable projects in advance. If the Easy Listening website can get angel or series A financing, with the support of large capital, they can rely on these two products to create a market value of a few hundred million."
+
+These words made the technical staff speechless.
+
+It was not wrong to say that the Internet played with creativity, technology, and users. But in the end, it played with capital.
+
+Behind every Internet big shot, there was a strong capital support. Sequoia, SoftBank, Goldman Sachs, etc., capitalists had a lot of cash waiting to invest in good projects. Without the help of capital, none of the top BTA companies in Hua Xia would be able to rise.
+
+The Easy Listening website and Tieba were rising rapidly. It would not be long before they would be noticed by other Internet companies and investment banks. If they received series A investment, the Easy Listening website could start burning money. As long as there was no problem with the burning money strategy, in the future series B and C, the major investment banks would fight to the death to give them money to burn. Not only that, in order to obtain high returns, the investment banks would also invest in their connections and resources to help it develop and grow. At that time, Baidu might not have an advantage in front of it.
+
+The person in charge of the Investment Department said, "Director Chen, why don't we contact the Easy Listening website first? If their offer is not high, it's not a bad idea to take them in. In that case, we can directly merge their two products into our own products. One is Baidu MP3, and the other is Baidu Tieba."
+
+The Vice CEO nodded. "That's what I meant in today's meeting. We can contact the Easy Listening website first and see what their expectations are."
+
+As he spoke, the Vice CEO asked the person in charge of the Investment Department, "How much do you think is appropriate to take them in now?"
+
+The person in charge of the Investment Department thought for a moment and said, "If there is no Tieba and only the Easy Listening website, I think it will be around eight to ten million yuan. After all, this business is still a blank in the law. In the future, the law will gradually improve, and this business will inevitably be subject to risks. However, there is no legal risk in something like Tieba, and there is too much room for development. I think that according to the normal valuation, Tieba alone will not be less than 20 million yuan. If the two are combined, the valuation will be even higher. However, this is also our view. If we really give them an offer, the price will be greatly discounted. After all, they have only been established for more than a month.
+
+The Vice CEO did not comment. He thought for a moment and said, "Let's contact them first and see what the situation is."
+
+…
+
+At noon, Li Mu received an email on the Easy Listening website. A person claiming to be Jack Zhou, the director of Baidu's Investment Department, said in the email, "Baidu is optimistic about the development of the Easy Listening website and Tieba. They have the intention to buy them in a package and hope to talk to Li Mu face-to-face."
+
+Li Mu replied simply, "For the time being, we will not accept a package acquisition. We will only accept financing. The Series A financing will sell up to 10% of the shares. You can set the valuation. Send me an email after you set the valuation. I will consider it."
+
+Li Mu knew very well that the MP3 business alone would not be very profitable. However, for a company like Baidu, the overall improvement brought by this business could not be measured by millions or tens of millions of cash. It was the cultivation and accumulation of a large number of users. It had a great effect on the valuation.
+
+As for Tieba, the future profitability of this thing was still very fierce. Wouldn't it be a big loss to sell it now?
+
+Therefore, he only accepted financing, and he would not dilute too much of his shares in the Series A. Otherwise, after a few rounds of financing, he might be taken away by the capital.
+
+Moreover, the earlier he diluted the shares, the greater the intangible losses he had to bear in the future. Even a child would understand this.
+
+As for what kind of valuation Baidu was willing to give him, Li Mu was not in a hurry. He would let them think about it slowly. In short, if the valuation was less than 30 million yuan, there was no need to talk about it. Moreover, if there would be greater development on Easy Listening and Tieba in the future, he would raise the price in time.
+
+Li Mu's reply made Jack Zhou feel guilty through the computer. This guy's reply was too decisive. He directly rejected the package acquisition. Not only that, he was only willing to sell 10% of the shares in the Series A. It was obvious that he was a veteran in the field of Internet entrepreneurship!
+
+Jack Zhou, who had been investing for many years, understood the vision of many Internet entrepreneurs. Most of them struggled to support a start. Once they saw the capital, they would immediately be slaughtered. There were also many people who were willing to sell more than 51% of the shares in the Series A. These people often saw hundreds of thousands or even millions of profits. They did not care about the future at all. They only wanted to cash out immediately. As a result, they realized that their losses were ten times or even a hundred times more than their gains.
+
+Jack Zhou felt that the other party was only willing to sell 10% of the Series A. Even if Baidu accepted and invested, it would not be of much use in a short time!
+
+The more worried Jack Zhou was, the more he felt that the other party was not ordinary.
+
+…
+
+The ticket that Li Mu and Zhao Kang booked was at 8: 00 pm on the 2nd. At 7: 00 pm, Li Mu carried a backpack and went out of the house accompanied by his parents. Although his mother kept saying that she wanted to accompany him to the university to register, Li Mu still refused. He did not want his mother to accompany him to Yanjing again.
+
+After leaving the house, he met Zhao Kang's family who were waiting for him at the intersection of the neighborhood. Zhao Kang's parents also wanted to send him to Yanjing. But when they heard that he had an appointment with Li Mu, they did not insist.
+
+Seeing that Zhao Kang only carried a backpack, Li Ma could not help but say to Zhao Kang's mother, "Look at these two kids. Going to university is like playing. They did not bring anything except a computer and a change of clothes."
+
+Li Mu said with a smile, "Actually, there is nothing to bring. The school will provide the bedding and other daily necessities will be purchased when we arrive at the place. It also saves us the trouble of bringing them there."
+
+Zhao Kang's father smiled and said to Li Mu, "Little Mu, you two brothers have to take care of each other when you arrive at Yanjing."
+
+Li Mu nodded, "Uncle Zhao, don't worry."

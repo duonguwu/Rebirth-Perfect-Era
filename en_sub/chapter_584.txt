@@ -1,0 +1,93 @@
+Chapter 584
+
+Liu Yidong finally understood why Li Mu had always been so supportive of cargo space resources. If Li Mu's logistics model was followed, then most parts of the country could achieve express delivery the next day. Compared to the current express delivery, the speed of Li Mu's plan was simply shocking. It was also unprecedented for the entire industry.
+
+In fact, what was the difference in hardware between the logistics in 2002 and the logistics in 2016?
+
+Was the plane flying faster in 2016 than in 2002?
+
+Or was the car running faster in 2016 than in 2002?
+
+Neither. The real advantage in 2016 lay in the market trend and the maturity of supporting facilities. Moreover, even in 2016, most logistics companies could not achieve next-day delivery. Only SF Express could basically guarantee next-day delivery for point-to-point transportation between big cities. Other companies still could not keep up with the pace in terms of timeliness.
+
+Li Mu did not want to do full air transportation, but mainly air transportation with land transportation as a supplement. He wanted to use such a high-end and efficient blueprint to plan for future high-end competitiveness. After planning this, he immediately planned the supporting secondary solution, land and rail transportation.
+
+Li Mu said to Liu Yidong, "Air express delivery is fast, but the cost is also high. In the future, the market demand does not necessarily pursue efficiency. There will still be many users who pursue cost-effectiveness. If the freight cost more than 20 yuan for next-day air delivery and only 15 yuan or even lower for three-day land delivery, I believe a large number of users will choose the latter. But for us, whether it is the former or the latter, the point-to-point transportation process will not change. It is just that the way the latter carries the point-to-point transportation has changed. We will purchase a certain number of container trucks to replace the airline's cargo space and complete point-to-point transportation. Although the time efficiency of land transportation will be lower, the cost will not be just a little bit."
+
+Liu Yidong also saw it very clearly. He nodded and said excitedly, "As long as our model is determined, these details will be very flexible. But Li Zong, you have planned so much. I'm afraid 80 million to 100 million yuan is not enough."
+
+Li Mu said, "It's definitely not enough. It's far from enough, but it doesn't matter. Alipay now has a huge amount of funds, and it has a close relationship with the major banks. As long as the central bank doesn't intervene, we can always maintain a relationship with the major banks. They will definitely give us a high-leverage loan. Every penny and item we invest in hardware in the future will have to be mortgaged to the bank, and then we can borrow more money from the bank."
+
+Li Mu's companies didn't have much money on their books now. Some time ago, he transferred most of the funds into Wanying Capital's Yanjing branch to buy land for Song Liang. After the land was successfully bought, the money would be delayed for a period of time. Li Mu's plan was to wait for the route map of Line 10 to be announced and the land price to rise. Then, he would mortgage the land to the bank again to get more funds. Therefore, the money that was invested would not be used for a while.
+
+Under such circumstances, it was already the limit for the companies to immediately raise 80 million to 100 million yuan without affecting their own operations. The rest would have to ask the bank for help. However, the other companies' cash flow was very healthy, and they could continue to transfuse blood to the logistics company.
+
+In fact, Li Mu still had a trump card to mobilize funds, and that was the Alipay guarantee. With the current scale of Alipay, it was very easy to use it as a guarantee to get a loan from the bank.
+
+Soon, Fang Xudong was also called over. Li Mu explained the current situation in front of Liu Yidong, as well as his plan for building his own logistics company. Fang Xudong didn't seem to be affected on the surface, but in fact, his heart was like a raging storm.
+
+Fang Xudong was considered a geek. When he worked at Google before, he didn't have any contact with operations. Today, after listening to Li Mu, he finally understood how dangerous the real business world was. In the business world, you wouldn't be able to win the final victory by doing your best, but the one who was more ruthless would have the last laugh.
+
+Although he was shocked in his heart, Fang Xudong still showed a very high level of professionalism. He immediately took out a pen and a small notebook and asked Li Mu, "What are the specific requirements of the logistics management system, or rather, what functions should be implemented?"
+
+Li Mu thought for a moment and said, "Our logistics management system not only needs to store and update all the information of the express in real time, but it also needs to track and record every vehicle, every container, and every packed package. At the same time, it needs to accurately record the warehouse situation of every logistics base, and even the information of every employee, the area that the employee is responsible for, their work status, every package that they receive, and every package that they send. In short, this system needs to monitor every department and link of the logistics."
+
+Fang Xudong nodded and asked Li Mu, "How do we determine our express ID?
+
+If we want to track the movement of every express, then it must have a unique ID. "
+
+Li Mu said, "The waybill must be specially customized. We can work with a special printing factory for this, so it shouldn't be a problem. Then, every waybill will have a unique waybill number and a bar code corresponding to the waybill number. Then, you need to use the scanning machine and the software. When the courier receives an item, the receiving person will have to scan the waybill code. As long as he selects' enter the warehouse ', the system will automatically record the waybill number into the system. From this moment on, the status of the package will be officially defined as being received, and the name of the business office will be automatically indicated. For example, if it is Zhongguancun business office that is sending to Jinling, then the receiving person at Zhongguancun only needs to scan the waybill number, and the system will automatically record it. The status will be defined as: certain month, certain day, certain hour, certain minute, certain year, certain month, certain day, certain hour, certain minute, Yanjing Zhongguancun business office – received."
+
+Fang Xudong nodded and quickly wrote down Li Mu's requirements on a piece of paper.
+
+Li Mu continued, "Then, let's continue with the example I just gave. Zhongguancun's business office accepts packages at six o 'clock every day. So, after six o' clock every day, all the packages received on that working day must be packed into one package or several packages. The system will automatically generate a name for the package. For example, the date is January 1, 2003, so the package ID will be defined as: Zhongguancun business office code + 20030101 + serial number."
+
+"For example, the Zhongguancun business office code is 0010022. The first four digits, 0010, represent the area code, representing the city, and the last three digits represent the order of the business office in that city. This way, each business office will also have a unique ID. If the express items on that day are divided into two packages, then the names of these two packages will be 0010022 - 20030101 - 01 and 0010022 - 20030101 - 02. Although they all look like numbers, it's easy to understand if you know the pattern. Do you understand?"
+
+Fang Xudong tapped the tip of his pen, "Very clear."
+
+“OK！”
+
+Li Mu continued, "In the process of packaging, every small express item has to be scanned before being packed into the package. This is just a convenient task, and it won't take up much time. However, it can record the status of the express items that have already been packed. Therefore, at this time, our packager only needs to select 'Pack and scan the code.' Then, the system will automatically change the status of every express item he scanned to: Zhongguancun business office – Packing in progress."
+
+"After the packing is completed, the staff will generate a barcode from the package code and paste it on the package. These two large packages will be sent to the Yanjing logistics base. Then, before loading, the staff will have to scan the barcode to confirm that the status of the package is loaded and sent to the Yanjing logistics base. At this time, you have to pay attention that once the large package is scanned and confirmed to be loaded, the status of all the small express items in the large package will be changed to: Zhongguancun business office – Loaded, sent to the Yanjing logistics base."
+
+Fang Xudong continued to nod, "Understood."
+
+Li Mu continued, "After the express items arrive at the Yanjing logistics base, at the same time as the trucks are unloaded, someone will be responsible for scanning the barcode for the large package. Every time a barcode is scanned, the system will also have to change the status of all the small packages in the large package to: Express item has arrived at the Yanjing logistics base."
+
+"Understood."
+
+Li Mu said, "Next is the unpacking and sorting of packages. The large express delivery companies in the West have now entered the era of automated sorting, but the equipment costs are too high. Neither we nor the big brother in the postal service can afford it, so we can only carry out manual sorting. For manual sorting, we need to simply build a number of belt conveyors and then sort the packages according to the address of the courier to which the address belongs. Using the same principle, when every package is sorted and sent to a belt conveyor, the staff will also have to scan it. At this time, the system will also have to automatically update the status: Yanjing logistics base, sorted, ready to send to the Shanghai logistics base."
+
+"Understood."
+
+"After that, all the packages that are sent to Shanghai will be sorted. They will be sorted into two batches according to the shipping method. One batch will be transported to Shanghai by air, and the other batch will be transported to Shanghai by land. If our express package is an air package, then it will have to be repacked after being sorted. The process is the same as the packing process in the business office. We have to show that it is being packed at the Yanjing logistics base, ready to be sent to the Shanghai logistics base."
+
+"After that, the express package will take the earliest flight to Shanghai the next morning after it is packed. After it arrives at the Shanghai logistics base, it will still have to be scanned before it is unpacked. At this time, the status will be updated to show that the express package has arrived at the Shanghai logistics base, ready to be unpacked."
+
+"After the package is unpacked, it will be sorted according to the different cities it is going to. After the sorting is done, it will be packed again. The status will be changed to: Shanghai logistics base has packed, sent to Jinling."
+
+"After the package arrives at Jinling, it will be unpacked and sorted at the Jinling headquarters. At this time, it will be very close to the recipient. When the express package is sent to the recipient's business office, the status will be updated to: Sent to XX business office."
+
+"After arriving at the business office, it will be scanned again. The system will automatically change the status to: Arrived at XX business office."
+
+"Before the delivery person at the business office leaves, he will have to scan all the express packages that are about to be delivered and select 'Delivery Scan'. After this scan, not only will the status of all the packages be displayed as: Delivery person has left, please be prepared to receive the package. The personal information of the delivery person will also be displayed according to his ID. For example: Delivery person Liu Xiaodong, contact number 139xxxxx."
+
+"Delivery person Liu Xiaodong went out to deliver a total of 30 express packages. When he returned to the company, he had 30 signed delivery receipts in his hands. The last thing he had to do was to scan these 30 receipts one last time. As long as he selected 'Delivery Scan' and quickly scanned all 30 receipts, the system will update the status of the 30 express packages one last time: Express package has been signed, thank you for using XX Express."
+
+"This is the information system I want, a complete back-end management system and a real-time front-end query system. Whether it is us, the sender, or the recipient, we can all control the route of our express packages in real time. At a certain time, at a certain time, at a certain place, and perform a certain operation, it will bring our customers an unprecedented experience!
+
+This system will be the core that we rely on to trample our opponents to death! "
+
+Adhering to air transportation, insisting on information technology, insisting on automation, and ensuring high efficiency was what SF Express relied on to succeed in the Hua Xia express market in the future. Now, Li Mu relied on the same thing for the next step in the express delivery business. It was just that he had achieved it a few years earlier than SF Express. This was not him imitating SF Express, because it was not SF Express's original creation. It was the rise of the international express delivery oligopoly UPS. SF Express's great success was thanks to UPS as its teacher, and also to UPS, DHL, and FedEx for various reasons that did not enter the Hua Xia market. Otherwise, no matter how great Wang Wei was, SF Express would not have been able to achieve as much as it did in the future.
+
+Li Mu spoke passionately. Liu Xiaodong and Fang Xudong looked at each other. Both of them were stunned by the entire process that Li Mu had constructed.
+
+The logic of Li Mu's management system was unprecedented in the domestic express delivery industry. One of them was an operation expert, while the other was a technical expert. Both of them had a very thorough understanding of logic and products. After trying it out, they realized that Li Mu's logic was perfect to the point of being impeccable. He would allow the direction of every express delivery to be monitored in real time. Needless to say, the management convenience and efficiency improvement that it brought would be unimaginable. In the past, sending express delivery was equivalent to releasing a pigeon. If the recipient did not reply, the sender would not know where the pigeon went or whether it had flown or not. The whole process was completely uncontrollable. However, if this system was put into use, the user would be able to firmly grasp every step of the express delivery. It was simply too convenient!
+
+In 2002, the express delivery industry was still in its infancy. Information processing was simply an unimaginable crossover product. It was almost impossible for them to invest in developing such a system, and the software development companies on the market would definitely not develop such a product either. This was because the audience was too small, and they would lose a lot of money. Currently, only those popular industries would be targeted by software companies, such as hospitals, internet cafes, and supermarkets.
+
+In order to highlight their pretentiousness, they liked to brag about their two systems with the word "information". However, these two systems were only internal management systems that were still in testing. Compared to the front, back, and internal and external management systems that Li Mu wanted, their functions were worlds apart. Not to mention, they did not even support the user to check the status of the express delivery in real time.
+
+Therefore, Liu Xiaodong and Fang Xudong understood very well that if this management system, which was integrated with hardware, was developed, no matter what kind of express delivery company Li Mu wanted, he would be able to beat the entire industry!

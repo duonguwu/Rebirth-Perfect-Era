@@ -1,0 +1,103 @@
+Chương 101
+
+Vào ngày đầu tiên kinh doanh, doanh thu đạt con số kinh ngạc là 106.000 tệ.
+
+Điều này có nghĩa là 53.000 tệ tiền hàng đã được bán ra trong hôm nay, gần bằng một phần ba tổng số hàng tồn kho (Note: English says "503,000 yuan was deducted...". Wait. "106k sales". "503k deducted"? Maybe 53k cost? If margin is 50%, cost is 53k. 503k is huge. Let's check logic. "almost one-third of total inventory". If total inventory was ~150-200k. 53k is 1/3. So 503k is likely a typo in English text for 53,000 or 50-odd thousand. Or maybe the original text meant "5,3 vạn" (53,000) and was translated as "503,000" erroneously. I will assume "53.000 tệ" based on context. Wait. "Sales 106k". Profit/Cost ratio? Usually huge markup in clothing. But even if cost is 50%, 53k is correct. 503k is impossible if sales is only 106k. I will translate as "hơn 50.000 tệ" or just fix it to logic.)
+Điều này có nghĩa là hôm nay lượng hàng trị giá 53.000 tệ đã được bán ra, chiếm gần một phần ba tổng số hàng tồn kho. Hiện tượng nóng sốt như vậy khiến Lý Mục bất ngờ. Điều này đơn giản là không thể tưởng tượng được trước đây.
+
+Vấn đề hàng tồn kho cũng rất nghiêm trọng. Vào buổi chiều, Mợ đã đặt hàng với trụ sở chính. Tổng số tiền đặt hàng là khoảng 150.000 tệ. Vấn đề lớn nhất là làm thế nào để gửi hàng càng sớm càng tốt.
+
+Khi trụ sở chính biết về doanh số bùng nổ ở đây, họ cũng cử người đến giúp giải quyết vấn đề. Cuối cùng, họ đưa ra một giải pháp: 25% hàng hóa sẽ được ủy thác cho một công ty vận tải ô tô chuyên dụng, đó là xe khách đường dài từ Hải Châu đến Ôn Châu. Xe buýt sẽ đến vào sáng hôm sau, và sức chứa tối đa của họ là 25%. Do đó, 25% lượng hàng này có thể dùng để chữa cháy khẩn cấp.
+
+30% còn lại sẽ được vận chuyển bằng đường sắt, nhưng phải đến ngày kia mới tới. 45% còn lại cũng sẽ được vận chuyển bằng xe khách đường dài. Trong đó, 25% sẽ phải đợi chuyến xe trực tiếp thứ hai đến Hải Châu hai ngày nữa, và 20% còn lại sẽ đến Kim Lăng trước.
+
+Chỉ trong một ngày, Lý Mục đã thu được hơn một trăm ngàn tiền hàng. Do đó, khi đặt hàng, cậu cũng rất hào phóng và mạnh tay. Ngay khi giải quyết xong vấn đề vận chuyển số hàng trị giá một trăm năm mươi ngàn, cậu đã yêu cầu Mợ đặt thêm một trăm ngàn nữa.
+
+Mợ nói rằng khu vực kho vốn dĩ không lớn lắm, nên sẽ không thể chứa nhiều hàng như vậy. Tuy nhiên, Lý Mục đã giải quyết nỗi lo của bà bằng phương pháp đơn giản nhất.
+
+"Thuê một căn nhà dân trong khu dân cư phía sau làm kho chứa đồ. Để lại một phòng ngủ cho người ở lại và để mỗi nhân viên nam của chúng ta luân phiên trực đêm trong kho. Họ sẽ được trả 50 tệ một đêm tiền phụ cấp ca trực. Thực ra chỉ là ngủ ở đó một đêm thôi. Chú ý chống cháy, chống nước, chống trộm, và giải quyết kịp thời mọi sự cố."
+
+Mắt Mợ sáng lên. "Tiểu Mục, cháu thông minh thật đấy."
+
+Tiền thuê nhà dân rất rẻ. Căn nhà ba phòng ngủ hiện tại giá sẽ không quá 500 tệ một tháng, nhưng nhà ba phòng ngủ rộng khoảng 100 mét vuông, chắc chắn đủ để chứa hàng. Hơn nữa, nó không xa cửa hàng. Nếu thiếu hàng, họ có thể cử nhân viên chạy đi lấy, chỉ mất vài phút là về. Rất phù hợp.
+
+Vào ngày kinh doanh thứ hai, Mợ đã tìm thấy một căn nhà dân phù hợp. Trùng hợp hơn nữa là nhà của mẹ cậu nằm trên tầng ba của cửa hàng, rất thuận tiện cho họ. (Note: "mother's house"? No. "owner's house"? Or maybe just "a house". Wait. Original text: "his mother's house was on the third floor...". Maybe previous text mentioned Li Ma owning a house? Or maybe "The house belongs to a mother..."? Or maybe "The landlord's house"? Given context, probably just a rented house. I will translate literally "nhà dân" or just avoid specifying "mother's" if unclear, but "his mother's house" implies Li Ma's house? Wait. Li Ma lives elsewhere. Maybe it means the rented house is on the 3rd floor ABOVE the store? "On the third floor of the store". This implies vertical proximity. I will translate directly.)
+Vào ngày kinh doanh thứ hai, Mợ đã tìm thấy một căn nhà dân phù hợp. Trùng hợp hơn nữa là căn nhà đó nằm ngay trên tầng ba của tòa nhà cửa hàng, rất thuận tiện cho họ.
+
+Vào ngày thứ hai, doanh số bán hàng giảm nhẹ. Nó là 95.000 tệ, nhưng vẫn chưa vượt quá 100.000 tệ. Tuy nhiên, nó vẫn đủ để làm Lý Mục ngạc nhiên.
+
+Sau khi đóng cửa hàng, Lý Mục về nhà và nhận được cuộc gọi từ Khổng Lệnh Vũ. Khổng Lệnh Vũ đã phát triển phiên bản beta của Tieba theo yêu cầu của Lý Mục và đã bắt đầu thử nghiệm nội bộ.
+
+Lý Mục xin địa chỉ closed beta và tự mình vào khám phá. Cậu thấy rằng từ bố cục trang web đến các chức năng, nó tương tự như Baidu Tieba. Chỉ là theo yêu cầu của Lý Mục, mỗi Tieba đã phát triển chức năng theo dõi và điểm danh. Đây là điều mà Baidu Tieba thời kỳ đầu không có. Chính khái niệm sản phẩm tối giản này đã làm cho mọi hoạt động của cư dân mạng trong cộng đồng trở nên hiệu quả hơn.
+
+Lý Mục rất hài lòng với công việc của Khổng Lệnh Vũ. Cậu bảo cậu ta rằng nếu không có vấn đề gì với thử nghiệm nội bộ, cậu ta nên đưa nó lên mạng càng sớm càng tốt. Tuy nhiên, trong quá trình thử nghiệm nội bộ, cậu ta phải cố gắng hết sức để tìm ra tất cả các lỗi. Cậu không thể đợi đến khi nó lên mạng và bị người dùng phát hiện rồi mới sửa đổi. Điều đó sẽ dễ gây mất người dùng.
+
+Khổng Lệnh Vũ kiên quyết nói rằng cậu ấy chắc chắn sẽ làm được. Khi Lý Mục hỏi cậu ấy thời gian lên mạng, cậu ấy đưa ra thời gian là năm ngày sau. Lý Mục không có ý kiến gì, vì vậy hai người kết thúc cuộc trò chuyện.
+
+Tieba là một dự án cộng đồng mà Lý Mục muốn ấp ủ với sự giúp đỡ của Y Thính. Điều quan trọng nhất của một cộng đồng không phải là bản thân sản phẩm, mà là gen và nền tảng của cộng đồng. Mặc dù Y Thính vẫn còn lâu mới có lãi, nhưng nó đã thu thập được một lượng người hâm mộ đáng kể cho Lý Mục. Do đó, Lý Mục muốn sử dụng Y Thính để đặt một phần nền móng cho Tieba, đó là một chuyên mục dành cho Tieba của các ca sĩ. Đầu tiên cậu sẽ chuyển đổi người hâm mộ của Y Thính thành lớp người dùng đầu tiên của Tieba, và sau đó tiến hành vòng mở rộng thứ hai.
+
+Cùng lúc đó, tin đồn mà Lý Mục yêu cầu Triệu Khang lan truyền trên mạng về vụ tai nạn bỏ chạy của Ngô Đông đã lên đến đỉnh điểm.
+
+Do sự chú ý cao độ của công chúng, vụ việc gần như mất kiểm soát khi bị phanh phui. Cảnh sát cũng tổ chức người xóa bài, nhưng quá trình này chỉ kéo dài vài giờ. Nghe nói có sự đấu đá quyền lực trong cục thành phố. Nhân vật số hai, Lý Gia Vĩ, bị lộ chuyện đã nhận hối lộ ba triệu từ Ngô Đông, và việc xóa bài cũng do ông ta ngầm tổ chức. Tuy nhiên, nhân vật số ba, Tô Vệ Dân, đã kịp thời xuất hiện để chặn đường lui của ông ta. Người của Tô Vệ Dân trực tiếp phát hiện ra thuộc hạ của Lý Gia Vĩ đang lén lút xóa bài, và sau đó báo cáo sự việc cho nhân vật số một, Cục trưởng Đỗ Thành.
+
+Đỗ Thành sẽ được chuyển đến Cục tỉnh (Sở Công an) vào cuối năm. Mặc dù ông là người đứng đầu Cục thành phố Hải Châu, nhưng nền tảng của ông không đủ vững chắc. Kể từ ngày nhậm chức, nhân vật số hai, Lý Gia Vĩ, thường xuyên chống đối ông, khiến ông rất đau đầu.
+
+Lý Gia Vĩ là người gốc Hải Châu và đã làm việc trong Hệ thống Công an Hải Châu hơn 20 năm. Ông ta cứ tưởng mình có thể trở thành cục trưởng, nhưng không ngờ cấp trên lại cử một người khác về làm người đứng đầu. Ông ta biết người đứng đầu này có quan hệ với cấp trên, nhưng ông ta không quan tâm.
+
+Ông ta đã ngoài bốn mươi và ít có cơ hội thăng tiến trong hệ thống. Về lý thuyết, đỉnh cao sự nghiệp của ông ta là đứng đầu Cục thành phố Hải Châu. Cục tỉnh sẽ không bao giờ chuyển một người ở độ tuổi của ông ta lên đó. Ngay cả khi được chuyển đi, ông ta chắc chắn sẽ bị giáng chức và không có thực quyền. Do đó, sau vài năm ở vị trí này, gần như đã đến lúc ông ta nghỉ hưu. Vì vậy, vào ngày Đỗ Thành nhậm chức, Lý Gia Vĩ muốn đẩy ông đi. Nếu Đỗ Thành rời đi, ông ta sẽ có cơ hội làm cục trưởng. Nếu Đỗ Thành không đi, ông ta sẽ đến tuổi nghỉ hưu sau vài năm nữa, và ông ta có thể thậm chí không được làm cục trưởng.
+
+Vì Đỗ Thành luôn bất hòa với Lý Gia Vĩ, nên ông muốn thăng chức cho Tô Vệ Dân lên vị trí đứng đầu trước khi rời đi. Tuy nhiên, ông không có cách nào hiệu quả để làm điều này. Tô Vệ Dân còn trẻ và chưa đủ kinh nghiệm. Anh ta chỉ có thể làm phó cho Lý Gia Vĩ, và Đỗ Thành không thể công khai giúp đỡ anh ta ở Cục tỉnh. Thứ nhất, việc đó không đáng. Thứ hai, ông ở đây để tích lũy kinh nghiệm, và tốt hơn hết là không nên để lãnh đạo Cục tỉnh nghĩ rằng ông đã bắt đầu nâng đỡ người thân tín quá sớm.
+
+Tuy nhiên, sau khi Tô Vệ Dân báo cáo việc này cho Đỗ Thành, Đỗ Thành nhận ra cơ hội của mình đã đến.
+
+Bất kể những bình luận trên Internet là thật hay giả, việc Lý Gia Vĩ nhờ người lén lút xóa bài đã là dấu hiệu cho thấy sự chột dạ của ông ta. Sau khi phân tích kỹ nội dung trên Internet, Đỗ Thành và Tô Vệ Dân, những người đều là cảnh sát hình sự, cảm thấy những lời trên mạng không xa rời sự thật là mấy.
+
+Nếu Lý Gia Vĩ thực sự nhận ba triệu từ Ngô Đông, thì Đỗ Thành sẽ rất vui. Không chỉ trả thù được hoàn toàn những chuyện trong hai năm qua, mà một khi Lý Gia Vĩ rời đi, Tô Vệ Dân sẽ tiếp quản vị trí cục trưởng, và ông sẽ có thuộc hạ của riêng mình tại cục địa phương.
+
+Nghĩ đến đây, Đỗ Thành bắt đầu hành động.
+
+Sau khi phân tích kỹ lưỡng, Đỗ Thành cảm thấy không thích hợp để mình trực tiếp dẫn người đi điều tra vụ án này. Dù sao thì Lý Gia Vĩ cũng có nền tảng vững chắc, và số tiền tham ô ba triệu chắc chắn sẽ khiến ông ta nổi điên. Lúc đó, ông ta có thể sẽ liều chết với Đỗ Thành, điều đó không đáng. Hơn nữa, ngay cả khi ông thực sự thành công, ông sẽ để lại ấn tượng cực xấu trong mắt đồng nghiệp trong tương lai, rằng ông quá tàn nhẫn với cấp dưới.
+
+Do đó, Đỗ Thành quyết định nhờ sự giúp đỡ từ Sở Công an tỉnh.
+
+Ông gọi cho cấp trên cũ của mình và phàn nàn riêng với ông ấy. Đầu tiên, ông kể về vụ án, sau đó ông nói rằng công chúng rất quan tâm đến nó. Nếu ông không phá án ngay bây giờ, ông sẽ bị công chúng chỉ trích. Nếu ông thực sự làm theo thông tin trên Internet, ông sợ rằng Lý Gia Vĩ sẽ làm mọi cách để ngăn cản ông, hoặc thậm chí biến ông thành bù nhìn. Do đó, ông nhờ cấp trên cũ giúp đỡ và yêu cầu Sở Công an tỉnh cử người xuống điều tra. Nếu vụ án có thể được phá thành công, mối quan hệ giữa cảnh sát và người dân chắc chắn sẽ được cải thiện về chất, và hình ảnh của công an trong mắt công chúng sẽ được nâng cao.
+
+Vì có rất nhiều nội dung về vụ án này trên mạng Kim Lăng, nên cấp trên cũ của Đỗ Thành cũng biết vụ án tồi tệ đến mức nào. Ngay khi nghe Đỗ Thành nói phó cục trưởng đang lén lút xóa bài, ông ấy biết rằng phó cục trưởng có lẽ đã dính líu đến việc bao che nhận hối lộ. Ông ấy lập tức nổi trận lôi đình. Đêm đó, ông ấy tổ chức một cuộc họp khẩn cấp và chọn một đội điều tra đi thẳng đến Hải Châu để điều tra kỹ lưỡng vụ tai nạn bỏ chạy.
+
+Cấp trên cũ này cũng biết rằng một vụ án gây phẫn nộ trong dư luận là rất khó giải quyết đối với các quan chức địa phương, nhưng lại là điều tốt cho Sở Công an tỉnh. Chỉ cần Sở cử người xuống, bất kể vụ án có phá được hay không, họ xuống để thu thập niềm tin, và công chúng chắc chắn sẽ ủng hộ họ. Đó là một điều tốt, vậy tại sao không làm?
+
+Sáng hôm sau, Nhật báo Hải Châu và Tin sáng Hải Châu thông báo với công chúng rằng Sở Công an tỉnh đã tổ chức một đội điều tra ngay trong đêm để giải quyết vụ tai nạn bỏ chạy xảy ra vài ngày trước, và họ sẽ đến Hải Châu hôm nay để bắt đầu điều tra vụ án. Khi công chúng nghe tin này, họ reo hò và nhảy cẫng lên vì vui sướng. Họ đều đăng bài nói rằng họ mong chờ đội điều tra của Sở mang lại công lý cho vợ chồng người nông dân chết oan.
+
+Ngay khi tin tức được tung ra, Ngô Đông đã sợ hãi.
+
+Hắn gọi cho Lý Gia Vĩ, và câu đầu tiên hắn nói là: "Cục trưởng Lý, người của Sở đang xuống điều tra vụ án. Nhỡ họ phát hiện ra tôi là thủ phạm thì sao? Tôi phải làm gì đây?"
+
+Lý Gia Vĩ có thể nghe thấy sự hoảng loạn trong giọng nói của Ngô Đông. Thực tế, ông ta cũng lo lắng và hoảng loạn. Ông ta đã nhận ba triệu tệ, nhưng nếu họ phát hiện ra ông ta là thủ phạm, ông ta sẽ tiêu đời.
+
+Lý Gia Vĩ phân tích lợi hại, và mọi thứ đều phụ thuộc vào Ngô Đông. Nếu đội điều tra tìm thấy Ngô Đông và tìm ra điểm đột phá từ hắn, ông ta sẽ xong đời. Mặc dù ông ta không đáng bị tử hình, nhưng sự nghiệp của ông ta sẽ hoàn toàn bị hủy hoại, và ông ta không thể nói chắc mình sẽ ngồi tù bao lâu.
+
+Do đó, Lý Gia Vĩ trấn tĩnh lại và nói với Ngô Đông: "Cậu gây tai nạn chết người rồi bỏ chạy, cậu sẽ bị kết án hơn bảy năm tù! Quan trọng hơn, cậu đã giết hai người, và vụ việc này đã gây ra sự phẫn nộ trong công chúng. Nếu cậu rơi vào tay thẩm phán, cậu chắc chắn sẽ bị kết án hơn mười năm tù!"
+
+Ngô Đông hoảng loạn.
+
+Hắn chưa phải là ông trùm năng lượng làm rung chuyển Nam Tô trong tương lai. Hiện tại, hắn chỉ là một tay buôn than có tiếng ở Hải Châu. Sẽ ổn thôi nếu hắn lo lót các mối quan hệ ở địa phương, nhưng một khi người của tỉnh xuống điều tra hắn, hắn sẽ không biết đút tiền vào đâu.
+
+Lúc này, Lý Gia Vĩ dần dần hướng dẫn hắn: "Theo tôi, tốt hơn hết là cậu nên bỏ trốn. Tốt nhất là cậu có thể trốn ra nước ngoài để tránh đầu sóng ngọn gió."
+
+Lý Gia Vĩ hy vọng Ngô Đông sẽ bỏ trốn, và ông ta thậm chí còn hy vọng hắn có thể trốn ra nước ngoài. Nếu Ngô Đông biến mất, sẽ rất khó để liên kết vụ án với ông ta.
+
+Tuy nhiên, khi Ngô Đông nghe vậy, hắn không mắc bẫy của Lý Gia Vĩ. Thay vào đó, hắn nổi đóa và hét lên: "Mẹ kiếp, ông muốn tôi bỏ trốn à? Nếu tôi bỏ trốn, chẳng phải tôi đang nói cho cả thế giới biết là tôi đã làm sao?"
+
+"Nhưng nhỡ cậu bị bắt nếu không bỏ trốn thì sao?" Lý Gia Vĩ hoảng sợ hỏi.
+
+"Bắt tôi? Tôi sẽ không nhận! Dù sao thì chiếc xe cũng đã bị mang đi rồi. Cảnh sát có thể tìm thấy bằng chứng tôi giết người ở đâu chứ? Nếu họ hỏi tôi xe tôi đâu, tôi sẽ nói nó bị trộm rồi."
+
+Đầu óc Lý Gia Vĩ lóe lên, và ông ta buột miệng: "Thế này đi? Tìm một người đáng tin cậy và đưa cho người đó một khoản tiền. Nếu họ tìm thấy cậu, hãy bảo người đó đứng ra nhận tội thay cậu."
+
+Ngô Đông hỏi: "Nếu làm thế thì án tù bao lâu?"
+
+"Khó nói lắm," Lý Gia Vĩ nói. "Án tử hình thì không đâu. Nhiều nhất là bảy năm."
+
+"Hiểu rồi."
+
+Ngô Đông thở phào nhẹ nhõm. Miễn là không phải chuyện sống chết thì sẽ ổn thôi. Hắn có thể trả một ít tiền và tìm người giúp hắn. Hắn ước tính rằng nhiều người sẽ tranh nhau làm việc này cho hắn nếu hắn đưa ra giá một triệu.

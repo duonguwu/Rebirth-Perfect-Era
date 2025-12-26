@@ -1,0 +1,87 @@
+Chapter 282
+
+In Li Mu's eyes, a mature website was not about how powerful the front end function was, but how strong the backend defense was.
+
+Websites in the mature stage of the Internet were almost everywhere. Technicians racked their brains to consider most of the loopholes that could be exploited, but even so, no website dared to say that their defense was watertight.
+
+Some websites were as solid as an iron bucket in terms of defense, but often a small loophole could make all the defense measures fall short of success.
+
+Li Mu was not a hacker and was not very proficient in technical methods to attack a website. What he was looking for was an opportunity to use the human wave tactic to complete the attack. However, Q Bar did not hesitate to sacrifice the user experience for technical defense, which made Li Mu feel a little helpless until he noticed the Q Bar's internal messaging function.
+
+The internal messaging function was actually first used by Makino Technology's Tieba. It was equivalent to a simple instant messaging function developed based on Tieba, allowing friends in Tieba to communicate in private. This function was very simple, but also very practical. Because the user's information interaction in Tieba was public, it was one-to-many. When they chose to post in a Tieba, it was equivalent to opening the content of the post to the users of the Tieba, or even all Internet users. If they met like-minded friends, if they wanted to communicate with a friend in private, they needed to go through a public to private process. The internal messaging function solved this problem very well.
+
+When Q Bar was designing the technical architecture, it also planned for the internal messaging function. They limited the user's post, but they did not make any restrictions on the internal messaging function.
+
+Li Mu opened the internal messaging function and found that the pop-up page only had two fields to fill in: recipient and content. Apart from that, there was only one option to send and nothing else.
+
+In other words, whether it was verification codes or only one post per hour, they were all aimed at the public posts and replies at the front end. However.
+
+There were no restrictions on private messaging at the user's backend.
+
+Li Mu understood that although there was a big difference in form between internal messaging and posting, there was basically no difference to the backend of the system and the server.
+
+Posting and sending messages to the station.
+
+Both tested the server's capacity to write data requests, but internal messaging even had one more logic than posting, and that was delivery logic.
+
+A piece of data was sent from User A and uploaded to the server. At the same time, the server recorded the data.
+
+He also had to deliver the content to User B's user platform. When User B received the data of the internal mail, it would first trigger a notification function in the user platform, and then send the receipt that User B had received the internal mail to the server for recording.
+
+All in all, this seemed simple, but the process of uploading and distributing the data was extremely complicated.
+
+Li Mu registered a new Q Bar account, and then used his old account to send messages to the new account. If he copied the ID of the new account, he would be able to send a message.
+
+When sending, he would paste the new user's ID on the recipient column. Then, in the content column, he would quickly paste the spam content several times. Then, he would quickly click "Send" and proceed to the next round.
+
+Li Mu calculated the time. He could send a message in three to five seconds. If he was faster, he could send it within three seconds.
+
+One message in three seconds, twenty messages in a minute. If hundreds of thousands of people were doing this at the same time.
+
+He did not know how long the Q Bar's server could last.
+
+The more Li Mu thought about it, the more he felt that it was possible. He immediately contacted Zhao Kang and told him how to do it, so that he could prepare for the second explosion tonight.
+
+Zhao Kang received the instructions.
+
+He mobilized all the fake reviewers he could muster and got them to post on Tieba and Q Bar. The core of the post was to protest against the official explanation given by Q Bar, which was completely shirking responsibility, and to demand that Q Bar apologize to its members for what it had done.
+
+While these fake reviewers were posting, they also listed all sorts of carefully organized evidence. For example, when the employees of Q Bar copied the content.
+
+It was impossible for a user to copy a piece of content and then switch to another user to copy another. Therefore, they copied a large amount of content with one user account, then switched to another account and copied a whole bunch of content again.
+
+This kind of operation left behind a lot of evidence, especially since Zhao Kang's subordinates had already kept all kinds of photographic evidence very well. From the filtered evidence, it could be clearly seen how they suddenly mobilized hundreds of user IDs and copied the content wantonly at the same time period. Anyone with a discerning eye could tell that this was not the so-called spontaneous behavior of the users at all. It was obviously an organized and planned infringement.
+
+This set of evidence was absolutely reasonable and convincing to the members of Tieba.
+
+The fake reviewers posted the posts on both Tieba and Q Bar. After the posts were posted on Tieba, other fake reviewers immediately helped to push the posts, immediately attracting the attention of the Tieba users who were currently online. After the posts were posted on Q Bar, the first thing they did was to take screenshots as evidence. This was because Li Mu had predicted that Q Bar would definitely delete the posts, so he prepared to leave evidence of Q Bar deleting the posts in advance.
+
+As expected, the management of Q Bar who was on duty in the latter half of the night discovered the protest posts posted by the Tieba users. As the content was really disadvantageous to them, they made a decision without hesitation: delete without mercy, delete as many as they came, and block the accounts of the users who posted the posts.
+
+With this, Zhao Kang's fake reviewers easily preserved the entire chain of evidence of the posts posted by the Q Bar, but the Q Bar deleted the posts and even blocked the accounts. If it was supplemented with artificial embellishments, this series of actions by Q Bar would definitely incur the wrath of the members of the forum once again.
+
+The fake reviewers had yet to start leaking this loophole in the forum. Li Mu wanted to launch another quick and accurate blitzkrieg against the self-proclaimed impregnable Q Bar. Even if all the people online were mobilized, it would not be enough to support his plan.
+
+That night, Tieba and Q Bar presented two completely different situations. Every Tieba had posts requesting for an official apology from Q Bar, and they received a lot of attention. The members of the forum were all supportive to the end. On the other hand, tens of thousands of users went to Q Bar to post many posts requesting for an apology from Q Bar under the instigation of the fake reviewers. However, without exception, all of them were deleted by Q Bar, which made these users furious.
+
+Li Mu was busy until past two o 'clock. When he really could not take it anymore, he went back to his room to sleep. He even specially set an alarm clock for himself at half past eight.
+
+…
+
+The next morning, almost all the new local newspapers used a larger space to report on the unprecedented incident that happened on the internet. Zhao Kang's public relations with the traditional media was starting to take effect. Other than the local newspapers in Beijing, according to the feedback from the members of Tieba, there were at least thirty newspapers in the whole of Hua Xia that reported on this incident. Half of them were the results of Zhao Kang's public relations, while the rest were almost spontaneously reporting on it as a hot topic. Furthermore, what made Li Mu relieved was that these local media that did not have much influence were similar to what he had expected. They pointed the source of the conflict to the infringement of Q Bar.
+
+Many TV stations also had related reports on the morning news, including Beijing TV station. Overnight, comments denouncing the Q Bar spread from TV to the internet, and then to the newspapers. In an instant, the Q Bar and Teng Xun were pushed to the teeth of the storm.
+
+Boss Ma, who had already arrived in Beijing and was preparing to participate in the internet forum, was furious when he found out about this matter. He made more than a dozen calls to Shenzhen. On the one hand, he severely criticized the relevant person in charge of time, and on the other hand, he asked a vice president who was in charge of the headquarters to do everything possible to restore the reputation of Q Bar and the company in front of the media.
+
+It was just that the voices of condemnation were overwhelming, and it was difficult for the media that had already spoken out to do anything else. The media could not easily slap their own faces, so there was very little space left for them.
+
+Even though so many media outlets were denouncing the Q Bar's actions, the Q Bar still did not change its tone. They released another statement at 9: 30 am, claiming that the infringement did exist, but it was entirely the individual actions of the users. Q Bar had already taken action against the accounts involved and reserved the right to pursue legal liability. At the same time, the Q Bar also appealed to the majority of users to keep their eyes open and not be used by some unscrupulous people on the internet.
+
+When Li Mu heard this new statement, he wore a dark blue suit and drove to the entrance of the conference center of a five-star hotel in Dongcheng. The internet conference this time was being held in this five-star hotel.
+
+The conference began at 10 am. When Li Mu arrived, a considerable number of invited internet practitioners had already signed in and entered. Before Li Mu entered, he communicated with Zhao Kang and asked him to focus on mobilizing the users on Tieba during the day. He could first call for everyone to have a second explosion at 8 pm tonight, but he did not want to reveal the specific method of the explosion. He just had to do the initial mobilization work and attract all the users to the "Tieba Family". Then, he would inform the users of the method of the explosion in the website before it was about time.
+
+Once Zhao Kang's fake reviewers started spreading the news that the Q Bar would be exploding tonight, the Q Bar would definitely be on high alert. However, they would definitely be like the 300 Spartans, fortifying their defense with all their might. However, they would forget that there was still a narrow path that they could use to sneak an attack from behind.
+
+When Li Mu signed in with the invitation letter and entered the venue, the person-in-charge of the Q Bar's business department, Luo Zhongwen, had already received the news that the Tieba Forum was preparing to explode at 8 pm. He immediately assigned a strict and detailed division of labor to his subordinates. The technical staff in charge of the server would constantly monitor the changes in the number of online users and be ready to deal with the peak traffic in a timely manner. Meanwhile, the technical staff in the background would be ready to implement stricter restrictions at any time. He was worried that the exploding users would register multiple accounts and log in to break through the limit of one post per hour. Therefore, he came up with an IP restriction strategy. Once a user was discovered to have switched accounts, the other party's IP address would be immediately restricted. The limit of one post per hour would be raised from the level of an account to the level of an IP address.

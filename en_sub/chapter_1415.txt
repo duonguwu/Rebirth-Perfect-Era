@@ -1,0 +1,101 @@
+Chapter 1415
+
+Although Li Mu had been working hard to develop Makino Technology into an international mega conglomerate, it was mainly in terms of layout and strategy. When it came to tactics, Li Mu's concept was still relatively "narrow." For example, the current highly confidential project of Makino Technology, under Li Mu's instructions, the core research and development team was basically all Hua Xia people, or at least Chinese people. Otherwise, no matter how strong the technology was, it would not be able to touch the core of the project.
+
+The reason for this was that Makino Technology had now widened the gap with Hua Xia's Internet companies. He was not afraid that Hua Xia's Internet companies would overtake him. However, compared to Western companies, especially Silicon Valley companies, his leading advantage was relatively weak. Most of them were ahead of their competitors in terms of product awareness, but in terms of technology, Makino Technology still had many shortcomings and weaknesses.
+
+In this case, it was even more important to pay attention to the protection of the core logic of important products. Otherwise, once their core "gameplay" was leaked, those companies with strong research and development capabilities were likely to catch up quickly.
+
+In terms of product awareness, social services, and price, Makino Technology had an absolute advantage. However, in terms of technical support, Makino Technology was much weaker than Apple. After all, the latter was a big shot that could independently develop operating systems and complete computers. Its strong technical reserves were enough to leave Makino Technology in the dust.
+
+It was precisely because Makino Technology was much weaker than Apple in terms of technical reserves and research and development capabilities that Li Mu required the R&D team of Makino Technology to strictly keep the project confidential, so as to catch their opponents off guard and increase the distance and difficulty for their opponents to catch up.
+
+Since Apple had never really regarded Makino Technology as a key competitor at this stage, they lacked mastery and preparation for Makino Technology's related actions. Now that YYtunes was about to be launched, and Mango-ME2 began mass production, it was equivalent to Makino Technology instantly baring its fangs to Apple and preparing to fight.
+
+Jobs had never been so flustered before. In the face of Li Mu's all-out war, he had no power to resist, at least not yet. This meant that Apple had to bite the bullet and withstand the impact of Makino Technology. No matter how strong the impact was, Apple had to stand firm. Otherwise, once the iPod and iTunes business were destroyed, the entire Apple would become a heavy truck without a fuel supply. Jobs did not dare to think about how tragic the outcome would be.
+
+…
+
+Under the attention of netizens and Internet professionals all over the world, Makino Technology officially launched its disruptive YYtunes worldwide on May 21st, a slightly special day.
+
+Netizens and YY users around the world could directly download the YYtunes client. After users updated the latest version of YY, they would find that a triangular player logo composed of tri-color lines appeared on YY. This was the logo of YYtunes, and it was also the shortcut launcher for YYtunes on YY.
+
+In YY's promotion of YYtunes, they gave the software its core values and slogan: Connect the world with music.
+
+This slogan was only ten words, but it fully demonstrated the structure of YYtunes. It was not a simple music player, it was a music world that could connect the world!
+
+It was a new product that could disrupt the online music industry!
+
+Among the hundreds of millions of YY users around the world, more than 50 million people downloaded and experienced YYtunes immediately. In their eyes, Makino Technology had always been a disruptive enterprise. It would always throw amazing products to the world. Even if it was just a music software, YY users and fans could not wait to see what kind of flowers Makino Technology would bring to the music software.
+
+In order to ensure that users had enough opportunities to understand the software, YYtunes provided free online listening services worldwide in the first month of its launch. Li Mu did not use the platform's power to force the record companies to cooperate. Instead, he paid millions of dollars in copyright subsidies to all the signed record companies.
+
+When users downloaded and opened YYtunes, it was as if they had discovered a new continent. In their entire life on the Internet, they had never seen such a beautiful product interface. The homepage of YYtunes was in the form of irregular square modules that displayed different singers, albums, topics, and music styles. There was a width and height of 1: 1, 2: 2 square display of albums, a width and height of 3: 1 rotational banner display of popular singers and topics, and a width and height of 1: 2 vertical display of popular singers and topics. Although there were many shapes, it was not messy at all when pieced together.
+
+This design style was a combination of the characteristics of later iTunes and Windows 10's Start menu. The focus was on the modular display of pictures. Most of the display area was given to pictures, and only a small amount was left for text. The gorgeous colors and visual effects made everyone's eyes light up.
+
+Jobs would never have dreamed that the super cool and futuristic product page of Makino Technology used design elements that came from Apple many years in the future.
+
+All the graphic designers in the Internet industry felt ashamed after seeing such a page design. This kind of feeling, intuitively speaking, was equivalent to putting a super concept car from 15 years in front of today's car designers. This brought about not only a visual impact to the current car designers, but also a sense of generation gap between the design language and design concept. For technical staff, what they were most afraid of was not the gap, but the generation gap.
+
+For users, the surprise that YYtunes brought them was far from just the advanced design language. When they logged in with their YY account, YYtunes immediately used a gently designed floating window to pop up a tag library for them. This tag library was divided by music style, which was generally divided into: pop, classical, electronic, rock, rap, British, jazz, country, blues, and other categories. Users only needed to click on the music style they liked and click OK.
+
+In addition to the tag option, users could also directly click to skip. Moreover, the "skip" option of YYtunes was very eye-catching. It minimized the hassle of "tagging" to the greatest extent possible.
+
+Due to the user-friendly design of the interface, the proportion of users tagged was very high. More than 90% of users chose to tag based on their music preferences after logging in. When they selected the tag and clicked confirm, YYtunes gave them another huge surprise.
+
+In the backend logic of YYtunes, as long as users who had tagged clicked OK, the homepage of the software would immediately undergo a visible reset. The visual effect of this reset was that the original image of all the modules would be blurred from left to right, then a white light would "wash away" the blurred image, followed by a new homepage after the reset.
+
+The new homepage would not change the layout of the module itself, but the content of the module would be completely modified. The logic of the modification was based on the user's own tags and their language version.
+
+If an American user of the English version chose the three categories of pop, rock, and blues, then the backstage would immediately pull up the most popular singers, albums, and singles in the English domain in pop, rock, and blues, and they would occupy 60% of the display space.
+
+As for the other 40% of the display space, 10% was used to display the content that YYtunes wanted to promote; 10% was used to display non-English pop, rock, and blues singers and songs; 10% was used to display the most popular singers and songs in categories that other users had not selected; and 10% was used to display the status updates of friends.
+
+As YYtunes had just been launched, the status updates would not show the user's friends or what the people they followed were listening to. Instead, it would show the user's friends list and display in rotation: Your friend XX has also joined YYtunes.
+
+In general, after the user selected a tag, YYtunes would generate a unique homepage for the user based on the attributes defined by the user. For users, this was far more friendly than expected. There had never been a software that could "spoil" its users like YYtunes did.
+
+In addition to the homepage, YYtunes had four secondary pages, namely the category page, the ranking page, the personal page, and the status page.
+
+In the category page, users could explore their favorite music genre step by step according to the ten major music genres. For example, if a listener liked "death metal", they could enter the "rock" major category in the category interface, then enter "heavy rock" and select "death metal" to view the singers under the "death metal" sub-category.
+
+In the ranking page, there were many charts set by YYtunes, namely: Hot Songs Chart, New Songs Chart, Popular Singers Chart, Single Sales Chart, Album Sales Chart, Best-Selling Singers Chart, etc. The logic of the charts was also very clear:
+
+[Hot Songs Chart] was the list of the 100 songs with the most plays per unit of time;
+
+[New Songs Chart] was the list of the 100 songs with the most plays in the first month;
+
+[Popular Singers Chart] was the list of the 100 singers with the most plays per unit of time;
+
+[Single Sales Chart] was the list of the 100 songs with the most paid downloads per unit of time;
+
+[Album Sales Chart] was the list of the 100 albums with the most paid downloads per unit of time;
+
+[Best-Selling Singers Chart] was the list of the 100 singers with the highest sales per unit of time;
+
+All the charts were divided into four time axes: Day, Week, Month, and Total. At the same time, they could also be filtered by region. The logic of the statistics of the data was to remove duplicates, especially the charts based on the number of plays. In order to prevent malicious manipulation of the charts, every registered user had to listen to a song within 24 hours. No matter how many times they listened to it, the chart would be counted as one time.
+
+As it had just been launched, there was not enough data to support the charts. Therefore, in the first hour of the launch, every chart showed: "Data collection in progress. Hurry up and help your favorite singer (song, album) get on the chart!"
+
+In the personal page, the user's personal settings were displayed, including personal information, favorite music, created song list, recent plays, purchased music, and so on.
+
+In the dynamic page, the latest updates of the singers that the user followed, the user's friends, and other users were displayed according to the time sequence.
+
+In terms of singers, if users followed Zhou Jielun, once Zhou Jielun released a new single (album) or held a concert (fan meeting) in a certain place, the platform would push the updates to the fans who followed him. In addition, YYtunes also reserved a backstage area for the singer's personal account. When the time came, they could personally post customized content in the backstage area to enhance the interaction with their fans.
+
+The friend system would directly read the user's YY friend list. Users could see the list of all their users who had joined YYtunes. If one of their friends followed Mo Wenwei, his friends would see the message: "XX followed singer Mo Wenwei" in the dynamic page. If a friend liked or commented on a song, there would also be a prompt: "XX liked (commented) on a certain singer's song" XX ". All dynamic alerts would be accompanied by hyperlinks. When the user saw the dynamic alert, they could directly click on it and enter the actual content of the dynamic.
+
+YYtunes did not force users to disclose their behavior. Instead, it gave users the option to set up their own privacy settings. Users could choose to publish or not to publish their personal updates. In future iterations, this function would be gradually upgraded. For example, it would be upgraded to the point where users could choose to only publish or not publish their personal updates to certain users. Then, it would be gradually upgraded to the point where users could customize their friend groups and choose whether or not to publish their group.
+
+Li Mu had already considered all of these functions when designing the product. However, many subsequent product designs that were becoming more and more user-friendly were not included in the first version. Instead, he reserved a large number of follow-up refinements and upgraded functions. He planned to slowly squeeze them out to the users like squeezing toothpaste. On one hand, this was to keep the user fresh and to ensure that each iteration could surprise the user. On the other hand, it was to ensure that the gap between the user and the competitor was maintained. Once the competitor caught up, he could come up with an upgraded version to widen the gap so that the competitor could never catch up.
+
+Other than that, in the most critical playback interface, in addition to ensuring that the function options were eye-catching and refreshing, Li Mu also made some other considerations.
+
+In the first version of YYtunes, there was already a lyric display function. In the initial version, only a small number of songs had lyrics. Most of the songs without lyrics were also provided with the opportunity for users to upload lyrics. If the lyrics uploaded by the user passed the review, when the lyrics were displayed, the user would be thanked by name. At the same time, a hyperlink would be provided so that other users could follow the user directly.
+
+In the playback interface, Li Mu also added a sharing function. However, this sharing was limited to sharing between YY users. For example, User A could share a song with his friend B. Then, User B would receive a YY message from A. It would prompt him: "I found a good song on YYtunes. I recommend it to you." User B could directly click on it in the YY dialog box and play it directly.
+
+These functions were very basic functions in the QQ ecosystem in the future. However, right now, each function was like a nuclear bomb, shocking all users and Internet professionals. It amazed and delighted all users, but also made all professionals feel pain and despair. If there was a generational difference between the design language of YYtunes and the current Internet design language, the biggest difference was in its powerful and perfect product concept!
+
+While his business partners were still using millet and rifles to form guerrillas, Li Mu had already put down the roots of the modern military layout of the land, sea, and air forces. He had even hatched an aircraft carrier battle group with YY as its core.

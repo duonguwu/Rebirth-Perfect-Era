@@ -1,0 +1,95 @@
+Chapter 404
+
+When Li Mu received Chen Wan's call, he was already in the conference center of a five-star hotel in Yanjing City, ready to hold a meeting with the core members of Makino Technology. Hearing Chen Wan's words, Li Mu didn't think much about it and asked her, "Have you already submitted your resignation application?"
+
+Chen Wan said, "I didn't submit my resignation application. I just packed up and left."
+
+Li Mu asked in surprise, "Don't you need to go through the process?"
+
+"I'm not leaving!"
+
+Chen Wan said angrily, "I gave them enough respect, but I didn't expect them to threaten me, so I just left."
+
+Li Mu frowned, "How did they threaten you?"
+
+Chen Wan was so angry that she snorted, "They said that one sentence can make me unable to enter all the provincial satellite TV stations, and even make me unable to stay in this industry. It's too shameless."
+
+Li Mu said with a smile, "Even a three-year-old child may not believe what he said. Don't worry about it. Even if he really has the ability to affect Xiangnan Satellite TV, it doesn't matter. Go directly to Makino Image."
+
+Chen Wan asked, "Go to Makino Image?
+
+You want to support me? "
+
+Li Mu said, "In the beginning, I will support you, and in the future, you will support me. Give me two to three years, and I will definitely make you the most popular female host in the country!"
+
+Chen Wan's mood improved a lot in an instant. She said with a smile, "Then I will rely on you in the future."
+
+Li Mu said, "Okay, sister, I'll have a meeting first. If it ends early in the evening, I'll come to you for dinner."
+
+"Okay, you should get busy with your business first!"
+
+Zhan Yun was only a second-tier leader in Yanjing Satellite TV. He was even more insignificant in the national radio and television system. When he threatened Chen Wan, he said that he had a lot of influence in the industry, but in fact, his influence was very little.
+
+First of all, Zhan Yun couldn't take the initiative to contact any of the TV stations and ask them to join forces with him to ban Chen Wan. At most, he could only wait until Chen Wan confirmed that she had found her next TV station, and then think of a way to communicate with the relevant person in charge of the next TV station. And this was only if the next TV station had someone he had a good relationship with and could handle Chen Wan. Otherwise, if he didn't have any relationship at all, or if it was just a nodding acquaintance, he would simply be courting death if he went to ask someone else to help him ban someone.
+
+Therefore, Zhan Yun also knew in his heart that threat was his last card, and it was a deceptive card. If he could deceive Chen Wan, he would win, and if he couldn't, he would lose.
+
+Chen Wan hung up the phone with Li Mu and communicated her situation with the director of "Happy Camp." The director was immediately overjoyed when he heard the situation. He hoped that he could meet with Chen Wan in the near future. It would be best if Chen Wan could go to Xiangdu. In addition, after Chen Wan terminated the contract with Yanjing Satellite TV, the two sides could sign a contract, and the sooner the better, because "Happy Camp" currently needed some new elements, especially a host like Chen Wan who was extremely attractive to fans.
+
+Hearing the director's statement, Chen Wan was a little relieved. In any case, she submitted her resignation, and Yanjing Satellite TV must terminate the labor contract with her within a month. That was to say, she could completely get out of Yanjing Satellite TV in one month at most.
+
+…
+
+Today, Li Mu once again convened all the senior executives of Makino Technology for a meeting. In Li Mu's mind, this meeting was of great strategic significance to the follow-up development of Makino Technology, so he attached great importance to it.
+
+The core of the meeting almost all revolved around YY, the instant messaging software that had been eagerly developed since last year. Now, all the development work had been basically completed, and the internal testing was imperative.
+
+Regarding the internal testing, Li Mu put forward several requirements at the meeting.
+
+First, the internal testing should be kept as confidential as possible. The basic testers would not participate in this internal testing, and the internal testing work would be completed by the core personnel.
+
+Second, check and fill in the gaps as quickly as possible. If a product bug was found, it must be rectified with all its might, and the entire internal testing period must not be delayed.
+
+Third, the internal testing period was initially set to be fifteen days. Within fifteen days, if the number of bugs was lower than the baseline required by Li Mu, everyone would be rewarded. After fifteen days, for every day delayed, the bonus would be deducted by 20% of the original base. After five days, that is, after twenty days, the bonus would be zero. After twenty days, the relevant personnel would be punished. No matter how many days there were, if the number of bugs was higher than the baseline required by Li Mu, the bonus would be zero, and the relevant personnel would be punished.
+
+In short, Li Mu's requirement was to solve the problems of the internal testing within fifteen days, and to ensure that the product could run normally after the official launch.
+
+Li Mu asked Kong Lingyu and other company leaders to take the lead in making a military pledge. Then, he opened the PowerPoint that he had carefully prepared. Before going online, he explained his plan for the super product, YY, to the core personnel for the last time.
+
+On the PowerPoint, based on the basic interface of YY, Li Mu marked the contents of eight sections with eye-catching square boxes on both sides. These eight sections corresponded to the eight product sections that made up the basic functions of the first version of YY.
+
+Li Mu sat at one end of the huge conference table, pointed to the projection screen behind him, and said, "Everyone, since YY is the core product of Makino Technology for the next five to eight years, I must explain to you in detail the small ecosystem of eight sections that we have developed around YY."
+
+As he spoke, Li Mu began to introduce the specific positioning and core significance of these eight sections in detail.
+
+The first section was undoubtedly the basic instant messaging service. This was based on the foundation of QQ, with some basic cloud services added, such as customizing user nicknames, lists, and roaming user chat records.
+
+The second section was the YY group service. Nowadays, users were no longer satisfied with one-to-one communication. Network communication was the same as real-life communication. In real life, it was impossible to only have one-to-one communication. There was also one-to-many multi-person communication. However, the current instant messaging software did not provide this service. The YY group was born for this purpose. In the future, it would be half of the instant messaging market.
+
+The third section was based on the YY cartoon show service provided by users, or YY Show for short. Users could customize their personal cartoon image here. In addition to facial features, hairstyle, skin color, and body shape, there was also a rich selection of clothing, accessories, background, and props. This section was a great tool to attract users to top up and pay.
+
+The fourth section was a cartoonish personal electronic pet section with a simple style. Although many technical staff felt that this section did not make much sense, Li Mu insisted on doing it. This was also the key to maintaining user loyalty and improving the interaction between users.
+
+The fifth section was Tieba. In the first version of YY, Tieba had already been integrated into it. Users could directly click on it from the YY client and automatically log into Tieba. At the same time, various prompts in Tieba would be displayed on the YY client, including instant messaging with friends in the Tieba, which was also directly supported by YY.
+
+The sixth section was the personal space. When Li Mu launched his personal space in Tieba previously, he used the domain name. This was also an Easter egg that Li Mu had buried in the internet world. When everyone saw the launch of YY, they would understand that all of this was actually part of his plan. The other top-level domain name had already been bought by Makino Technology for a six-figure price. Therefore, in the future, the domain name of TIEBA would be associated with the domain name. This was the beginning of the domain name unification.
+
+The seventh section was Happy Farm. As the real profit core of Makino Technology, Happy Farm naturally had to be deeply tied to YY. In the first version of the YY client, Li Mu directly placed Happy Farm in the quick launch bar of the client. In addition, the entrance in the space would continue to be retained. Now that Happy Farm was very popular among users, he would naturally delete the quick launch entrance of Happy Farm when he updated YY in the future.
+
+The eighth section, which was also the last section, was the separated Easy Listening Network. Although Easy Listening Network had become independent in terms of company form, for Li Mu, he was the major shareholder of Easy Listening Network and also the major shareholder of Makino Technology. Although they were two companies, they were still under his control. Therefore, he could directly integrate Easy Listening Network's MP3 players into YY. There was also a quick launch bar of "Music" on the YY client. After clicking on it, it would jump directly to Easy Listening Network. Moreover, Easy Listening Network would synchronize the listening information of YY users. Users could choose whether or not to announce their status in YY.
+
+Among the eight sections, some used to be independent, but now they were all given a new mission by Li Mu, which was to build an ecosystem around YY. If the industry of Makino Technology was compared to the solar system, then YY was the sun. Other planets of different sizes, but no matter how big or small, they all served the sun, YY.
+
+Now, Li Mu had integrated these eight sections into YY software. Whether it could be operated according to his requirements in the future would depend on the efforts of these people.
+
+After introducing the concept of his entire ecosystem, Li Mu gave his requirements for the future development of YY. "Based on the existing users of our Tieba and Happy Farm, my requirements for everyone are: within a week after YY is launched, the number of registered users must exceed ten million; within a month, the number of registered users must be equal to that of Tieba and Happy Farm; within two months, we must surpass QQ in all aspects; within three months, we must crush QQ."
+
+After that, Li Mu looked at Kong Lingyu and asked him, "Mr. Kong, you're the general manager. Please state your position first. Is there any problem with these requirements?"
+
+Kong Lingyu said without hesitation, "No problem."
+
+Li Mu nodded and said, "These are the operational requirements I'm giving you. However, the people in the technical department, once YY is officially launched, you must immediately start developing the second upgraded version of YY. At the same time, you must also develop a new competitive product."
+
+Everyone looked at each other. They did not know what the new competitive product Li Mu was talking about was.
+
+Li Mu knocked on the table with his knuckles and said, "The new competitive product also revolves around YY. I have a rough prototype here, everyone can take a look."

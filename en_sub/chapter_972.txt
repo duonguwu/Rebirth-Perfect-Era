@@ -1,0 +1,99 @@
+Chapter 972
+
+Several friends drank and chatted merrily. Everyone was friends and business partners, so their relationship was very close. Moreover, the environment, the food, and the wine were all impeccable. For everyone, it was a rare opportunity to relax.
+
+As soon as the meal started, when Li Mu asked the service staff of Fayue Restaurant to pour wine for everyone, he said that since it was rare for them to have a party, everyone should try not to be reserved. If they drank too much and couldn't drive, they could ask Wang Yuanlang to drive them back, or they could just stay here.
+
+Except for Song Liang's son, Xiaobao, everyone responded to Li Mu's suggestion. The rare red wine that Wei Lan and Dufy had specially picked was the first to be opened. As the owner of this villa, Li Mu raised his glass and gave a speech. He didn't mention what Wei Lan had experienced a few days ago, but raised his glass and said to everyone, "This glass of wine is to everyone, and to us. I wish that everyone will get better and better, and I wish that we will get better and better."
+
+"Everyone" referred to everyone's everything, and "we" referred to everyone's friendship and the business that everyone was working on together.
+
+Today, these people could sit and drink together, almost all because of Li Mu. As the initiator of everything, Li Mu gave everyone a new and vast world, so to a large extent, he was the core of this small group, and he was qualified to say this. Everyone raised their glasses in high spirits. All the glasses clinked together, and everyone said in unison, "It will get better and better!"
+
+After the first glass of wine, Li Mu said with a smile, "It is indeed a rare fate that everyone can gather together to do business, and get along so well. If we work hard together, I believe that in the next few years, Wanying will definitely be listed on the main board or in Hong Kong, and become a real estate company with a market value of tens of billions or even more. Therefore, this second glass of wine is for Wanying's bright future. On the road to great success, I hope that everyone will not fall behind."
+
+Li Mu's words were mainly for Wei Lan to hear.
+
+Song Liang and Chen Ze were both shareholders of Wan Ying Group, so there was no such thing as being left behind. Even if one of them withdrew from the actual business of Wan Ying Group in the future, he would still be the owner of Wan Ying Group. On the other hand, Dufy was more of a friend than a colleague. Deep down, Li Mu didn't really see her as an indispensable part of Wan Ying Group. The reason why he invited her to join was because he wanted to help Chen Ze pick up girls.
+
+Excluding these three people, Wei Lan was the main teammate that Li Mu wanted to keep in Wan Ying for a long time.
+
+Li Mu recognized Wei Lan's abilities in all aspects. In fact, under the premise that he didn't have too much energy to take care of the specific operations of Wan Ying Group, Wei Lan was his biggest reliance for the future of Wan Ying Group. Wei Lan's situation was really too special. Her parents were still overseas, so Li Mu didn't want Wei Lan to suddenly have the idea of withdrawing one day.
+
+If residential real estate was a business that would take at least five to ten years, then commercial real estate was a business that would take at least ten to twenty years. If one wanted to have a great harvest in commercial real estate, it would take a long time to cultivate. After three years, Wei Lan would receive the eight hundred million in cash that she deserved, including the shares of Wan Ying Group that he promised her. Li Mu didn't care about the shares, but he was afraid that Wei Lan would suddenly want to withdraw after three years.
+
+The others nodded one after another, saying with passion that of course they wouldn't fall behind, and that they would definitely fight for Wan Ying Group until the end. At that moment, everyone was filled with pride, especially Song Liang and Chen Ze. Song Liang poured all of his efforts into Wan Ying Real Estate, while Chen Ze poured a small portion of his efforts into the race track and the CSC Club in Shunyi, while the majority of his efforts were given to Wan Ying Group.
+
+Li Mu looked at Wei Lan beside him, waiting for her to express her stance. Wei Lan also understood the meaning behind Li Mu's words. In the past, she could say that she listened to everything Li Mu said, and in a voice that only she could hear, he said, "If your father's judgment is against him, you don't have to worry. Give me three years, and after three years, I will definitely let your family reunite in China."
+
+This was Li Mu's promise. Wei Lan kept biting her lower lip and didn't speak, so Li Mu specially clinked his glass with hers. In a voice that only she could hear, he said, "If your father's judgment is against him, you don't have to worry. Give me three years, and after three years, I will definitely let your family reunite in China."
+
+This was Li Mu's promise.
+
+Li Mu firmly believed that if the court found Wei Jun guilty and gave him three years, he would definitely be able to settle everything and let him boldly return to China. Even if he needed to do this behind the scenes, for Wei Lan, for Wan Ying, and for the sense of responsibility he had for her, he would do it without hesitation.
+
+When Wei Lan heard Li Mu say this, she immediately understood that Li Mu could see everything clearly. He knew that what she was most worried about was her parents far away in America. He knew that after he fulfilled the three-year deadline, he might not be able to continue living in China alone. He might want to take the money and go to America to spend time with his parents, so he made this promise. In one sentence, he touched the most sensitive and soft spot in her heart, causing her eyes to instantly fill with tears.
+
+Since Li Mu had already said this, Wei Lan suddenly had a kind of lofty aspiration of "a gentleman would die for his bosom friend". The feelings buried in the bottom of her heart also began to stir. Then she made up her mind and said with a double meaning, "I only have myself. In the future, everything about me will be at your disposal."
+
+Li Mu, who didn't know how to flirt, nodded happily and said, "Let's work hard together."
+
+…
+
+While the private party at Ziyun Villa was getting more and more exciting as it progressed, the technical team in Hangzhou had just finished developing the automatic crawling script.
+
+In the era of computers and the Internet, everything was about efficiency. But sometimes, pure efficiency would give rise to a special kind of confrontation.
+
+There was a limit to the load capacity of any website. If the login mechanism of a website had a limit to the number of times a website could be accessed, then any random hacker could write a script that continuously sent hundreds, thousands, or even tens of thousands of login requests per second. Very quickly, the entire login mechanism of the website could be destroyed, so all users couldn't log in normally.
+
+To deal with this kind of "efficiency," the smart people of the Internet invented a mechanism to distinguish between humans and machines: verification codes.
+
+If there was no verification code, a script could submit 10,000 login requests per second. However, once a verification code that could not be recognized by the script was added, the purely automated script would immediately be strangled outside the website. Submit a login request?
+
+Yes, you had to fill in the verification code first. It would take at least a few seconds to recognize the verification code that was difficult to recognize. It would also take a few seconds to fill in the verification code. Even if you succeeded in one try, you would need at least ten seconds to submit a login request.
+
+Ten thousand times per second and ten seconds per second were 100,000 times more efficient.
+
+Boss Ma's technical team developed a fully automated script that could execute 10,000 times per second. The server of the Taobao website could accommodate tens of millions of people browsing at the same time. With such powerful bandwidth and server support, Boss Ma's technical team could collect all the pages of the Taobao website in a few hours.
+
+However, once the watermark was online, Boss Ma's wishful thinking would fail.
+
+At that time, Boss Ma would only have three choices in front of him.
+
+The first choice, in order to ensure efficiency, he would have to use it no matter what!
+
+That would be exactly what Li Mu wanted. At that time, the entire Le Tao website would be filled with pictures with the watermark logo of the Taobao website. This advertisement would be perfect.
+
+The second choice, in order not to advertise for Li Mu's Taobao website and embarrass himself at the same time, he would give up on efficiency and change to a batch of collection. However, he would have to manually block it before uploading it. This way, the efficiency would be greatly reduced.
+
+Right now, the average number of pictures of the product introductions on the Taobao website was about five. If the watermark appeared in five pictures at different places, and all five pictures had to be manually blocked, it would take at least a few minutes …
+
+The third choice, Le Tao would no longer help the Taobao sellers to collect and upload the products. Instead, they would let the Taobao sellers upload the products themselves. The original pictures in their hands would not have the watermark logo on the Taobao website. Although this would reduce the trouble for Le Tao, would the Taobao sellers be willing to suddenly throw such a huge workload to them?
+
+At nine o 'clock at night, Lu Zhaoxi came to Boss Ma's office excitedly and said, "Boss Ma, our collection and uploading scripts have been completed. It's one hour ahead of schedule!"
+
+Finally, there was some good news!
+
+Boss Ma immediately stood up and said happily, "Very good, very good!
+
+The high efficiency of the technical team is worthy of praise! "
+
+Then, Boss Ma said, "Oh right!
+
+To prevent any accidents from happening, get the technical team to immediately collect all the product pages on the Taobao website. Remember to use a script to change the IP address. If an IP address generates a large number of visits, Li Mu will definitely notice it!
+
+We have to collect all the product information before he notices it. That way, it will be meaningless even if he tries to block it! "
+
+Lu Zhaoxi immediately nodded. "I'll go and give the order now!"
+
+There were a lot of ready-made software and scripts on the internet for the function of automatically changing the IP address. All kinds of small websites could use scripts that could continuously change the IP address. Le Tao's technical team had ready-made scripts, so they used them almost immediately.
+
+At 9: 10 am, Le Tao officially launched the collection of Taobao's pages. For a search engine like Baidu, collecting a Taobao's page was simply a drop in the bucket for its entire collection work, but for Le Tao, it was really a huge project.
+
+That night, Lei Jianguo was working overtime on the Taobao website.
+
+This time, Taobao didn't add a logo to every picture on the server. Instead, it added a function to the website program. Once this function was activated, the server would automatically superimpose the logo on the picture when the user visited the product details page. Therefore, Le Tao needed to collect the page bit by bit, but Taobao had mastered the switch to instantly add a watermark logo to all the pictures.
+
+More importantly, this switch had already been secretly turned on an hour ago.
+
+When Le Tao's collection work began, the person in charge of the technical department focused on supervising the number and speed of the collection. However, he inadvertently discovered something strange. In the information of the product pages that were collected, there was an additional two-line translucent white logo on each picture of the product!

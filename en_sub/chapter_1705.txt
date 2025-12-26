@@ -1,0 +1,139 @@
+Chapter 1705
+
+The release of the new version of YY coincided with the end of December.
+
+As it was the end of the year, Li Mu designated it as the New Year's version, with the version number being 2005V5.0.
+
+From 2005 onwards, all YY versions would have "year" as their version code. 2005 was 5.0, 2006 was 6.0, and so on.
+
+In principle, the version code for each year would not be changed. For example, any version released in 2005 would be coded in the form of 5.X.Y. Minor changes would be added to Y, and major changes would be added to X.
+
+In other words, if 2005 V5.0.1 was released, it would be a minor change; if 2005 V5.1.0 was released, it would be a major change.
+
+At present, YY's market share was more than 95%. Although other smaller products had a certain audience, their audience overlapped with YY's.
+
+As an instant messaging tool that was the best in the world, the release of YY's new version attracted the attention of a large number of users from the start.
+
+The new version of YY had upgraded many functions, and the UI had been optimized to be more in line with modern aesthetics. The biggest upgrade was the addition of dynamic emojis.
+
+Since YY's position as the industry leader had been established, and there was no global competitor, YY had not been making any drastic updates during this period. It was not like the early days, where all kinds of amazing new functions were continuously released. Instead, it was slow and steady, ensuring that each new version would improve the visual, interactive, and user experience.
+
+Li Mu knew very well that a lot of software was ruined because of blind upgrades, giving users the feeling that the upgraded software was uglier and more difficult to use than before. Therefore, he was very cautious with every upgrade and requested the team to achieve one word, stability.
+
+Because YY was very stable with each update and never disappointed users, users maintained a sense of anticipation for the new version. Every time a new version was released, most users would choose to upgrade after logging in.
+
+This time, YY users around the world discovered that YY had been upgraded to the first version in 2005, and they excitedly downloaded the update package and software.
+
+After the users completed the update and logged into their accounts, YY flashed with a sci-fi interlude animation. The brand new 2005, brand new YY 5.0, and so on appeared one after another. YY's logo also used CG to create a three-dimensional animation visual effect. Coupled with the futuristic background music, it made all the users feel very good about it.
+
+The entire interface, borders, and buttons all had better visual effects, greatly improving the user experience. When users clicked to open the friend dialog box, they discovered that there was an animated notification on the dialog box. A constantly glowing arrow pointed to a moving emoji icon next to the original emoji, and it said in the local language, "Please click to view the new dynamic emoji function."
+
+After clicking it, an emoji selection box appeared. Twenty panda bear emojis were displayed in four rows of five in each row, and each of them was in a continuous dynamic loop.
+
+As long as the user hovered the mouse over one of the thumbnails, a floating window the size of a matchbox would pop up. The user could clearly zoom in on the expression that the mouse was pointing at. When the user saw these expressions, almost everyone was attracted to this strange, cute, and cheap cartoon image.
+
+Soon, some users tried to send a dynamic emoji to their friends.
+
+When they clicked send, GIF emojis immediately appeared in the dialog box. The funny actions matched with the text made people unable to help but laugh.
+
+Moreover, the users quickly discovered that these dynamic emojis could not only directly replace text under certain circumstances, but could also be used to "chat in a different way" using emojis!
+
+For example, a user sent a panda bear running and jumping emoji to a friend, saying, "I'm coming!"
+
+The friend immediately replied with an emoji of a panda bear suddenly turning its head and waving exaggeratedly, with strings of hearts.
+
+Some users were not so friendly. When they received the "I'm coming" emoji from their friends, they chose to reply with an emoji of a panda bear kicking a person away.
+
+The friend immediately returned the favor and sent an emoji of a panda bear beating a person.
+
+Soon, everyone discovered that the various emojis could be connected to each other according to different circumstances, and different combinations naturally had different effects and feelings.
+
+To the users, this was like discovering a new continent, and they were immediately immersed in it.
+
+The twenty panda bear emojis were played by the users almost immediately!
+
+The users naturally had no resistance to these kinds of emojis, and this suddenly brought their online chats to a new level.
+
+As the panda bear emojis had multiple language versions, the system's way of distinguishing them was to automatically load the panda bear emojis in whichever language the user was using. Therefore, the panda bear emojis spread all over the world in an instant.
+
+What was even more amazing was that this kind of locally cached emojis could also be switched between various languages.
+
+For example, if a Japanese person sent a "F * ck off!" to a Korean person.
+
+The sender chose the Japanese version of the emojis locally and sent it to the server as a command. After the Korean person used the Korean version of YY to receive it, it was automatically displayed as the Korean version of the emojis. Therefore, this kind of emojis simply existed without borders.
+
+Group chats were even more interesting.
+
+If there were users from many countries in a group and they were using different language versions of YY, then anyone who sent an "I'm coming" emoji would receive the same emojis in their own language version.
+
+In this way, there were no restrictions on the spread.
+
+In the past, the custom emojis were fixed in the file. The emojis would say "The other party doesn't want to talk to you and threw a dog at you." No matter who it was sent, it would be the same string of words. It was fine if it was sent to Hua Xia, but if it was sent to the Americans, they would definitely not understand it, and the Japanese would also be confused.
+
+However, the YY emojis files were now cached by the system itself, and the transmission was also through the transmission of instructions rather than the file itself. Therefore, as long as Makino Technology created its own multi-country versions and unified the instructions of the multi-country versions, it could be achieved. When Hua Xia sent an emoji that said "The other party doesn't want to talk to you and threw a dog at you" to the Americans, the Americans would directly receive the version that was translated into English.
+
+In this way, it was really a happy reunion in the online world.
+
+...
+
+Such an interesting emojis immediately attracted the attention of YY users all over the world.
+
+For a time, private chat emojis were flying everywhere, and the emojis in the group were constantly flooding the screen.
+
+The monitoring data of Makino Technology showed that in the first hour of the new version being online, the cumulative number of dynamic emojis sent exceeded 100 million times; in the second hour, the cumulative number of dynamic emojis sent exceeded 1 billion times!
+
+In the third hour, the cumulative number of dynamic emojis sent exceeded 2 billion times!
+
+The average number of dynamic emojis sent exceeded 10 times.
+
+Once a user started using the emojis, it was almost impossible to stop!
+
+Both boys and girls loved the ugly, cheap, and cute image of the panda bear. They even felt that the more they looked at it, the more interesting it became.
+
+For a time, the panda and the panda bear became the super hot topic of the global Internet world.
+
+Because many users liked the panda bear emojis, they also had more expectations for the real panda.
+
+Soon, content related to the dynamic emojis began to appear on Weibo and Twitter.
+
+Whether it was Hua Xia users, European or American users, or Japanese, Korean, or Australian users, they all praised the dynamic emojis on Weibo and Twitter. Many people asked, "Who made this set of emojis called" Panda Bear?
+
+Who is the one who made the "Bear" emoji, Panda Bear?
+
+Who designed the Panda Bear? "
+
+The official account of Weibo and Twitter posted an official explanation: Panda Bear.
+
+It was the cartoon image and mascot of Taobao Go Where Panda Travel Line. The copyright belonged to Taobao Go Where Panda Travel Line. The author was Mr. Li Mu, the chairman of Makino Technology.
+
+In addition, Weibo and Twitter also kept people guessing, saying: "The first episode of 20 Panda Bears.
+
+Among the dynamic emojis, six of them were played by Mr. Li Mu himself. Do you know which ones? "
+
+As soon as this Weibo post was posted, Li Mu's personal Weibo was immediately attacked by users all over the world. A large number of users left comments under his latest Weibo post. Some users praised the dynamic emojis function as a great idea. Some users anxiously asked when the second panda bear emojis would be released. Some users praised Li Mu's design and thought that the panda bear cartoon image was very good. Many users directly asked which emojis were played by Li Mu himself.
+
+Li Mu posted a Weibo post a few hours later: "Taobao Go Where Hua Xia Panda Travel Line product is online. If you buy it now, you will get an exclusive authentic panda bear doll!
+
+Come to Hua Xia and have close contact with the panda! "
+
+He also attached a picture to this Weibo post. In the picture, he was holding a 30-centimeter panda bear doll, and behind him stood a row of dolls wearing panda bear costumes.
+
+Overnight, Li Mu's Weibo became popular, and the Taobao Go Where Panda Travel Line product was also sold out.
+
+The media all over the world were shocked by the new trend of the Internet. The small panda bear emojis and the panda bear image immediately became the object of the global media's scramble to report.
+
+The media couldn't understand how Li Mu could use such a simple and even somewhat ugly cartoon image to conquer the hearts of young people all over the world.
+
+On the Internet, young people who used the panda bear image as their profile picture were also overwhelming.
+
+There had never been such a strong visual wave on the Internet. The panda bear was definitely the first cartoon image that could make netizens all over the world crazily chase after it on the Internet.
+
+Japanese netizens also liked the panda bear, and because they themselves were strong cartoon countries, their netizens' attitudes were the most conflicted.
+
+On the one hand, it was the crazy love of Japanese netizens for the panda bear. On the other hand, it was the strong incomprehension in their hearts.
+
+Why, why could Hua Xia people design such a special, such a powerful and contagious cartoon image?
+
+Wasn't this what Japan was best at?
+
+But now, a cartoon image designed by Hua Xia people became popular all over the world overnight. Although Japan had many cartoon images that became popular all over the world, none of them became as popular as the panda bear.

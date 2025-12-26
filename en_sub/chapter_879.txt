@@ -1,0 +1,121 @@
+Chapter 879
+
+Li Mu was well aware of the charm of running an interactive social game. Be it Hua Xia or an American, it was impossible for them to resist the attraction of such a game. Therefore, as long as the game was promoted well, the users would definitely try their best to build connections with the game. To Li Mu, this stage was like planting leeks. When the leeks grew, he could harvest them all with a knife. By then, whether these leeks were sold for money, stir-fried dishes, or buns, it all depended on his mood.
+
+In Li Mu's strategic plan, Paradise Town's first overseas battlefield was universities. As long as the game could defeat the universities first, it would be equivalent to tearing a huge hole in the American market.
+
+During the meeting, Li Mu requested that Paradise Town immediately enter the preparation process for the overseas promotion. For Paradise Town to be promoted overseas, a dedicated operation and promotion team had to be quickly dispatched to the United States to take on the necessary role. Li Mu requested that the current operation director of Happy Farm, Chen Wenfeng, coordinate and organize the team to be prepared to work in the United States. At the same time, they had to understand the student organizations of the famous universities in the United States in advance and establish contact in advance.
+
+However, Li Mu also attached great importance to the strategy of Paradise Town in the United States. He made a request to the operation team: Paradise Town would be placed under the company registered in the United States for the promotion of the game. During the first phase of the indirect promotion, the officials must not tie the game to YY in any way. They must try their best not to let the users know that the game had any connection with YY to prevent the users from feeling conflicted. As for whether the American media would expose them, it was not within Li Mu's scope of consideration.
+
+After Li Mu finished talking about Paradise Town, the topic of discussion shifted to the payment channel. "Right now, the American elite users are very willing to pay, but the biggest problem is that we have not provided a direct and convenient payment channel for the American users."
+
+Lin Ching-ah asked, "Is it possible for our Alipay to enter the American market, or connect to the American banking system?"
+
+Li Mu said, "In theory, it is possible, but it will be very difficult to implement. It will be difficult to solve in a short time."
+
+Li Mu paused for a second and said, "Let's not split our efforts in the short term. Let's not think about building a payment platform in the US or connecting Alipay to the US market. Let's work with PayPal first and launch the new membership system in the US market."
+
+"New membership system?"
+
+Everyone was a little surprised, but they quickly recovered and asked Li Mu, "Are we going to implement a specific membership system in the United States?"
+
+Li Mu nodded. "Our current membership system is too simplistic. Users in the American market are willing and able to pay. This monthly membership system of 1.2 USD is difficult to meet their needs."
+
+Currently, there was only one level of YY membership. After becoming a YY member, users could create a YY group with 100 members or a YY group with 200 members. They had 128 MB of network hard disk space and 1024 MB of offline file transfer space every day. Offline files could be stored for 72 hours free of charge, and 10 people's chat records could be permanently roamed.
+
+As for the other functions, even free users could try them out.
+
+Li Mu shared his ideas with everyone. "First, we need to include group video calls into the chargeable category. Only members can initiate group video calls, and there must be a clear limit on the length of the call.
+
+"For example, a normal user can have five hours of free group video call time per month. A normal VIP can have 30 hours of group video call time per month. If a member video calls more than one other member, then everyone's time will be deducted. If five members video call together for one hour, each person will be deducted one hour.
+
+"If a member video calls more than one normal user, after the normal user's video call time is used up, the VIP initiator's video call time can be deducted together. If a member video calls three normal users who have already used up their video call time, the condition is that the member initiates the call, and the other three normal users' video call time will be deducted from his account. In this case, for every hour of video call, four hours will be deducted from the VIP's video call time.
+
+"If the video call time is not enough, you can buy a separate time package. One USD for every ten hours. This price should be very worth it."
+
+A director expressed his concern. "If we start charging for video calls, will it bring harm to the users?"
+
+Li Mu smiled and asked him. "Mobile and Unicom will implement a two-way charging system for your mobile phone. Roaming charges will also be added when you make calls outside of the country. This will definitely hurt you, but do you have any way to reject it?"
+
+The director scratched his head. "Even if I can't reject it, the users will still feel very disgusted."
+
+Li Mu smiled and said, "First of all, we are providing American users with a video conference solution that is more convenient and easier to use than the video conference terminal. Originally, they had to invest a lot in this solution every year. As the only alternative solution provider, we are providing service support at an extremely low price. I believe the American market will definitely accept it. Don't forget, the American internet market is very different from Hua Xia's internet market. The overall payment ratio and willingness to pay in the US internet market are much higher than in China.
+
+"Secondly, we have already given ordinary users five hours of group video call time per month. We have also given them a bug to exploit. If they are really unwilling to pay such a small amount of money, they can also register a new account to get more time. If they can't bring us revenue, then they can contribute a few registered users to us. This is already very generous.
+
+"Thirdly, what we really want to provide American users is a deeply customized membership service. It is completely in line with the mainstream values of America. The more money you spend, the more you enjoy. There is no advantage."
+
+Speaking up to this point, Li Mu wrote down a few of his membership service slots on the whiteboard and said, "First of all, we want to add a login IP identification mechanism. All YY members who are not from across Hua Xia will be charged a basic membership fee of two USD per month. On this basis, we will add a few more slots. They are: Intermediate VIP, Advanced VIP, Super VIP, and various other value-added services.
+
+"Intermediate VIP, the basic membership fee is five USD per month. You can set up two YY groups of 100 people and two YY groups of 200 people. You can set up two YY groups of 200 people. You can set up two YY groups of 100 people and two YY groups of 200 people. You can set up two YY groups of 200 people and two YY groups of 200 people.
+
+"Premium VIP. The basic membership fee is 8 USD per month. You can set up three YY groups with 100 members, two YY groups with 200 members, and one YY group with 500 members. You also get 512MB of network hard disk space and 3,072 MB of offline file transfer space per day. Offline files can be stored for 72 hours free of charge, 90 hours of multi-person video call time, and 30 people's chat history permanent roaming."
+
+"Super VIP, the basic membership fee is fifteen USD per month. You can set up three YY groups of 100 people, three YY groups of 200 people, and one YY group of 1,000 people. You can set up three YY groups of 100 people, three YY groups of 200 people, two YY groups of 500 people, and one YY group of 1,000 people. You can set up three YY groups of 100 people, three YY groups of 200 people, two YY groups of 500 people, and one YY group of 1,000 people.
+
+Kong Lingyu said, "Boss, can we implement a similar hierarchical membership system in China?"
+
+Li Mu nodded and said, "We can, but we must not publicize it too much. Most of our users don't need a more advanced membership service. If we publicize a more advanced membership service, it would be a blow to their enthusiasm to pay."
+
+"Understood."
+
+Li Mu said, "Let me continue. There are also some ideas for value-added services. For example:
+
+We can introduce a network hard disk upgrade package. For every additional 128MB of network hard disk space, you need to pay 0.5 USD per month.
+
+We can also introduce a YY group value-added service. For every additional YY group of 200 people, you need to pay 0.5 USD per month. For every additional YY group of 500 people, you need to pay 1 USD per month. For every additional YY group of 1,000 people, you need to pay 3 USD per month.
+
+For every additional 1024MB of offline file transfer space, you need to pay 1 USD per month. You can also pay 1 USD per month. For every additional YY group of 1,000 people, you need to pay 3 USD per month.
+
+For the free offline file storage time, you need to pay 0.5 USD per month for every additional 24 hours. It can be infinitely stacked. At the same time, you can also purchase a one-time delay service for a certain offline file. For every additional 24 hours, you need to pay 0.1 USD per month.
+
+For the multi-person video call market, you need to pay 1 USD per month for every additional 30 hours. It can be infinitely stacked … "
+
+Li Mu's set of customized membership services was actually to better serve the business elites. They had different needs for various membership functions. What he needed to do was to give them the freedom to choose and stack the functions according to their actual needs. On the one hand, he could better serve them, and on the other hand, he could earn more value-added service fees.
+
+After understanding Li Mu's plan, Kong Lingyu and the other technical directors were amazed by Li Mu's meticulous consideration of the problem. At the same time, they recorded Li Mu's requirements and prepared to develop it.
+
+After the meeting, Li Mu asked his employees to perform their respective duties and quickly promoted all his follow-up strategies.
+
+Ding Zhenglin was ready to make use of all the advantages of Makino Technology to fight for the best conditions for Makino Technology's C Series financing in front of the capital.
+
+Kong Lingyu and Fang Xudong led the technical team to launch the reform of the hierarchical membership system and customized membership services.
+
+The business department was ready to connect with Paypal and connect to the payment channels in the United States as soon as possible. The server team and the operation and promotion team were ready to go to the United States.
+
+Lin Ching-ah was also ready to go to Silicon Valley in person to set up a branch of Makino Technology in Silicon Valley. At the same time, she was recruiting talents for Makino Technology and Li Mu's entire Internet strategy system in Silicon Valley.
+
+After giving instructions, everyone left the conference room in an orderly manner. Li Mu asked Lin Ching-ah to stay and asked her to help him apply for a business visa to the United States. It would be best if she could help him apply for a United States green card. In the future, he would definitely go to the United States frequently. The visa issue would greatly limit the excitement and flexibility of his business. If he could obtain a United States green card as an investor or a famous businessman, he could set off from China at any time in the future and fly to the United States.
+
+After explaining this matter, Li Mu went to his office and closed the door. He half reclined in his boss' chair and put his legs on the table. He was thinking about the upcoming overseas war.
+
+Li Mu was not worried about the development of Paradise Town in the United States and the entire overseas market because there was no social game similar to Paradise Town in the overseas market. Li Mu wanted to take the opportunity to promote Paradise Town in the overseas market. He was not worried that there would be competitors in a short period of time.
+
+Paradise Town was the overseas version of Happy Farm. Happy Farm had been modified many times and designed such a huge game structure. It included the farming industry, manufacturing industry, construction system, mission system, and player interaction system. In fact, the entire structure and logic of the game was almost the same as a proper online game. It was difficult to catch up. No matter how fast it was, it would take a few months to achieve. A few months was long enough for a popular game to become popular all over the country.
+
+Paradise Town could at least be a few months ahead of its competitors, which was enough for a game. However, for YY, the core product of Makino Technology, a few months of technological lead was not enough for Li Mu to feel confident.
+
+In YY's product system, all the patented technologies had been protected. However, once YY provided a solution to a certain demand, other competitors would definitely bypass YY's patent and use another method to solve the demand caused by YY. As the saying went, all roads lead to Rome. YY's patent barrier was far from enough to defend against all foreign enemies. Moreover, many companies would not hesitate to infringe on their competitors' patents for further benefits and development.
+
+In the development of the Internet and various electronic products, there were countless examples of companies using their competitors' patents to defeat their competitors, and then losing money to their competitors. The latter seemed to get tens of millions or even hundreds of millions of USD in compensation, but the overall loss of market development was far more than just compensation.
+
+Therefore, it could be imagined that with the continuous development of YY, it would definitely stimulate the competitiveness of overseas competitors. It was fine for small companies, but if a company like Microsoft saw YY as a competitor and fully upgraded MSN to compete with YY, then the problem would be more or less serious.
+
+Deep in his heart, Li Mu was constantly thinking about how to make the users in the overseas market regard YY as an indispensable "mattress" in Internet life as soon as possible. Paradise Town was a great help, but in the American market, where there were many strong competitors, Paradise Town alone did not seem to be enough.
+
+In other words, the US market was large and had a strong defense. In Li Mu's opinion, it would be somewhat difficult to take over the US market with Li Mu's strategy of attacking from the front and flanking.
+
+Li Mu began to seriously think about what other methods could enhance the frontal attack and the flanking forces at the same time. There were only two solutions: Either increase the strength of these two armies, or simply pull another army to fight.
+
+However, how could he have a product that could stand on its own at the moment?
+
+It was difficult to develop the Taobao model in the US, and if he wanted to develop Taobao in the US, the cost was simply unimaginable. Now that Taobao had not perfected its own system, how could he bring it to the US?
+
+The model of 3321 should be more popular in the US, where the education level was higher, but Li Mu was also very clear that what he wanted now was a product that could directly help YY and Paradise Town. 3321 could not play this role, so he could only pass.
+
+After thinking about it, Li Mu could not think of a suitable product and strategic plan.
+
+Just when Li Mu was feeling anxious, a cartoon image suddenly appeared in his mind.
+
+The image was a huge nut. When it was whole, it had a silly and cute face, but after half of its head was bitten off, it became bitter …

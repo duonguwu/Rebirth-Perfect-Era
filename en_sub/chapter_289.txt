@@ -1,0 +1,127 @@
+Chapter 289
+
+As soon as Li Mu finished speaking, Zhao Kang understood what Li Mu was up to.
+
+However, Zhao Kang did not know much about technology. He asked Li Mu in surprise, "QQ can chat with millions of people at the same time. The server should have a strong capacity, right?"
+
+Li Mu smiled and said, "That's for sure, but the server's redundant space for the registration function won't be very large. With millions of users and millions of people online at the same time, the corresponding registration function won't be very strong. It's like a school with ten thousand people, it's impossible to build a sanitary system that can accommodate a thousand people at the same time. The designed capacity can't be too high."
+
+Zhao Kang understood and smiled. "You mean, their registration function can't accommodate millions of people registering at the same time. If we mobilize everyone to register new numbers, we can make them crash?"
+
+“
+
+Li Mu said, "It's impossible to make the entire server crash. At most, we can make their account registration system crash."
+
+Zhao Kang said disappointedly, "That's so boring. If only they could all crash."
+
+Li Mu smiled and said, "Q Bar's downtime has no direct impact on QQ itself. What we need to do now is to let them know that if they anger the forum users, not only will Q Bar face resistance from the netizens, but even their most important product will be affected. Q Bar's problems are just superficial wounds to them, but if something happens to their core product, it will be an internal injury."
+
+"Understood."
+
+Zhao Kang immediately began to contact his subordinates. While the other side thought that the downtime was over, he mobilized his forces to attack QQ again.
+
+At this moment, the Q Bar's internal department was dead silent. Luo Zhongwen was helped to sit on a chair, his mind still blank. After a few minutes, he came back to his senses and questioned the technical staff, "What exactly went wrong?
+
+We've expanded our server by more than three times, and we can easily handle more than a million people posting at the same time. Why are we still being flooded by our friends on Tieba? "
+
+The technician quickly found out the reason and reported, "They found a loophole in the site's internal mail system. In less than a minute, our server received more than ten million requests for internal mail. We were already running the script to block accounts, and at the same time, we were deleting more than a million posts in batches. The server couldn't handle it at all. Moreover, we didn't expect them to start with internal mail. They didn't set any restrictions on internal mail at all.
+
+“
+
+"Damn it!"
+
+Luo Zhongwen couldn't help but swear, "They're too sinister. It's obvious that there's a professional behind this. Otherwise, how could the users find the loopholes in our messages?"
+
+The technician nodded and said, "That's right. There must be someone from Tieba's official forum behind the scenes. He must have led these million people to explode. But we can't do anything about it. After all, these million people are willing."
+
+Luo Zhongwen couldn't help but grit his teeth. It was such a good opportunity to advance his career, and he didn't expect that he would screw it up twice!
+
+This damn Tieba is too f * cked up. It's really vengeful. Didn't I just copy some high-quality content from you?
+
+Do you have to be so ruthless?
+
+Luo Zhongwen had been a project manager in the main business system for some time. He only had the chance to take over this newly established department because the Q Bar department was being established internally. If the Q Bar department could become bigger and stronger, then his career path would have an excellent foundation. But he never dreamed that not long after the Q Bar went online, he would be slapped in the face twice by Tieba while he was still full of ambition and preparing to do something big.
+
+The previous time when a million people exploded, the Q Bar had already become the target of criticism and ridicule in the public. Even the big boss had let out a word, asking the Q Bar department to solve the problem as soon as possible, to go online again, and to withstand the pressure to increase the number of users. But he didn't expect that just a day after going online for the second time, he would be slapped in the face by those b * stards from Tieba again!
+
+Luo Zhongwen didn't dare to imagine how the media and the public would evaluate this incident. It would probably be more serious than the previous time, right?
+
+The technician saw that Luo Zhongwen seemed to have crashed. He couldn't help but remind him, "Director Luo, our server capacity is sufficient this time. It's just that they took advantage of a loophole. Now, stop the internal messaging function first, then we can go online again."
+
+“
+
+Luo Zhongwen seemed to be grasping at straws. He hurriedly asked, "How long will it take?!"
+
+The technician said, "Twenty minutes at most."
+
+“
+
+"Quick!
+
+Try to go online again within fifteen minutes! "
+
+…
+
+Different from the gloomy atmosphere in the Q Bar department, the entire Tieba, and even the entire internet, was in an uproar.
+
+Because of the first incident, the battle between Tieba and Q Bar had attracted a lot of attention on the internet. The online media had also been paying attention to the latest developments of the competition between the two. Therefore, when the Q Bar's server went down again, they followed up and reported on it almost at the same time.
+
+Just as the news of the second incident was spreading rapidly on the internet, QQ's technicians discovered the server's abnormality.
+
+Originally, there were only a few hundred thousand new users registering on QQ every day. Within a 24-hour period, the number of instant registrations had never exceeded 10,000. But now, the number of instant registrations had suddenly skyrocketed by nearly a hundred times.
+
+Within a few minutes, at least a million people had registered new QQ accounts. Moreover, their registration speed was extremely fast. Some of the faster ones had registered their first account and immediately went to register their second. Within two minutes, the account registration system crashed. Although it didn't affect the normal use of the software, the registration function was completely paralyzed.
+
+No one had expected that the users of Tieba would turn to QQ to vent their anger. When QQ was attacked, the company's top management could no longer remain calm.
+
+Teng Xun's top management soon got wind of the news. The big boss angrily signaled to one of his vice presidents to make three requests:
+
+First, immediately transfer Luo Zhongwen out of the Q Bar department and return him to his original department and position. The whole company would circulate a notice of criticism, deduct half a year's bonus, and let the vice president personally take charge of the Q Bar department.
+
+Second, immediately conduct a thorough inspection of the front and back of the Q Bar. The incident of the Tieba exploding definitely couldn't happen a third time.
+
+Third, immediately send a letter of apology and push the responsibility of copying the contents of Tieba to Luo Zhongwen. Also, announce that Luo Zhongwen had been removed from his position as the general manager of the Q Bar department to ease the netizens' anger towards Q Bar. After New Year's Day, they would launch a public investigation and fire Luo Zhongwen. They would use him to express their stance to the media and netizens to appease the public's anger. In addition, in the future, Q Bar definitely couldn't use similar methods anymore.
+
+Luo Zhongwen was anxiously waiting for the Q Bar's technical staff to work overtime to block the function of the internal messages and delete the spam content so that they could go online again. He had no idea that because of his willingness, the company's core product was being threatened.
+
+The company's vice president rushed back to the company from home and went straight to the office of the Q Bar department. He angrily questioned Luo Zhongwen, "What the hell did you do!
+
+How did you make such a big mess one after another! "
+
+Luo Zhongwen was dumbfounded. He didn't expect the vice president to rush back to the company to question him. He could only bite the bullet and say, "Mr. Guo, don't be angry. This time, it's mainly because the Tieba was too cunning. They first found the loophole in our internal messages, then instigated millions of Tieba users to come over …"
+
+The vice president rudely interrupted him and shouted, "I don't care who instigated it. The Q Bar that you're in charge of has been continuously exploding, right? It's now the industry's laughing stock. Most importantly, even QQ was attacked by the other party tonight. If anything happens to QQ, can you bear the responsibility?"
+
+Luo Zhongwen was shocked. "QQ was attacked too?
+
+What's going on … "
+
+The vice president waved his hand and said, "You can go home now. After the New Year's Day holiday, report back to your original department. Your half a year's bonus will be deducted and the whole company will circulate a notice of criticism!"
+
+Luo Zhongwen instantly panicked and hurriedly pleaded, "Mr. Guo, this matter is caused by the Tieba. We can't guard against it!"
+
+The vice president asked him in return, "If you didn't act smart and get someone to steal the content of the Tieba, how could this situation happen today?"
+
+Luo Zhongwen was speechless for a moment.
+
+He was in charge of the Q Bar division, and he saw this as a good opportunity to prove himself. Therefore, when he took over the Q Bar division, he prepared a series of unconventional operation methods. The goal was to achieve results as soon as possible and let the higher-ups see his ability. He thought that the Tieba could at most protest against his methods and couldn't do anything to him. However, he didn't expect that his methods would actually cause public anger on the internet and cause a huge backlash.
+
+At this moment, the vice president said with a cold face, "Alright, go back and think about it."
+
+Luo Zhongwen nodded dejectedly and stood up. He packed his things and said in a hoarse voice, "Mr. Guo, I'll go back first."
+
+The vice president waved his hand and didn't say anything else. He just looked at Luo Zhongwen's back and felt a little pity in his heart.
+
+…
+
+The next day was the last day of 2001. The Q Bar went online at 8 o 'clock in the morning. After going online, it immediately released a statement:
+
+In the statement, Q Bar admitted that there had been violations of the rights of the Tieba and Tieba users in the process of operation. Regarding this, the company had removed the person in charge of the Q Bar business, Luo Zhongwen, from his position and promised to delete all the infringing content. At the same time, an internal investigation would be launched and an explanation would be given to the netizens after New Year's Day.
+
+The netizens said that the Tieba had won the war between the Tieba and the Q Bar.
+
+To Li Mu, the threat of the Q Bar was already negligible. After the two posts, the reputation of the Tieba was known by everyone. Although the Q Bar was also known by everyone, its reputation in the hearts of the netizens had been completely ruined. Now, it was even to the extent that people were ashamed to use the Q Bar. It was basically impossible for the Q Bar to expand in the short term, and even more impossible in the long term!
+
+Li Mu wrote a short announcement and handed it to Kong Lingyu for him to publish on the homepage of the Tieba, as well as on the list of pinned posts in every Tieba. The content of the announcement was very simple: First of all, thank you for everything you have done to protect the legal rights of the netizens and the Tieba. Tieba will always stand together with the Tieba members and will forever pursue the companies and individuals who have violated the rights of the Tieba. At the same time, we hope that the majority of the Tieba members can protect the legal rights of the Tieba family together with the Tieba members and create an online paradise for everyone.
+
+In addition, the Tieba will officially launch the personal space function on the 1st of January at midnight. An independently developed casual and fun game will be added to the personal space for the first time. We hope that everyone can log into the Tieba after midnight to try it out.

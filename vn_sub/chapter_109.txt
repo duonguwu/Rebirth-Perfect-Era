@@ -1,0 +1,99 @@
+Chương 109
+
+Sáng ngày 2 tháng 9, tại trụ sở công ty Baidu xa xôi ở Bắc Kinh, một số quản lý cấp cao và lãnh đạo phát triển kỹ thuật và sản phẩm đã ngồi trong phòng họp từ rất sớm.
+
+Trong phòng họp, Phó chủ tịch hỏi mọi người nghĩ gì về diễn đàn tối giản mới có tên là "Tieba". 80% mọi người đưa ra cùng một đánh giá: Tuyệt vời.
+
+Điều tuyệt vời là sự sáng tạo của sản phẩm này và khả năng tích hợp của nó.
+
+Mạng Y Thính bản thân nó là một nền tảng cung cấp dịch vụ nghe và tải nhạc. Người dùng của nó đều là người hâm mộ của nhiều ca sĩ khác nhau. Tieba Ngôi sao hiện tại của Tieba tình cờ là một diễn đàn độc lập nhỏ dành cho mỗi ca sĩ. Đây là một cách tuyệt vời để tập hợp người hâm mộ của một ca sĩ vào Tieba dưới tên của ca sĩ đó.
+
+Điều này không chỉ làm tăng độ gắn kết của người dùng ban đầu của trang web Y Thính, mà còn có thể thu hút những người dùng không nghe nhạc trên trang web Y Thính nhưng thích một số ca sĩ nhất định. Đó là bởi vì có một diễn đàn độc quyền được đặt theo tên thần tượng của họ. Với rất nhiều người hâm mộ tập trung tại đây, hiệu ứng cộng đồng rất mạnh mẽ.
+
+Phó chủ tịch chua xót nói: "Tại sao chúng ta không có tư duy sản phẩm tiên tiến như vậy? Nếu chúng ta xây dựng một Baidu Tieba trên nền tảng dịch vụ tìm kiếm, nó có thể trở thành cộng đồng trực tuyến lớn nhất cả nước chỉ trong một bước!"
+
+Ông ấy đã đúng. Trong tương lai, Baidu Tieba sẽ có hơn một tỷ người dùng đăng ký. Nó thực sự sẽ là cộng đồng người Hoa lớn nhất thế giới. Mặc dù họ dường như không có liêm sỉ trong việc mua bán Tieba, nhưng quy mô là không thể phủ nhận.
+
+Giám đốc phụ trách phát triển sản phẩm mới, người đã khẳng định rằng trang web Y Thính quá đơn điệu trong cuộc họp trước, xấu hổ muốn chết. Ban đầu ông ta nghĩ rằng chừng nào Baidu ra mắt dịch vụ tải nhạc MP3, thì ngày tàn của trang web Y Thính sẽ không còn xa. Ông ta không ngờ rằng họ sẽ ném ra một sản phẩm hạng nặng như Tieba Ca sĩ không lâu sau đó. Nó đơn giản là một cái tát vào mặt.
+
+Vị giám đốc điều hành buột miệng: "Trong trường hợp đó, chúng ta cũng làm một cái Tieba đi. Làm MP3 và Tieba cùng nhau!"
+
+Phó chủ tịch liếc nhìn ông ta và lắc đầu. "Tôi không cần anh đưa ra một kết luận muộn màng như vậy. Điều tôi muốn là khả năng đổi mới của anh. Anh có hiểu không? Điều tôi muốn không phải là anh chuẩn bị sao chép người khác sau khi thấy người khác sử dụng MP3 và Tieba. Tôi muốn anh tạo ra một sản phẩm mạnh mẽ như Tieba. Là người đứng đầu bộ phận phát triển sản phẩm mới, anh không thể lúc nào cũng sao chép ý tưởng của người khác được!"
+
+Mặt vị giám đốc điều hành đỏ bừng. Ông ta xấu hổ đến mức không dám ngẩng đầu lên.
+
+Lúc này, cảm xúc của Phó chủ tịch đã bình tĩnh lại một chút. Ông nói: "Chúng ta chắc chắn phải làm MP3 và Tieba. Tuy nhiên, các anh có nghĩ đến chưa? Bây giờ một nhóm ca sĩ lớn như vậy đã được tạo ra bởi trang web Y Thính. Chúng ta nên vận hành nó như thế nào? Hơn nữa, tôi đã kiểm tra. Tieba của họ không chỉ gắn liền với trang web Y Thính. Họ thậm chí còn có tên miền cấp cao nhất của riêng mình, và tên miền này hiện đã mở. Nói cách khác, họ đã kết hợp thế mạnh của trang web Y Thính để tạo ra Tieba. Tuy nhiên, họ muốn tạo ra Tieba như một sản phẩm độc lập."
+
+Tạo ra một Tieba độc lập cũng là sự cân nhắc của Lý Mục. Rốt cuộc, trang web Y Thính chỉ tập hợp những người yêu âm nhạc. Nếu trang web Y Thính được sử dụng làm vật chứa, nó chỉ có thể là Tieba của ca sĩ. Điều này còn lâu mới đủ đối với Lý Mục. Do đó, cậu đã sử dụng nó để tạo ra một trang chủ Tieba với chức năng tìm kiếm. Người dùng có thể trực tiếp nhập vào trang chủ Tieba, tìm kiếm tên ca sĩ và vào Tieba của ca sĩ đó.
+
+Đồng thời, Lý Mục đã hướng dẫn Khổng Lệnh Vũ phát triển chức năng đăng ký Tieba. Trong tương lai, Tieba của riêng cậu cũng sẽ có khả năng được tạo bởi người dùng. Hơn nữa, Khổng Lệnh Vũ cũng đang dẫn dắt một nhóm nhân viên bán thời gian thu thập thông tin về tất cả những người nổi tiếng trong các lĩnh vực điện ảnh, truyền hình, thể thao, tạp kỹ, v.v. Dự kiến sẽ không lâu nữa việc đăng ký của Tieba sẽ được mở, và Tieba của tất cả những người nổi tiếng sẽ trực tuyến. Vào thời điểm đó, Tieba sẽ vượt ra ngoài giới hạn của trang web Y Thính và các ca sĩ.
+
+Lúc này, tại bàn họp của giới thượng tầng Baidu, một vài quản lý trở về từ nước ngoài đều sững sờ. Họ đã nghĩ đến việc tách ra độc lập. Ai là người đứng sau trang web Y Thính?
+
+Thực ra, ý tưởng của Lý Mục là tạo ra một hệ sinh thái. Trang web Y Thính và Tieba chỉ là khởi đầu của hệ sinh thái. Trong tương lai, Lý Mục có rất nhiều kế hoạch cho hệ sinh thái này.
+
+Kế hoạch đơn giản là để trang web Y Thính bắt đầu trong lĩnh vực nghe và tải nhạc. Sau đó, nó sẽ tập hợp những người dùng muốn nghe và tải nhạc lại với nhau. Tieba hiện tại đã bắt đầu bước đầu tiên của chuỗi hệ sinh thái, trở thành một cộng đồng.
+
+Một khi cộng đồng được khởi động, sẽ có quá nhiều việc có thể làm. Không gian cá nhân, album ảnh, trộm rau, nông trại và bãi đỗ xe đều là những vũ khí lợi hại trong lĩnh vực cộng đồng trong tương lai. Hơn nữa, tên miền của Taobao vẫn nằm trong tay cậu. Trong lịch sử, Ali phải đợi đến năm 2003 mới thành lập Taobao. Lý do cũng là vì tính chất đặc biệt của thời kỳ SARS. Nếu họ bắt đầu sớm hơn Ali một năm hoặc nửa năm, dựa vào lượng người dùng tích lũy của chính họ, việc bắt đầu đáng lẽ phải dễ dàng hơn so với Ali.
+
+Một giám đốc vận hành thở dài và nói: "Đối phương có tên miền cấp cao nhất của Tieba. Điều này rất bị động đối với chúng ta trừ khi chúng ta đổi tên và không gọi nó là Tieba nữa. Sau đó, chúng ta có thể nhanh chóng phát triển một sản phẩm trưởng thành và đưa nó lên mạng càng sớm càng tốt. Sau đó, chúng ta có thể sử dụng các từ khóa trong tương lai để định hướng các sản phẩm Tieba của riêng mình."
+
+Người phụ trách phát triển kỹ thuật ngạc nhiên nói: "Mặc dù khái niệm về trang web Y Thính không tệ, nhưng xét về mặt kỹ thuật, những thứ họ đang chơi không khó. Rất dễ bắt chước. Hơn nữa, sức mạnh của họ dù sao cũng có hạn, và họ không có gì để dựa vào. Nếu họ không tìm thấy một mô hình có lợi nhuận trong thời gian ngắn, họ có lẽ sẽ sớm đạt đến nút thắt cổ chai. Vì vậy, tôi nghĩ chúng ta đang đánh giá quá cao họ. Chúng ta có nguồn lực mạnh mẽ như vậy. Một khi chúng ta phát triển sản phẩm, sẽ không mất nhiều thời gian để chúng ta thay thế họ."
+
+Phó CEO lắc đầu. "Anh không thể chỉ nhìn vấn đề từ quan điểm kỹ thuật, và anh không thể nghĩ rằng người khác sẽ không thể tồn tại nếu không có mô hình lợi nhuận. Khái niệm của họ có thể gây sốc cho chúng ta, và nó chắc chắn sẽ gây sốc cho người khác, đặc biệt là đầu tư mạo hiểm. Mặc dù tác động của bong bóng Internet vẫn còn đó, nhưng khứu giác của tư bản rất nhạy bén. Họ đã bắt đầu nhận ra rằng mùa xuân tiếp theo của Internet đang đến. Họ cũng đang tìm kiếm các dự án phù hợp trước. Nếu trang web Y Thính có thể nhận được tài trợ thiên thần hoặc vòng A, với sự hỗ trợ của nguồn vốn lớn, họ có thể dựa vào hai sản phẩm này để tạo ra giá trị thị trường vài trăm triệu."
+
+Những lời này khiến các nhân viên kỹ thuật không nói nên lời.
+
+Không sai khi nói rằng Internet chơi đùa với sự sáng tạo, công nghệ và người dùng. Nhưng cuối cùng, nó chơi đùa với tư bản.
+
+Đằng sau mỗi ông lớn Internet đều có sự hỗ trợ vốn mạnh mẽ. Sequoia, SoftBank, Goldman Sachs, v.v., các nhà tư bản có rất nhiều tiền mặt đang chờ đầu tư vào các dự án tốt. Nếu không có sự giúp đỡ của tư bản, không công ty nào trong số các công ty BTA hàng đầu ở Hoa Hạ có thể trỗi dậy.
+
+Trang web Y Thính và Tieba đang trỗi dậy nhanh chóng. Sẽ không lâu nữa họ sẽ được các công ty Internet và ngân hàng đầu tư khác chú ý. Nếu họ nhận được đầu tư vòng A, trang web Y Thính có thể bắt đầu đốt tiền. Miễn là không có vấn đề gì với chiến lược đốt tiền, trong các vòng B và C trong tương lai, các ngân hàng đầu tư lớn sẽ chiến đấu đến chết để đưa tiền cho họ đốt. Không chỉ vậy, để thu được lợi nhuận cao, các ngân hàng đầu tư cũng sẽ đầu tư các mối quan hệ và nguồn lực của họ để giúp nó phát triển và lớn mạnh. Vào thời điểm đó, Baidu có thể không có lợi thế trước nó.
+
+Người phụ trách Bộ phận Đầu tư nói: "Giám đốc Trần, tại sao chúng ta không liên hệ với trang web Y Thính trước? Nếu mức giá họ đưa ra không cao, thì việc mua lại họ cũng không phải là một ý tưởng tồi. Trong trường hợp đó, chúng ta có thể trực tiếp sáp nhập hai sản phẩm của họ vào sản phẩm của chính mình. Một là Baidu MP3, và cái kia là Baidu Tieba."
+
+Phó CEO gật đầu. "Đó là ý tôi trong cuộc họp hôm nay. Chúng ta có thể liên hệ với trang web Y Thính trước và xem kỳ vọng của họ là gì."
+
+Vừa nói, Phó CEO vừa hỏi người phụ trách Bộ phận Đầu tư: "Anh nghĩ bao nhiêu là phù hợp để mua lại họ bây giờ?"
+
+Người phụ trách Bộ phận Đầu tư suy nghĩ một chút rồi nói: "Nếu không có Tieba và chỉ có trang web Y Thính, tôi nghĩ sẽ vào khoảng tám đến mười triệu tệ. Rốt cuộc, mảng kinh doanh này vẫn là một khoảng trống trong luật pháp. Trong tương lai, luật pháp sẽ dần hoàn thiện, và mảng kinh doanh này chắc chắn sẽ phải chịu rủi ro. Tuy nhiên, không có rủi ro pháp lý nào trong những thứ như Tieba, và có quá nhiều không gian để phát triển. Tôi nghĩ rằng theo định giá thông thường, chỉ riêng Tieba sẽ không dưới 20 triệu tệ. Nếu kết hợp cả hai, định giá sẽ còn cao hơn nữa. Tuy nhiên, đây cũng là quan điểm của chúng ta. Nếu chúng ta thực sự đưa ra lời đề nghị cho họ, giá sẽ được chiết khấu rất nhiều. Rốt cuộc, họ mới chỉ thành lập được hơn một tháng."
+
+Phó CEO không bình luận gì. Ông suy nghĩ một chút rồi nói: "Hãy liên hệ với họ trước và xem tình hình thế nào."
+
+...
+
+Vào buổi trưa, Lý Mục nhận được một email trên trang web Y Thính. Một người tự xưng là Jack Zhou, giám đốc Bộ phận Đầu tư của Baidu, nói trong email: "Baidu lạc quan về sự phát triển của trang web Y Thính và Tieba. Họ có ý định mua trọn gói và hy vọng sẽ nói chuyện trực tiếp với Lý Mục."
+
+Lý Mục trả lời đơn giản: "Hiện tại, chúng tôi sẽ không chấp nhận mua lại trọn gói. Chúng tôi chỉ chấp nhận tài trợ. Vòng tài trợ A sẽ bán tối đa 10% cổ phần. Các ông có thể đưa ra định giá. Gửi email cho tôi sau khi các ông định giá xong. Tôi sẽ xem xét."
+
+Lý Mục biết rất rõ rằng chỉ riêng mảng kinh doanh MP3 sẽ không mang lại nhiều lợi nhuận. Tuy nhiên, đối với một công ty như Baidu, sự cải thiện tổng thể do mảng kinh doanh này mang lại không thể đong đếm bằng hàng triệu hay hàng chục triệu tiền mặt. Đó là việc nuôi dưỡng và tích lũy một lượng lớn người dùng. Nó có tác dụng rất lớn đối với việc định giá.
+
+Còn về Tieba, khả năng sinh lời trong tương lai của thứ này vẫn rất khủng. Chẳng phải sẽ là một tổn thất lớn nếu bán nó bây giờ sao?
+
+Do đó, cậu chỉ chấp nhận tài trợ, và cậu sẽ không pha loãng quá nhiều cổ phần của mình trong Vòng A. Nếu không, sau một vài vòng tài trợ, cậu có thể bị tư bản cướp mất.
+
+Hơn nữa, cậu càng pha loãng cổ phần sớm, những tổn thất vô hình mà cậu phải gánh chịu trong tương lai càng lớn. Ngay cả một đứa trẻ cũng hiểu điều này.
+
+Còn về loại định giá nào mà Baidu sẵn sàng đưa ra cho cậu, Lý Mục không vội. Cậu sẽ để họ từ từ suy nghĩ. Tóm lại, nếu định giá dưới 30 triệu tệ, thì không cần phải nói chuyện. Hơn nữa, nếu có sự phát triển lớn hơn trên Y Thính và Tieba trong tương lai, cậu sẽ tăng giá kịp thời.
+
+Câu trả lời của Lý Mục khiến Jack Zhou cảm thấy chột dạ qua màn hình máy tính. Câu trả lời của gã này quá dứt khoát. Gã trực tiếp từ chối việc mua lại trọn gói. Không chỉ vậy, gã chỉ sẵn sàng bán 10% cổ phần trong Vòng A. Rõ ràng gã là một người kỳ cựu trong lĩnh vực khởi nghiệp Internet!
+
+Jack Zhou, người đã đầu tư trong nhiều năm, hiểu tầm nhìn của nhiều doanh nhân Internet. Hầu hết bọn họ đều chật vật để duy trì sự khởi đầu. Một khi nhìn thấy vốn, họ sẽ lập tức bị làm thịt. Cũng có nhiều người sẵn sàng bán hơn 51% cổ phần trong Vòng A. Những người này thường nhìn thấy hàng trăm ngàn hoặc thậm chí hàng triệu lợi nhuận. Họ hoàn toàn không quan tâm đến tương lai. Họ chỉ muốn rút tiền mặt ngay lập tức. Kết quả là, họ nhận ra rằng khoản lỗ của họ gấp mười lần hoặc thậm chí một trăm lần so với số tiền họ kiếm được.
+
+Jack Zhou cảm thấy đối phương chỉ sẵn sàng bán 10% của Vòng A. Ngay cả khi Baidu chấp nhận và đầu tư, nó sẽ không có nhiều tác dụng trong thời gian ngắn!
+
+Jack Zhou càng lo lắng, ông càng cảm thấy đối phương không phải dạng vừa.
+
+...
+
+Vé tàu mà Lý Mục và Triệu Khang đặt là vào lúc 8 giờ tối ngày mùng 2. Lúc 7 giờ tối, Lý Mục đeo ba lô và đi ra khỏi nhà cùng bố mẹ. Mặc dù mẹ cậu cứ nói muốn đi cùng cậu đến trường đại học để đăng ký, nhưng Lý Mục vẫn từ chối. Cậu không muốn mẹ đi cùng mình đến Yến Kinh một lần nữa.
+
+Sau khi ra khỏi nhà, cậu gặp gia đình Triệu Khang đang đợi cậu ở ngã tư khu phố. Bố mẹ Triệu Khang cũng muốn tiễn cậu đến Yến Kinh. Nhưng khi nghe nói cậu đã hẹn với Lý Mục, họ không nài nỉ nữa.
+
+Thấy Triệu Khang chỉ mang một chiếc ba lô, Mẹ Lý không nhịn được nói với mẹ Triệu Khang: "Nhìn hai đứa này xem. Đi học đại học cứ như đi chơi vậy. Chúng nó chả mang gì ngoài máy tính và vài bộ quần áo thay đổi."
+
+Lý Mục cười nói: "Thực ra chẳng có gì để mang cả. Nhà trường sẽ cung cấp chăn ga gối đệm và các nhu yếu phẩm hàng ngày khác sẽ mua khi đến nơi. Nó cũng giúp chúng con đỡ phiền phức khi mang vác đến đó."
+
+Bố Triệu Khang cười và nói với Lý Mục: "Tiểu Mục, hai anh em các cháu phải giúp đỡ lẫn nhau khi đến Yến Kinh nhé."
+
+Lý Mục gật đầu: "Chú Triệu cứ yên tâm ạ."

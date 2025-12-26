@@ -1,0 +1,95 @@
+Chapter 1092
+
+In the newly renovated and slightly luxurious cinema, Li Mu, Fang Xudong, and the core technical staff of the Shadow Farming system were testing the innovative online ticket system.
+
+Before the test, Fang Xudong introduced the terminal of the Shadow Farming system to Li Mu, the Shadow Farming self-service ticket collection machine.
+
+There were four self-service ticket collection machines in the cinema. The ticket collection machines were about 1.8 meters tall, and they looked no different from the ticket collection machines in his previous life. The entire machine was made of black plexiglass, and the most eye-catching part was the 17-inch display screen. By default, after the system was turned on and entered the system, it would display some of the Shadow Farming system's display materials.
+
+At the bottom of the screen, there was an input area that looked like the password keyboard of an ATM machine in a bank. Apart from the ten numbers from 0 to 9, there were also the most eye-catching "Ticket Collection" button, "Confirm" button, "Delete" button, and "Return" button.
+
+On the right side of the keyboard area was the ticket outlet. After the user finished collecting the ticket, the printed ticket would be spat out from this outlet.
+
+Unfortunately, touch screen technology was not mature and reliable enough, so the first-generation ticket collection machine did not use touch technology. Therefore, when Li Mu and Fang Xudong designed the first-generation ticket collection machine, they simplified the ticket collection process to the greatest extent.
+
+First of all, as long as the system was turned on, the user could press the "Ticket Collection" button in the keypad area, and the ticket collection code would be displayed. The ticket collection code was temporarily set to be a random eight-digit number. After the user pressed the "Ticket Collection" button, they would enter the eight-digit ticket collection code and click "Confirm" to enter the information confirmation page. This page would show the basic information of the movie that the user had purchased, including the number of times, seats, and other basic information. After confirming that there were no errors, the user would click "Confirm" again to print the movie ticket.
+
+Since the system was very simplified and the hardware was highly configured, the system was very smooth, and there was almost no lag. In this way, the user's smooth experience was not worse than a touch screen.
+
+Moreover, since the physical keyboard was made of a more stable and high-end metal keyboard than an ATM machine, it was durable, had a clear sense of touch, and the input was smooth. The user could collect the ticket within ten to twenty seconds.
+
+Fang Xudong stood beside Li Mu and said, "Li Zong, our ticket-collecting machine uses IBM hardware, and its overall reliability is very high. Also, the printing part is printed on thermal paper, which is more convenient to maintain. A roll of custom-made ticket paper can print 10,000 tickets, and changing the ticket paper is also very easy. One person can do it in two minutes."
+
+Li Mu nodded and asked, "What's the manufacturing cost of the first-generation ticket collection machine?"
+
+Fang Xudong said, "At present, we have ordered a total of 100 units from the factory. The cost of each unit is about 23,000 yuan. The cost of the mold is relatively high. If we continue to order in the future, the cost will be lower and lower. In the end, it should be reduced to less than 20,000 yuan."
+
+Li Mu said, "We have 14 movie theaters. Does every movie theater have four ticket collection machines?"
+
+"That's right."
+
+Fang Xudong said, "At present, the ticket-collecting machines in our 14 theaters have been installed. All of them are equipped with four ticket-collecting machines. Now the factory has sent out the last 20 ticket-collecting machines. We are now preparing to place more orders. You will have to decide the quantity."
+
+Li Mu nodded and said, "Talk to the factory. If there are no problems with this batch of machines, then we will directly order the second batch of 5,000 units. Confirm a few key points with them. One is the time, the second is the price, and the third is the after-sales support."
+
+"5,000 units?!"
+
+Fang Xudong was speechless and exclaimed, "Li Zong, this purchase order alone is more than 100 million yuan!"
+
+"It doesn't matter if it's more than 100 million yuan."
+
+Li Mu said, "Our next step is to quickly occupy all the movie theaters in the country. How can we occupy them without terminal hardware?"
+
+As he said this, Li Mu added, "If we want to play, we have to play big. From the beginning, let others know that this thing costs money, and they can't afford to play."
+
+Fang Xudong nodded repeatedly. "I understand, Li Zong."
+
+Li Mu then said, "Test the complete purchase and ticket collection process."
+
+Fang Xudong said, "Come over here. We have prepared a computer at the ticket window. You can take a look at the theater's sales management system while you try out the purchase system."
+
+Li Mu followed Fang Xudong to the ticket counter of the theater. A few IBM commercial computers had already entered the sales management system of Shadow of Mu, and another IBM laptop had entered the home page of Shadow of Mu's YY network.
+
+Fang Xudong said, "You can first choose the theater, movie, and show number from the laptop. The movies and show number are all randomly written by me, so it won't affect the test."
+
+Li Mu nodded. First, he used the laptop to log into his YY account. Then, he found the theater that he said he was at in Shadow of Mu's online ticketing system. Then, he immediately saw the list of movies that were showing in the theater today. However, because the theater had not resumed business, the movies in the list were randomly written by Fang Xudong. Li Mu chose one of the movies, "The Godfather", and then selected the show that was half an hour later. Immediately, he saw the seating layout of the theater where the show would be held.
+
+Li Mu selected two of the seats and successfully paid for them. Then, Li Mu received an eight-digit ticket collection code. Li Mu chose to send the ticket collection code to his phone, and a few seconds later, he received a message. The message said, "Thank you for using Shadow of Mu's online ticketing platform. You have purchased two tickets for 'The Godfather' at XX Theater, XX Theater, XX Theater, XX Time, XX Seat: Row 11 06, Row 11 07. Ticket collection code: 33112323. Please use the ticket collection code to collect the tickets at the theater's ticket collection machine or counter. If you have any questions, please call Shadow of Mu's customer service: 010 …"
+
+At this time, Fang Xudong immediately opened the ticket list for the movie that Li Mu had purchased on his IBM computer. As expected, seats 06 and 07 in the 11th row were sold, and there were two small words at the bottom of the "Sold" section — Shadow of Mu.
+
+The moment the order was successfully placed, the theater platform received the confirmation message almost immediately, and the seats were shown as sold. Li Mu was very satisfied with the speed and efficiency. Li Mu then refreshed the page on his computer and reloaded the ticket information of the theater. As expected, seats 06 and 07 in the 11th row were also shown as sold.
+
+Whether it was the user platform or the theater platform, they could update the inventory in real time. This was very important. Real-time interoperability would prevent overselling or misselling the tickets, and it would improve the user's experience.
+
+Li Mu then took his phone to the ticket collection machine, clicked to collect the tickets, and entered the eight-digit ticket collection code. After confirming the order information, he immediately clicked to print. The ticket outlet immediately spat out two movie tickets, and the information on the tickets was exactly the same as the one he had purchased.
+
+The entire system looked very complicated, but the logical process was very straightforward.
+
+First of all, the user could check the number of tickets and the sales of each theater on the user platform. After selecting the number of tickets and successfully paying for the tickets, the system would immediately lock the two seats, and no one would be able to purchase them.
+
+Secondly, after the order was made, the system would immediately feedback to the management of the theater, telling the management that new seats had been sold. The management would then modify the inventory status to prevent the theater from selling the tickets.
+
+Once again, the system immediately generated an eight-digit code for the order and fed back the code to the user. For example, the 33112323 that Li Mu had just received. If the user needed to send the information to the mobile phone, then the system server would use the cooperative operator's channel to send the relevant information to the user's mobile phone in the form of text messages.
+
+At this time, in the backstage of the Shadow Leopard Tribe system, the ticket code 33112323 had been matched with the two seats that Li Mu had chosen. It was placed in the database and was waiting for the terminal to check. This process was also to correct the errors of the users.
+
+If Li Mu went to the wrong theater, after entering the 33112323 ticket collection code, the system would determine that the terminal requesting the ticket was not located in the theater where the ticket was purchased, and an eye-catching notification would pop up to inform the user. At the same time, the user would also be able to choose to print the ticket.
+
+If Li Mu didn't go to the wrong theater, the system would confirm that the terminal requesting the ticket was located in the theater where the ticket was purchased, and it would directly print the ticket to the user.
+
+Once the 33112323 ticket collection code was successfully confirmed and the ticket was printed, the system would immediately invalidate the ticket collection code to prevent repeated printing.
+
+This system involved a large backstage, a user backstage, a merchant management backstage, a ticket collection terminal, and a set of text message sending mechanism. Although it seemed a bit complicated, it didn't cost much for the user to use it. The entire process of choosing the theater, paying for the ticket, collecting the ticket, and watching the movie was very smooth.
+
+After testing the use of the entire system, Li Mu was extremely excited. The emergence of the Online Ticket System was definitely a revolutionary experience in this era!
+
+It allowed the user to know the screening schedule of the day and the next few days without going to the theater, and even the ticket sales of each movie. It prevented the user from going to the theater and realizing that there were no tickets or no suitable seats.
+
+It also allowed the user to buy the ticket in advance without going to the theater, completely avoiding the tedious process of waiting in line to buy the ticket.
+
+Not only could this system improve the convenience of the user watching the movie, but it also simplified the ticket sales process and labor costs. Most importantly, it was extremely suitable for online promotion and promotion.
+
+Currently, the domestic movie market was still very low. The price of a single movie in most theaters was around 25 yuan, and the occupancy rate was basically less than 30%. If YY sent a push to all the users in Beijing and gave each of them a movie ticket worth 10 yuan, they could directly buy a movie ticket worth 25 yuan online for 15 yuan. Then, there would definitely be a considerable number of users who didn't go to the theater, or even rarely went to the theater, who would choose to try it. By then, the occupancy rate would probably be through the roof.
+
+If a theater had 100 seats and a ticket cost 25 yuan, and the occupancy rate was 30%, the revenue from a single movie would only be 750 yuan. If it was connected to the Mu Ying system and YY sent a push to the local users, the occupancy rate might be more than 80%. In that case, even if the ticket price was only 15 yuan, the revenue from a single movie in a theater with 100 seats could reach 1,200 yuan, an increase of more than 50%.

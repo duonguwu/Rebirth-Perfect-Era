@@ -1,0 +1,135 @@
+Chapter 20
+
+Hearing Jia Bei's words, Sun Peng frowned. "You want to find him directly?"
+
+"That's right!"
+
+Jia Bei gritted his teeth. "He cut off our source of income. We can't let him go. Let's not talk about losing a few hundred thousand a month. Ten thousand is enough to buy one's life. Find him, dig him out, and force him to hand over his code. Otherwise, we'll let him taste the price of ruining someone else's livelihood. We'll break both his hands. Let's see how he writes code in the future!"
+
+"Are you crazy?
+
+It's fine if you don't want to earn money, but you want to bring everyone to the police station? "
+
+Sun Peng felt his eyelids twitching. This Jia Bei had always been sinister and cunning. If he didn't know how to code, he would be a street thug.
+
+Jia Bei saw that the others were also looking at him in surprise. He knew that this bunch of people who only knew how to code were not brave enough. However, he didn't want to stand out too much, so he said, "I'm just saying it out of anger. But this guy doesn't give in to us. We have to meet him and talk to him face to face, right?
+
+I think if this kid doesn't know what's good for him, we can use coercion and bribery to scare him, right?
+
+Maybe he's just a technician. Although his online name looks ruthless, he might admit defeat in real life. "
+
+Hearing Jia Bei's words, the others nodded.
+
+Coercion and bribery were not a bad idea. As long as they could find him, they could lure him first. If that didn't work, they could threaten him. Seeing that their livelihood was about to be ruined, they could at least give it a try.
+
+Sun Peng nodded and agreed to Jia Bei's suggestion.
+
+Jia Bei immediately took out his newly bought phone and made a call.
+
+"Old Wu, can you help me check the account that posted the Stoneware Overlord on your forum? Check his registered IP and recent login IP."
+
+On the phone, a man whispered, "Xiao Bei, you can't do this casually. It's against the forum's rules."
+
+Not casually meant that there was a price to pay.
+
+Jia Bei immediately said, "Five hundred, and you can hook your fingers!"
+
+"This …"
+
+"One thousand!"
+
+"Xiao Bei, I'm telling you …"
+
+"Two thousand!
+
+Didn't you want to replace that second-hand broken phone?
+
+Move your finger, and you'll have a new cell phone! "
+
+"Hmm, deal!" The other party hesitated for a moment before agreeing firmly, "Wait for me. I'll send it to you on QQ later."
+
+After hanging up the phone, Jia Bei's face was full of anger. "F * ck, two thousand yuan for a few IP addresses. Looks like this bastard also knows that we're in trouble."
+
+Sun Peng nodded and said in a calm tone, "Let's check first. Two thousand yuan is a small matter. The three of us have shares, so let's share it equally according to the proportion of shares."
+
+Five minutes later, Jia Bei's QQ received four IP addresses. Everyone gathered to take a look and felt that something was wrong.
+
+There was a pattern to the IP address. Those who had a certain level of exposure to the internet could roughly guess the IP address from a glance. They might not be able to guess the exact IP address, but they could at least tell if it was a domestic or non-domestic IP.
+
+Jia Bei immediately used the tool to check. Sure enough, the four IPs were all overseas.
+
+Two from the United States, one from Japan, and one from Korea.
+
+In other words, before the other party registered, they had set up a proxy. After that, every time they logged in, they also set up a proxy.
+
+They were programmers, not hackers. Even if they were hackers, if they wanted to find the real IP of the proxy from the proxy server, they had to first hack the proxy server and get the server logs. The technical difficulty was very high.
+
+These four IPs immediately killed off Jia Bei's idea of finding the person first and then threatening and enticing them.
+
+"F * ck, so cautious!"
+
+Jia Bei was also dispirited. Even though he was ruthless, he didn't know where to exert his strength and where to punch. It would only be in vain.
+
+Sun Peng sighed, "It seems that we really have to fight to the death. Brothers, let's wait for a few more days. If that guy is still not willing to contact us, let's disband."
+
+Sun Peng had always been very disgusted with Jia Bei. In the beginning, when his Thousand Feathers plug-in was doing well, Jia Bei imitated his plug-in and created a free one to compete with him. Then, Jia Bei forced his way in. Moreover, after working together, Sun Peng also discovered that this person was notorious. Looking at the situation now, if it was really impossible, it was not a bad thing to break up. At least, he could get rid of this malefic star.
+
+Jia Bei also knew that if Stone Age could not be played, there was no need for him to cooperate with Sun Peng. He could develop a plug-in independently. In the beginning, he was tied to Sun Peng because he had a sales network. But now, it seemed that in another week, Sun Peng's sales network would probably collapse. Without a product and a market, who would want to cooperate with him?
+
+At that time, he could also bring a team to do it alone. It didn't matter if he couldn't play Stone Age. There would be other suitable games.
+
+…
+
+"Sis, don't drive so slowly. Don't drive side by side with the big cars, okay?"
+
+On the national highway, Li Mu reminded Chen Wan beside him. When she saw the big cars, she was a little flustered. She didn't dare to drive fast or overtake them. But these days, the road conditions on the national highway were very bad. There were a lot of big cars carrying coal, goods, and grain. All of them were overloaded, and the goods were taller than the mountains. Walking side by side with such cars could easily cause an accident.
+
+Chen Wan was also anxious. "I don't want to, but I really don't dare to overtake. There are so many goods on the big car, and I'm really afraid that it will smash me."
+
+Li Mu sighed. "At your speed of 30 kilometers per hour, it will be evening by the time we get there. And many times, driving slowly doesn't mean it's safe. Every road has a reasonable speed range. It can't be too high or too low."
+
+Li Mu had seen many cautious novice drivers driving at a turtle speed of 60 to 70 kilometers per hour on the highway. These people felt that it was safer to drive this way, but they didn't know that it was much more dangerous.
+
+"I really don't dare. I'm scared when I see a big cart …" Chen Wan also knew that it would take at least six hours to get to the destination with the way she was driving. Her fair forehead was densely covered with needle-like beads of sweat.
+
+Li Mu hesitated for a moment and said, "Stop by the side. I'll drive."
+
+"You?" Chen Wan was stunned. "Do you have a driver's license?"
+
+"No," Li Mu answered matter-of-factly.
+
+"How can you drive without a driver's license? Do you know how to drive?"
+
+"Yes."
+
+"I don't believe you!"
+
+"You don't believe me?
+
+Your Audi A6 has a 2.8 displacement. I don't remember how much horsepower it has, but it should have a CVT transmission and a full-time four-wheel drive. As for how to drive this car, it's very simple. Step on the brake, start the ignition, shift to D, release the brake, step on the accelerator, reverse, shift to R, wait for the red light, shift to N, and apply the handbrake, right? "
+
+"… You really know a lot!"
+
+Chen Wan was dumbfounded. She knew that what Li Mu said was right, but she didn't know what Li Mu meant. What was a CVT? What was a full-time four-wheel drive?
+
+Thus, she said unyieldingly, "Even if I know how to drive, I can't!"
+
+"Then we'll reach the place in the afternoon?"
+
+"…"
+
+Chen Wan struggled for a few minutes before she made up her mind and carefully stopped the car by the side. She said to Li Mu, "I'll believe you this once. You have to be careful, understand?"
+
+"Got it."
+
+Li Mu nodded and said, "I'll definitely be more careful than you. You didn't even turn on the turn signal when you pulled over."
+
+"You …" Chen Wan was speechless. She got off the car with a pout and moved to the front passenger seat.
+
+Li Mu sat in the car and adjusted the seat, the rearview mirror, and the steering wheel. Chen Wan saw this and was very shocked. This kid seemed to know this car better than she did!
+
+He was familiar with the road.
+
+In fact, cars were common in many places. Although Li Mu didn't buy a good car in his previous life, he had many opportunities to drive it.
+
+After adjusting, Li Mu shifted to D, released the handbrake, and glanced at the rearview mirror. Then, he turned left and went on the road. On the road, Li Mu quickly increased the speed to about 70 km/h. Occasionally, the road conditions were good, and he directly accelerated to 80 km/h or even higher. Although his speed was much faster than Chen Wan's, it was much more stable than Chen Wan's. Every time he overtook another car, he was precise and direct. Occasionally, he would overtake another car on the side of the road, but he was also very precise.

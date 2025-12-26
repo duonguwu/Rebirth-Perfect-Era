@@ -1,0 +1,63 @@
+Chapter 1264
+
+When Li Mu was reborn, Hua Xia's Internet industry was at its peak, and the concept of Internet + was also very popular. This further accelerated the development of Hua Xia. At that time, almost all industries were trying to integrate with the Internet as much as possible, and the express delivery industry was the same.
+
+In Li Mu's memory, at that time, Shunfeng and Jingdong could provide real-time logistics information and real-time location to users. Users could see where their express delivery was, where it was, who delivered it, and how far the courier was from them. This kind of perfect customer confidence service relied on the real-time interoperability of GPS and the Internet.
+
+Li Mu hoped that Taobao Logistics could also have such capabilities in this era. In this way, Taobao Logistics would be at least eight to ten years ahead of other logistics companies in his previous life. Although Li Mu didn't know much about hardware, he had sorted out some of the key points. He felt that in order to achieve this in this era, the hardware should have enough foundation. It just needed a new product concept to combine the hardware.
+
+That was why he asked Fang Xudong to bring the hardware experts over and put forward some of his ideas that were not professional but sufficiently far-sighted.
+
+Li Mu said to everyone, "I believe that it shouldn't be difficult to achieve real-time positioning equipment. At present, the GPS satellite positioning module and the GSM mobile communication module are ready-made. As long as the two are combined, the equipment can transmit the real-time positioning information of the GPS coordinates through the GSM communication module. Is this correct?"
+
+As a communications expert, Hu Bo immediately nodded and said, "The more popular mobile communication technology now is GSM and CDMA. They can achieve the real-time data transmission function that you just mentioned. Although the GPS module is relatively expensive, it is also widely used in many fields. So it shouldn't be difficult to combine the two into one."
+
+Li Mu nodded and said, "Since these two functions can be achieved, then let me talk about my other ideas."
+
+After a pause, Li Mu said, "The reason why I need to add the support of radio frequency technology to these two functions is that I hope that in the future, we can install such equipment in every car, every trailer, every large express delivery package, and then install radio frequency technology reading equipment in all logistics nodes to improve our operating efficiency.
+
+"For example, if we put ten large parcels in the container of Jing A555, and these ten large parcels will be sent to Shanghai for sorting and transfer, then when these parcels are loaded into the car, the radio frequency technology in the car will automatically read, record, and upload these parcels. Then, when the car is on the road, we can use the GPS coordinate data sent by the GSM to monitor the location of the 'Jing A555' in real time.
+
+"When the position of the car is 20 kilometers or 10 kilometers away from the Shanghai distribution center, the system will automatically upload the information of the car to the big screen next to the staff at the distribution center, reminding them that the car is about to enter the station. The staff will be able to see its loading information in real time. It is loaded with ten large parcels, and these large parcels are going to the business points around Shanghai. In this way, before the car arrives, the radio frequency reading equipment outside the door can immediately identify the identity of the car and the parcels in the car, directly reminding our pick-up workers that the car has arrived and they should immediately get ready to work. Then, when the car arrives, the ten parcels can be immediately transported to the loading points of their respective destinations. In this way, the overall efficiency should be greatly improved."
+
+Li Mu's hardware idea was basically equivalent to a set of GPS trackers and a set of equipment similar to highway ETC. However, Li Mu wasn't sure if it was realistic to develop such a device with the current hardware foundation.
+
+As a communications expert, Hu Bo thought for a while and said to Li Mu, "Li Zong, this hardware can be implemented. Let me take it apart first. Since your idea for these two sets of equipment includes GPS and GSM, let me talk about these two first."
+
+After a pause, Hu Bo continued, "We can directly purchase GPS modules, GSM modules, and then buy a batch of SIM cards from the operator that can run data. We can use their network for support. This will involve some communication protocols, but it's not a problem. The protocols are open, and the cost is very low. With the integration of microcontroller technology, it can be easily achieved. The basic structure is GPS chip, GSM chip, and microcontroller."
+
+"As for the radio frequency technology, because I'm not an expert in this area, I'm not very confident. However, I heard that there is a non-stop toll system in foreign countries. Although it hasn't been popularized in our country, a few foreign countries are using it. This set of technology should be in line with our needs." "The principle of this technology is based on a radio frequency technology called RFID.
+
+"The principle is based on a radio frequency technology called RFID. This technology generally requires two sets of hardware and a system. One set of hardware is placed in the car, and the other is placed at the toll booth. The user doesn't need to stop when entering or exiting the highway. When it passes the toll booth, the equipment at the toll booth will automatically read the information of the device in the car, and then record its starting point in the system. When it reaches its destination and exits the highway, it will pass the toll booth again, and the information will be read again. Once the two data are combined, we can know when and where the car entered and exited the highway. Then we can calculate the amount to pay, and calculate the cost. I think the principle of this technology is enough to support the requirements you mentioned before. We only need to integrate this function with the GPS and GSM module to fulfill all your requirements."
+
+Li Mu nodded in agreement and said with a smile, "We need this kind of technology to support it. If the technical problems can be solved, then it shouldn't be so difficult to develop such a hardware product, right?"
+
+"It mainly depends on what kind of hardware and solutions are used, and then we need to integrate them, and we also need to write a MCU program. In addition, we also need to carry out industrial design at the same time. Industrial design sounds simple, but it's actually quite troublesome. For example, for mobile phones, we have to repeatedly think of ways to reduce the size of the motherboard, and we have to run in and compromise with the appearance design. After we finally find a final objection, we need to find an OEM factory to start the mold production. However, if we are only using it for our own use, we don't need to be so refined in the industrial design area. In this way, our entire process can be a lot faster."
+
+Li Mu said, "This equipment is mainly installed in the trailer of trucks, trailers, containers, and large express parcels, so we don't need too much complicated industrial design, as long as it's reliable and practical."
+
+As he spoke, Li Mu said, "But the courier handheld terminal that I just mentioned is related to our corporate image, so we still need to design it better, have a sense of technology, and be more high-end."
+
+Hu Bo said, "The handheld device you mentioned, in addition to the GPS and GSM modules, also needs a set of code scanning equipment. However, this is not a problem. Our current system already supports the code scanning equipment. The code scanning gun can quickly identify the code and upload it to the server. We have already solved this problem. Even if we change it to a handheld device, it's not very troublesome. We just need to transfer the data from the network cable to the GSM mode wireless transmission."
+
+Li Mu nodded. "Theoretically, that's true, but we can't just develop a blind code scanning device for our couriers. We have to give them a screen and a system so that they have more room to operate. For example, we can add a mobile phone screen to this device, and then they can choose whether to do the code scanning before picking up, or to do the code scanning before delivering, or to do the code scanning after delivering."
+
+"At the same time, we also need to make this equipment a remote business processing terminal. For example, if a user in our building orders online and fills in the address here to send a package, then our server will immediately find the nearest courier based on the location of the terminal device on the courier's body after receiving the order request. Then, we will send a pick-up notice to him, and at the same time, we will pass the order information to him in the form of a text message."
+
+"Or, we can automatically filter the delivery process of the courier by using the code scanning records of the courier when he leaves. If Courier A is still far away from here, but he is carrying a package with the destination of this building, and it has not been properly delivered, we can determine that Courier A has delivery business in this building, so he will inevitably come to this building. In this way, we can give priority to him to pick up the package. This can minimize our labor waste and make the whole process more efficient."
+
+Fang Xudong immediately said, "Li Zong, I will organize a new project team today to tackle the hardware you mentioned."
+
+Li Mu nodded. "Communicate with your colleagues in the patent department. Don't let go of any patents that can be applied during the research and development process."
+
+"Understood."
+
+Li Mu said, "Consider this the first major research and development project of our hardware laboratory. While you are developing the combination of GSM and GPS modules, on the one hand, you need to make these two sets of modules more compatible, and on the other hand, you need to think about the effect they can produce when they are combined with other devices. As long as the GSM, GPS, and MCU are well integrated, we can connect everything possible to the Internet. This is the future era of the Internet of Things."
+
+In this era, the Internet of Things was just an illusory and abstract concept. Even western countries had not started the real research and development of the Internet of Things. Therefore, when Li Mu talked about the Internet of Things, everyone present was at a loss. Although they had heard of the concept, they did not know how to put it into practice.
+
+Li Mu said, "The equipment we installed in the car is actually the basic 'Internet of Things'. However, the future of the Internet of Things should not only be a one-way transmission of information. It should have more practical intelligent functions. Let me give you an example. If I ask you to develop a new type of bicycle lock, this kind of lock does not have a keyhole. Instead, it uses the GSM module and the MCU module to control a set of miniature relays. Then, it connects to the GPS module and uses a lithium battery as the power source. In this case, the bicycle equipped with this bicycle lock is already connected to the Internet."
+
+Li Mu wanted to use the concept of remote unlocking of the bicycle as a case study of the Internet of Things. However, a very big problem was that there were no smartphones, and there was no mobile phone scanning. Therefore, Li Mu modified the logic and changed the process of scanning the smartphone to sending a text message through the GSM module.
+
+Then, Li Mu continued, "I will give this bicycle a unique ID and save the matching information in the server. Then, I will throw this bicycle on the street for our specific users to use freely. The specific logic is: If this bicycle's ID is 6666, then when the user sees this bicycle, he only needs to send the 6666 number to our server via text message. After the server verifies that his mobile phone number is qualified to unlock the bicycle, it will send a lock unlock command through the GSM module. Then, the GSM module will transmit the received command to the MCU, and the MCU will control the relay. What do you think will happen?"

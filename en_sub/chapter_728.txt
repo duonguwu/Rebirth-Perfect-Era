@@ -1,0 +1,123 @@
+Chapter 728
+
+"Offline transmission?"
+
+Fang Xudong and Kong Lingyu, the two experienced Internet technicians, were a little surprised by the new concept proposed by Li Mu, not to mention the other two, who were even more confused.
+
+Offline transmission was an awesome feature in Li Mu's eyes. It was amazing when it was first introduced. It was already 2007 when QQ launched offline transmission. However, it was not difficult to implement the function in 2002. The hardware foundation was sufficient, but no one had proposed this concept first.
+
+Therefore, Li Mu explained, "Offline transmission is basically a cloud service. User A wants to transfer files to User B, but User B is not online. What should we do under normal circumstances?
+
+Wait for User B to come online?
+
+Sending it as an email attachment is also a solution, but it is relatively troublesome to operate. Our offline transmission allows User A to first transfer the file to our server when User B is not online. After User B comes online, even if User A is not online, he can directly download the file from our cloud server. "
+
+Fang Xudong instantly understood when he heard this. He said in surprise, "Li Zong, this function is super practical!"
+
+Li Mu nodded. "It will be very practical. It is especially useful for business people, Internet professionals, and intermediate deep users. In the future, as the Internet continues to spread, more shallow users will also have a need to transfer files. When that time comes, this function can also cover them. My goal is to eventually make this function cover all Internet users. This is not difficult to achieve, because all Internet users will have a need to transfer files."
+
+Fang Xudong said, "However, if we want to solve this problem, the investment will be very high. First is the problem of information processing. The server storage and bandwidth will all need a lot of money."
+
+Li Mu said, "That doesn't matter. Since we're the first to introduce this function and solution, we can divide the service into different levels. If it's a normal YY user, the file size that each person can send offline every day will be limited to a certain range, and the amount of time that each person can store the files in the cloud will also be limited. After the time limit, it will be automatically deleted by the server."
+
+"For example, the service standard for ordinary users is: each person can send 10 MB of files offline every day, and the server will be kept for 24 hours. YY members can receive the service standard: each person can send 100 MB of files offline every day, and the server will be kept for 72 hours. If some groups of users feel that this is not enough, they can purchase the advanced offline file customization service. For an extra 10 yuan per month, they can send 500 MB of files offline every day, and the server will be kept for 240 hours …"
+
+Fang Xudong nodded and said happily, "I understand, Li Zong. This way, we can control the server's storage space by deleting files at a fixed time, and we can directly generate profits."
+
+"That's right."
+
+Li Mu said, "We can set the specific parameters, but this function is very attractive to users, and the degree of binding to users is also very high. Most importantly, the transmission protocol, breakpoint continuation, and offline transmission will take a long time to develop, and we need to accumulate enough technology. In addition, the powerful information processing center, storage, bandwidth, and other hardware facilities also need time to build, debug, and then test the compatibility of the software and hardware. If we introduce this function, and others want to catch up, then they will have to do a lot of work, and we can maintain a technological lead for a long time."
+
+Kong Lingyu said, "Boss, this function and the solution for group audio and video will be introduced in the same version of YY at the same time?"
+
+Li Mu nodded slightly. "Other than that, I also have a product plan. This product plan has a lot of technical interoperability with the data transmission mentioned earlier, and that is the cloud disk."
+
+"Cloud disk?"
+
+"That's right, you can think of it as a cloud hard drive."
+
+Kong Lingyu and Fang Xudong had just heard Li Mu talk about cloud storage for offline transmission, so when they heard the concept of a cloud hard drive, they understood instantly.
+
+Li Mu said, "The cloud disk function is also a vertical cloud storage function for private data. At the moment, there might be a considerable number of users who don't have this requirement, but this is also because no one has developed this product. My idea is that in the future, YY itself will have a cloud disk function, and every user will have a private cloud disk that can be used for data storage. Users can directly upload their private files to their private cloud disk on the YY client. No matter where they go, as long as they have a computer and the Internet, they can read their private files."
+
+As he said that, Li Mu added, "Right now, private PCs are not really common yet, and the price of a USB drive is very high. USB 2.0 has just been introduced, and a megabyte USB drive sells for about 700 yuan in China. The market price of USB 1.1 is also about 350 yuan, which is almost the same as the market price of Mango-ME. The unit cost per MB of storage is very high, and the barrier to entry is also very high, so most users don't have a portable storage device like a USB drive. But if we use a large number of data center level high-capacity mechanical hard drives to solve the cloud storage problem, then the cost per MB of storage will be reduced by about a hundred times. If this function is introduced, it will also be very practical for the user group we are targeting."
+
+Regardless of whether the four people present understood or not, they were very much in agreement with this product idea.
+
+Fang Xudong said, "The elite group is a group with a very strong effect on the surrounding people. If we can win over the elite group first, it should be much more convenient to convert ordinary users."
+
+Li Mu nodded and said, "This is the first stage of product function planning that I've come up with for YY's global marketing. Happy Farm is just a stepping stone. What really captures the European and American users are the major convenience functions that we've deeply customized for the elite class."
+
+Winning over the elite group first was his operating strategy. Many products targeted all users right from the start in an attempt to capture all users in one fell swoop. This mentality and approach were not wrong, but the key was that it did not apply to Hua Xia's Internet products. Breaking through to the overseas market was more like a real war of aggression. When faced with a strong and well-defended opponent, steadily and gradually advancing was the safest way to attack.
+
+"Think about it. After the launch of a certain version of YY in the future, many companies will no longer need to spend a lot of money to purchase specialized audio and video conference hardware. They will only need to rely on YY to complete the audio and video conference directly. One-to-one file transfer or even group file transfer can be completed directly in YY. At the same time, they will have personal cloud drives, which can largely replace the expensive USB flash drive.
+
+"What's more, this product itself is a very useful social software. Once they start to deal with business needs in YY, they will definitely migrate their business contacts to YY. At the same time, in pursuit of efficiency, they will gradually migrate all their contacts to YY. They will strive to integrate their lives, work, and other Internet needs into YY to increase efficiency."
+
+Kong Lingyu nodded solemnly. "Boss, don't worry. I will follow up with the development of these functions with Xudong as soon as possible."
+
+Li Mu instructed, "When Happy Farm is promoted overseas, try to get rid of the Hua Xia element as much as possible. Let the user experience the game without feeling that it is an overseas invasion. I suggest changing to a more American English name. The name Happy Farm is a little lame."
+
+Lin Ching-ah smiled and said, "According to your positioning, the name Happy Farm is indeed not suitable. I think a real English-speaking country would not call it Happy Farm. It should be more appropriate to call it Farm-Of-Happiness."
+
+Li Mu waved his hand. "Our game is no longer just a farm. After a few upgrades, we added a ranch, processing, manufacturing, town mission system, and player interaction system. The content of the game is already very large. Although there is no need for us to change the Chinese name, we can completely abandon the concept of Happy Farm for the English name. I personally have an idea to change the English name of Happy Farm to Town-Of-Paradise, which translates to Paradise Town."
+
+"Paradise Town?" Lin Ching-ah said with a yearning expression, "I like this name. It's much better than Happy Farm."
+
+Fang Xudong, who had lived and worked in America for a long time, also nodded and said, "Town-Of-Paradise is indeed more in line with the current characteristics of our game. It will also be more attractive to users in English-speaking countries. I personally agree."
+
+Kong Lingyu said excitedly, "Then let's use the name Town-Of-Paradise to promote the English version of Happy Farm!"
+
+Seeing that no one had any objections, Li Mu nodded and said, "Alright, let's use this name and strive to become an instant hit in the European and American markets!"
+
+After the most important YY global strategy was basically completed, Li Mu said to Ding Zhenglin, "Old Ding, tell me about the progress of the two acquisition cases."
+
+Ding Zhenglin nodded. "Let's talk about FlashGet first. The developer has agreed to make a move, but his request is slightly higher. His ideal price is 15 million, and my offer is 5 million. Now, he has lowered his offer to 7 million. The revolution has not succeeded yet, comrade, we still need to work hard."
+
+Li Mu asked curiously, "How did you deal with this developer and get him to cut his desired price in half?
+
+I thought it would be difficult for you to even meet with him. "
+
+Ding Zhenglin said, "It was indeed difficult. But when I found a way to convey the message, I just passed it to him, and he invited me to meet with him."
+
+Li Mu asked, "What message did you pass to him?"
+
+Ding Zhenglin said, "I told him that Makino Technology is interested in acquiring his FlashGet. If he does not reply within a week, Makino Technology will give up on the acquisition and develop its own download software."
+
+"What the …" Li Mu laughed. "That's obviously a threat!"
+
+Ding Zhenglin said, "That's exactly the way to solve problems. He doesn't care about anyone, and he doesn't lack money. Even if other companies threaten him like this, he probably won't care. But Makino Technology is different. The consensus of the Internet industry is that once Makino Technology wants to do something, it will definitely do its best to defeat all of its competitors. He is also afraid that Makino Technology will introduce a similar product and crush his product."
+
+Li Mu laughed. "That's good. It proves that Makino Technology's research and development capabilities and marketing capabilities have been recognized by the Internet industry in the country."
+
+As he said that, Li Mu added, "Sign the contract as soon as possible and get FlashGet."
+
+"Okay."
+
+Ding Zhenglin nodded and said, "I've already contacted Huaying and New Cinema twice. The parent companies of the two cinema chains have a close relationship, so their quotations are more uniform. Roughly calculating, 14 cinemas, 65 screening halls, and 12590 seats, the acquisition price is about 4,000 yuan per seat."
+
+Ding Zhenglin's calculation of the cost per seat made Li Mu's eyes light up. He was indeed not interested in understanding the specific situation and quotations of each cinema. The cost per seat allowed him to easily calculate the size of the acquisition.
+
+Li Mu asked him, "Have you measured the cost? Is it high or low?"
+
+Ding Zhenglin said, "Based on the situation of these 14 cinemas, the overall estimate is still slightly low. But the key is that these cinemas are now facing upgrades and remodeling. I asked an actuary to calculate the cost. At present, if we carry out a major upgrade on the current basis, the cost per seat is about 3,000 yuan. In this case, the overall cost per seat is about 8,000 yuan, and the total investment is slightly more than 100 million yuan."
+
+Li Mu asked him, "Which part are we talking about now?"
+
+Ding Zhenglin explained, "We're discussing the price. I want to lower the acquisition cost to about 4,500 yuan per seat."
+
+Li Mu nodded and asked Fang Xudong, "How long will it take for our ticketing system to be developed?"
+
+Fang Xudong said, "One and a half months is not a problem, but the hardware and software will take some time to adjust. Overall, it should be done in two months."
+
+Li Mu said to Ding Zhenglin, "Take down the cinema chains this week. If we can't lower the price, we don't have to lower it anymore. After we take down the cinema chains, we still need to upgrade them. For us, time is far more important than the cost."
+
+Ding Zhenglin immediately said, "No problem, I'll make sure to sign the contracts for both of these things this week."
+
+Li Mu nodded and looked at Lin Ching-ah. "We have to hire people at full capacity. The scale of the human resources department is already very large. We have to go all out for social and campus recruitment. What we lack the most now are industry elites like Old Ding and Old Fang. We have to increase our efforts in this area."
+
+Lin Ching-ah smiled and said, "Mr. Fang has introduced a few high-end Chinese talents working in Silicon Valley. I'm already in the process of communicating with them. We are now working with a multinational headhunting company and have already received the interest of more than a dozen senior professionals. Among them are some mid-level technical talents from Google, Oracle, and Microsoft."
+
+Li Mu was overjoyed when he heard this and blurted out, "This is the most important work!
+
+If we want to be a first-class Internet company, we not only need to export good products to the world, but we also need to export industry standards and solutions to the world. In some areas, the world's Internet will no longer be using the industry standards set by Microsoft, Apple, Cisco, or some Silicon Valley geek. Instead, we will generally adopt the industry standards set by Makino Technology. This is the future of our galaxy! "

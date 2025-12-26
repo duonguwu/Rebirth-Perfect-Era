@@ -1,0 +1,125 @@
+Chapter 1428
+
+As Li Mu became more determined to acquire Apple, he announced his decision to the senior management of Makino Technology. From now on, he would set up a division dedicated to acquiring Apple and fully implement the acquisition plan of Apple.
+
+The general manager of the division would be personally appointed by Li Mu. Under him were two deputy general managers. One was the commercial director, Ding Jian, who was good at capital operations, and the other was the company's CTO, Fang Xudong. There were two special consultants. One was Louis Martin, who knew the US stock market like the back of his hand, and the other was Lei Jun, a genius programmer who became famous at a young age.
+
+What the entire division had to do was to conduct an in-depth understanding and analysis of Apple's current capital structure and business situation. Not only did they have to determine the capital value of Apple, but they also had to find out Apple's current pain points and possible directions to reverse the situation. At the same time, they had to formulate a complete set of acquisition plans.
+
+After announcing the establishment of the division, Li Mu called Lei Jun and Fang Xudong, the two technical talents, to his office.
+
+After the three sat down in Li Mu's office, Li Mu said to the two, "For Makino Technology, we must take root in more core technologies in the entire information technology field in the future, not just at the software level, but also at the hardware level. So, we have a few very important urgent matters that we need the two of you to take the lead to solve."
+
+The two sat upright, waiting for Li Mu's next words.
+
+Li Mu said, "First, sort out the global mobile hardware companies, products, and patents, especially in the area of microprocessors. Compile a detailed document for me. In the future, we will acquire those that we can, and those that we can't, we will try to get a stake in them.
+
+Second, in-depth study the current PDA products on the market, especially their hardware and operating system, and the software support of the operating system.
+
+Third, in-depth study the Symbian system developed by Nokia and several other communication product R&D companies, including the hardware selection of Nokia's product line. Measure the comprehensive strength of the Symbian system and its future development space. "
+
+The two wrote down Li Mu's three points in a small notebook. Then Lei Jun asked Li Mu, "Li Zong, are you going to make a mobile smart terminal?"
+
+Li Mu smiled and said, "Mr. Lei, what you just said in the conference room inspired me. I don't know much about hardware technology, but I can be sure that the development of technology in the future is inseparable from several trends. The performance will be better and better, the power consumption will be lower and lower, the size will be smaller and smaller, and the price will be lower and lower."
+
+Both of them nodded in agreement.
+
+Li Mu continued, "Based on these four trends, I can basically conclude that in the near future, we will be able to achieve performance close to or even surpass the current PC on a device the size of a PDA or a mobile phone."
+
+"This …"
+
+Both of them were a little shocked.
+
+The four trends Li Mu mentioned were indeed true. The development of computers in the past few years had also confirmed this point. In the early years, computers were larger than a high-power diesel generator, and their power consumption was also frighteningly high. However, the computing power was extremely weak when measured by current technology. Today's PC weighed no more than ten to twenty kilograms, but its performance was several times better than computers in the early years.
+
+However, this did not mean that computer technology could break through the next barrier and integrate a PC into a small mobile phone.
+
+Both of them were technical talents. Therefore, although they had a long-term vision, they were basically loyal to the technology itself. Therefore, it was difficult to imagine that the future of technology could reach the level that Li Mu mentioned. It was like how a science fiction author could easily put a nuclear fusion reactor in a shoe. However, nuclear experts clearly knew that humans still had a long way to go to controllable nuclear fusion.
+
+At this time, Li Mu saw the hesitation of the two and said, "Sometimes, don't let your imagination be limited by current technology. Do you know that online game authors have already conceived a brand new type of game equipment in the future? It's a kind of helmet. After you put it on, you will have a game screen that is no different from a real person's field of view. This way, you will be completely immersed in the game screen, and it can even distinguish your movements. When you turn your head, your field of view will also turn your head. When you run, your in-game screen will also start running. When you swing your fist, your in-game screen will also swing your fist."
+
+Fang Xudong scratched his head. "After all, it's just a novel, Li Zong. This kind of thing, even if it can be realized, I'm afraid it'll take thirty to fifty years, right?"
+
+Li Mu laughed and said, "You think it'll take thirty to fifty years, but I think it'll take at most ten years. It might even be shorter."
+
+As he said that, Li Mu said seriously, "You have to understand that in the society we live in, technology is developing explosively. Twenty years ago, if you told a computer expert that in the future, the overall space of a computer might be as big as a drawer, and the computing power will be ten times or even a hundred times higher than the current computers, he would definitely say that your brain is broken. But isn't that the reality?
+
+The computer of twenty years ago, compared to the computer of today, is not just a little bit different. Since a computer can shrink from the size of a room to the size of a drawer, why can't it shrink to the size of a mobile phone? "
+
+The two of them looked at each other, and their hearts were a little more relaxed.
+
+Lei Jun said, "Li Zong, what you said makes a lot of sense. We are indeed a little trapped in the current technological environment, so our imagination is a little lacking."
+
+Li Mu nodded and said, "Look, there are more and more computer users now, and people's demand for computing is also growing. However, no matter how much the price of a PC decreases, no matter how strong people's purchasing power is, even if it's so strong that all 1.3 billion people have a computer, people's computing needs are still not completely satisfied. Why?
+
+Because they can't enjoy mobile computing. Once they leave the computer, they lose their computing power and the right to enjoy computing.
+
+"Similarly, the Internet is the same. Even if all 1.3 billion people in the country have computers and their computers are connected to the Internet, when they stand up and leave the room with the computer, they won't be able to enjoy mobile Internet services."
+
+The two of them nodded repeatedly with serious expressions.
+
+Li Mu continued, "Think about the development of the communications industry. It was precisely because humans had a need for communication that people invented the telegraph. However, the cost of the telegraph was too high, and the cost of operation was also high. Moreover, the method of communication was too simple, and it couldn't satisfy the majority of people's communication needs. That was why people invented the telephone. However, even if everyone in the world had a telephone in their home, once they left their home, it would be equivalent to cutting off communication with the outside world. This was the most fatal weakness of the communications industry in that era. That was why people invented the mobile phone. You see now, the penetration rate of mobile phones is already very high, and it will only get higher and higher."
+
+"That's right."
+
+Lei Jun said especially seriously, "If that's the case, mobile computing and mobile Internet will definitely be the next development direction of the Internet!"
+
+Fang Xudong also said in agreement, "Li Zong, your example is too convincing. Previously, all our efforts were focused on the Internet technology and services with the PC as the core. However, if we look at it in the long run, the future will definitely be in the direction of portable mobile."
+
+Li Mu smiled and said, "The real era of the mobile Internet may still take a long time to arrive. However, if we can recognize the future development direction and trend in advance, we can stand out from all the other companies in the same industry."
+
+After saying that, Li Mu continued, "Look, the current mobile phones can already support Java programs and GPRS network access. Companies like Symbian and Microsoft have developed their own operating systems for mobile phones. They are already at the forefront. Why can't we also develop our own mobile operating system like them?"
+
+Fang Xudong said dumbfoundedly, "Li Zong, even if it's a mobile operating system, the technology, manpower, financial resources, and time behind it are also very high. We don't have this foundation at all now. Moreover, with Microsoft as the dominant operating system, they might monopolize the mobile operating system in the future …"
+
+Li Mu smiled and said, "Let me answer your questions separately. You said that we don't have the technology and ability. That's right, we don't have this foundation. But what if I acquire Apple?"
+
+Fang Xudong's expression became even more frightened …
+
+"If we acquire Apple …" Fang Xudong said excitedly, "With Mac OS as the foundation, it will be much easier to derive a mobile operating system!"
+
+Li Mu nodded and smiled. "Next, let me answer your second question. Do you think that since Microsoft has the majority of the PC market, it will naturally have the majority of the mobile market?"
+
+Fang Xudong asked Li Mu, "Isn't that so?
+
+Even if Microsoft hasn't done anything yet, once they do, I believe that no matter if it's Apple, Symbian, or Palm, none of them will be able to stop them. "
+
+Li Mu shook his head and said, "You are a technician. You must know about Mac OS. In the PC industry, Mac OS will never be able to beat Windows. This is not only related to the strategic positioning of the two companies, but also to the current environment of the PC industry.
+
+Compared to Apple's Mac OS, which is only sold with Macs, PC's operation is much more flexible. Users can not only buy different brands of PC to use with Windows, but they can also buy a variety of hardware to assemble a PC to use with Windows. This has created a large number of PC manufacturers and hardware manufacturers in the PC industry. As for Apple, it's only one company.
+
+Whether it's a large number of branded PCs or an even larger number of DIY hardware manufacturers, it has led to two situations:
+
+The first is the huge productivity supported by a large number of enterprises. It will lead to the production of PCs and PC hardware hundreds of times that of Apple. The intensity of coverage is also far greater than Apple.
+
+The second reason is that there are so many enterprises and so much productivity, which leads to fierce competition everywhere. PC manufacturers will compete with each other, and hardware manufacturers will also compete with each other. That's why Shenzhou jumped out to attack the PC market. The cost of DIY hardware has been reduced again and again, which eventually led to the continuous reduction of the cost of the PC. This is something that Mac OS and Mac computers will never be able to catch up with. "
+
+At this point, Li Mu suddenly made a big turn and said, "The DIY industry in the PC industry has become a tradition. This is something that Apple cannot reverse. Even Microsoft cannot reverse. But you have to understand that a mobile phone is not a PC. A PC with Windows can be DIY, but no mobile phone can be DIY. Any mobile phone is like Apple's Macs. It's a complete set of hardware and software!
+
+This also means that the huge advantage that PC has over Macs does not exist in the mobile phone market! "
+
+Thunder Lord said excitedly, "Li Zong is right!
+
+In the future, all of Nokia's mobile phones will be equipped with Symbian operating system. But the consumers will not be able to buy another mobile phone and install Symbian, and they will not be able to DIY a mobile phone with Symbian installed. The future mobile phone market will be a combination of hardware and software. This way, Microsoft will lose its advantage in the DIY hardware industry and will be on the same starting line as Apple! "
+
+Li Mu snapped his fingers and smiled. "If we acquire Apple and develop a mobile operating system based on Mac OS, we will have two choices. We can either license the operating system and cooperate with the major mobile phone manufacturers, or we can follow Apple's footsteps and develop our own operating system, produce our own hardware, and sell it in bundles. The former will allow us to expand quickly, and the latter will allow us to lock down our business lines and get more profits. If our operating system is not as competitive as Symbian and Microsoft, then we will choose the former and compete with them at the manufacturer level. If our operating system is much stronger than them, then we will choose the latter to lock down our advantage and build our own mobile phone brand. No matter what, the mobile internet will be the trend of the future, and we need to plan in advance, be it hardware or software." Li Mu snapped his fingers and said with a smile, "If we acquire Apple and develop a mobile phone operating system based on Mac OS, we will have two options.
+
+For Li Mu, the possibility of acquiring Apple also gave him a good opportunity to enter the smartphone market. In his eyes, the real smartphone is the all-touch and multi-touch technology created by the iPhone. That is also Steve Jobs' greatest achievement.
+
+Steve Jobs started preparing for the iPhone in 2005, and he officially announced the iOS and the first generation of the iPhone in January 2007. Apple had only developed the iOS and the iPhone for a little more than a year. If Li Mu acquires Apple this year, it would be unrealistic to start developing iOS and the iPhone immediately. After all, the hardware must be up to date to be able to develop a product like the iPhone. Therefore, Li Mu estimated that it would be good if he could introduce the iPhone and iOS in the second half of 2006.
+
+Before that, the smartphone market was completely dominated by early operating systems like Symbian. It was not until the explosive rise of Apple in 2010 that the smartphone market became Nokia's backyard, allowing Nokia to earn unimaginable profits.
+
+And now, Li Mu is preparing to acquire Apple. If he really wants to acquire Apple, why not develop a castrated version of the iOS system that targets Symbian?
+
+This castrated version of iOS does not need to consider touch, and it does not need the huge architecture of the official version of iOS. As long as it can suppress Symbian, it can compete with Nokia for money.
+
+Apple has 20 years of technology accumulation on Mac OS, and it took them more than a year to develop iOS based on this foundation. If they were to develop a castrated version of iOS, it would probably take them more than half a year. The castrated version of iOS can first suppress Nokia's momentum, and at the same time, help iOS to enter the market earlier.
+
+More importantly, the emasculated version of iOS could be launched two years earlier than the official version of iOS. In these two years, Li Mu could use the influence of Makino Technology to attract major software developers around the world to develop software based on the emasculated version of iOS and create a software ecosystem for iOS. In this way, when the official version of iOS and iPhone were released, it would not be a newborn calf, but a gorgeous upgrade of an old bird.
+
+In Feng Yu's previous life, it took Apple three and a half years from the birth of the first iPhone to the widespread adoption of the iPhone 4. However, if Feng Yu could warm up the market with a simplified version of iOS in 2004 and 2006, he could achieve the goal that Apple took three and a half years to achieve in the second half of 2006!
+
+PS: Follow the WeChat official account (
+
+limaoxs666

@@ -1,0 +1,91 @@
+Chapter 560
+
+In the end, Li Xingping could not take it anymore. He sold Hao123 to Makino Technology for 13.5 million in cash.
+
+After Li Xingping signed the contract, Makino Technology's attitude immediately changed. Before this, he was still nonchalant and looked down on Hao123. However, as soon as the contract was signed, Makino Technology's pace was so fast that it was a blur.
+
+Since Hao123 was a website with a very low cost, its financial status was very clear. Li Xingping basically did not keep any operating funds from the monthly advertising fees. All of it was transferred to his personal account after tax returns. Therefore, Hao123's accounts only had a few thousand yuan. Moreover, it did not have any debt or equity relationships. There was no need for a cumbersome audit to fully understand its financial status. After Makino Technology entrusted a professional audit company in Guangdong Province to complete the acquisition and audit in the shortest time possible, they immediately paid Li Xingping 13.5 million in cash for the purchase. Then, they transferred the domain name of Hao123. Immediately after that, Makino Technology made a 301 redirect of Hao123's domain name and set the domain name to permanently jump to YY123.
+
+This technology was very simple to implement. Just like how when JD.com changed its main domain name, it did not mean that 360buy lost its function. Instead, it redirected the domain name to 360buy. When a user entered 360buy, the domain name would automatically jump to and open directly.
+
+Overnight, 95% of the entire navigation website market was under Makino Technology's control. However, this news did not cause much of a stir in the industry. When Makino Technology started YY123, everyone thought that Makino Technology had lost its ability to innovate and had begun to take the wrong path. Now that he had acquired Hao123, it still did not change everyone's opinion. Instead, it made people in the industry feel that Makino Technology was going further and further down the wrong path. So what if they had 95% of the navigation website market?
+
+This low-class, low-tech website would be abandoned by mature users sooner or later.
+
+However, the next day, Makino Technology's approach was a little strange.
+
+There were some minor adjustments to the various categories of websites on YY123. The most important display box was that of first-tier websites. Whether it was hao123 or the previous YY123, all first-tier websites, including Sina, would be displayed here. Not only were their names displayed, but their logos were also displayed. However, Sina was no longer there.
+
+YY123 had not removed Sina's links for a long time. Why did they remove Sina's links after acquiring Hao123?
+
+Subsequently, the industry broke a bigger piece of news: Makino Technology blocked all words and links related to Sina in its entire series of products.
+
+For example, when netizens were chatting in YY, someone posted a message: "Makino Technology's YY123 blocked Sina!"
+
+After he sent it out, he found that the dialog box had changed to: "Makino Technology's YY123 blocked * * *!"
+
+"Eh, that's weird. Why can't I type in Sina?"
+
+"Eh, that's strange. Why can't I hit my * *?"
+
+"Holy shit!
+
+Makino Technology has blocked Xinlang! "
+
+Their inner monologue was: If I add a bar, you won't be able to block it now, right?
+
+Sorry, Li Mu had already guessed that these people would think of a way to avoid it. Therefore, in the blocking logic that he personally came up with, he not only blocked the Chinese characters Sina, but also a bigger logic. That was: If there were pure symbols in between the two Chinese characters "Xinlang" and "Sina," no matter what symbol was added, the "Xinlang" and "Sina" would be the first, and all the symbols in between would be blocked.
+
+In other words, the combination of Xinlang with a "-" in the middle would be blocked. The combination of Xinlang and Sina would not be spared.
+
+Not only that!
+
+The combination of Xinlang, Sina, Sina $Sina, Sina ^ Sina, and Sina & Sina would also be blocked.
+
+For these netizens, they felt like they were about to collapse. They tried a lot and added all kinds of symbols, but they were still blocked by Makino Technology. This was too ruthless, wasn't it?
+
+In a rage, he typed "New!" as if he was smashing the keyboard.
+
+$% (& ^ $% # Sina "and tried to type it. In their hearts, they thought: Damn, this should work, right?
+
+The result was: Sorry, it would still be blocked.
+
+There was only one way to crack it, and that was to add Chinese characters in the middle!
+
+In other words, characters like "Xinlang" would not be blocked. "Sina net" would also work.
+
+However, generally speaking, the user's thinking logic was: If the word was blocked, then add an insignificant symbol in the middle. This way, it would not cause any interference to the word itself, and it could ensure that the other party could understand their meaning to the greatest extent. However, no one would think that symbols were completely blocked here. After users tried using all kinds of symbols without fail, they naturally would not continue to try. All the people who would bite the bullet and try to the end were netizens.
+
+This kind of blocking also completely avoided accidental damage. If the content posted by a user accidentally contained the words "Xinlang" and "Sina", as long as they were not next to each other, they would not be blocked by the system.
+
+Other than blocking Chinese characters, the English word "Sina" also used the same blocking logic. If there was only a symbol in the middle of these four letters, then no matter how far apart they were, they would not be able to escape the fate of being blocked. That's why Sina's links in Makino Technology's product line were all blocked.
+
+Li Mu's shielding logic was so perverted that even in 2016, no one had ever thought of it, let alone put it into practice. It was a super perverted logic like that of a beast, and it was also an extremely powerful and despicable perverted logic.
+
+Luckily, this logic was only used to block "Sina". If it was used on other words, it would drive the netizens crazy.
+
+Li Mu's blocking logic also sent a message to the industry: Although I am only targeting Sina, if you want to compare which company's product logic is better, I'm sorry, but all the companies in the industry are trash!
+
+Just as the industry's practitioners were in front of their computers trying to crack the blocking logic of Makino Technology, the entire Sina website seemed to have just suffered a nuclear attack. Everyone was extremely nervous because of the two actions of Makino Technology this morning.
+
+Hao123 was a navigation website, and it was also the first online favorites. Many users would start from YY123 and Hao123 when they visited any major website. Every day, a large number of users visited with the motive of browsing the news, but they did not have a clear direction. When they saw a bunch of portals in Hao123, they would be attracted by Sina's name and logo, and they would click on them to browse. They would then add a UV and a number of photoshop videos for Sina. But now, all such user sources had been blocked by Muye Technology.
+
+For a website, UV refers to a natural person. In theory, for a website, a user or an IP can only be counted once a day, which is equivalent to visiting users. PV refers to the number of page views. For example, if User A went to Autohome today and looked at the pages of ten cars, then he would bring 1 UV and 10 PV to Autohome.
+
+Other than these users, a considerable number of users wanted to visit Sina, but they could not remember Sina's domain name. So, every time they visited Sina, they would first open YY123 or Hao123, and then jump from YY123 or Hao123. But this time, YY123 and Hao123 were combined into one, and when they entered Sina, they realized that Sina was gone.
+
+Originally, they were just browsing for some information. Now that Sina was gone, a small number of users would try to find Sina. But most of them were too lazy to investigate, and they would just open other portals to have a look. This way, Sina lost another batch of users.
+
+A huge traffic entrance was shut down. For Sina, the loss of traffic was immeasurable. But the bigger problem was yet to come. Makino Technology blocked Sina's entire range of products. This was an unimaginable blow to Sina.
+
+If YY123 only blocked a portion of Sina's traffic entrance, then the deliberate blocking of other YY products would definitely be a life-and-death battle with Sina.
+
+Now, the entire Internet industry had a common understanding: YY is the entire Internet.
+
+That is to say, YY users could basically be equivalent to the entire Internet users in China. The reason was simple. YY itself not only covered all young people, but also some middle-aged and elderly people. YY games and Happy Farm covered another group of middle-aged and elderly people. Even netizens who used to only know how to trade stocks online had now learned to use YY. The reason was that they needed to exchange information in the stock exchange group. There were multiple products and multiple overlaps. Basically, all the computer users in China were covered.
+
+Under such circumstances, what did it mean for Sina to completely block Sina from the YY system?
+
+It meant that when everyone online chatted about Sina, they could no longer talk about Sina. Even if they talked about Sina, they would be mercilessly blocked. If this continued, Sina would disappear from the netizens' discussion topics, and lose influence and brand awareness. In the end, it would be forgotten by the users.
+
+It was also at this time that Sina realized the consequences of provoking Makino Technology!

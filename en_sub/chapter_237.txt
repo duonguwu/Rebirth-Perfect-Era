@@ -1,0 +1,89 @@
+Chapter 237
+
+Li Mu's expression was serious. The six people listened and unconsciously straightened their backs. Their eyes were fixed on Li Mu and the whiteboard behind him, waiting for him to get to the point.
+
+Li Mu said, "The future plan of Makino Technology is not just to manage a community like Tieba. More importantly, we want to create our own ecosystem in the Internet field. Therefore, in the future, our technical development team will have a great responsibility. Every step of Makino Technology's expansion in the Internet field will be inseparable from your efforts."
+
+As he spoke, Li Mu said, "When I communicated with Mr. Kong before, I revealed my general plan to him, but I didn't say it in detail. Today, I will tell you in detail about the next step of the product plan."
+
+"At present, the number of users of Tieba has reached tens of millions, and the user activity is also very high. Several of our celebrity Tieba fans have reached the scale of hundreds of thousands of people. Many people say that we are now the largest Chinese community in the world. This sentence sounds quite bluff, but if you think about it carefully, it will feel very awkward. As for why it is awkward, I think the problem may be the word 'community'. Mr. Kong and the other three technical leaders, you are all in the Internet technology and products industry. Can you tell me why the community is awkward?"
+
+Kong Lingyu did not speak, but looked at his three subordinates.
+
+He had heard a side answer from Li Mu, but because at that time Li Mu only conveyed a vague concept to him, he did not communicate it with his subordinates. Therefore, now he also wanted to know what his three subordinates thought about this problem.
+
+The three of them suddenly looked at each other. The community was now the most popular thing, and they did not know why the boss said it was awkward.
+
+Looking at the blank expressions of the three people, Li Mu had a moment of disappointment in his heart, but soon he felt relieved. After all, they were not reborn, after all. After all, they had not seen the future development of the Internet. It was already very difficult for them to follow the trend of the times. It was obviously wishful thinking for them to be ahead of the trend of the times.
+
+Lin Ching-ah suddenly asked Li Mu, "Li Zong, I have an opinion about the awkward situation in the community. But it might not be very professional, so don't laugh at me …"
+
+Li Mu said, "It's fine. Since we're discussing, we should speak freely."
+
+Lin Qingya nodded her head and said unconfidently, "I feel that the biggest problem with the existence of online communities is that they are too easily replaceable. From my personal point of view, most online communities are pretty much the same. The only difference they give me is the popularity of the community and the experience of using it."
+
+Li Mu's eyes lit up.
+
+Lin Ching-ah had hit the nail on the head.
+
+"Well said!
+
+This is the correct answer. "
+
+Li Mu gave his praise very seriously. Lin Ching-ah, a young woman who had just moved from Softbank to an Internet company, could actually see through the essence of the community problem. Maybe it was talent, or maybe it was because a bystander could see things clearly. No matter which one it was, it was worthy of Li Mu's heartfelt praise.
+
+Li Mu said, "What is a community?
+
+Actually, there are many kinds of communities on the Internet. They are actually similar to the various retail markets in our lives. Everyone sells all kinds of things. The difference is mainly in focus, scale, and service. Some communities can be compared to markets that specialize in fruits, vegetables, meat, and eggs. Some can also be compared to tobacco and alcohol stores. There are also small supermarkets, food stores, and daily necessities stores.
+
+Due to the variety of our Tieba, it can be classified as a large supermarket similar to Wal-Mart. But what we provide will never be what we need. This is because all the services we provide can be easily replaced by other platforms and other communities. This is what Qing Ya said, they are too replaceable. "
+
+Everyone suddenly understood.
+
+Kong Lingyu opened his mouth and said to the three technical leaders beside him, "The biggest problem with communities in the future is that they don't have enough stickiness. This is also what Li Zong has been worried about."
+
+Li Mu nodded and said, "In the field of the Internet, what can ultimately achieve long-term success is a strong demand. Currently, we can see that the strong demand is social networking."
+
+The few technical staff, including Kong Lingyu, all became 120% alert when they heard social networking. They waited for Li Mu to continue.
+
+Li Mu gave everyone a detailed analysis of why social networking would become a strong demand. He also explained the reason why the stickiness of users would increase exponentially after the accumulation of social networking. With the expansion of social networking, it would form a binding between users. The longer the social networking was, the harder it would be to migrate.
+
+In Li Mu's eyes, Teng Xun really started to take off when QQ Games defeated United Games. That was in 2003. That year, Teng Xun relied on QQ Games to increase its registered users to more than 200 million. This also started Teng Xun's routine of continuously using other products and functions to tie up social networking. Before the birth of WeChat, Teng Xun was like a rocket. QQ was the core of this rocket, but the various products tied to it were the boosters of this rocket. If it wasn't for these kinds of bundling that kept increasing the stickiness of users, Teng Xun wouldn't have been able to become the overlord of the domestic social networking industry.
+
+At the moment, Teng Xun did not have any additional products other than QQ. If they planned to ambush it now, there was still plenty of time.
+
+Kong Lingyu and the other technical geeks were also looking forward to Li Mu's strategic layout. Based on their understanding of Li Mu in the past, when he proposed a concept, he would definitely be confident and had already thought about the specific details of the implementation of this concept. Today, he had thrown out the concept of social networking, so he must have thought about every step in the future.
+
+Li Mu said, "Our Tieba has users now, and the number of users is not much less than Teng Xun's QQ. However, the problem is that our Tieba is only a social network. If we want to do social networking, we have to develop our own social networking software."
+
+Kong Lingyu said, "Our current technical team already has the ability to develop applications. Moreover, we are also using Teng Xun's QQ. We have also studied it before. It's not difficult. If we start developing it now, Boss, with you doing the product planning and architecture, we can complete it in one or two months at most."
+
+Li Mu smiled and said, "Since we want to do social networking, developing social networking software is an essential part of it. However, our most important problem now is not to develop social networking software, but to think of all ways to increase the stickiness of users in Tieba and migrate the users' connections on Teng Xun's QQ to Tieba."
+
+A technical person in charge of web development said, "Li Zong, just now you said that it is difficult to achieve the migration of QQ users' connections. If we want to achieve this in Tieba, how should we do it?"
+
+Li Mu said, "I said it is difficult to achieve because of the special nature of connections. The network of connections is always intertwined. If each person on QQ has an average of 50 friends, the network will be extremely large. If we can't achieve the migration of a large number of users, it will be very difficult to attract users bit by bit."
+
+As he spoke, Li Mu said, "However, our Tieba now has tens of millions of registered users. If we can quickly increase the number of users in Tieba and find a way to attract Teng Xun's QQ users to Tieba, and increase the stickiness of Tieba, then we have the foundation to launch a social networking software. Once we launch it, users can complete the migration of connections at low or even zero cost."
+
+Kong Lingyu's eyes lit up. "Boss, is this why you asked me to recruit Flash developers?"
+
+Li Mu smiled faintly and nodded. "That's all. Now it's time to tell everyone about the next phase of our product plan."
+
+After saying that, Li Mu turned around and drew two arrows behind the product development on the whiteboard. The first arrow corresponded to six words: "Personal Space in Tieba", and the second arrow corresponded to six words: "Web Social Games".
+
+After that, Li Mu wrote four words: "Battle for QQ!"
+
+Xianxia novels had not yet appeared, and no one understood what the word "QQ" meant.
+
+However, Li Mu said, "QQ is my next strategic deployment for Mu Ye."
+
+The first step in the battle of seizing the foundation was to let the users of Tieba enjoy the QQ space that was only available in 2005 four years in advance. Then, in his personal space, he would launch a small game with strong social interaction: Happy Farm.
+
+Happy Farm, which allowed users to steal food from their friends, was a great tool for expanding their social network. Overseas, this type of game was called "Social Game". Once users were addicted to this game, they would try their best to increase their social network. Not only would they copy their social network from other platforms, but they would also actively expand their new social network. In Gao Ye's previous life, Happy Network had relied on this game to become very popular. However, this type of game had its drawbacks. On one hand, it had a short lifespan, and if it became popular too quickly, it would cool down just as quickly. After a few months, this type of game would drop from being popular to no longer being popular. Happy Network could not continue to use new products to maintain its users during the golden period of time, so in the end, it went from being very popular to very cold.
+
+Li Mu would not make this kind of mistake. He wanted to attract as many Teng Xun users to Tieba as possible during the peak of the farming game. Then, he would transfer his social network to Tieba, and at the same time, he would be able to push out his social network. This was the second step in the battle for QQ.
+
+Currently, Teng Xun's QQ only had a single function, a mediocre interface, and there was no user experience to speak of. The social network that he wanted to develop would definitely be better than Teng Xun's QQ in all aspects. Not only that, once he launched his social network, he would immediately replace the social network that was gradually losing its popularity with a newer product, and achieve the binding of users' habits. With this combination, he would complete the migration of users' social network, increase user loyalty, and completely replace Teng Xun's QQ. This was the soul of the entire "Battle for QQ".
+
+Li Mu counted with his fingers. If he wanted to replace Teng Xun and share the huge social network pie in the future, the best opportunity would be 2002. Therefore, the battle for QQ had to start in 2002 and end within the year!

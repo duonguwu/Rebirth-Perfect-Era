@@ -1,0 +1,113 @@
+Chapter 182
+
+After the last class on Friday, Li Mu did not enjoy the weekend with the others. Instead, he went to Yucheng Garden alone. Tonight, he needed to write down the core requirements and framework of Alipay. Then, he would meet with Kong Lingyu and tell him his requirements for Alipay in person. After making sure that Kong Lingyu understood everything, he would ask him to arrange for the development team to start.
+
+Although Li Mu had not been to Makino Technology, he could guess their current working status. Now, the technical development team should be relatively idle and have enough energy to develop Alipay.
+
+The number of users of Tieba was still increasing rapidly, so Li Mu did not ask them to develop new functions immediately. The core service of Tieba was Tieba itself. Li Mu had to first make the users have enough loyalty to the most basic functions of Tieba. After that, he would develop other functions and products based on the foundation of Tieba.
+
+As for 3321, the second round of bidding had just started, so there was no need to develop it. Moreover, even if there was a need, Baidu would be responsible for it in the future.
+
+This time, Li Mu did not stare at the bidding of 3321 from eight o 'clock like last Friday. Instead, he buried himself in writing the framework of Alipay. He wrote for more than three hours.
+
+Li Mu was going to bring out the mature version of Alipay.
+
+People in the IT industry were more patient and focused than ordinary people. When Li Mu was writing code or requirements, he usually did not feel the passage of time. In the blink of an eye, it was almost nine o 'clock. At this time, Li Mu's phone suddenly rang and woke him up from his concentration.
+
+It was Sun Jian. He said hurriedly over the phone, "Li Mu, something big happened at school."
+
+Li Mu frowned and asked him, "What happened?"
+
+"That Wu Shuai was just arrested by the police in the dormitory."
+
+When Li Mu heard that it was Wu Shuai, his tense nerves immediately relaxed. However, Wu Shuai was arrested by the police. What did this mean?
+
+Sun Jian then told Li Mu that Wu Shuai stabbed Sun Tan in front of a restaurant outside the school tonight.
+
+It turned out that this afternoon, Wu Shuai's former class tutor came to their dormitory with the dormitory management and security. When they saw that Wu Shuai had not packed up and left, they wanted to persuade him to leave. However, Wu Shuai was lying on his bed and did not move. The class tutor did not want to make things awkward, so he told Wu Shuai not to wait. He called his parents and they were not willing to take him back.
+
+Wu Shuai's emotions immediately broke down. Originally, the class tutor brought the dormitory management and security over to show that if he did not listen to their advice, they would chase him away. This caused his self-esteem to suffer another devastating blow. He did not really want to stay in school, but he did not have enough courage to leave this dormitory. He did not have the courage to walk out of the school gate where the National People's Congress was held.
+
+When he heard the class tutor say that his parents were not willing to come to Beijing to take him back, the weakest point in his heart was ruthlessly stabbed again. Ever since his parents found out that he was expelled, they only called him once. On the phone, his father flew into a rage and said that he did not have a son like him who made a fool of himself. His mother, on the other hand, was crying non-stop at the side and did not say a word.
+
+Now, the news of his parents not coming to Beijing even needed to be conveyed by the class tutor.
+
+I used to be your pride. Now that I have suffered a great injustice outside, why don't you think about my current situation?
+
+Why don't you first ask me what exactly is going on?
+
+I am your only son. Even if I have embarrassed you, you can't just ignore me like this …
+
+Wu Shuai cried silently for a long time. Suddenly, he got up and said to the class tutor, "Mr. Hu, I haven't found a place to go today, and I haven't packed my things either. But don't worry, as long as you give me one more night, you can come again tomorrow morning, and I will definitely not be in school anymore."
+
+The class tutor was here to carry out the school's orders, but he also knew that Wu Shuai had taken the blame for Sun Tan and had his future sacrificed. He could not bear it, so he agreed to Wu Shuai's request after a slight hesitation.
+
+It was only one night, and he could not do anything too extreme. He had to give others some breathing room.
+
+However, he did not expect that something big would happen before the night was over.
+
+After the class tutor, dormitory manager, and security left, Wu Shuai took a fruit knife from the dormitory and hurried out of the door. After asking around a few times, he finally found Sun Tan who was eating with a few members of the student union at a restaurant outside the school.
+
+Through the glass window of the restaurant, Wu Shuai angrily discovered that the people eating with Sun Tan were actually the members of the student union who had taken the blame for Sun Tan together with him. However, he did not expect that these people did not hate Sun Tan at all. Instead, they took turns to light his cigarettes and toast him at the dining table.
+
+The feeling of being completely isolated and betrayed dispelled the last bit of hesitation in Wu Shuai's heart.
+
+Wu Shuai squatted at the door for an hour until Sun Tan and the others came out of the restaurant drunk.
+
+Wu Shuai saw Sun Tan walking closer with a few people clustered around him, so he immediately went up and blocked in front of Sun Tan.
+
+"Um, it's you, Wu Shuai. Why are you here?"
+
+Several members of the student union who had been punished with Wu Shuai but had not been expelled were a little surprised and ashamed when they saw Wu Shuai.
+
+Wu Shuai ignored them and stared at Sun Tan with his bloodshot eyes. He asked, "Sun Tan, I've worked for you for more than two years, and in the blink of an eye, you sold me out to protect yourself. Do you still have a conscience?"
+
+In Sun Tan's eyes, Wu Shuai's questioning was very much like those resentful girls who he had played with and then dumped.
+
+Although he barely escaped, he was still in a bad mood. After all, he still had a major demerit on his record. Even his uncle couldn't really protect him. Originally, his family had already paved the way for him to participate in the national examination as soon as he graduated and enter the national ministry. Now, seeing that he was about to graduate, he was given a major demerit and definitely couldn't pass the examination. His family could only ask him to study for two more years at the National People's Congress. Sun Yong could help him get a place as a tutor and stay at the National People's Congress for another two years. In these two years, he would find an opportunity to wipe out his record.
+
+Therefore, at this moment, when he saw Wu Shuai, the "traitor", Sun Tan also suppressed a ball of fire in his heart.
+
+"F * ck you, Wu Shuai. You still dare to question me?
+
+Don't think I don't know about the dirty things you've done. You registered a smurf account by the side of One Ladle Pool to clear your name and push all the blame on me. Do you think I don't know? "
+
+Wu Shuai's heart skipped a beat. While he was surprised, he instantly realized that he had long known about his little tricks.
+
+At this moment, Sun Tan, who had drunk a little, said with a face full of mockery, "To be honest, Wu Shuai, without me supporting you in school for the past two years, you're just a little tramp from another city. In these two years, I've helped you earn so much money, made you famous in school, and made so many women. Don't you know how many of them you've slept with?
+
+Even if you didn't betray me, you should take the blame for the Student Aid Gang. This is called being grateful! "
+
+As Sun Tan said that, the nameless fire in his heart was ignited. He turned his head and spat on Wu Shuai's pants. He scolded, "Why don't you f * cking take a piss and look at yourself? Without me, you're nothing!"
+
+Wu Shuai was furious. He shouted hysterically, "Without you, at least I'd still be a university student!"
+
+As he said that, Wu Shuai suddenly took out a fruit knife from his sleeve and stabbed Sun Tan's abdomen ferociously. Then, he pulled out the knife and stabbed him again.
+
+Sun Tan's body went limp in an instant. The people around him were also dumbfounded. The way Wu Shuai held the bloody knife made them feel incomparably terrified. At this time, they instinctively retreated, afraid that Wu Shuai would stab them.
+
+Wu Shuai watched Sun Tan fall to the ground. He looked at him holding his abdomen in pain, but blood was still flowing out from the gaps between his fingers. He did not panic at all. He had already made up his mind. The whole world had abandoned him, so he would use the last of his strength to let them see his dying struggle!
+
+Wu Shuai looked at Sun Tan, whose face was full of fear and pain. He suddenly swung his right hand, and the bloody fruit knife flew into the small forest beside him. Then, Wu Shuai took out his phone and called his father.
+
+On the phone, as soon as his father opened his mouth, he scolded angrily, "Why did you call me?
+
+I don't have a son like you! "
+
+Wu Shuai smiled bitterly. "Yes, I know. I'm just calling to tell you that I've found a good place for myself. You and Mom can rest assured. Just pretend that you've never given birth to me."
+
+As soon as he finished speaking, Wu Shuai hung up.
+
+Then, Wu Shuai called 120 and said that someone had been stabbed. He also gave the address. Then, he called 110 and said that he had stabbed someone and asked the police to arrest him at the National People's Congress. At the same time, he also told them his dormitory building and house number.
+
+After doing this, Wu Shuai threw his phone on the ground, turned around, and ran madly to the National People's Congress. He did not want to be arrested by the police here. He wanted to be taken away by the police in his own bed at the National People's Congress. This was his last resistance to the National People's Congress.
+
+Sun Jian happened to see Wu Shuai being taken into the police car with his own eyes. He also heard the whole story, so he called Li Mu.
+
+After listening, Li Mu asked, "He's not dead, right?"
+
+Although in Li Mu's eyes, Wu Shuai and Sun Jian were dogs biting each other, he did not want to see someone die over such a small matter. A human life was more important than heaven. Moreover, what these two people had done was far from the standard of a dead person.
+
+Sun Jian said, "I'm not sure. Anyway, he was sent to the emergency room. As for the specific situation, I guess we'll have to wait until tomorrow."
+
+Li Mu asked, "Which hospital?"

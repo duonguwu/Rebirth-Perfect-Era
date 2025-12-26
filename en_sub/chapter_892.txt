@@ -1,0 +1,107 @@
+Chapter 892
+
+Online preview was not a difficult technology. What was difficult was the creator's thought process.
+
+Why could Word, Excel, PowerPoint, and PDF be loaded on the page?
+
+Did they have to embed some specific component in the page?
+
+Of course not!
+
+The reason why users could preview online on the page was not because the page had the technology to directly open these types of files. Instead, it was because they could use a simple technology to directly convert the attachments stored in the server into page files.
+
+Would there be any technical problems when the page opened the page files?
+
+Of course not.
+
+In fact, it was a very simple thinking model based on 'cloud processing'. All the things that needed to be handled were handed over to the cloud, and the user only needed to receive the results after the cloud processing. It was very simple. But now that this model was mentioned by Li Mu, it could be said to be revolutionary.
+
+Fang Xudong was already extremely excited. He could not suppress the excitement in his heart and was almost eager to give it a try.
+
+At this moment, Li Mu said, "Other than 'Online Preview', there is a new idea for the product that I need you to realize."
+
+Everyone immediately perked up and continued with Li Mu.
+
+Thus, Li Mu cleared his throat and said, "Our group chat is a little troublesome to set up. For users, if they need to organize a few people to communicate, it would be a little too troublesome to register a new group. So, I want to develop a 'discussion group' function."
+
+"Discussion group?"
+
+Everyone was surprised. There didn't seem to be any difference between a discussion group and a discussion group.
+
+At this moment, Li Mu said, "Discussion group is the simplest YY group."
+
+As he said that, Li Mu explained in detail, "For example, I mentioned the product requirement for 'Online Preview' to you just now. In order to meet this requirement, I want to invite Fang Xudong and a few others to form a group to discuss it. However, it is too troublesome to create a group, so I directly opened Fang Xudong's dialog box and used the mouse to pull Kong Lingyu from my friends list. I only need to click on his avatar and drag it to my dialog box with Fang Xudong. Then, a group with Fang Xudong, Fang Xudong, and Fang Xudong will be automatically created. Then, the two of them can add their people related to this project. Each of them has the authority to add others, so everyone can quickly add people. Within half a minute, dozens of people related to this product development have been added to this discussion group."
+
+The idea of this product was very simple. Everyone understood it very quickly. However, someone raised a question. "Li Zong, what's the difference between this and our group?"
+
+Li Mu smiled and said, "Since it is the simplest group, we naturally have to simplify the functions. For example, the discussion group does not have a group number, so you can't join it by looking for the number. You can only be pulled in by the users in the discussion group. This ensures that the discussion group is a closed group. It is not like a group with a unique group ID that allows all users to join the group directly through their ID.
+
+"Other than that, the group cannot have group sharing or group space functions. You can only chat inside or share files online. If you want to make a video call, you can also do it. Just like the group chat, you can just deduct the time.
+
+"This is to make it easier for enterprise users to quickly start group discussions. Also, we have to set a limit for the number of people in the discussion group. It cannot exceed 20 people. If the number exceeds this limit, we have to create a group."
+
+Only then did everyone understand that Li Mu wanted to use 'group' and 'group' to complement each other.
+
+Make the group big and complete, and make the group small and refined. The group operation was slightly slower, but the group was more flexible. However, as long as a few key people were pulled in, they could immediately start a group discussion. This function was really awesome, especially in the business field. It was really useful.
+
+For example, if a company's internal project team wanted to discuss a certain project alone, they could directly pull in a group and solve it instantly. If a company wanted to cooperate with another company, the person in charge could directly create a discussion group and pull in the technology of both parties. They could communicate and connect needs, and then directly enter the implementation process …
+
+In short, because it was extremely easy and fast to create a discussion group, it was like a square or a strip in Tetris. It was extremely easy to combine with other shapes.
+
+After stating his two major requirements, Li Mu said to Fang Xudong, "Old Fang, arrange for the technical team to develop these two functions. Prioritize the 'Online Preview'. After these two functions are developed, we will launch them one after another. We must give the elites in the overseas market a feeling of being awesome and overwhelmed. We will make them more and more surprised by YY and become more and more loyal. At the same time, we will make those companies that intend to imitate us feel more and more desperate."
+
+Fang Xudong immediately stood up and said solemnly, "Li Zong, don't worry. I will do my best!"
+
+Li Mu nodded and said, "At this stage, the path of imitators is actually not easy, especially in terms of product development. Whether it is Microsoft or other top tier companies, if they want to catch up with our products, they have to try and push forward bit by bit."
+
+"If they are trying to imitate us and develop the group chat function, we don't have to panic or be afraid. We have so many product functions, and group chat is just one of them. Maybe they just finished imitating the group chat function, and before they can go online, our [Online Preview] function will come out and widen the gap again. Just when they want to imitate our streaming media transmission technology, our [Discussion Group] will come out and widen the gap even further. They will realize that they will never catch up to us. In this way, when they are tired of chasing, they will naturally give up."
+
+Kong Lingyu smiled and said, "Everyone, some of you just joined Makino Technology recently, so you might not know much about the chase between Teng Xun and Makino Technology. At that time, we kept developing new versions based on 'Happy Farm', and we always had at least one or two new versions in our hands. In this case, Teng Xun used his' QQ Fishery 'to catch up with us, but when he finally caught up, we immediately released a new version. We tried again, and again, and again. After a few times, Teng Xun's entire technical team lost confidence, and Teng Xun's technical strength was also dragged down. In the end, when our YY was released, Teng Xun's technical strength was greatly reduced, and he could not catch up even if he wanted to."
+
+Speaking of this, Kong Lingyu continued, "So, I have always felt that Teng Xun was not killed by us, but dragged to death by us. We used a small force to drag their main force out of the city, and let them chase us for a few days and nights until they were tired. At this time, our main force launched an attack on their main city, and their main force could not make it back in time. Even if they made it back, they would not be able to fight back."
+
+Li Mu laughed and said loudly, "That's right!
+
+We have to be the ones who set the pace. Whoever wants to chase us, we will drag them to death! "
+
+Everyone laughed knowingly. Among them, there were colleagues who had gone through this stage, and there were also colleagues who had heard of it but did not have the energy to go through it. Everyone looked at this matter differently. The former reminisced about the glorious days of the past, and their hearts were filled with excitement; the latter heard the stories of their predecessors fighting bravely against the enemy, and their hearts were filled with emotions.
+
+Li Mu had already said the two core points that he wanted to say, so he prepared to boost everyone's morale. He said to everyone, "Everyone, we have the right time, the right place, and the right people. The domestic market is developing rapidly, and the overseas market is also like a pie that fell from the sky. We have achieved such a good start without investing a single cent. The more this is the case, the more cautious and diligent everyone will be."
+
+"YY has become an indispensable tool for the American elite with its excellent office experience. I've said before that we want to be the users' 'mattress', not the users' 'TV'. However, please don't misunderstand what I mean. Not making a 'TV' doesn't mean that we will stop innovating in the professional field. Absolutely not!
+
+We're not making a 'TV' because we want to give users more 'mattress' functions to make them rely on us like a mattress. We're definitely not just thinking about making a mattress and giving up on innovating and improving ourselves. "
+
+As he said that, Li Mu continued, "How to increase YY's' mattress' experience for American users, we'll leave that to Paradise Town first. Other than that, I have another game concept that's similar to Paradise Town. I'll take some time to communicate with our game development department and get them to release the other game as well. This way, the two games will attract users' connections, and it will be sufficient preparation for us to become a 'mattress' product. When the time comes, we'll directly transfer the users' connections that the two games have accumulated to YY, and YY will be complete. It will be complete in America, and even the world, and no one will be able to stop us."
+
+"But!"
+
+Li Mu's tone suddenly changed, and he said in an extremely serious tone, "Each of our departments must do their best to do their job well. Our future goal is to make YY a 'mattress' product, and at the same time, a 'TV' product. It'll be best if we can also make it a 'toilet bowl' product at the same time. That way, as long as the users go online, they can't do anything without us. Only then can we achieve great success!
+
+"When that time comes, we'll have hundreds of millions or even billions of deep users all over the world. Whatever we promote will be popular, and whatever we do will be successful. When that time comes, we can invest in all kinds of R&D centers, and invest in dozens or even hundreds of software and hardware projects every year. Then, we'll use them to expand our system. When that time comes, will it be difficult for us to become one of the top five Internet companies in the world?
+
+I don't think it's difficult at all!
+
+What do you guys think? "
+
+As soon as Li Mu finished speaking, the conference room was sluggish for about a second. Then, there was a deafening roar in the conference room. Everyone shouted in unison, "It's not difficult!"
+
+Li Mu nodded. His heart was filled with excitement, and he said loudly in high spirits, "I hope that in the future, on the platform of Makino Technology, everyone can embody higher self-worth, obtain higher material returns, and create greater industry miracles!
+
+Use practical actions to tell everyone that you!
+
+Are the most awesome!
+
+We!
+
+Are the most awesome!!! "
+
+In an instant, thunderous applause rang out!
+
+Everyone's blood was boiling as they listened!
+
+They sighed in their hearts. This was the f * cking advantage of having an awesome boss!
+
+Not only would it give you more money and allow you to develop better, but it would also allow you to have a higher perspective, more professional vision, and more skills!
+
+The awesome boss spoke for half an hour in the conference room, and there was so much that it almost choked people to death!

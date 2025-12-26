@@ -1,0 +1,115 @@
+Chapter 391
+
+Fang Xudong's guess was right, and Li Mu did not deny it.
+
+He said that he was indeed developing an instant messaging software and was preparing to lay out a layout on social media, but he did not reveal too much. It was not that he did not trust Fang Xudong, but he felt that it was unnecessary.
+
+Fang Xudong was a master in the field of technology. He did not need to waste his energy on a product that was almost fully developed. What he needed was to help Li Mu structure other products, or wait for the day when YY had to support tens of millions of users for voice, video, and file transfer. Then, he could come up with a solution.
+
+Right now, there were two areas that needed Fang Xudong's help. One was Miracle Mu, which was his next source of cash. The other was Taobao.
+
+Taobao needed strong technical support. On one hand, it had to provide a solution for a large number of users, and on the other hand, it had to provide a perfect and safe trading environment. In addition, there was another very important point: algorithm.
+
+Taobao's algorithm was a very deep field of knowledge. It was similar to Google's research on the ranking algorithm of web pages. It was to recommend the most suitable, most attractive, and most likely to convert users. It would enhance the user's experience, stickiness, and increase the overall conversion rate of the platform.
+
+This kind of algorithm was not just a simple recommendation weight and ranking weight formula. More importantly, it had to be based on the user's behavior and habits to create an accurate user portrait.
+
+"User portrait" was still a foreign term to the current Internet industry. Even Fang Xudong had not studied it systematically.
+
+When he asked Li Mu about the foundation of user portrait, Li Mu said, "If we do Taobao in the future, then we can know the user's geographical location through the user's login IP. Don't underestimate this function. First, it can help us determine the user's location. We can use the user's location to determine the economic development, average salary, and approximate purchasing power of the user."
+
+Fang Xudong nodded. Although he had never been in e-commerce, it was easy to understand what Li Mu said.
+
+Li Mu said, "Secondly, we have to record the content of every user's search to analyze their interests."
+
+Fang Xudong said, "Understood. It's like cookies."
+
+Li Mu smiled and said, "It's the cookies that we record ourselves. According to their interests, we have to come up with a logical algorithm for the user's portrait. For example, if the user searches and buys mostly male products, we can identify them as male. If they buy mostly female products, we can identify them as female. Although this can't be 100% accurate, at least it can fit most of the situations. In this case, we can recommend products related to women to the user that we identify as female. However, knowing the user's gender isn't enough. We also have to infer their age based on what they like and what they are interested in. If they like fashion brands, then they shouldn't be older than thirty. If they like fashion clothes and also read books and stationery, then we can identify them as a student. With the popularity of the internet, eighty percent of students who can shop online are university students. Then, we can temporarily classify this user as a female university student. This way, we can recommend products that female university students are more interested in."
+
+As he spoke, Li Mu pointed at Lin Ching-ah, who was beside him, and said, "Let's say there's a female user whose login IP address is Beijing, and her delivery address is within the Third Ring Road of Beijing. Her username is Lin Ching-ah, then we already have her basic information. However, this is far from enough. We still have to infer her age based on the types of fashion, cosmetics, and skincare products she likes. We can also infer her monthly income based on the price of the products she pays attention to and the amount of money she spends on the platform per unit of time. If her monthly salary is more than ten thousand yuan, then she is a female senior white-collar worker. This way, we can refine our judgment of her age and raise her minimum age to around twenty-five. We can then analyze her purchase records and find out that the products she buys are more expensive than the ones in the same category. Then, we can basically infer this person's portrait."
+
+Fang Xudong was pleasantly surprised as he said, "In this case, the information we have is: Lin Ching-ah is around twenty-five years old, lives within the Third Ring Road of Beijing, has a monthly salary of over ten thousand yuan, likes to buy high-quality products, and likes clothes and cosmetics. This is already very detailed …"
+
+Li Mu smiled and said, "That's not enough. For example, if she occasionally pays attention to male products of the same age group, then we can infer that she might not be single. If she pays attention to products for pregnant women, then we can infer that she is married and preparing to get pregnant. If she pays attention to baby products, then she might be pregnant or already have a child. The more accurate the user portrait we have, the more accurately we can recommend products that are suitable for them. This way, they will realize that we understand them better than other similar websites, and that we can cater to their preferences better. This way, we can always be ahead of our competitors."
+
+Fang Xudong looked at Li Mu in amazement, and was not stingy with his praise. He said, "The concept of user portrait is really too useful. Your understanding of the Internet really puts me to shame. There are many aspects that I have never thought about or even heard of. If we can be ahead of others in researching the user portrait algorithm, then everything we do will be like a tiger with wings."
+
+Li Mu nodded. "Algorithms are the soul, the core, the thinking, something that others can't see. It's more like a secret weapon that kills people without a trace. If it's done well, it will be successful in the Internet field."
+
+Fang Xudong immediately said excitedly, "In this case, let me be in charge of the research and development of this set of algorithms. You can also hand over the backend support of Taobao to me. I will design a set of highly effective solutions for it."
+
+"No problem." Li Mu smiled and extended his hand. "Welcome to the team."
+
+Fang Xudong extended his right hand and shook Li Mu's hand tightly. His desire to pursue the extreme had long been stirred.
+
+Li Mu promised Fang Xudong a basic annual salary of 800,000 yuan, plus a 1% option on Makino Technology. The year-end bonus and project bonus would be calculated separately. Although the income was slightly lower than what he earned at Google, considering the consumption level difference between Beijing and Silicon Valley, the salary difference was basically negligible. The most important thing was the 1% option on Makino Technology. According to the current market value, 1% was worth at least 10 million yuan. Of course, Li Mu also had his own option restrictions. He would gradually cash out within three years, and if he left within three years, the remaining options would be automatically forfeited.
+
+The generous remuneration, coupled with the brand new worldview that Li Mu outlined for him, made him full of expectations for the future. For people who were obsessed with technology, money was secondary, and the pursuit of greatness was the first. In Google, Fang Xudong was still unable to lead any of the projects, but with Li Mu, not only would Li Mu provide him with almost everything, but he would also provide him with ideas, all of which were the kind of amazing ideas that made Fang Xudong's heart beat faster.
+
+After dinner, Fang Xudong said that he might need one to two months to deal with the current situation. After returning to America, he would submit his resignation letter to the company, and then clearly hand over the work. After sorting out the labor relations, he could return to China. At that time, he would directly fly to Beijing and report to Makino Technology.
+
+After dinner, Li Mu was in a great mood. The most lacking thing in the Internet industry was a technical expert. Now, he finally had the first one. With the first one, there would be the second and the third one. Then, he would be able to support an even larger Internet product and create a strong Internet empire.
+
+After Fang Xudong left, Li Mu said to Lin Ching-ah, "Qingya, you contributed a lot to today's matter."
+
+Lin Ching-ah asked Li Mu, "Is this Fang Xudong really that amazing?"
+
+Li Mu nodded. "In terms of technology, there's nothing to say. He's very amazing."
+
+Lin Ching-ah smiled and said, "That's good. In the future, I'll try to find a few more amazing people like him to join our company."
+
+Li Mu clapped his hands and said, "In the future, you'll be Makino Technology's CHO, the chief human resources officer."
+
+Lin Ching-ah said, "Whatever you say, I'll definitely do it."
+
+The two of them walked to the asphalt road outside the restaurant. Li Mu asked, "Where do you live?
+
+I'll send you back. "
+
+Lin Ching-ah said, "I'm taking the train back to Beijing tonight. I have to go back to the company tomorrow."
+
+Li Mu asked, "Don't you officially start work the day after tomorrow?"
+
+Lin Ching-ah smiled and said, "I'll go back with a few girls from the human resources department a day earlier to prepare for everyone's return to work."
+
+Li Mu nodded and said, "It's popular in the south to give employees a starting bonus on the first day of work after the New Year. I can't go back so early. Can you talk to the finance department and tell them to give each employee a red packet of 800 yuan on my behalf the day after tomorrow? Think of it as the starting bonus after the first New Year of our company."
+
+Lin Ching-ah said, "It's good to have a boss like you. You've changed the way you give your employees all kinds of benefits."
+
+Li Mu said, "Appropriate sharing of profits is one of the most important qualities a qualified boss should have. People who eat all the profits alone will never be able to monopolize everything. In the future, when the industry becomes popular, you'll find that countless bosses who eat all the profits alone have their teams stolen by others overnight."
+
+Lin Ching-ah nodded and said, "I understand what you're saying."
+
+Li Mu said as he walked, "Let me tell you a real story. I also heard it from a friend who is a little older than me."
+
+Lin Ching-ah followed beside Li Mu and said, "Please go ahead."
+
+Li Mu waved his hand and said, "You're older than me, so you don't have to be so polite with me. It's not the first day we've met. Back to the topic just now, an old employee of the company asked the company to raise his salary from 8,000 to 10000. The company refused, so the old employee left. After he left, the human resources department found a person with a monthly salary of 15000 to replace him. But sadly, they found that this person with a monthly salary of 15000 was much worse than the old employee. In the end, when they found a suitable candidate who was similar to the old employee, the salary offered to him was already more than 20000."
+
+Lin Ching-ah pursed her lips and said, "This kind of thing is common. The main reason is that the company's own salary adjustment mechanism is not reasonable enough. The old employee's salary can't go up, but when they recruit new employees from outside, they have to quote the price according to the latest market conditions, so it often results in the new employee's salary being higher than the old employee's."
+
+Li Mu smiled and said, "Actually, it's not that the salary adjustment mechanism is unreasonable. The fundamental problem is that the company's management is overconfident. They think that the older the employee is, the less likely he will leave easily. They think that the inertia and familiarity brought by the company can replace part of the labor remuneration. This is an extremely stupid way of thinking. What they don't know is that once the team is in turmoil, the company's losses will be immeasurable. So you must fight for a reasonable salary for the company's employees and a reasonable salary increase model. I don't want our company to be a company run by a foreign monk, and I don't want our company to be passively changed every once in a while. What I want is stability. Only we can eliminate the unqualified employees, and there will never be a qualified employee who will eliminate us."
+
+Lin Ching-ah nodded solemnly. "Don't worry, Li Zong. I will definitely keep it in mind."
+
+Li Mu smiled slightly. "What time is the train? I will send you to the station."
+
+"12 o 'clock. You don't need to send me. Go back to your room and rest early. I will sit for a while and go to the station at 11 o' clock."
+
+Li Mu looked at the time. It was just a little over 9 o 'clock.
+
+Seeing that she was empty-handed, Li Mu asked, "Where is your luggage?"
+
+Lin Ching-ah said, "I left it at the hotel's front desk."
+
+Li Mu waved his hand without saying anything. "Go to my room and rest for a while. I will send you to the station at 11 o 'clock."
+
+Lin Ching-ah's heart instantly tensed up. Just when she wanted to refuse, she saw that Li Mu's face was sincere. It didn't seem that he was being polite to her. Her heart immediately felt like a panicked deer had rushed into it. It hit her chest and made her feel a little pain.
+
+For Li Mu, Lin Ching-ah was full of worship and admiration. Although she was the senior sister of Li Mu and was several years older than Li Mu, it did not prevent her from having a trace of affection for the young boss next to her. In her opinion, Li Mu was so outstanding that even if she were to choose a man in his thirties, she would not be able to find a man as outstanding as Li Mu.
+
+Not only was he outstanding, but this boss was also so handsome that people couldn't take their eyes off him. Most importantly, he was considerate of his employees and women. Last time, she was tortured by her family's affairs and stupidly went to ask him if she could cash out the shares after signing a three-year option agreement. In the end, not only was he not angry, but he also helped her solve the immediate difficulties. Therefore, whenever Lin Ching-ah looked at him, she always felt that this man was perfect and impeccable.
+
+If there was anything to pick on, it would be the fact that he was too young.
+
+Lin Ching-ah was six or seven years older than him. Although she was also in her youth, she felt extremely inferior because of the problem of age. She always had a kind of melancholy feeling that she was already old.

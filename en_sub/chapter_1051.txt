@@ -1,0 +1,101 @@
+Chapter 1051
+
+The Microsoft MSN team never dreamed that Makino Technology would not strike while the iron was hot and quickly direct the traffic of "Paradise Town" to YY. Instead, they would madly make a major update for YY!
+
+The YY official announced 24 hours in advance that the YY2002-V3.0 version would be released in the early hours of the next day. Before that, the YY version number was YY2002-V2.3. This time, it jumped directly from v2.3 to v3.0, not v2.4. The industry insiders could see at a glance that this was a direct upgrade to a new version, not a general small-scale update.
+
+There was basically a common way to name software versions in the industry. If there was the word "beat" in the version number, it meant that this version of the software was a public beta version, not an official version.
+
+If there was the letter "v" in the version number, it was the abbreviation of the word version, representing the version number of the software in the company.
+
+After the letter "v", there were generally two numbers and a punctuation mark. If it was 2.0, it proved that this software was the original version of the second version. If the next new version only made small updates and changes on the original version, but the overall framework did not change much, then it would be labeled as 2.1, proving that this was the first revision of the second version. 2.2 meant that this was the second revision of the second version.
+
+The previous YY2002 was updated to v2.3. This was because after the last major update, the technical department had made three revisions and minor adjustments to the product. Some were to improve the user experience, and some were to fix bugs. In short, there were no major changes.
+
+Once the product underwent a major change, the version number would directly jump forward by a number. This meant that the software would undergo a cross-generation upgrade and directly enter a new era.
+
+Therefore, after v2.3, there was no more v2.4, and it was directly labeled as v3.0.
+
+It was precisely because of the industry's default rules that when a well-known Internet company carried out a cross-generation upgrade of a product, the industry peers would pay special attention to it. The most obvious example was Apple's IOS.
+
+Every cross-generation upgrade of IOS was the object of the whole network's attention. Even Apple would not release it rashly, but would grandly launch it at the Apple Developer's Conference.
+
+Upgrading from IOS 9 to IOS 10 was a major event for the entire industry, but if IOS 10.1 was upgraded to IOS 10.2, it naturally wouldn't have such a major impact on the industry.
+
+Therefore, when Makino Technology announced the upcoming launch of YY2002-V3.0, the attention of the entire Internet industry was attracted to Makino Technology.
+
+Not only Microsoft, but the entire industry thinks that Makino Technology is crazy.
+
+Such frequent major upgrades to the product was a taboo in the industry in many ways.
+
+First, before the arrival of the mobile Internet era, all Internet companies that focused on product development followed a principle: the bigger the product and the more users the product, the less frequent major updates.
+
+The size of the product referred to the amount of work and the overall cost of development. A plug-in with a size of less than 1MB was naturally a small product, while an operating system was naturally a large product.
+
+For small products, continuous improvements and updates were their trump cards. But for large products, it was fine to polish their sword for a few years. Just like Microsoft's USB operating system, it would only be updated once every few years, and the rest of the time was used to find ways to maintain the stability and security of the existing products.
+
+It was the same for products with many users. If there were too many users, it would affect the entire industry. Major updates must be done carefully. First, they must leave enough time for users to familiarize themselves with the previous generation of products. Secondly, they must ensure that users can quickly get used to the new generation of products. Otherwise, a hasty update may cause millions or even tens of millions of users to be lost, or tens of millions of user friendliness plummeted.
+
+Second, for the current industry professionals, major updates often meant new breakthroughs in the product's functionality, and the product's functionality itself was the key to the success of a product. Other than the small and medium-sized companies that were trying to catch up, the large companies with sufficient status and weight in the industry must ensure their technological reserves. As long as they were not directly threatened, they should focus on technological innovation and accumulation. If they kept stepping on the gas pedal while they were in the lead, they would not be able to widen the gap in the Internet industry. Instead, they would expose too much, and the gap would be narrowed by other companies.
+
+However, these two points were bullsh * t to Li Mu.
+
+The reason why he could dominate the Internet market in 2002 was because he was using the Internet thinking of 2016.
+
+Product updates must be fast enough, even if he was in the lead. No matter how his competitors tried to catch up, what he needed to do was to increase the user's loyalty through continuous updates. When the user's loyalty reached a certain level, no matter how strong his competitors were, they would not be afraid.
+
+The 1.0 beta version of Zhang Xiaolong's WeChat was released in January 2011. On the 1st of October of the same year, WeChat released version 3.0. Each version represented a major breakthrough.
+
+The 1.0 beta version of WeChat could only send text messages and pictures.
+
+Four months later, the 2.0 version of WeChat that supported "voice messages" was released.
+
+Another two months later, the 2.5 version of WeChat that supported "checking nearby people" was released.
+
+Another two months later, the 3.0 version of WeChat that supported "Shake Shake" was released.
+
+In the past ten months, WeChat, backed by Teng Xun, had a huge amount of traffic and resources. Not only did it not enjoy easy success, but it also released big moves like a madman. Its fundamental purpose was to quickly cultivate user loyalty and make every WeChat user a die-hard fan.
+
+And now, Li Mu's goal was the same.
+
+…
+
+The preview of the new version of YY's update did not cause too much waves in Hua Xia.
+
+This was because in the domestic market, whether it was the industry or the users, they had already regarded YY as the strongest product in the country. It was also the only product that was above the altar. No matter how a god-tier product was updated, to the industry and users, the Supreme God would always be the Supreme God. Other than admiration, there was nothing else. Therefore, everyone was quietly looking forward to the Supreme God's one-man show.
+
+But in the overseas market, the practitioners and elite groups in the Western Internet industry were paying close attention to the update of YY.
+
+The Internet industry in the developed Western countries still did not feel that YY was above the altar. At most, they recognized YY as a first-tier Internet company. However, once a first-tier company began to show signs of becoming a god, it was like the golden age of tribulation described in the Cultivation of Immortals novels. The whole industry would pay close attention.
+
+Microsoft paid attention to YY because they had just made a plan to update MSN as soon as possible. But the software had not been packaged yet, and Li Mu's YY was about to launch a major update. This made the MSN team desperate to the end.
+
+Originally, YY had posed a great threat to them, and it was possible to launch a devastating blow to MSN at any time. However, just before the opponent's soldiers gathered, they thought that the opponent would immediately launch a fierce attack. However, the opponent did not move forward as expected, but continued to gather more troops. This formation made people feel even more desperate in despair.
+
+In addition to Microsoft, other companies were also paying close attention to YY's every move. Everyone could see that "Paradise Town" had done a good job for YY, and YY was now striving for perfection at a critical moment to carry out a major update. This meant that YY had now entered the final stage before a gorgeous turnaround.
+
+If this turnaround was done perfectly, then YY was likely to become the largest network product in the United States and even the world's Internet market. Therefore, whether YY would become a god or not depended on its next move.
+
+Western and Internet-related media had also been speculating recently about what kind of new experience Makino Technology would bring to the new version of YY.
+
+Li Mu's die-hard fan, the editor-in-chief of Silicon-Valley-Magazine, expressed strong expectations for the YY 3.0 version on his blog. He said, "Every major update of YY has refreshed my understanding of Makino Technology's craftsmanship in creating products. This time, Makino Technology did not take advantage of the popularity of" Paradise Town "to quickly divert the flow from" Paradise Town "to YY as the entire Silicon Valley expected. This also means that Li Mu's understanding of the Internet has surpassed the entire Silicon Valley, because only the smartest people and the stupidest people will make decisions that the entire Silicon Valley can't understand. Li Mu is obviously not the latter!"
+
+The admiration for YY, Makino Technology, and even Li Mu made many American netizens quite dissatisfied. They left personal attacks on his blog.
+
+Someone said, "Did Li Mu just make an instant messaging software?
+
+You're praising him to the heavens. Why have I never seen you praise Bill Gates like this before? "
+
+Not to be outdone, someone responded, "Bill Gates is great, but I don't think he really understands products. A good product manager must not only design a product that moves your heart, but also make the product design reach your heart and even surpass all your fantasies about the product itself. Regarding this, only YY can give me this feeling in the world. Bill Gates, even in the entire Microsoft, no one can give me this feeling!
+
+Not even half!
+
+Look at MSN, it's like the entire Milky Way compared to YY! "
+
+Someone said, "No matter how powerful YY is, it's just an Internet product developed by Hua Xia Company. It doesn't have the DNA of the American market, so it won't last long in the minds of the American people."
+
+Someone replied, "Don't forget, ICQ is not an American product, but an Israeli product!"
+
+Someone else said, "No matter how powerful YY is, it's just an auxiliary tool. What's so great about it?
+
+It will never reach the height of MSN! "

@@ -1,0 +1,89 @@
+Chapter 188
+
+That night, Li Mu and Li Yawei circled around the National People's Congress. They searched all the internet cafes but could not find a computer. Every internet café was full, and there were many people queuing up for the night at 10 am.
+
+In the end, the two of them found a small internet cafe with more than ten old machines in a small alley two kilometers away from the city center. In the dirty and messy environment, they forced themselves to play until one in the morning.
+
+Li Mu wanted to see how popular Legend of Mir was. More than half of the internet cafes were playing this game, and the number of players in the same server and server was also very high. Li Mu had created a beginner account, and it took him a long time to kill a chicken or a deer near the beginner's village. There were too many players, and the speed at which chickens and deer respawned could not keep up with the speed at which the beginner's village was wiped out.
+
+Li Yawei's level was slightly higher, and she had been mining in the Zombie Cave since she had nothing to do. There were also a lot of people mining in the Zombie Cave. Sometimes, the Zombie Cave was filled with people mining.
+
+Other than the Safe Zone, PvP was everywhere in the game. There were small-scale group battles, where some people fought for resources and equipment, and some people fought just for the sake of PvP. Basically, they would attack anyone they saw. That was because PvP in Hot-blooded Legend was too simple and direct. If they didn't like someone, they could just go up and f * ck them. From the perspective of people's primitive impulses, the setting of this game was quite satisfying.
+
+Li Mu was killed by a player who was one level higher than him with an ebony sword when he tried to snatch a deer. After he revived, he was killed by another Magician with a fireball. However, he was not angry. He wanted to experience the original Hot-blooded Legend of Mir from a programmer's point of view. At the same time, he also wanted to research on cheats.
+
+PKs will not be legal for the next two to three years. A conservative estimate is that there will be at least two years of legal life. Moreover, cheats are used to make quick money in the short term, and Feng Yu has to do something about it. However, Li Mu is more cautious. Not only does he have 3321, but he also has Makino Technology. He cannot do anything about the cheats, and will leave it to Zhao Kang.
+
+If Zhao Kang were to do it, Li Mu would not let him bear the legal risk. He still remembered the timing of the penalty for cheating. As long as he stopped before the official implementation of the Notice on Launching the Special Campaign against "Private Servers" and "Cheating" on January 1st, 2004, there would basically be no risk. Moreover, Li Mu did not plan to keep cheating until then. If it was fast, it would take one year, or if it was slow, it would take two years. Even if all the cheating income in the whole country was given to him, he would not care about it.
+
+Although Li Mu only had a million or so in his pocket, he absolutely had the confidence to do so.
+
+Li Yawei saw Li Mu being killed in the wild, and she could not help but say, "Mu Ge, come to the mine and look for me. I won't mine anymore, I'll form a team and fight zombies with you."
+
+Li Mu laughed and said, "You should dig your mines first. I'll just play and familiarize myself with the game."
+
+It was one o 'clock in the morning. If Li Mu did not have to leave, Li Yawei, who was addicted to the game, would have stayed up all night.
+
+On the way back to school, Li Yawei was still exclaiming excitedly, "This game is so cool!
+
+Unfortunately, I found out too late. Many of the high-level players in the server came in as soon as the server opened. Have you seen the equipment of the high-level warriors?
+
+The Ares Armor is awesome, and there's that Purgatory. Oh my god, when will I be able to have that kind of life? "
+
+Li Mu recalled that when he played the Legend of Mir as a freshman in his previous life, his mentality was similar to Li Yawei's. Every day, he kept thinking about when he could level up again, when he could get a new piece of equipment, and learn a new skill. Moreover, the appeal of the Legend of Mir was universal in this era.
+
+Back in the dormitory, Li Yawei was thinking about Legend of Mir at night. Li Mu, who was sleeping below him, was the same.
+
+Li Mu felt that it was time to start developing a commercial version of the Legend of Mir plug-in.
+
+The next morning, Li Mu arranged to meet Zhao Kang at Yucheng Garden. He told Zhao Kang about developing a plug-in for the Legend of Mir.
+
+When Zhao Kang heard that Li Mu was about to start, he said excitedly, "I've been following the Legend of Mir recently. It's too popular. Almost all the guys in our class have an account, and more than half of us play it every day. Also, every player is using Legend of Mir 1.0. Although the Legend of Mir is not charging for the game yet, I feel that a plug-in with such powerful functions should be able to charge for the game."
+
+Li Mu nodded and said, "I should hurry up and develop a commercial plug-in before the other plug-in studios make their moves."
+
+Zhao Kang immediately said, "Once you develop the plug-in, just let me know if you need anything. You told me about the plug-in before, and I still remember the analogy of selling pills in the disco. This thing will be illegal sooner or later, right?"
+
+Li Mu smiled and said, "It might be written into the law in the future, but not now. But it's still not something to be proud of."
+
+Zhao Kang said, "I'll do it. You are so famous now, and you can't be involved in any negative news."
+
+Li Mu said, "It's better to be more cautious. Don't do it directly, especially when it comes to money. Don't use your real name to receive the money. Get your team to look for distributors in the internet cafes, and withdraw the money as soon as you receive it. This will last until the first half of 2003. From the second half of 2003 onwards, we will never touch the plug-in business again."
+
+Li Mu was absolutely sure that he would not be involved in the law if he stopped half a year before the relevant laws and regulations were promulgated by the state. The reason why he wanted to be more cautious was that he did not want others to use this matter to disgust him in the future. As long as he did this well, he would still eat the big fat piece of plug-in.
+
+Zhao Kang did not understand why Li Mu would set the plug-in business in the first half of 2003, but he did not ask in detail. He had been working under Li Mu ever since the college entrance examination, so he had absolute trust in Li Mu.
+
+Li Mu said, "I've started developing it recently, and I'll try to get it online before the end of the month. But this time, we will be doing the plug-in sales ourselves, so we must have our own verification server."
+
+Zhao Kang asked, "How does the process work?
+
+The last time we sold the plug-in, we sold it to those two guys in Yanjing in one go. I'm not too sure about the logic and process when it comes to charging a monthly fee. "
+
+Li Mu laughed and said, "The logic is nothing more than the activation code. After the plug-in is developed, its function is locked by a set of verification procedures. This is an essential part of the commercial plug-in. Otherwise, if you only sell the installation package, you will be a fool. Because if others take your installation package, they can also sell it to others. So, no one with brains will do this." Li Mu laughed and said, "The logic is nothing more than the activation code.
+
+However, when it comes to verification logic, the most appropriate way is to build a dedicated verification server. Then, I will design a set of activation code generation logic that will randomly generate a large number of long and complicated activation codes in batches. Then, I will hand the activation codes to the dealer, and they will sell them to the user. The user will open our plug-in, register a fixed account, and then enter the activation code to activate and use the plug-in. Each activation code can be activated for a month, and when it expires, it will automatically shut down until the user buys another activation code to activate it. "
+
+Zhao Kang thought for a while and understood the logic behind it. He asked Li Mu, "Will the users try to crack our activation code?"
+
+Li Mu smiled and said, "As long as it's an online program, it can't avoid being cracked. The most direct way to crack a password is the exhaustive method. No matter how long and complicated your password is, it's just a combination of letters and numbers. If you try it one by one, you'll definitely be able to crack it. It's just a matter of time. If I imitate the methods of a big company like Microsoft and use twenty letters and numbers to encrypt it, then the number of combinations is estimated to be more than a billion. But I'll only be able to sell a few million activation codes. If you count a few million activation codes out of a billion times, the probability is so low that it can be considered zero."
+
+As he said that, Li Mu smiled again and explained, "This exhaustive method is actually very easy to guard against. If you don't set a limit for it, a normal home computer can repeatedly test tens of thousands of combinations in a second. But if you slightly limit it, for example, after a failed verification, you are not allowed to submit again within a minute. Then the other party will immediately shut up. The only possibility left is that it was cracked by a hacker. But this is basically impossible. A hacker with such strength would not be interested in something like a plug-in."
+
+Zhao Kang nodded lightly and sighed, "You really know a lot. I also understand the general idea. Anyway, when the time comes, we will only sell this kind of virtual activation code to the dealer and then record how many they have sold, right?"
+
+"That's right. It's very simple. Take some time these two days to find a server hosting company. Nowadays, server hosting doesn't require a real name system. Try to find the server room with the most lax management."
+
+“OK！”
+
+Li Mu said, "This time, the net income from operating this legendary plug-in, you will get 30% and I will get 70%."
+
+Zhao Kang blurted out, "Let's do the same as last time. There's a limit to what I can do."
+
+Li Mu waved his hand. "This time, I will be responsible for all the development, subsequent version updates, and other behind-the-scenes work. The distribution of the plug-in and the collection of payments will mainly depend on you, so this ratio is set. Don't complain that it's too little, and don't complain that it's too much. Even if we are blood brothers, when it comes to matters related to money, we still have to settle the accounts clearly. This is the only way we can go on together for a long time. Also, if you want to choose people to help you, you must be careful when choosing them."
+
+Zhao Kang hesitated for a moment, then nodded lightly.
+
+Li Mu remembered about Douban and said, "By the way, at noon on Monday, let's go to Makino Technology. The contract template is ready, and we will sign it on Monday. Douban will officially be wholly owned by Makino Technology, and you will use Douban to exchange 500,000 yuan in cash and 5% of the shares from Makino.
+
+But brother, I have to make this clear first. Other than the shares that Baidu and Song Liang bought in cash, the other options I gave out and the shares in Douban will be held by me personally. There will be certain restrictions on cashing out. As for the reason why I'm holding the shares, it's mainly because there will be many rounds of financing in the future, and each financing will dilute the shares, so I have to ensure that I have the right to speak. But don't worry, during the financing, everyone will be diluted equally. "

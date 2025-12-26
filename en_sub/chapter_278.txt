@@ -1,0 +1,121 @@
+Chapter 278
+
+The Q Bar department had just been established in Teng Xun not long ago. They had set up a new team in the company in the form of a department because they thought highly of the business of this sector. However, the members of this new team were all transferred from other departments, so they had limited manpower. The funding plan for the subsequent development of the Q Bar would only be finalized in the new fiscal year in January. Thus, the lack of manpower became a shortcoming at the moment.
+
+Q Bar only had slightly more than ten people in charge of products and technology, as well as some editors in charge of basic operations. Usually, from the project manager to the ordinary editors, everyone was responsible for copying Tieba's content. This kind of thing could have been done by hiring part-time workers online, but the project manager of Q Bar was worried that the part-time workers could not be controlled. If the news of Q Bar hiring online editors to steal content got out, this kind of subjective behavior that intentionally harmed the interests of other companies would have a huge impact on the company's image. Especially when the Internet Conference was about to be held, if the big leaders were to be ridiculed by industry insiders because of this matter, it would not be worth it.
+
+Although the efficiency of working with more than ten people was slow, it was fortunate that it was almost the end of the year. Once the new fiscal year arrived, Q Bar would definitely be able to obtain the amount invested in 2002. With the company's emphasis on this business, Q Bar would definitely have enough funds to expand its team and scale in 2002. By then, it would be a complete change, and its development speed would definitely increase by several levels.
+
+The main task of these people was simple. They would first go to the most popular forums and copy the most popular content. For example, there was an awesome user in the Legend of Mir's forum called "Legend of Mir Zai". He wrote an article called "Hot-blooded Legend of Mir's Exclusive Guide", which was very popular in the Legend of Mir's forum. His post was updated from time to time, and within half a month, it had become the number one post on the Legend of Mir's forum. More than 100,000 users had liked it, and tens of thousands of users had replied to it. Many of the content in the post was regarded as a textbook by the Legend of Mir players.
+
+Of course, Q Bar wouldn't let it go. Soon, it copied all the comments of "Legend Zai Zai" in the post to the Q Bar's Legend Bar.
+
+Similar hot articles, Q Bar copied thousands of posts, and Tieba users began to gather in the Tieba family.
+
+The Q Bar continued to copy the contents of the forum.
+
+An employee from the Q Bar team who was working overtime was copying highly clicked content in the Legend of Mir forum. He accidentally found a post and clicked on it. It was a post from a user of the Legend of Mir forum denouncing the practices of the Q Bar.
+
+He didn't expect a single post to attract tens of thousands of people's attention. When he clicked on it, he found that the comments inside could be said to be very emotional. After reading it, he couldn't help but laugh out loud at some of the childish comments.
+
+"In the Legend of Mir's forum, someone posted that he wants to attack us."
+
+The young employee smiled and said to several colleagues around him, "They said on the forum that they want us to taste the price of angering them."
+
+A young man who was constantly copying and pasting said in amusement, "What can they do?
+
+Don't tell me you want to call the police? "
+
+A female colleague said, "In the College Entrance Examination Cafe, a high school class teacher is still calling for everyone to protest. I copied a few of the College Entrance Examination Questions he wrote into our College Entrance Examination Cafe."
+
+At this moment, the person in charge of the Q Bar department, the 32-year-old Luo Zhongwen, stood up and said to his subordinates.
+
+He said to his subordinates, "Don't worry about the netizens' comments, they'll stop in a few days. Our top priority now is to expand our Q Bar's quality content. Don't let your guard down on this. Tonight, we'll be working overtime like yesterday, until 11 PM. Everyone, work harder."
+
+When everyone heard that they had to work overtime again, although they were unhappy, they didn't dare to protest.
+
+They responded listlessly. This kind of mechanical copying and pasting was really not technical. Almost everyone was unhappy with doing this non-stop work.
+
+However, now that the Q Bar was very important, they could only grit their teeth and carry on with the heavy workload.
+
+At 10 am, the male employee who was copying the posts on the Legend of Legends Tieba to the Legend of Q Bar suddenly realized that the post he posted on the Q Bar a minute ago had disappeared from the homepage.
+
+What replaced it was a bunch of posts filled with exclamation marks. This surprised him. The Legend of Legends Q Bar didn't have a lot of traffic. Why were there so many new posts?
+
+He took a closer look at the names of these posts and almost jumped up in shock.
+
+"The Legend of Legends Tieba strongly condemns the shameless act of Q Bar pirating content!!!"
+
+"How can the Q Bar shamelessly trample on the Tieba Family!!!"
+
+"Make friends! Join the battle!
+
+We swear to fight to the death with Q Bar!!! "
+
+"Simple plan, reporting!
+
+We strongly demand that the unscrupulous Q Bar stop infringing the copyright!!! "
+
+The male employee thought that his eyes were playing tricks on him. He instinctively pressed F5 to refresh the browser. He didn't expect that when he refreshed the page, the posts on the homepage had changed again. However, there were still all sorts of posts condemning the Q Bar. He hurriedly checked the specific data from the backend. When he saw it, he instantly exclaimed, "Something happened!
+
+Within two minutes, more than 10,000 users flooded into the Legend of Q Bar, and more than 8,000 posts were made … "
+
+"How is that possible!"
+
+More than 10,000 users and 8,000 posts in two minutes. This data was simply unimaginable. It was impossible to have such a large influx of users in an instant.
+
+Another employee who was responsible for copying content from F4's Tieba forum to F4Q forum also said in surprise, "It's the same for F4's Q forum. There are more than nine thousand users and more than six thousand topics in two minutes, and almost all of them are scolding us …"
+
+"Sun Yanzi, too …"
+
+"Wang Lihong, too …"
+
+"Pretty girls, too …"
+
+Before Luo Zhongwen had the time to verify it, the backend monitoring data showed that within these five minutes, more than 400,000 users flooded into the Q Bar, and more than 300,000 users posted. The server's capacity almost broke through the red line in an instant. As a result, the remaining 500,000 users couldn't even squeeze into the Tieba Tieba. No matter how they refreshed the Q Bar's page, the server didn't respond at all.
+
+Those users who successfully posted only realized that they couldn't squeeze into the server when they tried to post again. At this moment, the post requests and access requests directly crashed the Q Bar's server. The technical staff was so anxious that he was sweating profusely. He said to Luo Zhongwen, "Our server can no longer handle it. At least 800,000 or 900,000 people are trying to squeeze into our Q Bar's server."
+
+"Oh my god!"
+
+Luo Zhongwen's mind was buzzing. Because the Q Bar had just started, even though the server hadn't been built to the level of 10 million, it could still handle millions of people accessing it at the same time. How could it suddenly crash?
+
+The technical staff explained, "Our server can handle millions of people browsing, but it can't handle millions of people posting requests. The amount of data being written is too terrifying!"
+
+Luo Zhongwen's thoughts changed. "How could there be so many users flooding in in an instant?
+
+Could it be a hacker attack?
+
+Could it be the Tieba Tieba taking revenge? "
+
+The technical staff said, "I've screened the users in the backend. Among these users, 90% of them are our QQ users. The Q Bar users and QQ users are connected, so we can be sure that it's not a hacker attack."
+
+"It's not a hacker attack?
+
+You mean, these 800,000 to 900,000 people are spontaneously flooding into our Q Bar at the same time?
+
+Who organized it?
+
+Who has such a huge influence? "
+
+An employee suddenly stood up and said nervously, "I found a new Tieba that was just created today!
+
+They're all talking about coming to the Q Bar to explode. The number of people signing in on this Tieba has already reached 1.13 million! "
+
+Luo Zhongwen's brain almost exploded from the sudden influx of shocking news. A newly created Tieba had 1.13 million sign-ins?
+
+How is this possible … I've checked the statistics of the largest forum on Tieba, Legend of Mir. There are only about 300,000 users!
+
+Not only Luo Zhongwen, but any person in the Internet industry would find it hard to understand the power of the Tieba Forum. This time, the Tieba Forum and the Q Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum Tieba Forum
+
+Seeing that Luo Zhongwen didn't respond for a long time, the technician couldn't help but ask, "Mr. Luo, what should we do now?
+
+Should we temporarily shut down the server? "
+
+Luo Zhongwen repeatedly rubbed his forehead with his knuckles, gritted his teeth, and said, "Shut it down for the time being. Delete all the spam that this group of people posted and add a post verification code mechanism. Then, limit the frequency of posts. Each user can only post one post per hour. Reopen it after these adjustments are made."
+
+The product manager said, "Mr. Luo, if we add a verification code, the user experience will be much worse. Nowadays, most websites don't dare to use verification codes. If we do this when we've just started, I'm afraid that users will reject us …"
+
+Verification code was a new product developed by a young engineer at Yahoo last year. It used distorted graphics to filter people and machines to avoid malicious attacks on the Internet. This mechanism was regarded as a genius invention by the industry, but to the users, it was rated as one of the most disgusting inventions on the Internet in its first year. The user experience was very bad. If it was ten years later, everyone would be used to it and wouldn't feel anything. But if they implemented verification code now, they would definitely be cursed by the users.
+
+The product manager didn't wait for Luo Zhongwen's reply and said, "Restricting users' posting will also have a great impact on the user experience!"

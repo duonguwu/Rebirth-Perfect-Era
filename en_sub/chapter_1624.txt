@@ -1,0 +1,91 @@
+Chapter 1624
+
+Everyone in the room couldn't believe that Li Mu's words had touched their hearts. Some of them couldn't understand why a young man in his early twenties seemed to know more about Zhongguancun and the world of coding farmers than they did.
+
+In fact, the poor coding farmers only started to gather in Zhongguancun in the late nineties, so the oldest coding farmers in Zhongguancun might not have more than ten years of experience. However, Li Mu was really a senior poor coding farmer in Zhongguancun in his previous life. With more than ten years of working experience, he had a deep understanding of Zhongguancun and the current situation of the coding farmers.
+
+However, when Li Mu said that he got this information from the seniors in Zhongguancun, everyone didn't think much of it. After all, it seemed that Li Mu had done in-depth market research. Only those who had done research on this issue had the right to speak.
+
+Seeing that his analysis had hit the bottom of everyone's heart, Li Mu knew that he had found their pain point. He smiled and said, "I just talked about the problem of white-collar workers in office buildings having a hard time eating, and the problem of people's laziness. So, next, I will tell you how we can grasp this pain point of the users, and then solve this problem."
+
+As he spoke, Li Mu pointed at the huge whiteboard and said, "Let's assume that this whiteboard is the whole of Yanjing, and the places that I have drawn in red are the densely populated areas of office buildings."
+
+As Li Mu spoke, he randomly found a few places on the whiteboard with a red marker and drew a few bowl-sized circles.
+
+Then, Li Mu pointed at these circles and said to everyone, "First, the red circle is the densely populated area. As you all know, the population density of office buildings is much higher than that of residential areas. In residential areas, people may have dozens of square meters per person, but in office buildings, people may not even have two square meters per person per person. A 20-story residential building may have 200 households and more than 800 people, but a 20-story office building may have hundreds of people on each floor, and the total number of people on all 20 floors may reach four to five thousand people. Such a high-density population will gather at one time to eat, no matter how the surrounding restaurants are built, it will be difficult to meet their needs. So, during the peak period of dining, the red circle will form a high-pressure dining area."
+
+Speaking of this, Li Mu drew a bigger black circle around each red circle, pointed at the black circle that surrounded the red circle, and said, "Look, these black circles may be within a five-kilometer radius of the office building. The awkward point of this range is that they occupy a larger area and can accommodate more restaurants, but they can't enjoy the high-pressure dining area in the red circle. So, what should they do?
+
+They can't possibly hope that the white-collar workers in the red circle will run a few kilometers to eat here. So, what's the only solution? "
+
+At this time, Lei Jianguo opened his mouth and said, "Since the users in the red circle can't get out, then we have to let the merchants in the black circle send their products in."
+
+Li Mu praised and said, "Director Lei, you're so right!
+
+Those of us who come from technical backgrounds all know about 'load balance.' That is to say, the relationship between the network server and the users is about balance and redundancy. When the number of users is large and the demand for data processing is large, we must divert the user traffic and processing demands to multiple servers. It's the same in physical businesses. When a certain area forms a high-pressure area, if we can't use the external low-pressure area to divert the high-pressure area, then the high-pressure area will always be in a state of overload, and the low-pressure area will always be in a state of high idleness. So, what we need to do is to help the merchants in the black circle to divert the traffic when the red circle forms a high-pressure area. "
+
+Speaking up to this point, Li Mu continued, "However, the people in the real world are different from traffic. We can divert the traffic however we want, but not the people. We can't let the people in the red circle go to the black circle to solve the problem of eating. So, we can only think of a way to help the merchants in the black circle send their products in. This is the core service of Hungry Sheep — food delivery."
+
+Everyone looked at each other.
+
+They understood what Li Mu wanted to do, but they didn't understand why Li Mu wanted to do it.
+
+It was nothing more than a white-collar worker's problem of eating. Compared to Li Mu's scale, it was a little too small in their eyes. This feeling was like watching a billionaire haggling with a vegetable vendor at a street stall.
+
+Li Mu knew that it was hard for them to understand. He smiled and said, "Everyone might think that this is a very small business, so small that there's no need to put this kind of business into the Taobao network. There's no need to even send this kind of business online, right?"
+
+Liu Shixiong smiled and said, "I think this, how should I put it? Actually, if the people in the red circle want to enjoy the services of the black circle merchants, as long as the black circle merchants provide food delivery, the black circle merchants will give them a takeout order, and then they can just call the black circle merchants when they need it."
+
+Li Mu asked him in return, "In the early years, letters could be sent to all parts of the world through the global postal system. Why did someone invent email?
+
+The person who invented email wanted to subvert the entire way of communication, and he did it. "
+
+Liu Shixiong was a little speechless. He was actually not a person who knew much about the Internet. In the early years, he only started his business because of SARS and wanted to sell his CDs online. Therefore, his real Internet thinking was slightly inferior to that of the top Internet big shots.
+
+Seeing that he did not know what to say for a moment, Li Mu continued, "What we're discussing here is a brand new Internet model, a business model where the whole process of order response only takes half an hour or even less. Think about it, if we move all the restaurants in the black circle online, and then present their shops and products to all the users within a five-kilometer radius of them, these people can stroll around their shops and their dishes just like how they stroll around Taobao, and then choose what they like to place an order. They fill in their own delivery address and pay through Alipay online. After we receive the order and confirm the payment, we immediately send the order to the designated merchant and let them start preparing the dishes according to the order. They only need to place the food there, and after receiving the order, our delivery person will go to their shop to pick up the goods, and then bring the goods to them."
+
+As he said that, Li Mu raised his voice and said, "Don't think that this business model is very low, and don't think that this business model can only cover a five-kilometer radius of the user, which is very different from our Internet spirit of covering the whole country and the world. Think about it, what does this business model mean?"
+
+"If Taobao is connecting buyers and sellers all over the country, then we are connecting hundreds of millions of lines in the country. But what about the business model of food delivery?
+
+It is to draw a circle with each user as the center and a five-kilometer radius, with each merchant as the center and a five-kilometer radius. If we do it well and make it big, there might be millions of such circles in the whole of Beijing. Millions of circles with a five-kilometer radius, what does it mean?
+
+It means that it can repeatedly, seamlessly, and densely cover all the places where people live in Beijing! "
+
+"If we can draw millions of circles in Beijing, we can also draw millions of the same circles in Shanghai, which is more than a thousand kilometers away. We can draw millions of circles in second-tier cities, hundreds of thousands in third-tier cities, and hundreds of thousands in fourth-tier and fifth-tier cities. In the end, what we present to the users all over the country is a food and beverage delivery network that covers all cities and districts. Think about it, if we build hundreds of millions of circles with a five-kilometer radius in the country, what does it mean?
+
+It means that no matter which city in Hua Xia you are in, as long as it is a city, you can make a visual order in front of your computer and wait for the delivery person to send the food to you. "
+
+When Li Mu said that he wanted to build hundreds of millions of circles with a five-kilometer radius in the country, the Internet people all started to feel their blood boiling.
+
+Once it rose to this scale, the Internet's sense of creating a new world rapidly expanded. In Li Mu's eyes, this kind of "sense of creation" was the highest pursuit of the Internet people in their lives.
+
+The earliest Internet allowed people to transmit diverse information through this invisible network. The person who achieved this must have a sense of creation, as if he had created a new world.
+
+The person who first moved the offline business model to the Internet must have the same sense of creation.
+
+The person who first allowed people to communicate on the Internet's BBS platform must have the same sense of creation.
+
+Now, Li Mu gave everyone a chance to create a new era. He personally created the germination and ancestor of the entire O2O industry. How could they not be excited after seeing through this?
+
+At this time, Li Mu said again, "There is another very important thing. Don't think that a five-kilometer radius is the limit of each circle. If we do a good job in coordinating the orders, distributing them reasonably, doing a good job in training the delivery people, and upgrading the hardware and equipment, these circles may exceed five kilometers, and gradually achieve six kilometers, seven kilometers, or even higher."
+
+Liu Shixiong had already come back to his senses. He couldn't hide his excitement and asked Li Mu, "Li Zong, are we going to build the entire delivery system ourselves?"
+
+Li Mu nodded and said, "Of course, all the orders generated by the restaurants on our platform must be delivered by our own delivery people. Moreover, our delivery model will completely eliminate the process of collecting and sorting. Therefore, each delivery person will complete the entire process from picking up to delivering the goods independently. This means that all of our delivery people don't need cars."
+
+Liu Shixiong said in agreement, "Motorcycles are enough."
+
+Li Mu waved his hand, "Motorcycles won't work either. A lot of cities are getting stricter and stricter on motorcycles. Within a five-kilometer radius, we don't need motorcycles. Electric bicycles are the best choice. Therefore, I'll say something else here. Liu Shixiong, I have a task for you."
+
+Liu Shixiong hurriedly said, "Li Zong, go ahead."
+
+Li Mu said, "You're in charge of inspecting all the capable electric bicycle manufacturers in the country. Then, you'll acquire the most experienced electric bicycle design team. We'll design our own electric bicycle and hand it over to the electric bicycle manufacturer. This business will start at the same time as our project."
+
+Liu Shixiong asked in surprise, "We're going to design our own electric bicycle for the delivery people?"
+
+"Yes!"
+
+Li Mu said resolutely, "Not only the electric bicycle, but even the clothing and the insulated box for the electric bicycle have to be designed by us. This is the best way to promote our brand. Also, our electric bicycles can't use traditional lead-acid batteries."
+
+Liu Shixiong had done some research on this. He asked in confusion, "But the electric bicycles on the market all use lead-acid batteries …"

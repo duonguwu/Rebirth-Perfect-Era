@@ -1,0 +1,81 @@
+Chapter 847
+
+Li Mu's Happy Farm started from stealing vegetables. After continuous development and rapid updates and iterations when it fought against QQ Fisheries, the whole game was basically similar to the very popular Hay-Day (cartoon farm) in the mobile games of the later generations.
+
+In fact, from Li Mu's point of view, this kind of game that fully occupied the user's fragmented time was most suitable to be operated on a mobile platform. However, the current smartphone market was still in its infancy. There was no mobile environment that could support such a mobile game.
+
+Not to mention mobile games, based on the current expensive GPRS charges in China, 90% of mobile users would not have any need for data transmission.
+
+Therefore, from Li Mu's point of view, the most practical way to upgrade was to develop a client-side game. A small client-side game would be controlled within 100MB. As long as most of the materials were localized and a small amount of materials were loaded online, it would be enough. Not only would this be beneficial to the gaming experience of Happy Farm, but most importantly, it would be easier to integrate into the YY ecosystem in the future.
+
+Once the client-side game was developed, YY would follow up with an update. A "Happy Farm" button would be added to the product interface. It would be similar to the YY game lobby. Users would only need to lightly tap on YY, and the client would automatically open and log in.
+
+This way, YY users would definitely be more loyal to the game. Not only would it be beneficial for overseas promotion, but it would also be very helpful for the strategic layout in China.
+
+Li Mu was not the only one with this idea. In fact, Kong Lingyu and the other technical staff had the same idea.
+
+Everyone knew the importance of Happy Farm to Makino Technology. As it continued to develop, the way web-based games were carried had indeed become the shackles of its development. It would be difficult to upgrade the same level of the web-based games. Therefore, it was indeed a chance to break through the shackles and rise from the ashes.
+
+The idea of making Happy Farm a client-side game was unanimously approved by everyone. Kong Lingyu added a concept, "Boss, I think after Happy Farm's client-side game is developed, we can advance the web-based and client-side games at the same time. We can make the refined client-side game the most perfect solution. At the same time, we can gradually reduce the refinement of the web-based game and make it a lightweight solution. Both of them will be interoperable on the data level. This way, our users will have more choices."
+
+"Good idea!" Li Mu's eyes lit up when he heard that!
+
+A product of great significance must give users more choices. Web-based games had their own advantages and disadvantages, while client-side games had their own advantages and disadvantages. The two could only complement each other properly.
+
+If the future of Happy Farm was to maintain the webpage interface while developing the client-side version, it would not be enough to form a clear strategic complement with the client-side version. Just like what Kong Lingyu said, they had to make the client-side version more beautiful and make the webpage version lighter. In other words, when the client-side version was released in the future, not only would the graphics and material quality of the webpage version not be improved, but it would also continue to be reduced to increase the loading speed of the webpage version.
+
+The goal of complementing each other was to let users download the client-side as much as possible, but not to force them to download it. This way, the users could freely choose according to their own circumstances. If there was a client-side on the computer, it would naturally be the most convenient to log in to play. However, if there was no client-side on the computer, or if they just wanted to take a look, then the webpage version would be more convenient.
+
+There was another advantage to doing this. No matter how good the client-side version was, there would still be some users who were unwilling to download the client-side. In this case, keeping the webpage version could continue to retain users and reduce the loss of users as much as possible.
+
+Therefore, Li Mu immediately decided on a specific strategy. "Immediately set up a client-side game team for Happy Farm within Makino Technology. At the same time, set up a game planning team to further upgrade the game based on the current Happy Farm. The direction of the upgrade is to expand the map, expand the entire system of planting, breeding, and processing of agricultural products. At the same time, further develop the mission system to make the game more fun."
+
+Lin Ching-ah said, "Coincidentally, we just recruited a group of gaming talents. We can let them use this project to practice."
+
+Kong Lingyu smiled and said, "Qing Ya, Boss wants to use this game to expand the overseas market. We can't let everyone use this project to practice. We can let everyone use this project to prove their strength!"
+
+Lin Ching-ah pursed her lips and smiled. "I expressed it wrongly. That's basically what I meant."
+
+Li Mu asked her, "In terms of the game, when will the people from West Mountain Residence be here?"
+
+Lin Ching-ah said, "They will be here next week. They already submitted their resignation application on Monday and are preparing to come to Yanjing. If Jinshan doesn't approve it this Friday, they will be forced to resign and come directly to Yanjing."
+
+Li Mu nodded and asked again, "That Xu Bo I asked last time, when will he be joining?"
+
+Lin Ching-ah said, "Xu Bo is also in the resignation stage. He should be able to join as soon as possible. After the meeting, I will let the human resources department communicate with him."
+
+"Okay."
+
+Li Mu nodded lightly. In his heart, he was thinking that if Xu Bo could be here as soon as possible, then he could participate in this project. He was good at game structure, especially when it came to system design and mission design. Whether a game could last for a long time, the mission system must be the most important part. Otherwise, no matter how amazing the game was, if it didn't have an excellent mission system, the users would gradually feel that the game content was getting boring and then give up.
+
+However, it was fine to let Xu Bo participate, but his resume was too ordinary. How to let him have a certain say in this project was a problem. If Li Mu directly asked him to do it, others would think that there was a lack of theoretical support, and it would be particularly abrupt.
+
+After a while, Li Mu had a flash of inspiration. He smiled and said, "I remember that Xu Bo is from the NetEase team. 'Journey to the West Online' is a game with chibi cartoon characters. The entry point and presentation method should be similar to our 'Happy Farm'. Therefore, we can try to use this person. If he joins earlier, we can let him participate more in this project. Let's see if he can extract some of the essence of 'Journey to the West' and integrate it into our 'Happy Farm'."
+
+After hearing what Li Mu said, the others didn't think much of it. They just felt that what Li Mu said made sense. The design style of 'Journey to the West' was relatively similar to 'Cartoon Farm'. The people from NetEase should be able to have a deeper understanding of it.
+
+In Li Mu's plan, it would be best if Xu Bo could play a major role in the client-side game project of 'Happy Farm'. This way, he would have enough reasons to promote him and communicate with him directly. Once he had enough reasons to trust him and communicate with him directly, he could guide him to design an independent game structure.
+
+Li Mu also made up his mind. When the time came, no matter what game structure Xu Bo came up with, as long as it wasn't 'Fantasy Journey to the West', he would beat it back and redo it. He would also constantly guide him to get closer to 'Fantasy Journey to the West'. He had to force Xu Bo to polish the game structure of 'Fantasy Journey to the West'. As long as Xu Bo could do it, he would immediately invest money and manpower to develop it.
+
+In this way, the idea of quickly promoting the global process of YY after the financing was completely confirmed. Get American capital to invest, promote YY in the United States, expand the influence of Makino Technology in the United States, and finally go public in the United States. This was the situation that Li Mu was most eager to see.
+
+If this series of strategic plans could be realized, then YY could become a world-class software and have an absolute advantage in the field of instant messaging worldwide. As long as they had this foundation, they could definitely become the world's top Internet company.
+
+As for the game 'Happy Farm', it already had a complete library of materials. Therefore, if it were to be made into a client-side game, the overall workload would be relatively low, and the speed should be very fast. When the time came and the capital was in place, it could make a big push in the United States market and conquer the American market, which was at the top of the Internet industry.
+
+After saying that more than 50% of the funds would be given to YY Global, Li Mu continued to discuss with everyone how to distribute the remaining 50%.
+
+New business development and expansion was a very important area for an Internet company. It was also the key to the continuous improvement and expansion of the YY ecosystem. He had to ensure that the YY ecosystem would constantly have new members joining, and the new members had to operate a sufficient product base in a short period of time.
+
+For example, the new product that was currently being developed, the blog.
+
+The development of the blog was part of the new business development stage. However, how to operate it, promote it, and how to make it the banner of Hua Xia's self-media concept would require follow-up work. This was the same as the promotion of the Happy Farm. It required money, and it had to be spent wisely.
+
+Li Mu asked about the current development progress of the blog. This pure webpage product was a piece of cake for the current development team of Makino Technology. Moreover, most of the technical code could be used in the YY space, so the development speed was even faster.
+
+Currently, the blog was more than half developed. In a little more than a week, it would be completely developed. When that time came, it could begin internal testing, and it would not be long before it went online.
+
+Chen Tong, as the person in charge of the future blog, also attended the meeting today. When they talked about the future of the blog, Li Mu deliberately told him, "Brother Chen, the celebrity Tieba is the mother of the blog. For the development of the blog, all the resources in the celebrity Tieba will be open to you for you to use. This will be a huge advantage for the future of the blog, but it will also be a huge test for you. The higher your starting point, the higher your goal will be. Therefore, you must make good use of the existing resources and incubate this new product of the blog!"
+
+…

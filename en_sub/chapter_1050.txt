@@ -1,0 +1,101 @@
+Chapter 1050
+
+When Li Mu came to the United States, he made a series of combination punches.
+
+The most direct result of this set of combination punches was the sharp rise of "Paradise Town" users in the United States.
+
+"Paradise Town", driven by the two tens of millions of dollars of bonus activities, simply couldn't stop as if it had wings, which made the entire Microsoft MSN Division nervous.
+
+At this stage, MSN had four core business segments: MSN Portal, MSN Network Access, MSN Messenger, and MSN Hotmail.
+
+Among them, MSN Messenger was the MSN software used for instant messaging. In addition, MSN Portal and MSN Mailbox were also important business segments of MSN, with more than 100 million users.
+
+Among them, the most afraid of YY was naturally MSN Messenger, which had the same positioning as YY, but the overall level of instant messaging software was a few generations behind.
+
+In their eyes, "Paradise Town" was like the launchpad of YY's nuclear bomb. Every time its users increased, the angle of the launchpad became more vertical. Once the angle entered the ideal launch state of 90 degrees vertical, the nuclear bomb of YY would be mercilessly released by Li Mu.
+
+Everyone in Microsoft knew very well that once YY used "Paradise Town" to achieve a perfect debut in front of the netizens in the United States, MSN would suffer a disaster.
+
+Today's MSN was a few generations behind YY in terms of products. Although it had quietly developed the latest version and copied many of YY's unique functions in the latest version, it still lacked Li Mu's profound understanding of the future Internet. Therefore, even if the new version was developed, it was still much weaker than YY.
+
+It was also easy to understand. For a long time, there was a huge strength gap between domestic automobile manufacturers and automobile manufacturers in developed countries. Even with so many successful overseas models as a reference, domestic cars still lagged behind developed cars in engine, chassis, gearbox and other aspects. This was an objective fact of the technological gap.
+
+Although Microsoft was strong overall, it was not an omnipotent enterprise in the Internet industry. MSN had always been a bad product in the eyes of Li Mu in his previous life, which showed that Microsoft did not really have the gene to make social communication software.
+
+That's why even if Microsoft wants to imitate Li Mu in this life, it does not have the genes to imitate Li Mu.
+
+Behind many of the user-friendly functions of YY, there were Makino Technology's own technical patent barriers. How to solve the user's chat log roaming, offline files, how to support group chat, and solve the sending, receiving, and storing logic of group messages, how to develop more advanced streaming media transmission technology, and how to achieve nesting in software, etc., were all problems that Microsoft MSN needed to solve one by one.
+
+In addition, in terms of design aesthetics and user-friendliness, Microsoft was no match for Makino Technology.
+
+Design aesthetics required a long period of accumulation to form one's own set of things. It was difficult to form one's own style simply by imitating and plagiarizing. This point was very obvious in the automotive industry.
+
+In the next decade or so, even with so many successful overseas models as a reference, it would still be difficult for domestic cars to produce a few truly original and good-looking models. The reason was the lack of design aesthetics.
+
+Of course, there was no need to talk about the 100% replication of a series of products by Zhongti. However, Zhongti could do such a thing, but Microsoft certainly could not.
+
+Because of this, the latest version that MSN was developing internally was still lagging behind YY by more than an era in terms of design aesthetics.
+
+And this new version of MSN, which was still more than an era behind YY, had not yet been completed. Effective solutions for several functions had not yet been found. According to the plan, this product would have to wait at least another two months before it could be tested, and then released to the public after the test was correct.
+
+But now, the team leader of MSN couldn't wait any longer.
+
+Once "Paradise Town" began to guide traffic to YY, the first to be affected was MSN Messenger. It could be foreseen that at that time, almost all the players of "Paradise Town" would give up MSN in the first place and turn to YY.
+
+In addition, there was also MSN Mailbox. YY itself integrated the mailbox function, and the user experience was much better than MSN Messenger and MSN Mailbox. If users gave up MSN Messenger and chose YY, it was certain that users would give up MSN Mailbox.
+
+The only thing to be thankful for was that the YY portal had not yet launched an English version. Otherwise, even the MSN portal would be impacted by YY.
+
+Therefore, in the eyes of the MSN team, YY was the number one enemy of MSN at present. In order to prevent YY from suddenly using "Paradise Town" to occupy the entire US market, Luis May, the head of the MSN division and one of the vice presidents of Microsoft Group, held an emergency meeting and decided to launch the new version of MSN in advance, and the sooner the better.
+
+Luis May's request made everyone inexplicably nervous.
+
+The head of the development team said: "The new version of MSN is still in the process of development. The early launch indicates that it must stop development immediately, remove all the undeveloped sections, and then package the completed parts for testing. Even if we complete the packaging today, it will take a few days for the testing to be carried out."
+
+Luis May asked: "How long will it take?
+
+Give me a clear time frame! "
+
+The head of the development team frowned and thought for a moment, then said: "About five days."
+
+Luis May nodded and said: "We can still wait for five days. You guys do it as soon as possible."
+
+The head of the development team said again: "We still have a lot of functions that have not been developed. If we go online in a hurry, our new version will not improve much on the basis of the old version."
+
+Luis May asked him: "What are the functions that have been developed now?"
+
+"At this stage, the functions that have been developed are: custom grouping of friends, custom notes, and group chat. The other requirements have not been solved."
+
+Luis May said resolutely: "There is no choice. We have to update our product before YY fully launches. The current situation is not for us to slowly build a product that can compete with YY. We need to do everything we can to resist the impact of YY before YY fully launches its attack. So at this stage, even if there is only one new function that has been developed, we must go online as soon as possible. Otherwise, once YY launches first, we will not be able to resist."
+
+The current MSN Messenger was like a fortification. Before YY's landing battle began, what Microsoft had to do was to do its best to improve the defense capability of this fortification. Even if there were only a few more machine guns, they had to be deployed as soon as possible. Otherwise, once YY successfully landed and completely destroyed Microsoft's fortification, it would be too late for MSN to upgrade.
+
+The staff responsible for the operation of MSN Messenger smacked his lips and said: "At present, we have only developed these few new functions. We are still too weak in front of YY."
+
+"There's nothing we can do even if we are weak!"
+
+Luis May blurted out: "We don't have much time. Li Mu has invested so much in 'Paradise Town'. The fundamental purpose is to push YY to the eyes of the netizens in the United States. We must upgrade the product as soon as possible so that we still have a chance to retain some users!"
+
+As she said that, Luis May continued: "We are now advancing in two directions. One is to upgrade the product as soon as possible, and the other is to continue in-depth development of the product functions. And the speed must be accelerated. Now we have to be like sending ammunition to the front line. Don't send all the guns and ammunition together. Once the enemy starts the war, our front line may be trampled by the enemy before our guns and ammunition arrive. We have to adopt the strategy of rapid delivery. From now on, update the first version as soon as possible. After the first version is updated, update the second version immediately once new functions are developed!"
+
+…
+
+After the launch of the "Paradise Town – Thanksgiving Day Global Competition", the enthusiasm of the capital for Makino Technology increased, so much so that the Silicon Valley branch of Makino Technology had to receive a large number of venture capital employees every day. However, the official reception of Makino Technology was also very perfunctory. All the venture capital employees who came to Makino Technology could at most get a cup of water to drink. Their requests to meet with Li Mu or Lin Ching-ah were mercilessly rejected by the company's administration.
+
+Among them, Sequoia's performance was the most urgent.
+
+A few days ago, Sequoia learned from Larry Page that Li Mu would reopen the financing negotiation window after Makino Technology's next move was completed. This time, the "Paradise Town – Thanksgiving Day Global Competition" made them think that this was the "next move" Li Mu mentioned, so they thought that Li Mu would immediately open the financing negotiation window. In the past two days, they had been frantically looking for opportunities to meet with Li Mu. Even Elon Musk became a lobbyist for Sequoia, hoping to help Sequoia make an appointment with Li Mu.
+
+However, Li Mu did not give Elon Musk any extra face. He just told Elon Musk that the opportunity to negotiate had not arrived yet.
+
+This made Sequoia even more nervous. The opportunity to negotiate had not arrived yet?
+
+Could it be that Li Mu had other moves to follow?
+
+In the end, as a last resort, Sequoia's headquarters asked Sequoia Hua Xia's people to directly contact Ding Zhenglin, who was in charge of capital operations at Makino Technology. Ding Zhenglin himself was from Sequoia, so he had some old feelings for Li Mu. Even if they did not talk about financing, it would be fine to just arrange a meeting.
+
+Ding Zhenglin did not care about Sequoia's old feelings. He coldly replied to Sequoia Hua Xia, "Not for the time being."
+
+Li Mu's attitude was very straightforward. No matter what you say, I will not talk about financing with you now. It will be the same even if you get the President of the United States to come and lobby.
+
+This was because Li Mu still had one last trump card that he had not used. He had used it in Paradise Town. Now, it was YY's turn to release the latest version.

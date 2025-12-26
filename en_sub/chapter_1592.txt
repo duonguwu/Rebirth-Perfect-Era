@@ -1,0 +1,105 @@
+Chapter 1592
+
+In the face of Wei Lan's rhetorical question, Li Mu felt wronged.
+
+"Wendy Gauber is not my confidante. She can only be regarded as an ordinary friend at most."
+
+Wei Lan giggled and hugged Li Mu's arm. Her whole body swayed gently like a roly-poly doll. She said with a smile, "I have to make it clear first. I'm not jealous. I just feel sorry for you. Confidantes are a time-consuming, laborious, and costly species. Sometimes when something happens, you have to find a way to save her. It's too troublesome."
+
+Li Mu heard the teasing in her words. He hugged her waist and said with a smile, "You're right. Once is enough. I don't want to experience it a second time."
+
+Wei Lan added, "If there is a very good girl, I have no problem with it. But if there is a girl who is very utilitarian, then forget it. For example, this Wendy."
+
+Speaking of this, Wei Lan added, "There are a lot of introductions about her on Twitter. This girl seems to have a bachelor's degree or a master's degree from Cambridge, and then she came to China to further her studies?
+
+I don't mean to look down on domestic universities, but on the whole, our universities are much worse than Cambridge by more than one grade. It's rare to hear of demoting a university for further study. A person with normal judgment would basically not make such a choice. "
+
+Li Mu said, "From what she said, it seems that she is very interested in Hua Xia culture, so she specially came to Hua Xia."
+
+Wei Lan shook her head and said, "I don't believe it, but her words are too clever. One is impeccable, and the other is even more likable. Hua Xia people especially like foreigners to recognize their own culture. Once a foreigner says that he likes Hua Xia culture, everyone will unconsciously have a good impression of him. So any random foreigner who comes here will say that he likes Hua Xia culture, but in fact, they may not even know how to use chopsticks."
+
+Li Mu said with a smile, "You seem to be very dissatisfied with her. Are you jealous?"
+
+"Of course I'm not jealous."
+
+Wei Lan said seriously, "I think she's plotting something against you. She doesn't want you to be used by such a person. She's not a woman like me or Ziqiu. People like us devote ourselves to you wholeheartedly. The only thing we need from you is emotional, not material."
+
+Li Mu couldn't help hugging her tightly and said with a smile, "Don't worry, I can tell who is trying to help me. I have a cooperation with the Goldberg family about the future IPO of Makino Technology."
+
+Wei Lan nodded and said, "I know you definitely know what to do."
+
+Wei Lan then said to Li Mu, "Actually, Ziqiu is really a good girl. You might as well think about it in the long run."
+
+Li Mu smiled and said, "You are also a good girl. I have always been thinking about you in the long term."
+
+Wei Lan winked and smiled. "The long-term I'm talking about isn't in terms of time, but in terms of dimensions."
+
+After saying that, she waved her hand and said, "I won't give you any ideas. I'm so hungry, should we make something to eat?"
+
+Li Mu spread his hands and said, "There's only instant noodles and some sausages at home that won't go bad after a long time. There's nothing new."
+
+"Don't worry." Wei Lan stood up and said, "Let's go to the kitchen and cook noodles together."
+
+Li Mu nodded and followed Wei Lan to the kitchen. Looking at the almost empty fridge and storage cabinet, he was at a loss.
+
+There were only a few packets of instant noodles and some sausages at home. There wasn't even an egg.
+
+This made him start to miss the time when he could order takeout on his phone.
+
+At this moment, he even wanted to ask Makino Technology to develop a takeout ordering system, but this idea was quickly rejected by him.
+
+The reason why a food delivery platform like Hungry Me was born and the reason why it could become popular was because of the benefits of the mobile internet. Among them, smartphones that could go online and operate apps were the core. In addition, the high-speed mobile internet and relatively low fees were the backbone and flesh that supported the core. There was also the convenient mobile payment, which was one of the souls of the entire O2O industry.
+
+At this stage, the proportion of smartphones was too small, the mobile internet fees were too high, and the internet speed was too slow. Normally, it would take about a minute to load a few hundred kilobytes of pictures on a mobile phone, and the direct fees would be more than one yuan. Moreover, there was no mobile payment channel. Under these circumstances, it was really too difficult to make takeout O2O.
+
+However, Li Mu quickly realized that he had gone into a wrong direction.
+
+A business model was something that had a lot of commonalities. Sometimes, a business model could be transplanted across platforms. E-commerce itself did not start from the mobile internet. It was a business model of online transactions born in the traditional internet era, and then it was used on various platforms and carriers. Since this was the case, there was no need for a lifestyle service like takeout to be incubated in the mobile internet environment.
+
+Takeout products were different from taxi-hailing products. The latter had a huge limitation, which was that the person providing the service and the person receiving the service were very mobile. They were highly reliant on the GPS location in the smartphone to make it easier for them to capture each other.
+
+However, in the essence of takeout products, the person providing the service and the person receiving the service were fixed. The only thing that was not fixed was the delivery person who provided the delivery service in the middle. No one would order takeout without writing a clear address. Instead, they would let the delivery person find them according to their actual location. No restaurant would move their location while cooking. Therefore, in theory, takeout products could be directly used in the current traditional PC Internet era.
+
+Immediately, Li Mu began to build the product structure and requirements in his mind.
+
+First, the entire product was most suitable to be made into a web. In other words, he had to develop a website that provided takeout services.
+
+Second, the website had to have two backends, one for the merchants and one for the users.
+
+Third, the user would use the PC to place an order on the page, and the merchants would also receive the order through the PC. Then, the system would send the order to the delivery person.
+
+Fourth, Li Mu did not need to consider the PC terminal at the user level. In other words, this product would only consider ordinary users who had a PC terminal to operate. However, Li Mu needed to consider the PC of the merchants.
+
+At this stage, although the price of computers had dropped significantly, the problem was that many small restaurants might not even be able to afford a computer with a few months of net profit. Therefore, if he wanted to expand this business, he had to find a way to solve the problem of those merchants who could not afford to buy a PC terminal.
+
+This problem might be more troublesome, but Li Mu had his innate advantage. He could directly cooperate with Shenzhou and let Shenzhou customize a low-configuration commercial all-in-one machine specifically for merchants.
+
+The machine could be rented to the merchants. After paying a part of the deposit or completing the business information, the machine could be tested at a low price. Once the merchants realized that online orders brought them a considerable increase in income, they would naturally consider buying it or renting it for a long time.
+
+Fifth, as there were no smartphones, the mobility of the delivery person would be reduced. Therefore, the most suitable method was for the delivery person to limit the area. Orders within the area would be sent to the delivery person's mobile phone in the form of text messages.
+
+The delivery person's area had to be limited based on the concept of the population and radius. For example, in the early stages of the food delivery business, when the usage rate was low, a delivery person could cover a residential area or an office building with 2,000 people. Then, his area would be limited to these 2,000 people. Only orders from addresses within his area would be sent to him.
+
+Moreover, the user had to first limit the radius of his order. For example, if the radius of the order was three kilometers, then the user could only temporarily place orders from merchants within the three-kilometer radius. This way, the delivery person would also be bound to the three-kilometer radius. This way, the delivery efficiency could be guaranteed.
+
+Among them, a large number of text messages could be used to communicate with the two telecommunication companies. Preferential prices could definitely be guaranteed. What was left was to find a way to mediate between the two companies and see who could offer the lowest cost.
+
+Under normal circumstances, the cost of a text message to a big customer could be reduced to around five cents, or even be controlled to less than five cents. In this way, the hidden cost of communication in an order was not considered high.
+
+In this way, taking himself as an example, if he wanted to order food now, the entire order and service process was as follows:
+
+First, he would turn on the computer and list Ziyun Villa as the receiving address. Then, he would see on the website all the restaurants that joined the platform within a three-kilometer radius.
+
+Next, he would browse and choose the dishes through the PC website and confirm the price. These steps were the same as doing it on the mobile phone.
+
+After that, he would use Alipay to pay online, and the order would be sent to the seller. After the seller reviewed the order, he would click confirm. Then, the buyer and the seller would have reached an agreement. The system would begin to send orders to all the delivery persons within the restricted area, including Ziyun Villa.
+
+In the message of the order, there would be a complete pickup address and a relatively vague delivery address. For example, the building number, house number, and recipient's information would be blurred out. After the delivery person received the message, he would first look at the approximate location and reply to the text message to confirm the order.
+
+In the case of many people competing for the order, the system would fairly determine the delivery person who successfully snatched the order first. After the delivery person received the confirmation message, he would go to the restaurant to pick up the goods. When he arrived at the restaurant and received the food, he would then see the recipient's detailed address and set off to deliver the food.
+
+After the user placed the order using the PC, all that was left was to wait. After the delivery person brought the food to the door, the transaction would be automatically completed. In the following time, the user could still click confirm on the PC, or make comments and apply for after-sales service.
+
+Although it felt a little more troublesome than the mobile phone, when he thought about it carefully, the first batch of users who used Taobao in the past went through the same process. It was completely the entire process of online shopping that was operated on the PC. Later on, this set of theory and system was transplanted to the mobile phone platform.
+
+Therefore, looking at it now, it should be completely feasible to reverse-port the theory and system of the take-out app on the mobile platform to the PC platform. Although it would inevitably be castrated in terms of functions and efficiency due to the lack of technical means, this kind of castration was completely acceptable in this era.

@@ -1,0 +1,208 @@
+[2025-12-25 19:57:26.750062] Chapter 308
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 19:59:42.190544] Chapter 902
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 19:59:42.195590] Chapter 909
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 19:59:42.199195] Chapter 907
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 19:59:59.798720] Chapter 1165
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:00:01.385051] Chapter 1190
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:03:36.327998] Chapter 1165
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:03:45.866159] Chapter 1165
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:04:05.308849] Chapter 1165
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:04:15.649431] Chapter 1165
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:04:50.976764] Chapter 1190
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:05:30.593424] Chapter 1528
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================
+[2025-12-25 20:05:30.644040] Chapter 1519
+Không tìm thấy div.readBox
+Traceback (most recent call last):
+  File "D:\Crawl_Truyen\crawl.py", line 89, in crawl_range_async
+    result = future.result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "D:\Crawl_Truyen\crawl.py", line 52, in crawl_chapter
+    raise ValueError("Không tìm thấy div.readBox")
+ValueError: Không tìm thấy div.readBox
+
+================================================================================

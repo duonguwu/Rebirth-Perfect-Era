@@ -1,0 +1,111 @@
+Chapter 59
+
+Ye Tianming had been keeping the office that he had found for Li Mu. The area was about 70 square meters, and it was divided into three rooms of different sizes.
+
+One of them occupied half of the area. It was a spacious office area. At present, there were six workstations, but it could accommodate at least ten people. In addition, there was a small conference room of more than 20 square meters and an independent office of more than 10 square meters.
+
+Li Mu called the owners of the resumes at nine o 'clock in the morning to inform them of the interview. Among the four people, only Kong Lingyu had a mobile phone, and the others had a call number. It was a little troublesome to inform them.
+
+The first person Li Mu informed was Kong Lingyu, Hua Xia, a web developer from Yahoo. When Kong Lingyu received the call, he had not gotten up yet. When he heard that there was an interview, he was very vigilant and asked about the background of the other party. That was because he had been invited by many companies for interviews these days. However, after he went there, he realized that the other party was not a serious Internet company at all. Many people recruited web developers for the purpose of building a corporate page, which made Kong Lingyu very depressed.
+
+He always thought that as a second-tier city, Jinling, although it was not as big as Yan Jing, its development speed should not be much slower than Yan Jing. However, after coming back, he realized that Jinling was still a barren land of the Internet.
+
+In addition to some local forums and local chat rooms, there were no new Internet products in Jinling. Not to mention a portal, even his own website was unique.
+
+On the phone, Kong Lingyu asked Li Mu in detail, "May I ask what is the core business of your company in the Internet field?"
+
+Li Mu said, "Our company's current core position is to develop an online music audition and download website."
+
+"Audition website?"
+
+Kong Lingyu asked back. He was already a little interested in it. At least it belonged to the real Internet business.
+
+Li Mu explained, "You can think of it as a portal with music as the core."
+
+Kong Lingyu still knew a little about audition websites. There were many online audition websites now, and he often listened to songs on similar websites when he was online.
+
+"Okay." Kong Lingyu didn't think too much and agreed. "Please tell me the time and place."
+
+"I'll text you the address later. Let's make it today. The earlier the better."
+
+After that, Li Mu received a series of calls from other people, one after another, confirming the interview time.
+
+In order not to make Li Mu look too shabby during the interview, Ye Tianming immediately found the staff responsible for the management of the building. In less than an hour, he got all the office furniture, such as desks, sofas and conference tables, for Li Mu.
+
+It seemed to be the case, but Li Mu didn't even have time to register a company. He originally wanted to register a company first, but he gave up after thinking about it. Most of the websites were personal websites now. There was no need to register a company specifically for the website.
+
+Kong Lingyu arrived at 11 am. When he found the office building, he was surprised. This was considered a first-tier office building in Jinling. The company that could rent office space here should have a certain level of wealth.
+
+However, after seeing Li Mu, the surprise in his heart was several times stronger than before he entered the door!
+
+"You shouldn't be twenty years old yet, right?" This was the first sentence Kong Lingyu asked after seeing Li Mu.
+
+"Yes." Li Mu didn't hide it and nodded. "I haven't gone to college yet. It's September this year."
+
+Kong Lingyu was a very Internet-minded person. He knew several rules in the Internet field. One was that one's ability didn't depend on one's age. The other was that one was awesome regardless of one's origin.
+
+So, Kong Lingyu asked Li Mu curiously, "Since you are going to college soon, why do you still want to start a business in the Internet field?"
+
+Li Mu said faintly, "I am going to college offline and starting a business online. There is no conflict between the two."
+
+Online and offline was still a new term. Kong Lingyu's eyes couldn't help but shine. "You are right. Moreover, I do have a lot of spare time after I go to college."
+
+Li Mu nodded and went straight to the point. "Let's talk about serious matters. I have seen your resume, and it is more suitable for my current needs. I hope to have a technical director to help me with the partial development of Easy Listening and maintenance after the development is online. In addition, I need a technical director to be responsible for the server and testing."
+
+Kong Lingyu asked, "What do you mean by partial development?"
+
+"I have already started the development myself. Currently, it is about 20% complete. However, I really don't have time to do it. So, I hope a technical director will be responsible for me. According to my requirements, he will lead the other technical staff to complete the development of the website."
+
+Kong Lingyu was even more surprised. It was not uncommon for an 18-year-old to start a business. Judging from the fact that he could rent such a place before the project was online, he was most likely a second-generation rich.
+
+However, it was really rare for an 18-year-old to know how to develop a website in China. After all, computer classes had not been fully popularized in high schools in China. Even if a high school student wanted to learn programming, there might not be a suitable opportunity.
+
+Seeing that there was some doubt in his expression, Li Mu took his notebook and showed him the project that he had not completed. He said, "You can have a rough look. This is just a preliminary backstage logic."
+
+Kong Lingyu took the computer in surprise and flipped through a few pages of code. In his heart, there was a great change in his view of Li Mu.
+
+Code was a boring thing, but at the same time, it was also a kind of art, an art that was similar to mathematics.
+
+For example, a certain function in a program was like a mathematics problem. Different technical staff had different ways to solve the problem. Not everyone could solve the problem, and not everyone had the most labor-saving solution. Therefore, when a programmer saw a better code, it was like a mathematician seeing a better way to solve a problem. They could immediately see the level of the other party.
+
+Kong Lingyu only looked at a few pages of code, and he felt that Li Mu's web programming ability was higher than his. If he wrote the code according to the same requirements, even if he wrote it, the length would probably be twice as long!
+
+The length of the code not only represented the programmer's mastery of the technology, but also represented the programmer's logical ability. The most important thing for developers was logic.
+
+The simpler, more direct, and clearer the logic of the code, the more it represented the programmer's ability, talent, and attainments.
+
+"May I ask, where did you learn to program?
+
+Your level is far above me. In my opinion, it is like a CET-4 English standard. The difference is too big. "
+
+"It's not that ridiculous."
+
+Li Mu waved his hand. "The most important part of the code is not the writing, but the thinking before writing. It is like a translator. If I ask you to translate 'Are you ok?', how will you translate it?"
+
+"How are you going to translate it?"
+
+"How are you." Kong Lingyu blurted out.
+
+Li Mu opened a document on the computer and said, "Type it out."
+
+Kong Lingyu immediately typed the words "How are you" on the document.
+
+Li Mu smiled and pulled the computer to his side. He said as he typed, "If it is me, I will write it like this. Take a look."
+
+After that, Li Mu passed what he wrote to Kong Lingyu.
+
+Kong Lingyu took a look and was shocked. Li Mu actually wrote "How are you?"
+
+There were only five letters.
+
+"This … …" Kong Lingyu did not understand.
+
+Li Mu smiled and said, "The pronunciation of r is the same as are, and the pronunciation of u is the same as you. So, this should be enough for the other party to understand."
+
+Kong Lingyu finally understood. So, this is the reason!
+
+Computer language and human language have a lot in common. A programmer is a translator. They translate human language into computer language and let the computer understand. Those who are proficient in language and can think will use the simplest and most direct method to let the other party understand. This is the basis of programming.
+
+Kong Lingyu looked at Li Mu in a different light. He vaguely felt that Li Mu should have studied overseas or learned from overseas programming experts. Otherwise, it is impossible for him to have such a deep understanding of programming.
+
+Li Mu's analogy also bypassed Kong Lingyu's previous question. He told Kong Lingyu his general plan for making easy listening. After that, he said confidently, "The era of online listening has not arrived yet, and the era of MP3 players is not here yet. If we do this well now, we will have a chance to become the online music industry's Baidu or Yahoo."

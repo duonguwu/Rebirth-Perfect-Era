@@ -1,0 +1,129 @@
+Chapter 890
+
+The earliest news to report on the article was actually the morning news of Central TV.
+
+In the 7 o 'clock morning news broadcast, Central TV reported on the sudden popularity of YY overseas with the headline "Hua Xia's Internet Products Are Sought After by Elites in the US".
+
+Without a doubt, Central TV was definitely the most sensitive news media in the country and had the most timely access to global information. They could get all kinds of information one step ahead of other domestic media. Moreover, they had reporters stationed in various countries around the world, completely unaffected by time zones and time differences.
+
+In the report, Central TV introduced the situation of YY's overseas popularity, gave a certain summary of the original article, and even translated the praises for YY. It did not forget to mention that this was the most authoritative technology magazine in the entire Silicon Valley, and the chief editor named Hua Xia was also one of the three most famous and powerful chief editors of the magazine.
+
+Central TV's overall control of the rhythm of the news was indeed very good. After the first two steps were completed, the rhythm had already been set. Following that, through the continuous rise of the data and the good reputation of various websites and forums, the fact that YY had become popular overseas was further consolidated. It directly highlighted the purpose of the news, "YY is very awesome overseas, and even winning glory for the country", to the fullest.
+
+In this report, Central TV selected a large number of comments on Makino Technology from overseas forums, and attached Chinese translations next to the original English comments. Once these comments were listed, it immediately aroused a sense of national pride in the hearts of the audience.
+
+For example:
+
+"YY is definitely the best Internet product of the 21st century. Its appearance has changed the entire office landscape!"
+
+"Hey, the arrogant Microsoft has finally been slapped in the face!
+
+All along, countless MSN users have protested to Microsoft, hoping that they could improve that sh * tty software, but they have always been indifferent. Now, YY from Hua Xia has left it behind by more than a hundred streets, and slapped Microsoft hard in the face! "
+
+"Oh my god!
+
+This product is really amazing. As an HR employee, I have to receive and receive a large number of emails every day, and I have to maintain close contact with people in every department in the company. All kinds of documents are sent and received. This product has brought a huge improvement to my work!
+
+After using YY for three days, I really want to kiss its product manager! "
+
+"I never thought that a piece of software from Hua Xia would completely change the way my colleagues and I work. Now, we no longer have to use the company's internal communication system, which is extremely difficult to use and often has problems. We have more than 120 people in the company in a large group chat, and each department has a small group chat. It's so cool to communicate with all kinds of work!"
+
+"Hua Xia's intelligence is shocking. This is not a software that is difficult to develop, but it is a godly product that requires an extremely high level of intelligence!"
+
+This report gave the people of Hua Xia a new understanding of YY's overseas achievements.
+
+When Li Mu received this news, it was already ten o 'clock in the morning. University students of the same grade as him had already started their classes. At this time, they were sitting in class, listening to lectures, and he had just gotten out of bed.
+
+Last night, he was busy formulating the details of the promotional activities with the core management of Taobao until late at night. After waking up, he saw a few messages from his colleagues and friends. At this time, Li Mu turned on his computer and paid attention to the comments on the internet. Only then did he realize that the long commentary on YY by the senior editor of "Silicon-Valley-Magazine" had already spread all over the internet in Hua Xia.
+
+Whether it was YY website or other portals, they all placed this news in the most eye-catching headlines. The headlines were basically the same, all intended to highlight a single theme — "Hua Xia's Internet Products Conquer America's Silicon Valley."
+
+Due to the countless world-beating achievements created in ancient times, and due to the rough history of modern times, the people of Hua Xia were very concerned about what the West thought of them. They also hoped to see the people of Hua Xia, or Hua Xia's companies, and products being praised overseas, as this could greatly satisfy the people's national pride. Now that YY had used an unstoppable method to conquer the American elite and was praised by the elite, it naturally made the people of Hua Xia extremely excited.
+
+Li Mu found the original article, and after reading it, he could not help but laugh out loud.
+
+He had actually already considered the request that was made to him in the article. A more complete, in-depth, and customizable membership value-added service was already in internal testing, and the core functions had already been developed. The internal testing was only to test whether there would be any problems with the purchase process of different value-added services, to prevent users from spending A-tier money and not being able to enjoy A-tier services immediately, and to prevent users from spending A-tier money and only getting B-tier services. This was not development, it was just the opening of the channel and the support of the backend server for the service.
+
+In addition, Li Mu had already given instructions to connect to PayPal during the last meeting, but Li Mu was not sure about the progress.
+
+He called Kong Lingyu, and Li Mu asked him about the progress of the two matters.
+
+Kong Lingyu's reply was that the core logic and component updates of the membership value-added service had been completed, and now they were waiting for the technical team to follow the technical requirements of PayPal to run the payment interface. As long as the payment interface was running, PayPal would be the second top-up channel for YY in the future.
+
+Li Mu asked him about the estimated time to go online, and Kong Lingyu's reply was that it was before nine o 'clock tonight.
+
+Nine o 'clock tonight in Beijing was eight o' clock in the morning in New York, and six o 'clock in the morning in San Francisco. It was just in time to go online before the Americans started work. For Li Mu, this was a very good time.
+
+If he went online at six o 'clock in the morning in San Francisco, the Paypal payment and the complete in-depth customization of the membership value-added service would probably be shocked. This was because from the time his article was published to the time YY responded, it did not take more than 24 hours.
+
+Anyone with a discerning eye would be able to tell that YY did not make adjustments based on suggestions, but had been prepared for this a long time ago. In Li Mu's opinion, this must be made clear, or else some people would definitely think that his YY was inspired after reading the article and made adjustments. He could not let the Americans take the initiative to show off.
+
+Kong Lingyu also reported a small detail to Li Mu, which was that PayPal had given YY partners a rating of A +, and they enjoyed the lowest channel fee of 0.5%. It was the only A + partner among all of Hua Xia's products that were connected to PayPal.
+
+Li Mu was quite surprised, and he said with a smile, "I didn't expect PayPal to be so generous."
+
+Kong Lingyu smiled and said, "Yeah, the people at PayPal's interface are very attentive. Not only did they give us the highest rating, but they also gave us the highest priority."
+
+As he spoke, Kong Lingyu suddenly remembered something and blurted out, "Oh yeah!
+
+I almost forgot!
+
+The person at PayPal's interface said that their CEO told our interface through him that he wants to meet with you, whether it's in Hua Xia or the United States. "
+
+Li Mu frowned and asked, "Who's their CEO?"
+
+There were two founders of PayPal that Li Mu was very familiar with. One was Elon Musk, and the other was Peter Thiel.
+
+The former was the founder of Tesla and SpaceX, and he was known as the Iron Man of Silicon Valley. The latter was also a very powerful figure. He was a famous investor in Silicon Valley, and he first invested 500,000 USD in Mark Zuckerberg to start Facebook, and the profit he received was more than 10,000 times the investment.
+
+Both of them were big names in the Internet and capital industries, but Li Mu really did not know who was the current CEO of PayPal.
+
+At this time, Kong Lingyu said, "Their CEO is called something like Musk, I don't really remember.
+
+“
+
+"Oh …" Li Mu said with a smile, "Elon Musk."
+
+"That's right, that's the name." Kong Lingyu said in surprise, "Boss, you're very familiar with PayPal?"
+
+Li Mu said with a smile, "Zhi Fubao was inspired by them, how could I not be familiar with it?"
+
+As he spoke, Li Mu said, "Ask the interface person to help me pass a message to him. I don't have an American passport yet. If he's not in a hurry, he can wait for me to visit him when I go to the United States. If he's in a hurry, ask him to come to Hua Xia at any time. I'll be a good host."
+
+Kong Lingyu said, "Okay, then I'll tell the interface person."
+
+After hanging up the phone, Li Mu was full of smiles. He did not expect Elon Musk to take the initiative to say that he wanted to meet him. What does he want?
+
+Invest in me?
+
+Thinking of this, Li Mu felt a little excited. After all, this was the first Silicon Valley big shot, a super big name, to send him an invitation to meet. To be recognized by a super big name was definitely something to be happy about.
+
+But after a moment, Li Mu slapped his forehead, and the smile on his face instantly disappeared.
+
+"Wait a minute, that doesn't seem right!
+
+Elon Musk is not a big name yet!
+
+At most, he's just about to sell PayPal to eBay. I think this deal was only made in October.
+
+"PayPal is just a payment channel now. It hasn't really become famous yet. How much can it be sold for?
+
+If I remember correctly, it was only sold for a few billion USD in my previous life. How many shares does Elon Musk have?
+
+More than ten percent, probably around two to three hundred million USD. With that little bit of wealth, why would he invest in me? "
+
+After thinking about it, Li Mu realized that his current net worth was conservatively estimated to be several times that of Elon Musk. Moreover, as YY continued to grow in popularity in the overseas market, his net worth continued to rise. If this round of financing for Makino Technology could get a sky-high valuation, then he would directly become the richest man in the country. His net worth would be at least ten times that of Elon Musk.
+
+Then why would Elon Musk want to meet him?
+
+Does he want to work with me?
+
+Or does he want me to invest?
+
+Or is he just trying to befriend me?
+
+Li Mu thought about it in his heart. All three possibilities were possible, but the first and third were obviously unlikely.
+
+In comparison, he felt that Elon Musk was more likely to want him to invest. Although he was a big name, he didn't have much money on hand. Once he sold PayPal, he would probably take the money and invest it in space projects. Could it be that he thought that a nouveau riche like Hua Xia looked like a sucker, so he came to ask him to invest in his SpaceX?
+
+That couldn't be right. Li Mu had read books related to Elon Musk before. The thing that left a deep impression on him was that although he established SpaceX this year, the actual investment of 100 million USD was four years later in 2006. Could it be that he was interested in investing now?

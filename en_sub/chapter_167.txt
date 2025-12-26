@@ -1,0 +1,107 @@
+Chapter 167
+
+In order to guide parents not to blindly chase after high-priced students, Li Mu set up a simple user behavior analysis in 3321. For example, if a user like Xie Tingfang started bidding on the page of a student from the Second Normal University, and within the price range of 15 to 50 yuan, if her willingness to increase the price was strong and she hesitated for a short time, the user analysis logic would automatically determine that she had a special interest in this student. Then, the user would analyze the tag of the student she followed in the background.
+
+For example, the female student that she was paying special attention to would be screened by the system, such as her gender, school, and department. After the system recorded this information, and considering that Xie Tingfang didn't continue bidding for a long time after the female student's price exceeded ¥100, it was determined that she had reached the upper limit of the bidding. Then, the system would immediately give her a notification, recommending five students of the same gender, school, and department with a price of around ¥50.
+
+At this moment, Xie Tingfang was staring at her computer in annoyance. The price of ¥100 an hour made her feel a little powerless. Although she and her husband were employees of the TV station, they were currently working behind the scenes, and it wasn't a popular program, so their income wasn't high. Her and her husband's monthly income was around ¥7,000 to ¥8,000. Although they could be considered a high-income group in Beijing, their family's cash flow wasn't that good after taking into account the family expenses, mortgage, and car maintenance. If they had to pay ¥1,000 to ¥2,000 a week for their child's tutoring fee, she really couldn't handle it.
+
+Xiao Jie saw that his wife was a little disappointed and frustrated, so he gently patted her on the shoulder and comforted her, "We're not sure if university tuition is really suitable for our daughter. Besides, the price is really too high. 100 yuan an hour, and a dozen classes a week, that's nearly 2,000 yuan a week. Who can afford it?"
+
+"There are still many rich people in Beijing. Didn't you see the top scorers of Beijing University and Tsinghua University's college entrance examination? Their prices are almost ¥200 an hour." Xie Tingfang bitterly replied.
+
+Xiao Jie smiled. "It's a new thing.
+
+It's understandable for everyone to be curious and look forward to it. But once the popularity dies down, everyone will be more rational. Why don't we wait and see?
+
+Isn't the student from 3321 auctioning once a week? Let's see next Friday. "
+
+Nodding her head, Xie Tingfang sighed, "Let's hope that the price can drop a little next Friday."
+
+After saying that, Xie Tingfang was about to turn off 3321.
+
+Suddenly, a notification popped up, "3321 recommends …"
+
+The couple took a closer look. Wow, the website had recommended five students in one go, and they were all freshmen female students of the Second Foreign Language Translation School, and the current price was between 30 and 50 yuan.
+
+"Oh my god, how is this website so powerful!
+
+How could it know what we want? Look at the students they recommended to us, they are all students who meet our requirements. It's just that their weight is slightly lower than the girl I liked just now. "
+
+Xie Tingfang did not have much contact with the Internet.
+
+In addition, the current Internet had not yet reached the era of future products. The user behavior analysis developed by Li Mu had not yet been popularized in the field of the Internet. Even such a simple recommendation logic amazed users.
+
+Xiao Jie was also very surprised, but after calming down and thinking about it, he guessed the general logic and said, "This website must have its own set of logic. We have been bidding on the personal page of the female student just now. It analyzed our needs and saw that we didn't bid anymore.
+
+It thought that we might think that the girl just now was too expensive, so it recommended these students to us. "
+
+Xie Tingfang nodded in agreement, but also laughed at herself. "Look, this website is really smart.
+
+It can also analyze whether we have money or not. It knows that we can't afford to hire one that costs 100 yuan per hour, so it recommended these students that cost about 50 yuan per hour. "
+
+Xiao Jie said with a smile, "It's not the website that's smart, it's the website's developer that's smart. This idea is very good. Their authentication, bidding, door-to-door verification, and other processes are also very thoughtful.
+
+It's very thoughtful. Now the website also has such a function that goes against the natural order. It's amazing! "
+
+Xie Tingfang nodded and said, "I was about to give up just now, but it suddenly popped up this prompt, which gave me hope again. I don't know how many parents are like us."
+
+Xiao Jie grunted and said seriously: "It will do its best to keep all of its users. When it finds out that you can't afford a hundred yuan worth of lessons, it will recommend you fifty yuan. If it finds out that you can't accept fifty yuan, it will definitely recommend you twenty or thirty yuan. If that doesn't work, it will recommend you fifteen yuan. In short, it won't let you leave so easily."
+
+Xie Tingfang said with a smile, "You're right, so I'm going to look at these cheap ones now. Anyway, they are all students of the Translation School of the Second Foreign Language. Although their weight is a little lower, it is enough to prove their ability to be admitted to the Translation School."
+
+"That's right."
+
+Xiao Jie nodded and said, "Let's find one that costs about 50 yuan and take a week's class first. If Duoduo feels that it's suitable and reliable, then we'll use it for a long time."
+
+"Good!
+
+If their model is really reliable, then I must promote them on the evening news. Not to mention anything else, this creativity and model are great. "
+
+…
+
+What happened to Xie Tingfang also happened to many parents of students in Yanjing that night.
+
+Kong Lingyu had been monitoring the data and clearly saw the effect of Li Mu's recommendation logic. Among all the users who received the recommendation, almost 90% of them would be interested in the content of the recommendation and click on it to see the details. Just this function alone could have such a strong retention effect on those users who had already intended to give up. Kong Lingyu admired Li Mu from the bottom of his heart.
+
+He didn't know where this young man came in contact with and learned the Internet. Why was his understanding of the Internet always several levels higher than his?
+
+When he hadn't figured out the process and logic of a project, Duoduo had already sorted out the entire project's front desk, multiple backstage, and the logical relationships between them. When he hadn't figured out how to retain users, Duoduo had already come up with the logic of user behavior analysis, which greatly increased the user's probability of closing a deal.
+
+Kong Lingyu increasingly felt that his choice to follow Li Mu was the best decision he had made in the past 20 years. If he had still stayed at Yahoo or joined any other company, he wouldn't have had the opportunity to come in contact with so many new ideas on the Internet. Li Mu's mind was filled with things that could replace the traditional knowledge of the Internet. Not to mention how much money he could make by following him, just the personal growth alone was immeasurable.
+
+Awesome!
+
+Awesome to the extreme!
+
+A young man who wasn't even 20 years old could play the Internet so thoroughly. Kong Lingyu had a strong personal admiration for him. He even felt that Google, Yahoo, and those big names in technology might not be as awesome as Li Mu.
+
+Not only 3321, but also the current Tieba. The number of registered users was close to 10 million, and the number of daily active users had exceeded 1 million. Furthermore, with Baidu's investment, it had a few million working capital. Moreover, Li Mu had already told him that Baidu had to voluntarily guide traffic to Tieba on the search engine. All the keywords related to Tieba must be ranked among the top few on the homepage. This way, the traffic and users would definitely explode, and the future was simply unimaginable …
+
+Kong Lingyu didn't know that the logic Li Mu used was a very common user behavior analysis in the future. It was like the Taobao Alliance advertisements on the web. It analyzed the user's cookies, understood what the user had done, followed, and searched for when using the computer and the Internet. Then, it analyzed and filtered the information to find the things that the user might be most interested in, and recommended them to the user.
+
+For example, if someone casually searched for the keywords belt on Baidu or Taobao, he would be shocked when he looked at other websites. F * ck!
+
+Why are all these websites recommending all kinds of belts?
+
+In the beginning, to those who didn't understand the Internet, this thing was simply amazing. But after it was popularized, everyone would realize that, oh, it was actually just analyzing their behavior. If they didn't actively search for belts, then the probability of it recommending belts to them would be so low that it was negligible.
+
+This kind of technology would be the fastest to spread after the rise of e-commerce. But now, it was definitely an amazing logic system. What was even more amazing was that even if the people from Google and Apple were here, they might not understand it. For example, in the future, WeChat, not only did it reach the pinnacle of user behavior analysis, but it also reached the pinnacle of user portraits. As a result, its advertisements were much more accurate than other channels. Not only a world-class super app like WeChat, even a news and information app like "Toutiao" also had a set of top-notch logic algorithms in the industry to ensure that the content it pushed would be of interest to users. Even if Li Mu thought about these algorithms now, it would be difficult for him to understand the key points.
+
+He stared at the data in Yucheng Garden until past ten o 'clock. Li Mu rubbed his eyes and looked at Zhao Ziqiu beside him. She was currently staring at the computer screen with her chin in her hands. Her eyes were a little red.
+
+Seeing that Li Mu was looking at her, Zhao Ziqiu smiled shyly and asked, "Why are you looking at me?"
+
+Li Mu smiled and said, "You look tired. What time does your dorm close?"
+
+Zhao Ziqiu said, "The dorm doesn't close on Fridays. You guys should be the same, right?"
+
+Li Mu nodded.
+
+Zhao Ziqiu said, "There must be a lot of things to do tomorrow, right?"
+
+Li Mu stretched and said, "After the auction ends at noon tomorrow, we will give the parents of the successful bidders two hours to transfer the money. After two o 'clock in the afternoon, according to the remittance situation, we will split up and go to the families of the users who have already paid to verify the information."
+
+Zhao Ziqiu asked curiously, "There are more than one thousand and five hundred students. When the time comes, all of them will be transferred over. How are we going to verify the difference?"
+
+PS:
