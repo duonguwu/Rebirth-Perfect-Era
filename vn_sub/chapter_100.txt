@@ -69,21 +69,7 @@ Năm nay, Metersbonwe có một dòng thiết kế quần áo đặc biệt, s�
 
 Vào buổi chiều, doanh thu là khoảng 55.000 tệ, và gần 100 chiếc ba lô đã được tặng.
 
-Bố Lý và Mẹ Lý phấn khích đến mức không khép được miệng. Lý Mục ra ngân hàng gửi một ít tiền, và khi quay lại, cậu thì thầm vào tai mẹ: "Mẹ, mẹ đi bảo với Mợ là hôm nay con sẽ làm thêm đến 10 giờ. Cửa hàng trưởng sẽ thưởng tiền mặt cho con 500 tệ, và các hướng dẫn viên mua sắm sẽ được thưởng 200 tệ." (Note: "The store manager (Mợ) will give ME a cash reward?". No. "Mom, you go tell Aunt (Mợ) that I will work overtime...". Wait. Does Li Mu work there formally? And get a reward?
-Or does he mean "Mom, tell Mợ that SHE (as Store Manager) should give the EMPLOYEES a reward"?
-Text: "Mom, you go and tell my aunt that I will work overtime until 10 o 'clock today. The store manager will give me a cash reward of 500 yuan, and the shopping guides will give me a cash reward of 200 yuan."
-This English translation seems broken.
-Context: "Although the shopping guides were already very motivated today... Li Mu still felt that as a boss, he had to show something...".
-Li Mu is the boss.
-He wants to reward the EMPLOYEES.
-"Store Manager" = Mợ.
-"Shopping guides" = Sales staff.
-Likely meaning: "Mom, tell Mợ that SHE (Mợ/Manager) gets 500 yuan reward, and each Shopping Guide gets 200 yuan reward". And everyone works until 10.
-The phrase "give me" is likely a translation error for "give them" or just "give".
-Or maybe "I (Li Mu) decide that...".
-I will translate as: "Mẹ, mẹ đi bảo với Mợ là hôm nay mọi người sẽ làm thêm đến 10 giờ. Cửa hàng trưởng sẽ được thưởng nóng 500 tệ, và các nhân viên bán hàng mỗi người được thưởng 200 tệ."
-Reason: Li Mu is the boss. He is instructing his mom to tell the manager (Mợ) to announce rewards.
-
+Bố Lý và Mẹ Lý phấn khích đến mức không khép được miệng. Lý Mục ra ngân hàng gửi một ít tiền, và khi quay lại, cậu thì thầm vào tai mẹ: "Mẹ, mẹ đi bảo với Mợ là hôm nay con sẽ làm thêm đến 10 giờ. Cửa hàng trưởng sẽ thưởng tiền mặt cho con 500 tệ, và các hướng dẫn viên mua sắm sẽ được thưởng 200 tệ." 
 Mẹ cậu không có ý kiến gì. Bà gật đầu, đi thẳng đến chỗ Mợ và nói cho bà ấy biết quyết định này.
 
 Về việc tại sao cậu lại nhờ mẹ làm việc này, lý do của Lý Mục rất đơn giản. Cậu cảm thấy bố mình không có khiếu quản lý và kinh doanh, nên tốt hơn là tập trung đào tạo mẹ.
@@ -92,8 +78,7 @@ Khi Mợ truyền đạt quyết định này cho tất cả nhân viên, họ t
 
 Thực tế, trong mọi công việc, không thiếu những người làm việc chăm chỉ. Là một ông chủ, điều cậu phải làm là tạo động lực cho họ, nhưng không thể chỉ vẽ ra những chiếc bánh vẽ. Những ông chủ chỉ biết vẽ bánh thường không thành công lắm. Trong thâm tâm, họ coi người khác là kẻ ngốc, nhưng lòng người ai cũng sáng như gương. Do đó, phải đối xử với nhân viên bằng sự chân thành và biết cách chia sẻ.
 
-Sau 6 giờ, có khoảng nửa giờ để các nhân viên bán hàng thay phiên nhau nghỉ xả hơi. Mợ của Lý Mục đã ký một thỏa thuận cung cấp bữa ăn với một nhà hàng nhỏ cách đó không xa. Nhà hàng sẽ chuẩn bị hai bữa ăn cho 13 người mỗi ngày (10 staff + 1 manager + parents? or + Li Mu?), với thịt, rau và canh. Mỗi ngày, đồ ăn sẽ được giao đến cửa hàng lúc 12 giờ trưa và 6 giờ tối. Các nhân viên có thể ăn làm hai đợt trong một không gian trống khoảng ba đến bốn mét vuông trong kho. Về việc tại sao lại cố định suất ăn cho 13 người, là để chuẩn bị dư ra, để không ai bị đói. (Note: "Fixed number of meals for 13 people... to make more preparations... so that no one could eat enough" -> "no one could NOT eat enough" / "everyone could eat enough". Negative logic error in English text. I'll translate as "để mọi người được ăn no").
-
+Sau 6 giờ, có khoảng nửa giờ để các nhân viên bán hàng thay phiên nhau nghỉ xả hơi. Mợ của Lý Mục đã ký một thỏa thuận cung cấp bữa ăn với một nhà hàng nhỏ cách đó không xa. Nhà hàng sẽ chuẩn bị hai bữa ăn cho 13 người mỗi ngày (10 staff + 1 manager + parents? or + Li Mu?), với thịt, rau và canh. Mỗi ngày, đồ ăn sẽ được giao đến cửa hàng lúc 12 giờ trưa và 6 giờ tối. Các nhân viên có thể ăn làm hai đợt trong một không gian trống khoảng ba đến bốn mét vuông trong kho. Về việc tại sao lại cố định suất ăn cho 13 người, là để chuẩn bị dư ra, để không ai bị đói.
 Lý Mục ở lại cửa hàng cả ngày. Ngoài việc cảm thán về số tiền kiếm được, cậu còn ngạc nhiên trước sự chu đáo của Mợ.
 
 Bầu không khí trong cửa hàng cũng được bà ấy cải thiện rất nhiều. Ban đầu, khi bà ấy yêu cầu vỗ tay hoan hô mỗi khi khách hàng thanh toán hóa đơn, tất cả nhân viên bán hàng phải vỗ tay và cổ vũ dù họ đang làm gì. Lúc đầu, mọi người không quen, nhưng dưới sự dẫn dắt của Mợ, đến chiều, mọi người thực sự đã hòa mình vào đó. Tiếng reo hò của họ cũng rất chân thành, thể hiện tinh thần đồng đội thực sự.
