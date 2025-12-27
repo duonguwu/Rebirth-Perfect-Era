@@ -1,1 +1,26 @@
-.limu   
+# Libraries and Environments
+node_modules/
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+Scripts/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Project specific
+.limu/
+limu/
