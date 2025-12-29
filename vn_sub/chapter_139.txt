@@ -1,0 +1,85 @@
+Chương 139
+
+Vào lúc 8 giờ 50 sáng thứ Bảy, Lý Mục đã có mặt tại văn phòng của Baidu ở Yến Kinh. Baidu hiện đang trong giai đoạn phát triển và mở rộng thần tốc. Ngay cả vào buổi sáng cuối tuần, vẫn có hàng trăm nhân viên đang miệt mài làm thêm giờ. Chuyện các bộ phận kỹ thuật và sản phẩm của một công ty Internet tăng ca đã là điều bình thường như cơm bữa, và Lý Mục cũng chẳng lạ lẫm gì với cảnh tượng đó.
+
+Khi nghe cậu đến để gặp Chu Tiên (Jack Zhou), cô nhân viên lễ tân vội vàng dẫn cậu vào một phòng họp. Chu Tiên đã dặn trước cô rằng hôm nay sẽ có một vị khách quan trọng đến bàn chuyện hợp tác, và phải báo ngay cho anh ta ngay khi khách tới.
+
+Chỉ sau khi Lý Mục ngồi trong phòng họp chừng hai phút, một người đàn ông ngoài ba mươi với vẻ ngoài lịch thiệp, mặc vest, đi giày da và đeo kính không gọng đã đẩy cửa bước vào. Vừa nhìn thấy Lý Mục, anh ta bỗng sững sờ mất một lúc. Sau một hồi ngây người, anh ta mới định thần lại và hỏi thăm dò: "Xin hỏi anh có phải là anh Lý Mục không?"
+
+Lý Mục gật đầu: "Chính là tôi đây."
+
+Chu Tiên hoàn toàn chết lặng.
+
+Anh ta đã trao đổi với Lý Mục vài lần qua email. Kết hợp với sự tinh quái trong hai dự án mà Lý Mục vận hành, anh ta vẫn luôn phán đoán về con người của cậu dựa trên trực giác. Anh ta từng đinh ninh rằng người này chắc hẳn phải ở độ tuổi từ 30 đến 35, từng đi du học hoặc thậm chí đã có kinh nghiệm làm việc ở nước ngoài. Thậm chí có khả năng người này từng làm việc tại các tập đoàn Internet danh tiếng thế giới. Có nằm mơ anh ta cũng không ngờ người đàn ông đó lại trẻ măng, trông cứ như chỉ mới mười chín, đôi mươi.
+
+Dù vô cùng kinh ngạc, Chu Tiên vẫn nhanh chóng lấy lại sự điềm tĩnh. Anh ta niềm nở bắt tay Lý Mục và nói vài câu xã giao: "Anh Lý, phiền anh đợi cho một lát. Phó chủ tịch (VP) của chúng tôi sắp tới rồi."
+
+VP là từ viết tắt của Vice President. Người trong ngành này rất sính dùng thuật ngữ tiếng Anh để tỏ vẻ bề trên. Lý Mục đã quá quen với điều này nên chỉ gật đầu mà không nói gì thêm.
+
+Với tư cách là người phụ trách đầu tư, Chu Tiên thường là người đứng ra đàm phán với đối tượng được đầu tư và thực hiện các nước cờ trên bàn cờ tư bản. Tuy nhiên, sau vài lần trao đổi với Lý Mục, anh ta không tài nào tìm được điểm đột phá, điều này khiến anh ta thấy hơi nản lòng. Hôm nay gặp mặt, thấy Lý Mục trẻ đến vậy, anh ta càng cảm thấy hụt hẫng hơn trong lòng.
+
+Vài phút sau, ba người đàn ông trung niên cùng một phụ nữ khoảng 27 tuổi bước vào phòng họp. Chu Tiên vội vàng giới thiệu, tập trung vào người nắm vị trí VP là Đàm Diệu Thành (Tan Yaocheng).
+
+Lý Mục đã từng nghe danh người này. Anh ta làm việc tại Baidu đến tận năm 2006. Sau khi Baidu niêm yết cổ phiếu lên sàn, anh ta đã rút lui ổn thỏa (với túi tiền đầy ắp). Sau đó anh ta trở thành một nhà đầu tư thiên thần (angel investor) và rót vốn vào rất nhiều dự án thành công. Có thể coi anh ta là một kẻ thắng cuộc thực thụ trong cuộc đời.
+
+Đàm Diệu Thành cũng không thể tin nổi Lý Mục lại trẻ đến vậy. Thực tế, trong tâm trí anh ta đã tự vẽ nên một hình ảnh hoàn toàn khác về Lý Mục. Sự sai lệch quá lớn này khiến anh ta cũng phải bàng hoàng một lúc lâu mới chấp nhận được sự thật, hệt như Chu Tiên vậy.
+
+Chu Tiên cũng lần lượt giới thiệu những người khác với Lý Mục, chẳng hạn như giám đốc kỹ thuật và giám đốc vận hành. Lý Mục không bận tâm lắm đến tên tuổi của họ, bởi cậu biết rõ người duy nhất cậu cần chinh phục lúc này chính là Đàm Diệu Thành.
+
+Đối với các giám đốc của Baidu, họ quan trọng gì với cậu lúc này cơ chứ? Chỉ khi đạt được thỏa thuận gọi vốn với Baidu, những con người này mới thực sự có vai trò.
+
+Đàm Diệu Thành vốn là người trọng hiệu quả trong công việc. Vì vậy, sau vài câu khách sáo đơn giản, anh ta bắt đầu đi thẳng vào vấn đề chính: "Hôm nay tôi mời anh Lý đến đây chủ yếu là vì sự quan tâm đặc biệt của Baidu dành cho hai dự án Mạng Y Thính và Tieba. Chắc Chu Tiên cũng đã trao đổi với anh rồi. Chúng tôi có ý định thâu tóm trọn gói (package acquisition) cả hai mảng kinh doanh này, và ý định này vô cùng chân thành. Không biết anh Lý..."
+
+Lý Mục khẽ mỉm cười và thẳng thừng giơ tay ngắt lời: "Anh Đàm này, về chuyện thâu tóm trọn gói, tôi đã nói rất rõ trong email gửi anh Chu từ lâu rồi. Tôi tuyệt đối không chấp nhận bất kỳ đề nghị thâu tóm toàn bộ nào từ bất kỳ công ty nào cả."
+
+Đàm Diệu Thành không ngờ Lý Mục lại dứt khoát đến mức chẳng thèm cân nhắc lấy một giây. Cậu thậm chí còn chẳng buồn hỏi mức giá hiện tại của Baidu mà đã trực tiếp từ chối. Làm sao một thanh niên trẻ như vậy lại có thể hành động quyết liệt, thậm chí là có phần độc đoán đến thế?
+
+Phải chăng cậu quá tự tin vào bản thân, hay quá tin tưởng vào tương lai của Mạng Y Thính và Tieba?
+
+Dù bị Lý Mục từ chối thẳng thừng, Đàm Diệu Thành vẫn chưa chịu bỏ cuộc. Anh ta mỉm cười nói: "Anh Lý à, anh không muốn nghe thử mức đề nghị mới nhất của chúng tôi sao? Cách đây không lâu, chúng tôi đã trao đổi với các nhà đầu tư bên Thung lũng Silicon. Mức giá lần này cao hơn nhiều so với con số mà Chu Tiên đã đưa ra trước đây đấy."
+
+Baidu vô cùng lạc quan về tương lai của Mạng Y Thính và đặc biệt là Tieba. Đây đơn thuần là một "vũ khí" cộng đồng cực mạnh. Có nó, Baidu sẽ sở hữu một thỏi nam châm khổng lồ để thu hút và giữ chân người dùng. Kết hợp với những lợi thế sẵn có của Baidu, dự án này chắc chắn sẽ trở thành kẻ thống trị trong lĩnh vực cộng đồng trực tuyến. Phía Baidu thậm chí đã soạn một bản báo cáo bằng tiếng Anh phân tích hiện trạng và đánh giá tiềm năng của hai dự án này để gửi sang Thung lũng Silicon. Cuối cùng, các nhà đầu tư bên đó đã đưa ra một câu trả lời đanh thép: Nếu Baidu có thể thâu tóm được hai dự án này, họ sẽ rót thêm 10 triệu USD vốn đầu tư cho Baidu.
+
+Qua đó có thể thấy các nhà đầu tư cũng vô cùng hào hứng với viễn cảnh thâu tóm này.
+
+Trước khi bước vào phòng, Đàm Diệu Thành đã chuẩn bị sẵn một mức giá mới cho Lý Mục: 25 triệu tệ, sau thuế. Con số này thậm chí còn khiến tim anh ta đập nhanh hơn bình thường. Một dự án mới hoạt động được vài tháng mà đã đạt mức định giá cao như vậy, quả thực là một phép màu trong giới Internet.
+
+Thế nhưng, anh ta không ngờ Lý Mục lại thản nhiên đáp vào lúc này: "Anh Đàm à, hãy tin tôi đi. Với quy mô hiện tại của Baidu, các anh không thể trả nổi cái giá để thâu tóm trọn gói đâu."
+
+Cả căn phòng họp bỗng chốc trở nên ngượng ngập.
+
+Đàm Diệu Thành lại phải sửng sốt lần nữa. Cái thằng nhãi này có lai lịch gì mà ghê gớm vậy? Cậu ta thậm chí còn chẳng buồn hỏi giá mà đã dám tuyên bố thẳng thừng là Baidu không đủ tiền mua. Chẳng phải là quá sức ngạo mạn sao?
+
+Tuy nhiên, kết hợp với những thông tin mà Lý Mục đã tiết lộ trước đó, Đàm Diệu Thành lờ mờ đoán ra ý định thực sự của cậu: chỉ là gọi vốn để phát triển tiếp (financing), chứ không bán đứt.
+
+Đàm Diệu Thành hỏi: "Anh Lý có vẻ rất tự tin vào hai dự án này nhỉ? Anh nghĩ sao về triển vọng phát triển của chúng trong tương lai?"
+
+"Hãy để tôi ví von thế này nhé."
+
+Lý Mục hơi rướn người về phía trước, nói với vẻ đầy tự tin trước sự chứng kiến của mọi người: "Nếu tôi ví triển vọng tương lai như một quả lựu đạn, thì Mạng Y Thính chỉ đơn thuần là cái vòng chốt (fuse ring) trên quả lựu đạn đó thôi."
+
+Nói đến đây, Lý Mục khẽ dùng ngón tay vẽ một vòng tròn: "Xin hãy lưu ý, nó chỉ là cái vòng nhỏ trên ngón tay để rút chốt thôi. Nó chỉ là một điểm nhập cuộc mà tôi tìm thấy từ lĩnh vực tải nhạc trực tuyến. Còn về Tieba, nó chính là ngòi nổ của trái lựu đạn. Mục đích cốt lõi của sự tồn tại của Mạng Y Thính và Tieba chính là để kích nổ quả lựu đạn thực sự kia. Vì vậy, nếu anh hỏi tôi triển vọng tương lai lớn đến mức nào, anh có thể so sánh sức mạnh giữa cái ngòi nổ và cả một quả lựu đạn vậy."
+
+Đàm Diệu Thành cau mày. Nếu cái ngòi nổ không đáng tin thì sức mạnh của nó đáng bao nhiêu chứ? Chỉ là một phần nhỏ nhoi, làm sao so sánh nổi với cả quả lựu đạn?
+
+Nói cách khác, ý của Lý Mục là Mạng Y Thính và Tieba hiện tại chẳng là gì cả. Cả hai cộng lại cũng chỉ là "ngòi nổ" cho quả lựu đạn thực sự của cậu ta. Thằng nhãi này trẻ ranh mà sao ngông cuồng thế không biết? Như vậy liệu có ổn không?
+
+Đàm Diệu Thành quyết định tặng cho chàng trai trẻ trước mặt một gáo nước lạnh cho tỉnh táo. Anh ta lên giọng của một kẻ đầy kinh nghiệm: "Mặc dù ý tưởng của mô hình Tieba rất hay, nhưng cậu vẫn đang thiếu hụt trầm trọng về lượng truy cập (traffic) cũng như vốn liếng để duy trì. Một khi mô hình này bị các công ty hoặc cá nhân mạnh về tài chính và có sẵn lượng truy cập khổng lồ bắt chước, tôi tin rằng họ sẽ sớm vượt mặt Tieba của cậu và đè bẹp nó đến mức không ngóc đầu lên nổi."
+
+Cái gọi là "các công ty mạnh về tài chính và lượng truy cập" thực chất chính là đang nói về bản thân Baidu. Lời bóng gió này chẳng khác nào một lời cảnh cáo dành cho Lý Mục rằng nếu cậu từ chối Baidu, Baidu hoàn toàn có thể "luộc" cậu chỉ trong vài nốt nhạc.
+
+Thế nhưng Lý Mục lại thản nhiên đáp: "Nếu có công ty hay cá nhân nào muốn bắt chước Tieba của tôi, thì quả thực chẳng khó gì. Nhưng dù họ có làm theo sau tôi, họ cũng chỉ là những kẻ chạy theo trào lưu mà không có mục tiêu cụ thể mà thôi."
+
+Khi cụm từ "chạy theo trào lưu" (following the trend) thốt ra, ai nấy đều cảm nhận được sự mỉa mai trong lời nói của Lý Mục. Thực tế là khi vừa nhìn thấy Mạng Y Thính và Tieba, ý nghĩ đầu tiên nảy lên trong đầu họ đúng là bắt chước để tung ra những sản phẩm tương tự...
+
+Vào lúc này, Lý Mục phớt lờ những biểu cảm ngượng ngùng của những người có mặt, tiếp tục dấn tới: "Nếu ở đây có ai thực sự theo sát diễn biến của Tieba, chắc hẳn phải biết tốc độ phát triển sản phẩm của chúng tôi nhanh đến mức nào. Chỉ trong hơn một tháng, chúng tôi không chỉ ra mắt Tieba cho ca sĩ, mà còn tung ra cả chức năng điểm danh (check-in) và hệ thống cấp độ thành viên. Tiếp đó là Tieba dành cho giới minh tinh, bao gồm tất cả các ca sĩ, diễn viên, người dẫn chương trình và những người nổi tiếng khác từ cả hai bờ eo biển. Và sau đó, chúng tôi còn tung ra một chức năng còn mạnh mẽ hơn thế: đó là Tieba do người dùng tự tạo!"
+
+"Hãy cho tôi hỏi, có công ty nào có thể duy trì tốc độ cập nhật sản phẩm vừa nhanh vừa chất lượng đến như vậy không? Với các công ty khác, chắc hẳn phải mất ít nhất nửa năm hoặc lâu hơn nữa mới đạt được trình độ này, có đúng không?"
+
+Những lời Lý Mục nói hoàn toàn là sự thật. Tốc độ phát triển sản phẩm như vậy đúng là phi nhân tính. Sở dĩ Tieba có thể làm được là vì Lý Mục thấu hiểu tường tận sự thành bại của vô vàn sản phẩm Internet trong tương lai. Mỗi chức năng cậu yêu cầu Khổng Lệnh Vũ phát triển đều là những kinh nghiệm thành công xương máu mà người khác ở kiếp trước đã phải đánh đổi bằng vô số thời gian nghiên cứu, phát triển và sai lầm mới có được.
+
+Đàm Diệu Thành cũng rơi vào trầm ngâm. Dù lời lẽ của Lý Mục có phần chua chát, nhưng đó lại là sự thật không thể chối cãi. Tốc độ cập nhật nhanh như chớp, mà mỗi chức năng đều khiến người ta phải kinh ngạc. Loại người như thế này thực sự rất khó để bắt chước. Anh vừa mới nhái được phiên bản 1.0 của người ta thì phiên bản 3.0 của họ đã ra lò rồi. Nếu không có một đội ngũ phát triển sản phẩm siêu hạng đứng sau, anh sẽ mãi mãi chỉ là kẻ hít khói.
+
+Thấy Đàm Diệu Thành im lặng hồi lâu, Lý Mục hắng giọng nói tiếp: "Vừa rồi anh Đàm có nhắc đến lượng truy cập và tiền vốn. Có lẽ anh chưa biết, hiện tại Tieba đã có hơn bốn triệu người dùng đăng ký, và hơn hai trăm nghìn người dùng hoạt động hàng ngày. Với tốc độ tăng trưởng chóng mặt như vậy, các anh vẫn còn lo lắng về lượng truy cập sao? Cho dù kẻ khác có nhiều lượng truy cập hơn đi chăng nữa, nhưng nếu không có tỷ lệ chuyển đổi và sự gắn kết (stickiness) cao như Tieba, thì tất cả cũng chỉ là con số vô nghĩa mà thôi."
+
+"Bên cạnh lượng truy cập là vấn đề vốn liếng. Tôi thừa nhận vốn liếng đang là nút thắt cho bước phát triển tiếp theo của tôi, đó là lý do tôi muốn gọi vốn (financing) để khơi thông bế tắc này. Tôi tin rằng ngay cả khi không nhận tiền từ Baidu, tôi cũng chẳng bao giờ phải lo lắng về việc không tìm được nhà đầu tư đâu."

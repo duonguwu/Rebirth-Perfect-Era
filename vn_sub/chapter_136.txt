@@ -1,0 +1,117 @@
+Chương 136
+
+Cái gọi là tính điểm trọng số (weighted scoring) chính là thiết lập một vài hạng mục tham chiếu cho các sinh viên đại học, sau đó đặt ra các mức trọng số tương ứng để đánh giá những sinh viên có ý định làm gia sư bán thời gian.
+
+Logic ban đầu của Lý Mục rất đơn giản. Cậu thiết lập năm hạng mục tham chiếu: Trường học, Chuyên ngành, Điểm thi đại học, và các giải thưởng bổ sung như Olympic Toán, Olympic Văn, hay Tiếng Anh.
+
+Về Trường học, điểm số sẽ dựa trên bảng xếp hạng quốc gia, với mức tối đa là 100 điểm. Ví dụ, Đại học Yến Kinh (Peking University) đứng đầu danh sách có thể đạt trọn 100 điểm ở hạng mục này. Với Đại học Thanh Hoa (Tsinghua University), vì xếp hạng thấp hơn một chút nên điểm trọng số sẽ là 95. Đại học Nhân dân (National People's Congress) đạt 90 điểm. Còn với những trường xếp hạng tầm thứ 30 cả nước, điểm trọng số chỉ còn khoảng 70.
+
+Về Chuyên ngành, điểm số dựa trên độ hot của ngành đó trong trường. Lý Mục dự định chia làm năm cấp độ. Ngành "hot" nhất đạt 20 điểm; ngành khá hot đạt 10 điểm; ngành bình thường không cộng điểm; ngành ít người theo học (unpopular) bị trừ 10 điểm; còn những ngành cực kỳ kén người học (super unpopular) sẽ bị trừ tới 20 điểm.
+
+Về Điểm thi đại học, điểm số sẽ dựa trên số điểm vượt quá mức sàn (key line) của địa phương, sau đó chia cho 5. Ví dụ, nếu một sinh viên đạt 650 điểm năm nay, trong khi mức sàn địa phương là 600, tức là vượt sàn 50 điểm, sinh viên đó sẽ nhận thêm 10 điểm trọng số. Riêng Thủ khoa cấp thành phố sẽ nhận thêm 20 điểm, và Thủ khoa cấp tỉnh sẽ được cộng tới 50 điểm. Danh hiệu Thủ khoa có sức hút rất lớn đối với các bậc phụ huynh, nên mức trọng số này không hề bị coi là phóng đại.
+
+Còn về các giải Olympic và Tiếng Anh, giải nhất cộng 20 điểm, giải nhì 10 điểm và giải ba là 5 điểm.
+
+Bằng cách này, trọng số cơ bản của một sinh viên năm nhất có thể được tính toán dựa trên hồ sơ cá nhân, và giá trị này phản ánh khá chính xác mức độ nắm vững kiến thức trung học suốt ba năm của họ. Điểm càng cao chứng tỏ kiến thức càng vững, càng dễ thu hút sự chú ý của phụ huynh. Khi đó, cậu có thể mở cơ chế đấu giá (bidding mechanism) cho các phụ huynh muốn tìm gia sư có điểm số cao. Phụ huynh sẽ đấu giá trực tuyến cho sinh viên mà họ quan tâm, và người trả giá cao nhất sẽ giành được quyền thuê gia sư đó.
+
+Lý Mục có thể tiên liệu được rằng một khi cơ chế tính điểm và đấu giá này được phổ biến đến các bậc phụ huynh học sinh trung học, nó chắc chắn sẽ tạo nên một cơn sốt đấu giá phi thường. Vì vậy, Lý Mục muốn đặt ra một tỷ lệ hoa hồng (commission). Với mỗi sinh viên ký kết thành công thỏa thuận gia sư trên trang web 3321, hệ thống sẽ thu của cả phụ huynh và sinh viên 5% giá trị giao dịch.
+
+Nếu sau khi trừ đi chi phí vận hành cơ bản mà 3321 vẫn còn dư tiền, lợi nhuận đó sẽ được dùng để thành lập quỹ học bổng đại học nhằm giúp đỡ những sinh viên nghèo vượt khó. Dù sao thì cậu cũng không định kiếm tiền từ dự án này.
+
+Mỗi sinh viên muốn làm gia sư có thể thiết lập lịch trình giảng dạy phù hợp với thời gian biểu của mình, sau đó để phụ huynh đấu giá theo lịch trình đó. Đơn vị giá cả sẽ tính theo giờ. Ví dụ, nếu Sinh viên A có điểm trọng số đạt 150, theo lịch trình, cậu ta có thể đưa "suất dạy" của mình lên 3321. Giả sử cậu ta rảnh 2 tiếng từ 8-10 giờ tối mỗi ngày, làm 20 ngày một tháng, tổng cộng là 40 giờ dạy. Giá khởi điểm là 10 tệ/giờ.
+
+Nếu các phụ huynh quan tâm, họ có thể trực tiếp đấu giá trên 3321. Nếu Phụ huynh B đấu giá thành công Sinh viên A với mức 30 tệ/giờ, thì phụ huynh đó sẽ trả cho 3321 thông tin người lao động cho 40 giờ học, cộng với 5% hoa hồng là 60 tệ. Sau khi 3321 nhận được tiền, hệ thống sẽ gửi thông tin nhà tuyển dụng cho Sinh viên A, và Sinh viên A có thể trực tiếp đến nhà dạy cho con của phụ huynh đó. Sau khi kết thúc khóa học, Sinh viên A sẽ nhận được 1200 tệ tiền học phí, sau khi trừ 5% hoa hồng thì thực nhận là 1140 tệ.
+
+Vào thời điểm hiện tại, Lý Mục chưa có đủ phương tiện kỹ thuật, nhân lực và nguồn lực để thực hiện thanh toán trực tuyến. Cậu tạm thời chưa thể phát triển một sản phẩm như Alipay, nhưng điều đó không quan trọng. Những gì Lý Mục muốn làm lúc này là ở Bắc Kinh, và đối tượng mục tiêu là các bậc phụ huynh. Ngay cả khi có phương thức thanh toán trực tuyến ngay bây giờ, việc phổ biến nó đến các phụ huynh cũng là một thử thách lớn. Do đó, về khâu thanh toán, cậu có thể dùng hình thức chuyển khoản ngân hàng hoặc thu tiền tận nhà. Một khi họ đã bắt đầu quen dùng 3321, cậu sẽ phát triển công cụ thanh toán trực tuyến và ép họ phải sử dụng.
+
+Nếu công cụ thanh toán trực tuyến này có thể đạt đến giai đoạn ban đầu của Alipay, cậu có thể trực tiếp khởi động dự án Taobao. Dù sao thì tên miền cũng đang nằm trong tay cậu rồi.
+
+Sau khi cân nhắc kỹ lưỡng, suy nghĩ của Lý Mục bất chợt mở rộng ra. Cậu lập tức bắt tay vào viết các yêu cầu cho trang web, rồi tìm Khổng Lệnh Vũ để cùng bàn bạc. Khi nghe về ý tưởng của Lý Mục, Khổng Lệnh Vũ vô cùng ủng hộ. Anh cũng cho rằng việc này có thể giúp các sinh viên đang đi học thể hiện được giá trị của mình một cách tốt nhất. Hơn nữa, nó cũng mang lại cho nhiều học sinh trung học một lựa chọn gia sư hoàn hảo hơn. Đây thực sự là một việc làm mang lại công đức vô lượng.
+
+Vì vậy, tốc độ ra mắt trực tuyến của 3321 phải thật nhanh!
+
+Cậu phải phát triển cả front-end và back-end càng sớm càng tốt để nhanh chóng đưa vào vận hành. Sau khi ra mắt, Lý Mục bắt đầu tính đến chuyện quảng bá tại địa phương Bắc Kinh. Nếu mô hình này khả thi, sau này cậu có thể triển khai dịch vụ tương tự tại các thành phố khác.
+
+Hiện tại, Khổng Lệnh Vũ đã có một đội ngũ kỹ thuật gồm năm người, cùng với một vài sinh viên làm thêm. Do đó, tiềm lực kỹ thuật vẫn rất mạnh. Hơn nữa, kế hoạch của Lý Mục dành cho 3321 rất rõ ràng, độ khó kỹ thuật không cao. Vì thế, sẽ không mất quá nhiều thời gian để hoàn thiện và đưa lên mạng.
+
+Bản thân Lý Mục cũng quyết định trực tiếp tham gia vào việc phát triển 3321. Đây là một việc làm quá đỗi ý nghĩa, nên cậu phải thúc đẩy nó vận hành sớm nhất có thể để mọi người sớm được hưởng lợi.
+
+Việc trao đổi với Khổng Lệnh Vũ khiến Lý Mục gần như quên bẵng thời gian cho đến khi điện thoại đổ chuông. Hóa ra là Triệu Tử Thu gọi đến.
+
+"A lô, anh đang làm gì đấy?"
+
+Lý Mục mỉm cười đáp: "Anh đang bận chút việc. Còn em thì sao?"
+
+"Em đang chuẩn bị lên máy bay rồi. Nửa tiếng nữa là cất cánh, khoảng hai tiếng rưỡi nữa là em đến Bắc Kinh."
+
+Đến lúc này Lý Mục mới sực nhớ ra là mình đã hứa sẽ đón Triệu Tử Thu vào ngày mồng 7, vậy mà cậu lại quên béng mất.
+
+Tuy nhiên, Lý Mục vẫn thản nhiên đáp: "Được rồi, em mau lên máy bay đi. Hẹn gặp em ở sân bay nhé."
+
+Nghe thấy câu "hẹn gặp ở sân bay" từ Lý Mục, Triệu Tử Thu cười khúc khích đầy hạnh phúc: "Giờ em chỉ muốn gặp anh ngay thôi."
+
+Sau khi gác máy, Lý Mục gõ một dòng tin nhắn QQ cho Khổng Lệnh Vũ: "Mau bảo các thiết kế viên hoàn thiện bản thiết kế phiên bản 1.0 cho trang web 3321 đi. Nhớ lấy tiêu chí đơn giản, trực quan và thiết thực làm đầu nhé!"
+
+Căn dặn xong xuôi, cậu tắt máy tính và rời khỏi phòng. Cậu tìm đến đúng chỗ thuê xe lần trước để thuê một chiếc. Tính toán thời gian xong, cậu lái xe thẳng hướng sân bay.
+
+Sau vài ngày không gặp, Triệu Tử Thu trông vẫn đầy cuốn hút như ngày nào.
+
+Thấy cô bước ra từ sảnh đến, Lý Mục chợt nghĩ nếu cô gái này mà khoác lên mình bộ đồng phục tiếp viên hàng không, trông cô chắc chắn sẽ còn giống tiếp viên hơn cả những tiếp viên thực thụ. Bởi cô xinh đẹp hơn bất kỳ nữ tiếp viên nào cậu từng gặp, và vóc dáng cũng là cực phẩm.
+
+Vừa bước ra, Triệu Tử Thu đã thấy Lý Mục đứng giữa đám đông. Lòng cô trào dâng niềm vui, một nụ cười thẹn thùng của thiếu nữ vô thức nở trên môi. Cô rảo bước nhanh hơn, gần như muốn nhảy cẫng lên khi tiến lại gần Lý Mục.
+
+Có vài gã đàn ông ăn mặc lịch lãm kiểu thành đạt đã để mắt tới Triệu Tử Thu suốt chuyến bay. Khi xuống máy bay, họ định đuổi theo để xin số điện thoại. Chẳng ngờ Triệu Tử Thu lại đi như chạy ngay khi vừa ra khỏi cửa hầm. Giờ đây, cô còn lao thẳng tới chỗ một chàng trai trẻ điển trai và bẽn lẽn nói: "Anh đến rồi."
+
+Chàng trai trẻ gật đầu rồi đón lấy chiếc vali của Triệu Tử Thu. Cô cũng nhanh chóng khoác lấy cánh tay cậu. Cả hai xoay người rời đi, để lại một nhóm đàn ông đứng nhìn theo bóng lưng mà chỉ biết đấm ngực giậm chân.
+
+Chàng trai thì cao ráo, tuấn tú, cô gái thì duyên dáng, kiều diễm. Đúng là một cặp trời sinh. Chỉ tiếc là với sự hiện diện của chàng trai kia, những người khác hoàn toàn mất đi cơ hội tiếp cận.
+
+Lý Mục cùng Triệu Tử Thu đi tới bãi đậu xe, cậu cất vali vào cốp rồi cùng cô bước lên xe, hướng về trung tâm thành phố.
+
+Triệu Tử Thu ngồi ở ghế phụ, lấy ra vài hộp quà tinh xảo từ trong túi xách và lắc lắc trước mặt Lý Mục. Cô nói: "Em có kể với bố là có một anh bạn cùng lớp đã đặc biệt thuê xe để đưa em ra ga. Bố em hỏi anh có hút thuốc không. Em bảo có, thế là ông bảo em mang cái này tặng anh."
+
+Lý Mục vừa lái xe ra khỏi bãi đậu. Nhìn thấy những hộp quà trong tay Triệu Tử Thu, cậu sững sờ mất một lúc. Cậu đành tấp xe vào lề đường rồi cầm lấy xem xét: "Trời đất, đây là thuốc lá Gấu Trúc (Panda) à!"
+
+Lý Mục vẫn nhớ hồi cấp ba, cậu cứ ngỡ Trung Hoa mềm (Soft Zhonghua) là loại thuốc lá đắt nhất cả nước. Nhưng khi lên đại học, cậu mới nghe nói thực ra thuốc lá Gấu Trúc mới là hàng cực phẩm. So với loại Gấu Trúc Nhỏ (Small Panda), mọi người vẫn quen gọi loại này là Gấu Trúc.
+
+Thông thường thuốc lá Gấu Trúc có hai loại. Loại thường có vỏ hộp cứng màu vàng, trên hộp có hình hai con gấu trúc, một con đang ngồi và một con đang nằm. Loại này có giá khoảng 100 tệ một bao. Đó đã là loại thuốc lá xa xỉ bậc nhất thời bấy giờ. Tuy nhiên, thứ mà Triệu Tử Thu đang cầm trong tay lại là một hộp Gấu Trúc màu xanh.
+
+Lý Mục nhớ mình từng nghe ai đó nói rằng loại thuốc lá Gấu Trúc xanh này thường được gọi là Gấu Trúc bản đặc biệt (Panda Hard Special Edition). Nó là tinh túy trong dòng thuốc lá Gấu Trúc, thuộc dạng phiên bản để sưu tầm. Nhà lãnh đạo tiền bối, Ông Đặng (Deng Xiaoping), rất thích hút nhãn hiệu này. Mỗi hộp quà chỉ có đúng hai bao Gấu Trúc bản đặc biệt, đi kèm với một chiếc bật lửa và một cái gạt tàn bằng pha lê. Đây chắc chắn là loại thuốc lá "khủng" nhất đối với những người nghiện thuốc.
+
+Ngay khi Lý Mục còn đang mải mê ngắm nhìn, Triệu Tử Thu lại lấy thêm hai hộp quà tương tự ra và phàn nàn: "Thứ này nặng quá, nên em cũng không mang theo nhiều."
+
+Lý Mục ngạc nhiên hỏi: "Trong này có cả bật lửa. Làm sao em mang lên máy bay được?"
+
+Triệu Tử Thu cũng ngạc nhiên không kém: "Có ai bảo là không được mang đâu anh."
+
+Lý Mục sững người một lát rồi cũng tặc lưỡi bỏ qua. Có lẽ thời đó quy định của ngành hàng không dân dụng vẫn chưa khắt khe như vậy.
+
+Tuy nhiên, khi lại tập trung vào ba hộp quà, Lý Mục không nhịn được mà hỏi cô: "Bố em là đại gia (local tyrant) à?"
+
+"Đại gia sao?"
+
+Triệu Tử Thu chưa quen với cách dùng từ này. Cô vội vàng xua tay: "Bố em không phải đại gia đâu. Anh đừng có dán nhãn lung tung."
+
+Lý Mục mỉm cười. Dù sao thì cũng chỉ là tặng vài bao thuốc để cảm ơn anh bạn của con gái. Lý Mục thực sự tin chắc đây là bộ quà tặng Gấu Trúc bản đặc biệt cực kỳ quý hiếm.
+
+Triệu Tử Thu vẫn tiếp tục phân bua: "Chủ yếu là nó nặng quá nên em không muốn mang nhiều. Với lại em cũng không muốn anh hút quá nhiều thuốc. Anh hút cho vui thôi nhé."
+
+Thấy cô nói năng nghiêm túc, Lý Mục bảo: "Đúng lúc đấy, để anh làm một điếu trước đã."
+
+Triệu Tử Thu gật đầu: "Anh cứ hút đi. Dù sao mình cũng không vội về trường mà."
+
+Lý Mục mở một hộp quà, rút một điếu thuốc ra, dùng chiếc bật lửa bên trong châm lửa rồi rít một hơi thật sâu. Cảm giác thật là kỳ diệu.
+
+Hương vị thuốc lá thật đằm và êm, cậu có thể cảm nhận được chút dư vị ngọt ngào nơi cổ họng. Khói thuốc đi từ khí quản xuống phổi mà không hề gây cảm giác sặc hay khó chịu chút nào. Cậu gần như say lòng sau khi thưởng thức điếu thuốc đó.
+
+Triệu Tử Thu đưa tay lên xua bớt khói và hỏi Lý Mục: "Tối nay em mời anh đi ăn nhé. Anh muốn ăn gì nào?"
+
+Lý Mục nhìn cô, ánh mắt vô thức hơi hạ xuống thấp một chút. Cậu nhìn theo nhịp phập phồng của lồng ngực cô, phả ra một làn khói rồi thở dài: "Nếu muốn đi ăn, chúng ta nên đến một nơi nào đó trang trọng một chút, nếu không em sợ anh lại gặp rắc rối nữa mất."
+
+Triệu Tử Thu thấy cậu cứ nhìn chăm chằm vào ngực mình rồi nói những lời như vậy, cô thừa hiểu ý cậu là gì. Cô ngượng ngùng và có chút thẹn thùng đáp: "Nếu anh không thích em mặc kiểu đồ này, thì sau này em sẽ mặc đồ thể thao rộng rãi hơn vậy."
+
+Lý Mục buột miệng: "Đừng. Có thứ tốt như vậy sao lại phải giấu đi chứ? Với lại, có muốn giấu cũng chẳng giấu nổi đâu."
+
+Lần lỡ lời vô ý này của cậu khiến mặt Triệu Tử Thu đỏ bừng lên như một trái táo chín.
+
+Lý Mục thầm tự trách mình đã phạm sai lầm. Cậu dù sao cũng đã là tâm hồn của một gã trung niên, về lý mà nói thì không nên có những hành động phù phiếm như vậy. Cậu thực sự không biết mình bị làm sao nữa. Phải chăng cô gái bên cạnh cậu có một sức quyến rũ ma mị khiến người ta phải mụ mị cả tâm trí!
