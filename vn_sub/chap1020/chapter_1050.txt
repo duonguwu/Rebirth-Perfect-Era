@@ -1,0 +1,42 @@
+Chương 1050
+
+Kể từ khi đặt chân đến Mỹ, Lý Mục đã tung ra một chuỗi "đòn phối hợp" dồn dập. Kết quả trực tiếp nhất của chuỗi đòn này chính là sự bùng nổ của người dùng "Thành Phố Thiên Đường" (Paradise Town) tại thị trường Mỹ. Dưới sự thúc đẩy từ hai đợt hoạt động với giải thưởng hàng chục triệu đô, Paradise Town như được chắp thêm đôi cánh, tăng trưởng không ngừng nghỉ, khiến toàn bộ bộ phận MSN của Microsoft phải đứng ngồi không yên.
+
+Ở giai đoạn này, MSN có bốn mảng kinh doanh cốt lõi: Cổng thông tin MSN, MSN Network Access, MSN Messenger và MSN Hotmail. Trong đó, MSN Messenger là phần mềm nhắn tin tức thời – đối thủ trực diện của YY. Cổng thông tin và Hộp thư MSN cũng là những mảng quan trọng với hơn 100 triệu người dùng. Tuy nhiên, người lo sợ nhất trước sự trỗi dậy của YY dĩ nhiên là MSN Messenger – sản phẩm có cùng định vị nhưng trình độ phát triển thì lạc hậu hơn YY tới vài thế hệ.
+
+Trong mắt họ, "Thành Phố Thiên Đường" giống như bệ phóng cho "quả bom hạt nhân" mang tên YY. Mỗi khi số lượng người dùng game tăng lên, góc của bệ phóng lại càng hướng về vị trí thẳng đứng. Một khi bệ phóng đạt tới góc 90 độ lý tưởng, Lý Mục sẽ không ngần ngại mà kích hoạt quả bom YY đầy uy lực đó. Mọi người ở Microsoft đều hiểu rất rõ rằng: một khi YY sử dụng "Thành Phố Thiên Đường" để thực hiện màn ra mắt hoàn hảo trước cư dân mạng Mỹ, MSN sẽ phải đối mặt với một thảm họa thực sự.
+
+Dù Microsoft đã âm thầm phát triển phiên bản mới và sao chép nhiều tính năng độc đáo của YY, nhưng họ vẫn thiếu đi sự thấu hiểu sâu sắc về tương lai của Internet như Lý Mục. Ngay cả khi bản mới ra đời, nó vẫn thua xa YY. Điều này cũng dễ hiểu. Giống như khoảng cách giữa các hãng xe nội địa và xe hơi ở các nước phát triển vậy, dù có tham khảo vô số mẫu mã thành công của nước ngoài, xe nội địa vẫn luôn tụt hậu về động cơ, khung gầm hay hộp số. Đó là khoảng cách khách quan về trình độ công nghệ.
+
+Microsoft dù rất mạnh nhưng không phải là một doanh nghiệp vạn năng trong ngành Internet. Ở kiếp trước, MSN luôn là một sản phẩm tệ hại trong mắt Lý Mục, cho thấy Microsoft thực tế không có "gen" làm phần mềm giao tiếp xã hội. Vì thế ngay cả khi muốn bắt chước Lý Mục ở kiếp này, họ cũng không có đủ tố chất để làm điều đó. Đằng sau nhiều tính năng tinh tế của YY là những rào cản bằng sáng chế kỹ thuật riêng của Mục Dã Công Nghệ: Từ việc lưu trữ tin nhắn trên đám mây, gửi file ngoại tuyến, cho đến logic vận hành nhóm chat, công nghệ truyền dẫn đa phương tiện tiên tiến... tất cả đều là những bài toán mà MSN của Microsoft phải giải quyết từng bước một.
+
+Bên cạnh đó, về mặt thẩm mỹ thiết kế và sự thân thiện với người dùng, Microsoft cũng không phải là đối thủ của Mục Dã. Thẩm mỹ yêu cầu một quá trình tích lũy lâu dài để hình thành phong cách riêng, việc bắt chước thô thiển rất khó tạo nên dấu ấn. Điều này cực kỳ rõ ràng trong ngành ô tô. Trong hơn một thập kỷ tiếp theo, dù có bao nhiêu mẫu xe nước ngoài để tham chiếu, các hãng xe nội địa vẫn khó mà tạo ra được những mẫu xe thực sự nguyên bản và đẹp mắt do thiếu đi tư duy thẩm mỹ cốt lõi. Dĩ nhiên không bàn đến "siêu đạo nhái" như Chúng Thái (Zotye), nhưng một tập đoàn lớn như Microsoft dĩ nhiên không thể làm chuyện trắng trợn như thế.
+
+Chính vì vậy, phiên bản MSN mới đang được phát triển nội bộ vẫn lạc hậu hơn YY cả một thời đại về thiết kế. Hiện tại bản mới này vẫn chưa hoàn thiện, nhiều tính năng then chốt vẫn chưa tìm được giải pháp hiệu quả. Theo kế hoạch, sản phẩm phải mất ít nhất hai tháng nữa mới có thể thử nghiệm rồi mới ra mắt công chúng.
+
+Tuy nhiên, Luis May – người đứng đầu bộ phận MSN và là một trong những Phó chủ tịch tập đoàn Microsoft – không thể chờ đợi thêm được nữa. Một khi "Thành Phố Thiên Đường" bắt đầu dẫn lưu lượng người dùng sang YY, kẻ đầu tiên bị khai tử sẽ là MSN Messenger. Có thể dự đoán rằng khi đó, hầu như toàn bộ người chơi game sẽ lập tức từ bỏ MSN để chuyển sang dùng YY. Thêm vào đó là MSN Hotmail, bản thân YY đã tích hợp sẵn chức năng hộp thư với trải nghiệm tốt hơn nhiều. Điều duy nhất khiến họ còn chút an ủi là Cổng thông tin YY vẫn chưa ra bản tiếng Anh, nếu không ngay cả mảng Portal của MSN cũng sẽ bị ảnh hưởng.
+
+Trong mắt đội ngũ MSN, YY chính là kẻ thù số một. Để ngăn chặn YY bất ngờ chiếm lĩnh thị trường Mỹ thông qua Paradise Town, Luis May đã triệu tập một cuộc họp khẩn cấp và quyết định tung ra phiên bản MSN mới sớm nhất có thể. Yêu cầu của Luis May khiến mọi người vô cùng lo lắng. Trưởng nhóm phát triển báo cáo: "Bản mới vẫn đang trong quá trình xây dựng. Việc ra mắt sớm đồng nghĩa với việc phải dừng phát triển ngay lập tức, loại bỏ tất cả các mục chưa hoàn thiện để đóng gói thử nghiệm. Dù có xong phần đóng gói hôm nay thì cũng mất vài ngày để kiểm thử lỗi."
+
+Luis May gặng hỏi: "Mất bao lâu? Cho tôi một con số cụ thể!"
+Trưởng nhóm phát triển nhíu mày suy nghĩ: "Khoảng năm ngày ạ."
+Luis May gật đầu: "Năm ngày thì vẫn chờ được. Các anh hãy triển khai nhanh nhất có thể."
+Vị trưởng nhóm lại lo lắng: "Nhưng còn rất nhiều chức năng chưa xong. Nếu vội vàng ra mắt thì bản mới chẳng cải thiện được bao nhiêu so với bản cũ."
+Luis May hỏi: "Vậy những gì đã làm xong rồi?"
+"Hiện tại mới chỉ xong tính năng phân nhóm bạn bè tùy chỉnh, ghi chú và trò chuyện nhóm. Các yêu cầu khác vẫn chưa được giải quyết."
+
+Luis May kiên quyết: "Không còn lựa chọn nào khác. Chúng ta buộc phải cập nhật sản phẩm trước khi YY chính thức tung đòn tấn công. Tình hình hiện tại không cho phép chúng ta thong thả xây dựng một sản phẩm hoàn hảo để đối đầu với YY. Chúng ta cần làm mọi cách để kháng cự lại sức ảnh hưởng của họ. Cho nên dù hiện tại chỉ có một tính năng mới xong thì cũng phải đưa nó lên mạng ngay. Nếu không, một khi YY xuất chiêu trước, chúng ta sẽ không thể nào chống đỡ nổi."
+
+MSN Messenger hiện tại giống như một pháo đài. Trước khi quân đội của YY chính thức đổ bộ, Microsoft phải làm mọi cách để gia cố pháo đài này. Dù chỉ thêm được vài khẩu súng máy thì cũng phải lắp đặt ngay lập tức. Nếu không, một khi YY đã chiếm được cứ điểm và phá hủy hoàn toàn hầm trú ẩn của Microsoft, việc nâng cấp sau đó sẽ là quá muộn. Đội ngũ vận hành MSN tặc lưỡi: "Với chỉ bấy nhiêu tính năng, chúng ta vẫn quá yếu thế trước YY."
+
+"Yếu cũng phải làm!" Luis May thốt lên: "Chúng ta không còn nhiều thời gian. Lý Mục đầu tư hàng chục triệu đô vào Paradise Town mục đích cuối cùng là để đưa YY tới trước mắt cư dân mạng Mỹ. Chúng ta phải nâng cấp sản phẩm ngay để giữ chân người dùng!". Bà tiếp tục: "Chúng ta sẽ tiến hành theo hai hướng: một là nâng cấp bản hiện có ngay lập tức, hai là tiếp tục phát triển chuyên sâu và đẩy nhanh tốc độ. Phải giống như tiếp tế đạn dược cho tiền tuyến vậy, đừng đợi đủ một kho rồi mới gửi. Phải dùng chiến lược giao hàng thần tốc. Từ giờ, hãy cập nhật phiên bản 1.0 nhanh nhất có thể, sau đó khi có tính năng mới lại cập nhật ngay bản 2.0!"
+
+...
+
+Sau khi phát động "Cuộc thi Toàn cầu Ngày Lễ Tạ Ơn", sự hào hứng của các quỹ đầu tư dành cho Mục Dã Công Nghệ càng tăng cao, đến mức chi nhánh Silicon Valley mỗi ngày phải đón tiếp vô số nhân viên từ các công ty đầu tư mạo hiểm. Tuy nhiên, thái độ của Mục Dã rất hời hợt. Những người này may mắn lắm mới được mời một cốc nước lọc, còn yêu cầu gặp Lý Mục hay Lâm Thanh Nhã đều bị từ chối phũ phàng.
+
+Trong số đó, Sequoia là bên vội vã nhất. Mấy ngày trước họ nghe Larry Page nói rằng Lý Mục sẽ mở lại cửa sổ đàm phán sau khi "bước đi tiếp theo" hoàn thành. Họ đinh ninh cuộc thi Lễ Tạ Ơn chính là bước đi đó nên cuống cuồng tìm mọi cách. Thậm chí Elon Musk cũng bị kéo vào làm người thuyết khách, hy vọng giúp Sequoia đặt được một cuộc hẹn. Tuy nhiên, Lý Mục không nể mặt Musk chút nào, chỉ lạnh lùng đáp rằng cơ hội đàm phán vẫn chưa tới. Điều này khiến Sequoia càng lo sốt vó: Cơ hội chưa tới ư? Chẳng lẽ Lý Mục vẫn còn chiêu bài nào khác phía sau?
+
+Cuối cùng, đường cùng, trụ sở chính Sequoia đã yêu cầu văn phòng Sequoia Hoa Hạ liên hệ trực tiếp với Đinh Chính Lâm – người phụ trách mảng vận hành vốn tại Mục Dã. Đinh Chính Lâm vốn xuất thân từ Sequoia nên có chút thâm tình cũ. Họ hy vọng dù chưa bàn chuyện gọi vốn thì cũng sắp xếp được một buổi gặp mặt xã giao. Thế nhưng Đinh Chính Lâm cũng chẳng màng tới cái thâm tình đó, anh lạnh lùng đáp lại: "Tạm thời không được."
+
+Thái độ của Lý Mục rất rõ ràng: Bất kể các ông nói gì, tôi sẽ không bàn chuyện tiền bạc vào lúc này. Cho dù các ông có lôi cả Tổng thống Mỹ đến cũng vô ích. Bởi vì Lý Mục vẫn còn giữ một quân bài tẩy cuối cùng chưa lật. Anh đã dùng "Thành Phố Thiên Đường" làm bệ phóng, và giờ là lúc để phiên bản YY mới nhất chính thức xuất trận.

@@ -1,0 +1,57 @@
+Chương 1038
+
+Suốt cả một ngày hôm đó, Lý Mục đều dùng cùng một phương thức để phô diễn sức mạnh. Có thể nói chỉ trong vòng một ngày, Lý Mục đã đắc tội với tất cả các ông lớn trong giới đầu tư mạo hiểm tại Thung lũng Silicon.
+
+Giá khởi điểm từ 17 tỷ USD cùng thái độ không chịu thỏa hiệp đã khiến tất cả các nhà đầu tư nghĩ rằng Lý Mục bị điên. Anh ta đơn giản là quá ngạo mạn và đánh giá quá cao bản thân mình. Đừng nói đến việc mọi người không công nhận mức định giá 17 tỷ USD kia, dù có công nhận đi chăng nữa thì quy mô công ty của anh cũng chưa phải hàng tốp đầu tại Silicon Valley. Lấy cái quyền gì mà kiêu ngạo đến thế?
+
+Thực ra Lý Mục không phải kiểu người ngông cuồng vô lối. Lý do anh tỏ thái độ cứng rắn như vậy là vì muốn các nhà đầu tư cảm nhận được sự tương phản cực lớn. Không công nhận mức giá khởi điểm 17 tỷ USD của tôi cũng chẳng sao. Cứ chờ đi, tôi sẽ khiến các ông phải tự động tìm đến và chấp nhận con số đó. Nhưng lúc đó, giá khởi điểm của tôi sẽ không còn đơn giản là 17 tỷ USD nữa đâu.
+
+Vì vậy, sau khi dành ra một ngày để "gây hấn" với giới đầu tư Silicon Valley, Lý Mục không còn tiếp khách nữa. Thế giới bên ngoài đồn đoán rằng anh đã phải nếm mùi thất bại ngay khi vừa đặt chân tới nước Mỹ. Nhiều tờ báo giật tít: "Thiên tài Internet Hoa Hạ nếm mùi Waterloo tại Silicon Valley. Sự ngạo mạn quá mức khiến các nhà đầu tư quay lưng. Hiện tại chưa có tin tức về việc bất kỳ quỹ đầu tư nào tiếp tục đàm phán với Lý Mục. Nghi vấn Lý Mục vẫn chưa thoát khỏi cú sốc thất bại này."
+
+Trong thoáng chốc, cả Thung lũng Silicon đều tưởng rằng Lý Mục đã thực sự gục ngã sau đòn đau. Thế nhưng Lý Mục chẳng thèm bận tâm.
+
+Anh lập tức tổ chức một cuộc họp video với đội ngũ quảng bá đang có mặt rải rác trên khắp nước Mỹ cùng đội ngũ hỗ trợ trong nước. Nội dung cốt lõi của cuộc họp chỉ có một: nhanh chóng đẩy mạnh sự kiện "Paradise Town Cup".
+
+Tất cả các kế hoạch trước đó phải được triển khai ngay lập tức, đồng thời thêm vào một chức năng mới: Tất cả các thí sinh tham gia đều có thể đặt một màn hình rạp chiếu phim hoạt hình trong thị trấn riêng của mình, và họ có thể quay một đoạn video dài 60 giây rồi tải lên đó. Một khi được phê duyệt, tất cả người dùng khác đều có thể xem video ngay trong thị trấn của thí sinh đó.
+
+Đã là nền kinh tế người nổi tiếng (KOL) thì cần phải mang lại cho các "hot girl" những cơ hội lộ diện trực quan và đa chiều hơn. Không chỉ là hình ảnh hay âm thanh, mà còn phải là video. Dùng video để kích thích sự cuồng nhiệt của người hâm mộ chính là giải pháp hiệu quả nhất trong ngành Internet.
+
+Với trình độ công nghệ và phần cứng hiện tại, Lý Mục chưa thể thực hiện livestream toàn quốc. Ngay cả cả ngành Internet cũng phải mất ít nhất vài năm nữa mới đạt tới giai đoạn đó. Tuy nhiên, Lý Mục có thể tối giản hóa livestream ở mức cao nhất. Một số lượng nhỏ các ứng cử viên có thể tải lên các video ngắn sử dụng giải pháp truyền thông trực tuyến (streaming media) của Mục Dã Công Nghệ.
+
+Khi đó, những cô gái tham gia cuộc thi chắc chắn sẽ làm mọi cách để video của mình trở nên hấp dẫn hơn trong mắt khán giả, dù là vì sự nổi tiếng, vì thu nhập hay vì giải thưởng lớn. Một khi các video này được tung ra, nó chắc chắn sẽ thổi bùng ngọn lửa cuồng nhiệt của toàn bộ sự kiện.
+
+Mục Dã Công Nghệ sở hữu đội ngũ kỹ thuật hùng hậu và đã có sẵn dự trữ về công nghệ streaming. Việc phát triển thêm một chức năng nhỏ như vậy dựa trên nền tảng sẵn có là quá dễ dàng. Ngay khi Lý Mục phát lệnh, toàn bộ đội ngũ kỹ thuật lập tức làm việc hết công suất để nhanh chóng phát triển, thử nghiệm và hiệu chỉnh.
+
+Đồng thời, đội ngũ quảng bá trên toàn nước Mỹ cũng đã sẵn sàng. Các tài liệu quảng cáo cho "Paradise Town Cup", các nguồn lực marketing online và offline đều đã vào vị trí. Một khi khởi động, sẽ có những thông báo chạy liên tục trong trò chơi "Thành Phố Thiên Đường" để đảm bảo sự kiện này nhanh chóng bùng nổ tại các trường đại học trên khắp nước Mỹ.
+
+Trong mắt giới công nghệ Silicon Valley, Lý Mục và cả tập đoàn Mục Dã dường như đã im hơi lặng tiếng suốt hai ngày qua. Mọi người đều chờ đợi khoảnh khắc anh phải cúi đầu trước thị trường vốn. Thế nhưng không ai hay biết rằng, Lý Mục đã bí mật chôn giấu một "quả bom" Internet hạng nặng tại các trường đại học Mỹ, chỉ chờ giờ G để phát nổ.
+
+...
+
+Hàng ngàn km cách đó tại Cambridge, bang Massachusetts, Mark Zuckerberg cuối cùng cũng nảy ra một ý tưởng mới trong ký túc xá Đại học Harvard sau nhiều ngày "mê mệt" với "Thành Phố Thiên Đường".
+
+Hiện tại trò chơi này đang quá hot. Nữ thần trong lòng Mark là Fiona đã trở thành một trong những cái tên được săn đón nhất tại Harvard. Fiona chẳng cần phải làm gì nhiều mỗi ngày, chỉ riêng tiền quà tặng nhận được cũng đã lên tới vài ngàn, thậm chí có hôm tới cả chục ngàn USD. Sức chi tiêu khủng khiếp của người hâm mộ Fiona khiến Mark Zuckerberg thực sự kinh ngạc.
+
+Sau khi kế hoạch thu hút sự chú ý của nữ thần thất bại, Mark bắt đầu tìm kiếm cảm hứng từ sự thành công của "Thành Phố Thiên Đường". Anh tin rằng trò chơi này đã mở ra một kỷ nguyên mới cho nền kinh tế fan hâm mộ trực tuyến, điều này thôi thúc anh rất lớn. Sau khi cân nhắc kỹ lưỡng, anh quyết định ra mắt một trang web để bình chọn cô gái xinh đẹp nhất trường. Anh thậm chí đã nghĩ ra một cái tên: "Facemash".
+
+Ý tưởng của Mark là biến Facemash trở thành một trang web hiển thị thông tin về các mỹ nhân của các trường đại học lớn, để người hâm mộ vào bình chọn cho họ, từ đó chọn ra hoa khôi của từng trường. Anh cũng hy vọng phát triển một hệ thống quản trị (backstage) để mỗi hoa khôi có thể tự cập nhật trang chủ, đăng ảnh cá nhân và thậm chí đăng tin nhắn kêu gọi fans bầu chọn.
+
+Ngoài ra, quan trọng hơn cả là Mark dự định bắt chước hệ thống quà tặng của "Thành Phố Thiên Đường" vào sản phẩm của mình, để khán giả không chỉ bầu chọn mà còn có thể để lại lời nhắn, tương tác và tặng quà cho các nữ thần. Một khi hệ thống quà tặng được xây dựng xong, Facemash có thể kết nối với PayPal để fans trực tiếp thanh toán online, sau đó nền tảng sẽ phân chia lợi nhuận với các mỹ nhân. Bằng cách này, người hâm mộ chi tiền cho người đẹp, còn người đẹp và nền tảng thì kiếm tiền dựa trên sự trung thành của fan. Mô hình kinh doanh bỗng chốc trở nên vô cùng rõ ràng.
+
+Mark Zuckerberg tin chắc rằng một khi mô hình kinh doanh đã rõ ràng và khả thi, đó chắc chắn là một dự án tốt. Facemash chính là dự án khởi nghiệp sinh viên đầu tiên trong mắt anh.
+
+Quyết tâm thực hiện Facemash, Mark chủ động mời người bạn cùng phòng Dustin Moskowitz tham gia. Tuy nhiên, Dustin lúc này lại đang hoàn toàn đắm chìm trong "Thành Phố Thiên Đường", chính xác hơn là đắm chìm trong việc chơi game và tán tỉnh cô bạn cùng lớp Monica mà anh thầm mến. Vì mối quan hệ với Monica ngoài đời đang tiến triển rất nhanh nhờ chơi game chung nên Dustin chẳng còn tâm trí đâu mà khởi nghiệp. Tất cả những gì anh nghĩ đến là làm sao để sớm xác lập mối quan hệ và biến Monica thành bạn gái thực sự của mình.
+
+Sự từ chối của người bạn cùng phòng không làm dập tắt nhiệt huyết của Mark. Anh lập tức đăng ký tên miền Facemash và bắt đầu phát triển mã nguồn cũng như giao diện trang web. Nếu chỉ là một trang hiển thị đơn thuần thì khối lượng công việc không quá lớn. Nhưng nếu có cả hệ thống front-end và back-end riêng biệt kèm theo nhiều chức năng phức tạp, khối lượng công việc sẽ tăng lên theo cấp số nhân.
+
+Nếu như ở kiếp trước, Mark chỉ thiết kế một trang hiển thị đơn giản kèm tính năng bình chọn, thì ở kiếp này, dưới sự dẫn dắt và tác động vô hình của Lý Mục, yêu cầu về sản phẩm của Mark cho Facemash đã thay đổi chóng mặt. Trên nền tảng cũ, anh không chỉ phải phát triển hệ thống đăng nhập và khu vực dành cho người dùng thông thường mà còn phải xây dựng hệ thống quản lý riêng cho các mỹ nhân và thiết kế cả một hệ thống quà tặng hoàn chỉnh.
+
+Khối lượng công việc khổng lồ khiến Mark có chút do dự lúc ban đầu. Anh từng nghĩ đến chuyện bỏ cuộc hoặc chuyển sang cách làm đơn giản hơn, nhưng sau khi cân nhắc kỹ, anh quyết định kiên trì. Trong mắt Mark, Lý Mục chính là hình mẫu lý tưởng nhất. Hai người trạc tuổi nhau nhưng anh ta đã là một ông trùm sở hữu khối tài sản hàng chục tỷ USD. Mark mới chỉ là sinh viên năm nhất Harvard, nếu muốn thành công như vậy thì con đường duy nhất là phải nỗ lực gấp nhiều lần.
+
+Nghĩ đến đó, Mark Zuckerberg như được tiêm thuốc kích thích. Anh ngồi lì trước máy tính ngày đêm để viết code. Dustin cũng phải ngạc nhiên trước sự chăm chỉ của bạn mình, anh chưa bao giờ thấy Mark làm việc điên cuồng đến thế. Đôi lúc Dustin cũng có ý định tham gia cùng, nhưng cứ quay đầu lại là anh lại bị Monica thu hút. Chỉ cần Monica lên tiếng, anh sẵn sàng bật dậy lúc 3 giờ sáng để chơi game cùng cô. Hiện tại, Monica chính là cả thế giới của anh.
+
+Điều đầu tiên Mark tập trung chính là hệ thống quà tặng của Facemash. Sau vài ngày làm việc cật lực, hệ thống cuối cùng cũng có một bản beta tương đối hoàn chỉnh. Đúng lúc anh đang hừng hực khí thế muốn chạy thử chức năng mới thì Dustin đi học về. Thấy Mark đang bận, Dustin không làm phiền mà theo thói quen bật máy tính lên để vào "Thành Phố Thiên Đường" làm vài nhiệm vụ. Vừa khéo Monica sắp về tới phòng và sẽ lên mạng ngay. Anh đã hứa với cô là sẽ giúp cô làm thêm nhiệm vụ để tăng cấp nhanh hơn.
+
+Hệ thống nhiệm vụ của trò chơi này có tính tương tác rất cao. Các nhiệm vụ thường yêu cầu người dùng cung cấp một loạt các mặt hàng ngẫu nhiên không liên quan đến nhau, ví dụ như vài chục trái bắp, ít sữa và kem. Nếu không thu thập đủ, nhiệm vụ sẽ luôn ở trạng thái chưa hoàn thành. Nếu số lượng nhiệm vụ tồn đọng quá nhiều, người chơi sẽ không thể nhận thêm nhiệm vụ mới. Trong trường hợp đó, sự giúp đỡ của bạn bè là cực kỳ quan trọng. Người chơi có thể trực tiếp gửi yêu cầu hỗ trợ và nhờ bạn bè cung cấp nguyên liệu thiếu hụt. Khi bạn bè giúp hoàn thành, họ cũng sẽ nhận được phần thưởng từ hệ thống. Ngoài ra, người chơi còn có thể trực tiếp trao đổi vật phẩm với nhau. Bằng cách này, nếu một người sẵn sàng hy sinh lợi ích cá nhân để hỗ trợ người kia thăng cấp, đó sẽ là một sự giúp đỡ tuyệt vời.
+
+Dustin dĩ nhiên rất hạnh phúc khi được giúp đỡ nữ thần Monica của mình, bởi trong lúc hai người cùng làm nhiệm vụ, tình cảm giữa họ cũng không ngừng được bồi đắp. Với Dustin, việc vừa được chơi game vừa chiếm được cảm tình của người đẹp chính là điều hời nhất trên đời.

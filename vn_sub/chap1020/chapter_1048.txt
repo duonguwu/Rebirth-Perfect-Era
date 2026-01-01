@@ -1,0 +1,39 @@
+Chương 1048
+
+Niềm đam mê lớn nhất cuộc đời Larry Page chính là nỗ lực số hóa mọi thứ trong thế giới thực. Anh được truyền cảm hứng từ mô hình thư viện ở trường đại học và đã tạo ra công cụ tìm kiếm Google. Sau khi thành lập Google, anh đã đầu tư hơn 400 triệu USD và mất mười năm để số hóa hơn 20 triệu cuốn sách vật lý trên thế giới, từ đó Google Books ra đời.
+
+Ngoài ra, từ thế kỷ trước, anh đã thử dùng máy ảnh di động để chụp hình khi đang lái xe. Theo phương pháp của anh lúc đó, cứ sau 100 mét anh sẽ dừng lại chụp vài tấm ảnh rồi gửi vào máy tính. Từ đó anh nảy ra ý tưởng số hóa chế độ xem phố (street view) toàn cầu và đưa lên mạng cho người dùng duyệt. Vài năm sau, Google Street View (Chế độ xem phố) ra mắt. Thông qua vô số chiếc xe chuyên dụng, mọi người có thể thưởng ngoạn phong cảnh của hàng chục quốc gia, hàng ngàn thành phố và hàng triệu con phố trên Internet mà không cần rời khỏi nhà. Tiếp đó, anh sử dụng công nghệ chụp ảnh vệ tinh và hàng không tiên tiến để chụp "bức ảnh" 360 độ về trái đất, và Google Earth ra đời.
+
+Hiện tại, Larry Page đang thực hiện nỗ lực số hóa quy mô lớn đầu tiên của mình: Google Books. Anh từng nghĩ rằng trên đời này sẽ không có ai có cùng ý tưởng điên rồ như mình là số hóa toàn bộ sách trên thế giới rồi đưa lên mạng. Thế nhưng, anh không ngờ rằng Lý Mục chỉ bằng vài phép ẩn dụ đã đưa ra mô hình này như một gợi ý cho chính mình. Điều này khiến Larry Page vừa có chút lo lắng lại vừa thấy bối rối.
+
+Anh lo lắng vì sợ Lý Mục cũng hứng thú với mô hình này. Google hiện đang làm việc đó nhưng chưa có ưu thế vượt trội so với Mục Dã Công Nghệ, mọi thứ cũng mới chỉ bắt đầu. Nếu Mục Dã cũng nhảy vào, họ sẽ rất dễ dàng đuổi kịp. Anh bối rối vì không biết trả lời Lý Mục thế nào. Một mặt anh không muốn tiết lộ rằng Google thực sự đang làm việc này; mặt khác nếu không nói ra, sau này khi ra mắt Google Books, Lý Mục chắc chắn sẽ nghĩ anh lấy cảm hứng từ gợi ý của mình, việc đó thật sự rất ngượng ngùng. Một người nghiêm túc như Larry Page vốn rất coi trọng nguồn gốc của các ý tưởng. Anh không muốn dự án tâm huyết của mình bị hiểu lầm là đạo nhái ý tưởng của người khác.
+
+Sau khi cân nhắc kỹ lưỡng, Larry Page quyết định nói thật với Lý Mục: "Anh Lý, tôi sẽ tiết lộ cho anh một bí mật. Dự án Google Books thực sự đã được triển khai rồi. Mục tiêu của chúng tôi là đưa toàn bộ sách trong đời thực lên không gian Internet."
+
+Lý Mục vờ như ngạc nhiên thốt lên: "Đó quả là một khối lượng công việc khổng lồ!"
+Larry Page gật đầu, mỉm cười: "Dù có khổng lồ đến đâu cũng không sao. Đây là một trong số ít những giấc mơ của đời tôi. Ngay cả khi phải từ bỏ mọi thứ, tôi cũng sẽ hoàn thành nó." Anh cố tình nói một cách kiên định như vậy vì hy vọng Lý Mục sẽ không nhòm ngó tới dự án này nữa. Khi biết anh đang dốc toàn lực cho nó, có lẽ đối phương sẽ lùi bước.
+
+Lý Mục mỉm cười thản nhiên: "Đó là một giấc mơ vĩ đại. Tôi tin anh có thể biến nó thành hiện thực."
+Larry Page thở phào nhẹ nhõm, cười đáp lại: "Mục Dã Công Nghệ cũng rất tuyệt vời. Tôi nghĩ YY có cơ hội trở thành sản phẩm cốt lõi cho việc giao tiếp của nhân loại trong thế giới mạng tương lai. Loại hình giao tiếp này có thể xuyên biên giới. Nếu YY phát triển tốt, nó thậm chí có thể gánh vác việc liên lạc trực tuyến của toàn nhân loại."
+
+Lý Mục khiêm tốn: "Anh Page, mục tiêu gánh vác cả nhân loại thì quá tham vọng rồi. Hiện tại tôi chỉ muốn làm tốt thị trường Mỹ mà thôi."
+Larry Page nhình Lý Mục: "Anh Lý, các sản phẩm Internet vốn là những sản phẩm ít bị hạn chế về mặt địa lý nhất. Khi Google được thành lập, tôi cũng không ngờ nó có thể đạt đến giai đoạn như hôm nay, thậm chí còn không dám mơ tới nữa là. Giờ đây Google đã trở thành công cụ trực tuyến tất yếu của mọi người trên toàn thế giới. Sản phẩm tốt thì không có biên giới. Chỉ cần sản phẩm được tung ra, nó chắc chắn sẽ chinh phục được nhiều người dùng hơn. Nguyên tắc này cũng áp dụng cho YY vậy." Page khẳng định: "Theo tôi, YY chỉ còn cách việc bùng nổ toàn cầu đúng một bước chân nữa thôi."
+
+Lý Mục tò mò: "Bước chân đó là gì?"
+Larry Page dứt khoát: "Gọi vốn! Những công ty bình thường dùng thời gian để đổi lấy tiền bạc, còn những công ty vĩ đại dùng tiền bạc để đổi lấy thời gian. Thứ YY cần lúc này là phát triển thần tốc. Sau khi gọi vốn thành công, các anh có thể lập tức tiến ra thị trường toàn cầu."
+
+Lý Mục gật đầu: "Việc gọi vốn thực tế đang được tiến hành, nhưng Mục Dã Công Nghệ không quá vội vàng."
+Larry Page hỏi: "Anh đã có ý định thiên về cái tên nào chưa?"
+Lý Mục cười: "Về lý thuyết, dĩ nhiên chúng tôi sẽ nghiêng về phía ai chịu chi nhiều tiền hơn rồi."
+Larry Page đề nghị: "Để tôi giới thiệu cho anh một công ty đầu tư mạo hiểm nhé."
+Lý Mục hỏi lại: "Anh Page định giới thiệu Sequoia cho tôi sao?"
+
+Biểu cảm của Larry Page có chút không tự nhiên, anh nói: "Vòng gọi vốn quan trọng nhất của Google là do Sequoia dẫn đầu. Dựa trên sự hợp tác lâu dài của chúng tôi, tôi nghĩ Sequoia chắc chắn là nhà đầu tư mạo hiểm tốt nhất trong ngành này."
+Lý Mục đáp: "Sequoia rất tốt, nhưng với Mục Dã Công Nghệ, quan trọng nhất vẫn là ai chi đậm hơn thôi."
+Larry Page thuyết phục thêm: "Sequoia có các mối quan hệ trên thị trường vốn rất mạnh. Nếu sau này các anh lên sàn, Sequoia sẽ đóng vai trò cực kỳ lớn. Họ cũng đang lên kế hoạch cho Google lên sàn chứng khoán. Một khi đã lên sàn, không gian phát triển của công ty sẽ rộng mở hơn nhiều."
+
+Lý Mục nghe xong liền cười hỏi: "Anh Page, có phải hôm nay anh đang nói giúp cho Sequoia không?"
+Bị Lý Mục "bắt bài", Larry Page hơi ngượng. Anh gãi đầu cười xòa: "Khi vị CEO của Sequoia nghe tin tôi sắp gặp anh, ông ấy đã cố ý dặn tôi tìm cách thuyết phục anh đấy."
+"Thuyết phục tôi?" Lý Mục tò mò: "Thuyết phục điều gì? Thuyết phục tôi chấp nhận cái mức giá 16,5 tỷ USD đó sao?"
+
+Larry Page vội đính chính: "Dĩ nhiên là không rồi. Con số 16,5 tỷ đó là do họ chưa hiểu rõ giá trị thực tế của Mục Dã Công Nghệ. Hiện tại họ đã đặt ra một mức giá mới, và đó là một mức giá cực kỳ chân thành. Tuy nhiên, họ không có cơ hội được ngồi lại nói chuyện tử tế với anh, nên họ hy vọng tôi có thể chuyển lời rằng họ thực sự muốn gặp để đàm phán trực tiếp."
