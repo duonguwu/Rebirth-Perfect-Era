@@ -1,0 +1,1373 @@
+Chương 1020
+
+Trên khuôn viên trường Harvard, chàng trai 19 tuổi Mark Zuckerberg không hề nổi bật.
+
+Mặc dù Mark Zuckerberg đã có một số thành tựu về lập trình từ lâu trước khi vào Harvard, và anh từng được một công ty lớn như Microsoft để mắt tới, nhưng ở một trường đại học đề cao cá tính, một chàng trai như anh hoàn toàn không được săn đón.
+
+Mark Zuckerberg là một trong những "mọt sách" (nerds) và "kẻ lập dị" trên khuôn viên Harvard. Hầu hết các cô gái đều không mấy mặn mà với một chàng trai như vậy. Họ thích những anh chàng điển trai, con nhà giàu (phú nhị đại), những thành viên khỏe mạnh của đội bóng bầu dục trường, hay thành viên của ban nhạc học đường. Có một khoảng cách rất lớn giữa những "người nổi tiếng" đó và Mark Zuckerberg.
+
+Giống như tất cả các trường đại học khác, nam sinh Harvard thích những cô nàng nóng bỏng, tóc vàng, mắt xanh và cao ráo. Dù là một tay sát gái (Casanova) nổi tiếng hay những mọt sách như Mark Zuckerberg, họ đều dành sự quan tâm đặc biệt cho mọi cô nàng hot girl trong trường.
+
+Những mọt sách như Mark Zuckerberg, mỗi khi tụ tập riêng tư, chủ đề họ bàn tán nhiều nhất chính là những cô gái xinh đẹp nhất khuôn viên trường.
+
+Một ngày nọ, khi Mark Zuckerberg từ thư viện trở về ký túc xá, người bạn cùng phòng của anh, Dustin Moskovitz, đang tập trung cao độ vào thứ gì đó trước máy tính. Mark Zuckerberg tò mò hỏi Dustin Moskovitz: "Dustin, cậu đang làm gì thế? Hôm nay cậu không đi thư viện à?"
+
+"Tớ không đi thư viện." Dustin Moskovitz nói mà không ngẩng đầu lên: "Tớ tìm thấy thứ gì đó thú vị hơn nhiều."
+
+Mark Zuckerberg bĩu môi, quẳng cặp sách xuống, ngồi lên giường và vươn vai. Anh nói với vẻ mặt hơi u sầu: "Hôm nay tớ không thấy Fiona ở thư viện. Bình thường tối nào cô ấy cũng ở thư viện một tiếng mà."
+
+Dustin Moskovitz bật cười nói: "Quên đi, Fiona là cô gái xinh đẹp nhất của khối đại học đấy. Người theo đuổi cô ấy có thể xếp hàng dài quanh Harvard. Nghe nói cô ấy đã có bạn trai rồi, gia thế rất khủng, cha mẹ còn là thành viên của Hội Tam Điểm (Freemasonry) nữa. Tớ khuyên cậu nên đổi sang một mục tiêu thực tế hơn."
+
+Mark Zuckerberg đã quen với việc bị Dustin Moskovitz dội gáo nước lạnh nên anh cũng chẳng bận tâm. Anh chỉ mỉm cười bất lực và nói: "Tớ đâu có ý định theo đuổi Fiona. Tớ chỉ muốn nhìn cô ấy thêm vài lần thôi."
+
+Mark Zuckerberg liếc nhìn màn hình máy tính của Dustin Moskovitz và ngạc nhiên hỏi: "Dustin, cậu đang chơi trò gì thế? Trông giống như phim hoạt hình vậy."
+
+"Chết tiệt!" Dustin Moskovitz sực tỉnh, thốt lên: "Tớ quên chưa nói với cậu, trò chơi này cực kỳ hay và vui luôn!"
+
+Mark Zuckerberg nói vẻ không mấy mặn mà: "Tớ không hứng thú với trò chơi điện tử."
+
+Sau đó Mark nói thêm: "Bình thường thôi Dustin, tớ đang muốn làm một trang web để trưng bày và bình chọn các mỹ nhân. Chúng ta có thể đưa tất cả các mỹ nhân ở Harvard vào và để mọi người bình luận, bỏ phiếu. Tớ tin là nó sẽ rất thú vị. Cậu có hứng thú tham gia không?"
+
+Dustin Moskovitz lắc đầu: "Thôi đi Mark. Cho dù cậu có làm mười trang web đi nữa, Fiona cũng chẳng thèm liếc mắt nhìn cậu đâu. Tớ khuyên cậu nên chơi trò này đi. Nữ thần Monica của tớ cũng đang chơi này. Tớ vừa mới vào trang trại của cô ấy hái trộm táo của cô ấy xong. Haha, không biết Monica có nhớ tớ nhiều hơn không khi thấy hệ thống thông báo là 'Dustin Moskovitz đã trộm táo của bạn'."
+
+Mark Zuckerberg tò mò hỏi: "Trộm táo? Cậu chơi một trò chơi chỉ để đi trộm táo á? Có ai lại đi phát triển một trò chơi nhàm chán như thế không?"
+
+Dustin Moskovitz nói: "Này anh bạn, một trò chơi có thể lọt vào mắt xanh của tớ thì chắc chắn không chỉ đơn giản là trộm táo đâu. Cấu trúc của trò này rất lớn, nhưng tớ mới bắt đầu chơi nên cấp độ chưa cao, nhiều chức năng vẫn chưa được kích hoạt."
+
+Dustin Moskovitz nói thêm: "À, mà trong trường cũng có rất nhiều người đang chơi trò này đấy! Tớ đã kết bạn được với hơn năm mươi người rồi, toàn dân Harvard cả."
+
+Mark Zuckerberg vẫn không mấy hứng thú. Anh bĩu môi và cầm một cuốn sách lập trình ở đầu giường lên đọc.
+
+Lúc này, tiếng chuông điện thoại vang lên. Chiếc điện thoại Nokia cũ của Dustin Moskovitz reo hò. Cậu nhấc máy, nhấn nút nghe và hỏi với giọng không mấy vui vẻ: "Ai đấy?"
+
+"Dustin Moskovitz, sao cậu dám trộm táo của tôi hả!!!"
+
+Dustin Moskovitz bị tiếng gầm từ đầu dây bên kia làm cho sững sờ. Trái tim cậu đột nhiên xao động. Cậu phấn khích nghĩ thầm: *Ôi trời ơi, là nữ thần Monica của mình! Mặc dù là bạn cùng lớp nhưng mình mới chỉ nói chuyện với cô ấy vài lần. Kết bạn được với cô ấy trong trò chơi đã là may mắn lắm rồi, không ngờ cô ấy lại chủ động gọi điện cho mình. Cô ấy lại còn có số điện thoại của mình nữa. Ôi trời, vận may gì thế này...?*
+
+Dustin Moskovitz phấn khích đến mức không biết phải trả lời thế nào. Monica ở đầu dây bên kia càng giận hơn khi thấy cậu im lặng. Cô thốt lên: "Dustin, tôi cho cậu hai lựa chọn. Một là cậu phải để tôi trộm lại trang trại của cậu ba lần, à không, năm lần! Hai là tôi sẽ xóa cậu khỏi danh sách bạn bè và không bao giờ thèm nói chuyện với cậu nữa!"
+
+Dustin Moskovitz sực tỉnh, vội vàng nói: "Monica, đừng nói là năm lần, cho dù là năm mươi lần tôi cũng sẵn lòng làm cậu hài lòng!"
+
+Monica không hiểu ý nghĩa sâu xa trong lời nói của cậu, nhưng cô rất hài lòng với thái độ này. Cơn giận của cô ngay lập tức dịu đi, cô nói: "Được thôi! Từ giờ trở đi, mỗi khi cây trồng của cậu chín, cậu phải thông báo cho tôi trước mười phút để tôi vào trộm. Đây là số điện thoại của tôi. Trừ khoảng thời gian từ 12 giờ đêm đến 6 giờ sáng ra, bất cứ khi nào cây sắp chín thì nhắn tin cho tôi ngay!"
+
+"Không vấn đề gì! Cứ giao cho tôi!" Dustin Moskovitz phấn khích đồng ý ngay lập tức.
+
+Monica hài lòng nói: "Năm mươi lần đấy, đừng có quên!" Sau đó cô cúp máy.
+
+Điện thoại đã cúp nhưng Dustin Moskovitz vẫn ngồi ngây ra trước máy tính với vẻ đầy hưng phấn. Mark Zuckerberg tò mò hỏi: "Vừa rồi là Monica gọi cho cậu đấy à?"
+
+"Đúng thế, anh bạn!" Dustin Moskovitz quay đầu lại, mặt đầy vẻ sung sướng: "Là Monica đấy! Tớ chưa bao giờ mơ là cô ấy lại chủ động gọi điện cho tớ!"
+
+Mark Zuckerberg hỏi tiếp: "Cậu vừa bảo sẽ làm cô ấy hài lòng dù có phải làm năm mươi lần. Cô ấy có giận vì cậu trêu chọc trực tiếp vậy không?"
+
+Dustin Moskovitz mỉm cười tinh quái nói: "Này bạn thân, tớ nghĩ cậu thực sự nên thử trò chơi 'Thành Phố Thiên Đường' (Paradise Town) này đi. Biết đâu nữ thần của cậu, hoa khôi Fiona cũng đang chơi đấy. Cậu có thể vào trang trại của cô ấy trộm cây. Cậu còn có thể bón phân, tưới nước, nhổ cỏ, diệt sâu và thậm chí là trò chuyện riêng với cô ấy nữa!"
+
+Mark Zuckerberg có chút hứng thú, nhưng vẫn lắc đầu nói: "Fiona là một sinh viên ưu tú, cô ấy sẽ không nghiện loại trò chơi này đâu."
+
+Vừa nói xong, Dustin Moskovitz đột ngột nhận được một thông báo yêu cầu kết bạn trong trò chơi. Sau khi nhấp đúp vào đó, cậu ngay lập tức đứng hình bởi dòng thông báo!
+
+"Chào cậu, mình là Fiona Gilbert. Rất mong được làm bạn với cậu trong trò chơi!"
+
+Dustin Moskovitz nhìn tin nhắn trước màn hình máy tính, phấn khích đến mức nói năng lộn xộn: "Mark! Mark! Nhìn này, nữ thần Fiona của cậu chủ động kết bạn với tớ trong trò chơi này!!!"
+
+...
+
+Lúc này, tại một ký túc xá nữ của Harvard, Fiona Gilbert - người được mệnh danh là hoa khôi của trường - đang ngồi trước máy tính, điên cuồng kết bạn. Vì sức ảnh hưởng cực lớn của cô trong trường, có rất nhiều người muốn kết bạn với cô. Chỉ trong vòng một ngày, số lượng bạn bè của cô đã lên tới gần con số bốn trăm. Tuy nhiên, Fiona vẫn chưa hài lòng. Cô vẫn đang tích cực đi kết bạn khắp nơi, hy vọng nhanh chóng nâng số lượng bạn bè lên một nghìn người.
+
+Lý do khiến Fiona điên cuồng kết bạn như vậy là bởi công ty quảng bá của 'Thành Phố Thiên Đường' đã đưa ra cho cô một mức giá rất hấp dẫn. Chỉ cần cô kết bạn thêm được một người trong trò chơi, công ty sẽ trả cho cô 2 USD tiền thưởng. Nếu kết bạn được 1.000 người, công ty sẽ tăng mức giá từ 2 USD lên 3 USD mỗi người. Như thế, cô sẽ có thu nhập tới 3.000 USD.
+
+Ngoài ra, nếu bạn bè ghé thăm trang trại của cô một lần, cô có thể nhận được 10 cent. Nghe có vẻ ít, nhưng nếu cô có 1.000 người bạn và mỗi người vào thăm trang trại của cô một lần mỗi ngày, cô sẽ có 100 USD. Nếu duy trì điều này trong một tháng, cô sẽ có thu nhập tới 3.000 USD nữa!
+
+Gia cảnh của Fiona ở mức bình thường, và cô không nhận được học bổng toàn phần khi vào Harvard. Ngoài việc phải trả một phần học phí, gia đình cô còn phải lo sinh hoạt phí cho cô. Mặc dù có thể chi trả được nhưng Fiona cảm thấy rất áy náy. Hơn nữa, cô lại rất yêu nghệ thuật, ước mơ lớn nhất hiện giờ là có thể đi du lịch qua vài thành phố có bề dày lịch sử văn hóa ở Châu Âu. Đúng lúc này, đội ngũ vận hành 'Thành Phố Thiên Đường' tìm đến cô và đề nghị mức thù lao hậu hĩnh như vậy. Họ thậm chí còn trả trước cho cô 2.000 USD. Vì vậy, Fiona đặc biệt dốc sức, hy vọng có thể kiếm thêm tiền thông qua trò chơi này. Một mặt cô có thể giải quyết chi phí sinh hoạt, tự nuôi sống bản thân; mặt khác cô có thể tích lũy thêm một khoản tiết kiệm để chuẩn bị cho chuyến đi Châu Âu vào kỳ nghỉ.
+
+Khi Mark Zuckerberg nghe tin nữ thần Fiona chủ động kết bạn với Dustin Moskovitz trong trò chơi, anh cảm thấy không thể tin nổi. Anh vội vàng nhảy khỏi giường, lao tới trước máy tính của Dustin, ngạc nhiên hỏi: "Là Fiona thật sao?"
+
+"Đúng thế! Tự nhìn đi!" Dustin Moskovitz chỉ vào ảnh đại diện trong trò chơi của Fiona. Đó là một mỹ nhân tóc vàng cực kỳ xinh đẹp, chính là ảnh của bản thân Fiona.
+
+Mark Zuckerberg vẫn chưa tin, anh nói: "Làm sao cậu biết có ai đó lấy tên cô ấy để lừa cậu chứ?!"
+
+Dustin Moskovitz chỉ vào một huy hiệu vàng nhỏ bên cạnh ảnh đại diện của Fiona và nói: "Cậu thấy biểu tượng này không? Nó có nghĩa là danh tính của người dùng này đã được chính thức xác thực. Đúng là chính chủ Fiona đấy!"
+
+Nghe đến đây, Mark Zuckerberg đột nhiên trợn tròn mắt đầy phấn khích. Anh thốt lên: "Dustin, trò chơi này tên là gì? Tớ muốn tải ngay lập tức!"
+
+...
+
+
+Chương 1021
+
+Đội ngũ vận hành của "Thành Phố Thiên Đường" đã tìm đến những người nổi tiếng trong trường (campus celebrities) như Fiona ở hầu như mọi trường đại học tại Hoa Kỳ để hợp tác sâu rộng. Đây cũng chính là cốt lõi trong kế hoạch "Con ngựa thành Troy" của Lý Mục. Vô số những "Fiona" khác nhau đã sử dụng tầm ảnh hưởng của mình để lan tỏa "Thành Phố Thiên Đường" với tốc độ nhanh nhất trên các khuôn viên trường học.
+
+Chiến lược đặc biệt này của Lý Mục đã mang lại hiệu quả kỳ diệu. Thông qua những người nổi tiếng trong trường này, "Thành Phố Thiên Đường" đột nhiên lan rộng trong các trường đại học ở Mỹ như một loại virus.
+
+Bản thân trường đại học là một xã hội thu nhỏ tương đối biệt lập. Đối với sinh viên, hầu hết các mối quan hệ, thời gian, năng lượng và sự tương tác xã hội của họ đều xoay quanh môi trường biệt lập này. Trong một môi trường như vậy, rất dễ nảy sinh những người có sức ảnh hưởng lớn.
+
+Nhiều sản phẩm có thể thúc đẩy sự phát triển của một môi trường nhỏ như vậy thường có sức hút đặc biệt với người dùng là sinh viên, chẳng hạn như Facebook, mạng nội bộ của trường, hay thậm chí là không gian QQ và Weibo.
+
+Hiện tại, hầu hết các trường đại học ở Hoa Kỳ đều có ít nhất một nền tảng giao tiếp kiểu diễn đàn BBS, và chúng rất phổ biến. Mọi người tán gẫu, tương tác và chia sẻ thông tin trên diễn đàn. Nhưng theo thời gian, người dùng bắt đầu có sự mệt mỏi về thẩm mỹ với mô hình BBS. Sự mệt mỏi này xuất hiện không phải vì không có nhu cầu, mà vì chưa có sản phẩm mới nào thực sự đáp ứng được những nhu cầu cao hơn của họ.
+
+Sự mệt mỏi về thẩm mỹ mà ngay cả chính người dùng cũng không nhận ra này đã xảy ra nhiều lần trong lịch sử phát triển Internet. Ví dụ: trước khi WeChat trở nên phổ biến, người dùng đã mệt mỏi với việc giao tiếp bằng văn bản thuần túy của QQ, nhưng vì không có sản phẩm mới đáp ứng nhu cầu cao hơn nên chính họ cũng không nhận ra. Trong trường hợp này, một khi sản phẩm mới ra đời, nó không chỉ nhận được sự công nhận của người dùng mà còn có thể tạo thành một kiểu theo đuổi cuồng nhiệt trong thời gian ngắn.
+
+Những người có thể phát hiện sớm sự "mệt mỏi về thẩm mỹ" của người dùng đối với các sản phẩm hiện có và phát triển sản phẩm mới đáp ứng thị hiếu người dùng thường là những giám đốc sản phẩm siêu cấp. Steve Jobs là một người như vậy, Mark Zuckerberg là một người khác, và Trương Tiểu Long cũng vậy.
+
+Tương tác xã hội trực tuyến chỉ bằng văn bản thuần túy đã từ lâu không còn đáp ứng được nhu cầu xã hội ở mức độ cao hơn của sinh viên Mỹ. Đúng lúc này, sự xuất hiện của "Thành Phố Thiên Đường" là hoàn toàn đúng thời điểm. Nó không chỉ nâng nhu cầu xã hội của sinh viên Mỹ lên một bậc, mà còn là vài bậc. Nó không chỉ mang lại cho người dùng một trò chơi kinh doanh có tính giải trí cao mà còn tích hợp trải nghiệm giao tiếp, kết bạn và xã hội hóa tuyệt vời vào đó. Nó đơn giản là sự kết hợp hoàn hảo để đáp ứng nhu cầu tâm lý của những sinh viên đại học đầy năng lượng.
+
+Ngay cả một người tài giỏi như Mark Zuckerberg cũng ngay lập tức bị trò chơi này thu hút sau khi tải về. Anh đắm mình vào trò chơi như thể bị bỏ bùa mê. Anh nghiên cứu tỉ mỉ từng chi tiết nhỏ của trò chơi, và việc nghiên cứu này càng lúc càng vượt ra ngoài tầm kiểm soát. Anh quên mất động cơ ban đầu của mình khi tải trò chơi là để kết bạn với Fiona. Giờ đây, anh giống như một lập trình viên đang quan sát và nghiên cứu một siêu sản phẩm mà anh vô cùng ngưỡng mộ từ tận đáy lòng.
+
+Thấy Mark Zuckerberg ngồi trước máy tính suốt một tiếng đồng hồ, Dustin Moskovitz không nhịn được mà hỏi: "Mark, cậu vẫn còn muốn kết bạn với Fiona chứ?"
+
+"Nếu cậu muốn thêm cô ấy, trước tiên hãy kết bạn với tớ đã, tớ sẽ giới thiệu cô ấy cho cậu."
+
+Lúc này Mark Zuckerberg mới sực nhớ ra mục đích tải trò chơi này là để tiếp cận nữ thần trong lòng.
+
+Sau khi tỉnh táo lại, Mark Zuckerberg không khỏi cảm thán: "Dustin, thiết kế của trò chơi này thật đáng kinh ngạc. Có những khái niệm thiết kế không tưởng ở khắp mọi nơi. Tớ thực sự rất muốn gặp kiến trúc sư của trò chơi này!"
+
+Dustin Moskovitz bĩu môi hỏi: "Này anh bạn, cậu định đi cưa gái hay định đi nghiên cứu kiến trúc đấy?"
+
+"Có chứ, có chứ!" Mark nói: "Tớ sẽ kết bạn với cậu ngay bây giờ, rồi cậu giới thiệu Fiona cho tớ. Tớ sẽ thêm cô ấy!"
+
+Một phút sau, Dustin Moskovitz giới thiệu tài khoản của Fiona trong trò chơi cho Mark. Mark đầy phấn khích gửi yêu cầu kết bạn. Anh không ngờ rằng đối phương không cần xác minh gì cả mà trực tiếp thêm anh vào danh sách bạn bè luôn.
+
+Mark Zuckerberg nhìn ảnh đại diện của Fiona trong danh sách bạn bè của mình. Anh vô cùng hồi hộp. Sau khi do dự hồi lâu, cuối cùng anh cũng lấy hết can đảm để gửi đi tin nhắn đầu tiên trong lịch sử cho cô.
+
+"Chào Fiona. Tớ là Mark Zuckerberg. Cậu có thể gọi tớ là Mark. Rất vui được làm bạn với cậu!"
+
+Sau khi tin nhắn được gửi đi, Mark lo lắng chờ đợi phản hồi của cô. Anh không có quá nhiều tham vọng phi thực tế, anh chỉ hy vọng nhận được một câu trả lời thân thiện từ Fiona là đã mãn nguyện lắm rồi.
+
+Tuy nhiên, Mark cảm thấy Fiona là người có hàng nghìn fan, chắc chắn có vô số bạn bè trong trò chơi, và cũng không thiếu những người thổ lộ tình cảm với cô qua đây. So với họ, anh thật mờ nhạt, và rất có thể Fiona sẽ không trả lời anh.
+
+Nhưng thật bất ngờ, chưa đầy một phút sau, Fiona đã nhắn lại cho anh. Khi Mark thấy ảnh đại diện của Fiona nhấp nháy, anh phấn khích đến mức không giữ nổi chuột.
+
+Sau khi cố gắng trấn tĩnh, Mark run rẩy nhấp vào tin nhắn. Tin nhắn của Fiona viết: "Chào Mark. Rất vui được biết cậu. Hy vọng sau này cậu sẽ giúp đỡ mình nhiều hơn trong trò chơi nhé. Nhớ ghé thăm trang trại của mình mỗi ngày để tưới nước hoặc nhổ cỏ giúp mình, nhưng đừng có trộm rau của mình đấy nhé!"
+
+Sau khi đọc xong tin nhắn này, lại nhìn thấy biểu tượng cảm ứng cô gái xinh đẹp nháy mắt ở cuối, trái tim Mark trào dâng một cảm giác hạnh phúc mãnh liệt. Fiona thực sự trả lời anh nhanh như vậy, lại còn nhắn những lời thân thiết như thế, chứng tỏ cô ấy rất coi trọng anh!
+
+Tuy nhiên, Mark không ngờ rằng lý do mà Fiona "coi trọng" anh như vậy là vì đối với cô, anh chính là "tiền mặt". Fiona muốn kiếm thật nhiều tiền dựa vào Thành Phố Thiên Đường, nên dĩ nhiên cô sẽ lịch sự và thân thiện với mọi người bạn trong trò chơi.
+
+Thái độ thân thiện của Fiona đã hoàn toàn khơi dậy lòng nhiệt tình của Mark Zuckerberg đối với Thành Phố Thiên Đường. Anh bắt đầu nảy sinh mối quan tâm cực lớn, thậm chí dành toàn bộ thời gian rảnh rỗi và thời gian nghỉ ngơi cá nhân cho trò chơi này. Mark càng chơi càng thấy say mê, đồng thời anh càng cảm nhận sâu sắc rằng thiết kế của trò chơi thực sự quá tinh tế và mạnh mẽ. Từng mắt xích nhỏ đều được thực hiện hoàn hảo, logic cực kỳ rõ ràng, cuối cùng mọi phần của trò chơi đều đan xen chặt chẽ, tạo ra hiệu ứng lôi cuốn khó cưỡng.
+
+Từ sự nhạy cảm bẩm sinh của một chuyên gia công nghệ, Mark Zuckerberg đã tìm hiểu về công ty phát hành trò chơi này. Khi phát hiện ra trò chơi này đến từ Công nghệ Mục Dã (Makino Technology) của Hoa Hạ, anh hầu như hoàn toàn chấn động, và sự ngưỡng mộ dành cho Mục Dã ngay lập tức dâng cao tới đỉnh điểm.
+
+Mark Zuckerberg đã nghe danh Mục Dã từ lâu, thậm chí bản thân anh cũng là một người dùng trả phí của YY. Anh thường liên lạc với một số người trong ngành Internet qua YY và phát hiện ra sản phẩm này vô cùng mạnh mẽ. Đồng thời, anh cũng rất ngưỡng mộ Mục Dã và Lý Mục - người cũng xấp xỉ tuổi anh. Nhưng hôm nay, anh mới biết Mục Dã còn có thể phát triển ra một trò chơi tuyệt vời như vậy. Dù là YY hay Thành Phố Thiên Đường, có thể thấy khả năng làm sản phẩm của Mục Dã đơn giản là vô song trong toàn bộ ngành Internet.
+
+Ngay cả một người rành công nghệ như Mark Zuckerberg còn trở thành fan của Thành Phố Thiên Đường, huống chi là các sinh viên đại học khác.
+
+Trong một thời gian ngắn, 80% máy tính cá nhân trong toàn bộ các trường đại học ở Mỹ đều đã tải xuống "Thành Phố Thiên Đường". Trong mọi khuôn viên trường, một làn sóng cuồng nhiệt đã bùng lên. Hầu hết các phòng ký túc xá đều đầy rẫy sinh viên đang chơi trò này, và nó đã trở thành chủ đề nóng hổi nhất. Dù là trong lớp học, hành lang, nhà vệ sinh, sân vận động, hay thậm chí là phòng tự học và thư viện, đâu đâu cũng thấy các nhóm sinh viên thảo luận sôi nổi về Thành Phố Thiên Đường.
+
+Sức hút của trò chơi này ở các trường đại học Mỹ khác với ở Trung Quốc. Khả năng chi tiêu của sinh viên Mỹ mạnh hơn nhiều so với sinh viên Trung Quốc. Những vật phẩm trong trò chơi chỉ có giá vài chục cent hoặc vài USD có vẻ đắt đỏ trong mắt người dùng trong nước, nhưng với hầu hết sinh viên Mỹ, số tiền đó thậm chí không đủ cho một bữa ăn, chỉ tương đương giá một chiếc bánh hamburger hoặc một tách cà phê.
+
+Bởi vì mỗi trường đại học đều có những mối quan hệ bạn bè trong trò chơi xoay quanh các nhân vật trung tâm hoặc những người nổi tiếng, nên nhiều người dùng có tâm lý cạnh tranh rất mạnh. Để thu hút sự chú ý của những nhân vật trung tâm này, nhiều người đã trực tiếp nạp một lượng lớn tiền mặt để đẩy nhanh tiến độ trong trò chơi. Cũng có một số người vì si tình mà mua một lượng lớn phân bón để giúp "người thương" trộm rau nhanh hơn, họ liên tục canh tác và dùng vật phẩm để cây chín nhanh cho người thương vào trộm lấy thêm kinh nghiệm thưởng.
+
+Người bạn cùng phòng của Mark Zuckerberg là Dustin Moskovitz, để làm hài lòng nữ thần Monica, đã nạp một lúc 200 USD để mua phân bón. Sau đó, cậu ta liên tục thúc cây chín và nhắn tin cho Monica bảo cô chuẩn bị vào trộm rau. Cách làm này thực sự đã thu hút được sự chú ý của Monica. Cô vừa ngạc nhiên vừa có chút cảm động trước hành động của Dustin.
+
+Việc liên tục sử dụng các vật phẩm để thúc cây chín đã khiến sự giao tiếp giữa Dustin và Monica tăng lên nhanh chóng. Lúc đầu cả hai chỉ thảo luận nội dung liên quan đến trò chơi, nhưng chẳng mấy chốc đã nóng dần lên thành việc hỏi han về sở thích cá nhân của nhau. Họ thậm chí còn đùa giỡn với nhau, và tiến triển diễn ra khá nhanh...
+
+
+Chương 1022
+
+Lý Mục, khi ấy đang ở tận Hoa Hạ, lần đầu tiên nhận được dữ liệu do đội ngũ Công nghệ Mục Dã tại Mỹ gửi về. Sau khi kế hoạch "Con ngựa thành Troy" được triển khai toàn diện, chỉ trong vòng một tuần, "Thành Phố Thiên Đường" đã đạt được kết quả gần như không tưởng trong cộng đồng 17 triệu sinh viên đại học tại Hoa Kỳ.
+
+9,7 triệu người dùng đăng ký, 6,5 triệu người dùng hoạt động hàng ngày và 3,8 triệu người dùng trả phí. Từng con số đều đáng giá ngàn vàng!
+
+Ngoài ra, tổng doanh thu từ 3,8 triệu người dùng trả phí qua PayPal đã đạt tới 58 triệu USD. Tốc độ tăng trưởng và khả năng sinh lời cực nhanh của "Thành Phố Thiên Đường" đã thu hút sự chú ý của toàn bộ ngành Internet tại Hoa Kỳ.
+
+Thung lũng Silicon chấn động trước những hành động của Mục Dã tại Mỹ. Các phương tiện truyền thông có uy tín liên tục đưa tin về chiến dịch này. Một trong số đó giật tít: "Công nghệ Mục Dã của Hoa Hạ một lần nữa dạy cho các công ty Internet Mỹ một bài học với Thành Phố Thiên Đường. Dù là sản phẩm, vận hành hay quảng bá, người Hoa Hạ đã cho thấy trí tuệ vô song, giáng một đòn trực diện vào toàn bộ Thung lũng Silicon. Trong khi Silicon Valley vẫn đang chờ đợi Mục Dã xuất hiện từ trên trời rơi xuống, thì họ đã lặng lẽ nở rộ khắp nơi trên đất Mỹ!"
+
+Ngay từ khi Lý Mục tổ chức buổi lễ chia tay tại Hoa Hạ, giới truyền thông và các công ty Internet ở Thung lũng Silicon đã theo dõi sát sao mọi động thái của Mục Dã. Các công ty, nhà đầu tư và giới truyền thông ở Silicon Valley về cơ bản đã chuẩn bị sẵn sàng, chờ đợi Mục Dã trực tiếp "nhảy dù" vào Thung lũng Silicon để trở thành một "ông lớn" khác tại đây. Thế nhưng, họ không ngờ rằng Mục Dã lại bỏ qua Silicon Valley và tung ra một cuộc tấn công toàn diện vào các trường đại học lớn trên khắp nước Mỹ.
+
+Bên cạnh sự ngạc nhiên, điều mà Silicon Valley ngưỡng mộ nhất chính là khả năng phát triển sản phẩm, vận hành và quảng bá của Mục Dã. Những hành động của Mục Dã trong thời gian này giống như một trận đấu biểu diễn của các công ty Internet Hoa Hạ trên thị trường Mỹ vậy. Một bên của trận đấu là Mục Dã, và bên kia là những đại diện tiêu biểu nhất của toàn bộ thị trường Mỹ — giới sinh viên đại học.
+
+Không ai ngờ được rằng Mục Dã lại mang một trò chơi đến thị trường Mỹ lần này. Càng bất ngờ hơn nữa là Mục Dã lại sử dụng một phương pháp tuyệt vời như vậy để nhanh chóng quảng bá sản phẩm trong cộng đồng sinh viên.
+
+Sở dĩ áp dụng chiến lược như vậy phần lớn là do sự phổ biến bất ngờ của YY trong giới tinh hoa tại Mỹ, điều này giúp Lý Mục nhận ra tầm quan trọng của việc "đột phá từng nhóm người dùng một" trong quảng bá thị trường. Không thể thắng được một thị trường khổng lồ chỉ trong một sớm một chiều, vì vậy anh phải đi từng bước vững chắc, giống như trong một giải đấu, đột phá từng nhóm đối tượng lớn tại thị trường Mỹ. Hiện giờ có vẻ như Mục Dã vừa thắng hiệp đầu của mùa giải chính thức đầu tiên.
+
+Sau khi nhìn thấu chiến lược của Mục Dã, giới truyền thông Mỹ bày tỏ quan điểm rằng chuyến viếng thăm nước Mỹ lần này của Mục Dã có thể được mô tả là đầy tham vọng và quyết liệt. Mặc dù đây là lần đầu tiên công ty Internet Hoa Hạ mở rộng kinh doanh sang Mỹ, nhưng các công ty Mỹ vẫn không thể đánh giá thấp Mục Dã. Ngược lại, họ phải coi Mục Dã là công ty nước ngoài mạnh nhất trong ngành Internet tại Mỹ và luôn phải cảnh giác cao độ.
+
+Tuy nhiên, chỉ có giới Internet Mỹ là cảm thấy lo lắng và dè chừng Mục Dã. Còn đối với những sinh viên Mỹ đang đắm mình trong "Thành Phố Thiên Đường", họ đã hoàn toàn mở rộng vòng tay chào đón Mục Dã. Đầu tiên, họ bị nghiện trò chơi này, rồi tất yếu sẽ xây dựng mạng lưới quan hệ trực tuyến của mình ngay trong đó. Khi mạng lưới này đã hình thành vững chắc, Lý Mục chỉ cần tung ra một vài công cụ hoặc chính sách ưu đãi trong trò chơi là có thể dễ dàng chuyển đổi những người dùng này thành người dùng YY.
+
+Lý Mục hiểu rất rõ một điều, dù là "Thành Phố Thiên Đường" hay "Thực vật đại chiến Thây ma", những trò chơi như vậy dù có phổ biến đến đâu thì sớm muộn gì cũng sẽ thoái trào. Chỉ có những sản phẩm như YY mới là vĩnh cửu. Một khi người dùng đã hình thành thói quen dùng YY, sẽ không dễ để họ từ bỏ dù sau tám hay mười năm nữa.
+
+...
+
+Trong khi sinh viên Mỹ đóng góp một lượng doanh thu lớn cho "Thành Phố Thiên Đường", họ cũng cần sự đầu tư cao từ phía Mục Dã. Chưa kể đến chi phí vận hành và bảo trì của một đội ngũ lớn như vậy tại Mỹ, chỉ trong một tuần ngắn ngủi, Mục Dã đã chi trả gần 10 triệu USD cho những "gương mặt thương hiệu" tại các trường đại học. Con số này còn chưa bao gồm chi phí quảng bá tại các trường, hay chi phí quảng cáo xung quanh khuôn viên đại học.
+
+Nếu tính toán tất cả các khoản chi, chi phí quảng bá trò chơi này tại Mỹ thực sự gây chấn động. May mắn thay, dù đầu tư cao, "Thành Phố Thiên Đường" vẫn đảm bảo khả năng sinh lời.
+
+Nhiều "nữ thần" học đường như Fiona đã nhận được tiền tươi thóc thật từ Mục Dã, điều này càng thúc đẩy họ nỗ lực quảng bá trò chơi một cách nhiệt tình nhất.
+
+Khả năng chi trả của sinh viên Mỹ thực sự đáng kinh ngạc. Ý chí và mức độ chi tiêu của họ vượt xa thanh thiếu niên ở Trung Quốc. Lý Mục thường cảm thấy như vậy vẫn là chưa đủ. Sự phát triển kinh tế xã hội tổng thể ở Mỹ rất cao, sức mua của sinh viên cũng rất lớn. Tuy nhiên, nếu dựa trên chi tiêu hiện tại của họ cho trò chơi, vẫn còn rất nhiều USD trong ví họ đang chờ anh tới "cuỗm" đi.
+
+Để khuyến khích sinh viên Mỹ chi tiêu nhiều hơn cho "Thành Phố Thiên Đường", Lý Mục đã triệu tập một cuộc họp giữa đội ngũ phát triển và đội ngũ vận hành để thảo luận cách tăng doanh thu.
+
+Dựa trên dữ liệu hiện tại, tỷ lệ người dùng trả phí của trò chơi là 39%. Mức chi tiêu trung bình (ARPU) của mỗi người dùng trả phí trong bảy ngày là 15,26 USD, và mức hàng ngày là 2,18 USD.
+
+Tỷ lệ người dùng trả phí chiếm một phần ba người chơi, theo Lý Mục, con số này đã là rất cao và không còn nhiều dư địa để cải thiện. Tuy nhiên, mức ARPU 2,18 USD mỗi ngày vẫn còn rất nhiều tiềm năng để nâng lên.
+
+Nói cách khác, việc kéo thêm người mới bỏ tiền ra là tương đối khó, nhưng việc khiến những người đã chi tiền phải chi nhiều hơn nữa thì dễ dàng hơn nhiều.
+
+Vì lý do này, Lý Mục đã nghĩ tới hai tâm lý cốt lõi để khuyến khích sinh viên Mỹ chi tiền: sự phù phiếm và tâm lý sùng bái tiền bạc.
+
+Trong cuộc họp, Lý Mục đã đưa ra một vài đề xuất:
+
+Thứ nhất, mở bảng xếp hạng TOP100 toàn cầu của Thành Phố Thiên Đường. Bảng xếp hạng này sẽ loại trừ thị trường Hoa Hạ vì lượng người dùng ở đó quá đông, nếu đưa vào sẽ gây ảnh hưởng lớn đến tính công bằng của trò chơi.
+
+Thứ hai, ngoài TOP100 toàn cầu, hãy cung cấp cho mỗi người dùng một thứ hạng cụ thể. Ngay cả khi thứ hạng đó là hàng triệu hay hơn 10 triệu, vẫn phải đưa ra một con số cụ thể. Điều này không chỉ tạo bậc thang để người dùng thăng tiến, mà còn là tiêu chuẩn tham chiếu để so sánh với bạn bè. "Tớ xếp hạng 1,2 triệu toàn cầu, còn cậu là 1,3 triệu. Dù cả hai đều 'gà', nhưng tớ vẫn tìm thấy cảm giác tồn tại trước mặt cậu và có thể tự tin cười nhạo cậu."
+
+Thứ ba, mở bảng xếp hạng bạn bè. Sử dụng danh sách bạn bè của chính người dùng làm tham chiếu, tất cả bạn bè trong trò chơi sẽ được xếp hạng, mang lại cơ hội so sánh trực tiếp và tăng thêm sự phù phiếm của người dùng.
+
+Thứ tư, mở bảng xếp hạng đóng góp của bạn bè. Ngoài các hình thức giúp đỡ thông thường trong trò chơi, bạn bè còn có thể tặng nhau những vật phẩm trả phí. Dù là giúp đỡ hay tặng quà, mức đóng góp đều sẽ được tính toán theo một thuật toán cố định. Bảng xếp hạng này sẽ chỉ hiển thị top 10 người bạn có điểm đóng góp cao nhất, và mỗi người dùng có thể thấy điểm đóng góp của những người bạn khác dành cho mình và bạn bè mình. Ví dụ, A có thể thấy điểm đóng góp của B cho mình, và B cũng thấy điều ngược lại. Đồng thời, A và B đều có thể thấy top 10 người đóng góp nhiều nhất cho nhau.
+
+Con át chủ bài thực sự của Mục Dã chính là bảng xếp hạng đóng góp của bạn bè.
+
+Do mô hình quảng bá dựa vào "người nổi tiếng trong trường", những người này bản thân đã có một lượng lớn người theo dõi. Những người này theo họ vào trò chơi và chắc chắn sẽ kết bạn với họ. Hơn nữa, họ khao khát được tương tác nhiều hơn với thần tượng. Một khi bảng xếp hạng đóng góp bạn bè được mở ra, đó sẽ là một cuộc chiến giáp lá cà giữa những người hâm mộ. Nếu muốn đối phương chú ý đến mình, ít nhất bạn phải nằm trong top 10 của danh sách đó chứ?
+
+Còn đối với những "hot girl" được theo dõi kia, hầu hết họ cũng tôn thờ tiền bạc và rất coi trọng vật chất. Trong trường hợp này, bảng xếp hạng đóng góp sẽ cung cấp cho họ một tham chiếu tuyệt vời để xác định độ giàu có và độ chân thành của những người theo đuổi mình. Nếu một chàng trai có thể bỏ ra hàng nghìn, thậm chí hàng chục nghìn USD để khiến cô ấy vui vẻ trong trò chơi, điều đó không chỉ có nghĩa là anh ta coi trọng cô ấy, mà còn cho thấy độ dày của chiếc ví anh ta.
+
+Sau khi Lý Mục trình bày toàn bộ kế hoạch, hầu hết nhân viên Mục Dã đều giơ tay tán thành. Mọi người cho rằng chiến lược này sẽ tối đa hóa nhiệt huyết chi trả của người dùng, nhưng cũng có những người phản đối.
+
+Những người phản đối chủ yếu lo ngại rằng nếu "Thành Phố Thiên Đường" mở ra quá nhiều bảng xếp hạng như vậy, liệu mục tiêu thực dụng về lợi nhuận có quá lộ liễu và gây ra tâm lý phản kháng từ những người chơi không nạp tiền hay không?
+
+Lý Mục hoàn toàn không lo lắng, anh mỉm cười trấn an mọi người: "Trò chơi của chúng ta không phải là một game nhập vai bạo lực dùng sức mạnh để thắng, mà là một game nuôi dưỡng, kinh doanh nhẹ nhàng và dễ chịu. Sự chênh lệch cấp độ và trang bị trong những game bạo lực sẽ mang lại kết quả trực tiếp là người dùng cấp thấp sẽ bị người dùng cấp cao đánh bại không thương tiếc, nhưng tình trạng đó sẽ không xảy ra ở đây. Cho dù bạn bè của bạn có tiêu bao nhiêu tiền đi nữa, anh ta cũng chỉ vượt qua bạn về cấp độ thôi. Anh ta sẽ không gây ra bất cứ áp lực hay tổn hại trực tiếp nào cho bạn, cũng không ảnh hưởng đến trải nghiệm chơi game của bạn. Nếu bạn không muốn nạp tiền, bạn vẫn có thể tận hưởng trò chơi theo nhịp độ của riêng mình."
+
+
+Chương 1023
+
+Cùng với việc công bố danh sách các bảng xếp hạng khác nhau, "Thành Phố Thiên Đường" đã đón nhận đợt cập nhật đầu tiên kể từ khi đặt chân đến Hoa Kỳ.
+
+Thay đổi lớn nhất trong quy tắc của bản cập nhật này là việc bổ sung nhiều bảng xếp hạng. Ngoài ra, còn có một sự thay đổi trực quan trong trò chơi, đó là việc bổ sung vô số đồ trang trí cao cấp có trả phí.
+
+Cái gọi là "đồ trang trí cao cấp" thực chất là những vật phẩm dùng để trang trí thị trấn trong game và không có tác động trực tiếp đến lối chơi. Chúng giống như YY Show vậy, ngoài việc để ngắm ra thì chẳng có tác dụng gì khác.
+
+Những món đồ trang trí cao cấp này bao gồm vô số danh lam thắng cảnh kinh điển trên toàn thế giới. Chẳng hạn, người dùng có thể mua tháp Eiffel, tháp truyền hình Minh Châu Phương Đông ở Thượng Hải, tháp Tokyo, tượng Nhân sư ở Ai Cập, tượng Nữ thần Tự do của Mỹ, v.v. Giá của những mô hình thắng cảnh này rất cao, thường từ vài USD đến hàng chục USD mỗi món. Trong đó, mô hình "Taj Mahal" đại diện cho tình yêu cảm động được bán với mức giá lên tới 99 USD.
+
+Ngoài ra, còn rất nhiều chi tiết trang trí nhỏ khác như chuồng chó, nhà cửa, đường xá theo phong cách hoạt hình đẹp mắt, các loại cây cảnh quý hiếm, tượng điêu khắc, biển báo...
+
+"Thành Phố Thiên Đường" đã sao chép hoàn toàn mô hình định vị người dùng của YY Show vào những vật phẩm trang trí cao cấp này. Bản thân chúng vô dụng, nhưng chúng đẹp. Hơn nữa, chúng có thể được trưng bày cho tất cả bạn bè thấy, khiến họ phải thốt lên "Trời ơi" hay "Wow" để thỏa mãn lòng hư vinh của người sở hữu.
+
+Cũng giống như YY Show, nếu người dùng không chi tiền mua đồ trang trí cao cấp, hệ thống cũng sẽ cho một hình ảnh cá nhân cơ bản nhất. Tuy nhiên, một khi đặt cạnh những món đồ đắt tiền kia, bộ đồ miễn phí trông thật thô kệch và kém cỏi.
+
+Thậm chí nhiều nhân viên của Mục Dã cũng không mấy lạc quan về những vật phẩm đắt đỏ này. Họ cho rằng sẽ không ai đủ ngốc để bỏ tiền ra mua những thứ đó. Tuy nhiên, Lý Mục vô cùng tự tin. Anh là người trọng sinh từ năm 2016, anh biết rõ ngành công nghiệp livestream lúc bấy giờ phổ biến đến nhường nào. Một ngôi đền Taj Mahal trị giá 99 USD có đáng sợ không?
+
+Vậy một chiếc "tên lửa" trị giá 500 USD thì sao? Một chiếc "siêu xe" trị giá 888 USD thì thế nào? Hay một chiếc "du thuyền" trị giá 1.314 USD?
+
+Thế giới này không thiếu người giàu, và cũng không thiếu những người sẵn sàng chi một khoản tiền khổng lồ để tặng cho người họ thích. Vấn đề chỉ là chưa có ai kích hoạt được "gene vung tiền" ẩn sâu trong họ mà thôi!
+
+...
+
+Ngay sau khi phiên bản mới của "Thành Phố Thiên Đường" ra mắt, nó đã nhanh chóng tạo ra một cú hích cực lớn trong cộng đồng sinh viên Mỹ.
+
+Sau bản cập nhật, cả Mark Zuckerberg và Dustin Moskovitz đều trông có vẻ hơi buồn bã, như thể đang mang nặng tâm sự.
+
+Kể từ khi Mark đắm mình vào trò chơi vài ngày trước, anh luôn cố gắng trò chuyện với nữ thần Fiona của mình mỗi ngày. Tuy nhiên, Fiona rất hiếm khi trả lời, mà có trả lời thì cũng rất chậm, thậm chí nội dung còn hoàn toàn không ăn nhập gì với những gì Mark nói.
+
+Ví dụ, lúc 8 giờ sáng, Mark hỏi Fiona: "Cậu ăn sáng bằng món gì thế?" Nhưng mãi đến 5 giờ chiều Fiona mới nhắn lại: "Nhớ vào thăm thị trấn của mình thường xuyên nhé!"
+
+Ban đầu, Mark nghĩ việc kết nối trực tiếp với Fiona trong trò chơi sẽ là một bước đột phá. Không ngờ sau khi vào game, tiến triển của anh lại còn chậm hơn trước. Mãi sau này Mark mới biết, Fiona có tới hơn một nghìn người bạn trong trò chơi. Với ngần ấy người, dĩ nhiên cô không thể phản hồi hết được.
+
+Đây chính là lý do khiến tâm trạng Mark không tốt. Nhưng sau khi "Thành Phố Thiên Đường" tung ra các bảng xếp hạng, tâm trạng của anh còn tồi tệ hơn, vì anh nhận ra top 10 trong danh sách đóng góp của Fiona... đơn giản là không phải con người!
+
+Sở dĩ anh nói họ không phải người là vì họ hoàn toàn không coi tiền là tiền!
+
+Chỉ trong một giờ đầu tiên sau khi bảng xếp hạng được mở, người đứng đầu danh sách bạn bè của Fiona đã đạt tới 15.000 điểm đóng góp. Mark là người đã nắm rõ quy tắc của trò chơi như lòng bàn tay. Mỗi lần giúp đỡ bạn bè nhổ cỏ, tưới nước, diệt sâu, anh chỉ nhận được 10 điểm đóng góp. Hơn nữa, mỗi ngày chỉ có thể giúp cùng một người bạn tối đa 5 lần. Tức là qua các thao tác miễn phí, anh chỉ có thể kiếm được tối đa 50 điểm.
+
+Vậy 14.950 điểm còn lại từ đâu ra? Dĩ nhiên là từ việc tiêu tiền. Theo quy định, mỗi 1 USD chi cho bạn bè sẽ tương đương với 10 điểm đóng góp. 14.950 điểm có nghĩa là tên khốn đứng thứ nhất đã tặng cho Fiona những vật phẩm trị giá tới 1.495 USD chỉ trong giờ đầu tiên!
+
+1.495 USD! Mặc dù gia cảnh của Mark cũng khá tốt, nhưng đối với một sinh viên như anh, số tiền đó vẫn là quá lớn. Ngay cả khi bị đánh chết, anh cũng không thể chi trả nổi một khoản như thế cho một trò chơi...
+
+Ngoài kẻ đứng đầu, người xếp thứ hai cũng đã chi khoảng 1.000 USD, và người đứng thứ mười cũng tốn hơn 400 USD.
+
+Mark đột nhiên cảm thấy tuyệt vọng. Để lọt vào top 10 đóng góp của Fiona, anh phải chi ít nhất 500 USD. So với thực tế đó, ý định làm quen với Fiona qua trò chơi của anh đúng là một giấc mơ hão huyền.
+
+Nhưng đó mới chỉ là khởi đầu.
+
+Một tiếng sau, người đứng đầu danh sách của Fiona đã lên tới 30.000 điểm! Người thứ hai có vẻ như đang có một cuộc chiến nảy lửa với người thứ nhất, cũng không chịu buông tha khi đạt 29.500 điểm! Hai kẻ này vẫn đang đối đầu gay gắt. Một vài phút sau, người thứ hai bỗng tăng vọt 990 điểm, lập tức vượt lên dẫn trước. Rồi vài phút sau nữa, người thứ nhất lại tăng 990 điểm để chiếm lại vị trí.
+
+Chỉ trong ít phút, đôi bên liên tục sử dụng đơn vị 990 điểm làm thước đo, giằng co qua lại nhiều vòng, đến nỗi điểm đóng góp của người dẫn đầu đã đạt mức kinh ngạc là 37.920 điểm, người thứ hai cũng bám sát nút. Cuộc chiến này dường như không có dấu hiệu dừng lại.
+
+Cho đến khi người thứ hai mất kiên nhẫn, nạp thẳng 9.900 điểm đóng góp một lúc, trông như thể anh ta vừa tặng một lứa mười ngôi đền Taj Mahal vậy.
+
+Mark chết lặng. Mỗi một đợt 990 điểm tương đương với 99 USD! Những kẻ này tiêu tiền mà không hề chớp mắt! Rốt cuộc họ giàu đến mức nào chứ?
+
+Tuy nhiên, sau khi suy nghĩ kỹ, Mark cảm thấy mình hơi nhạy cảm quá. Tuy Harvard là trường hàng đầu nhưng không thiếu những công tử giàu có từ các gia tộc lớn. Số sinh viên lái siêu xe trong trường ít nhất cũng phải con số hàng chục, nhiều người còn sống trong các biệt thự xa hoa bên ngoài. Cuộc sống của họ cực kỳ sung túc. Nghe nói ở Harvard có không ít người sở hữu tài sản gia đình lên tới hàng trăm triệu USD. Với họ, tiền chỉ là con số. Để lấy lòng con gái nhà người ta, đừng nói là vài nghìn đô, ngay cả một chiếc siêu xe hàng trăm nghìn đô họ cũng chẳng tiếc.
+
+Bên cạnh việc than thở người giàu ở Harvard quá nhiều, Mark chỉ có thể cảm thán công ty vận hành trò chơi này thực sự quá xảo quyệt. Việc cho phép người dùng tặng vật phẩm có phí cho nhau tương đương với việc mở ra một cánh cửa vô tận để tạo ra điểm đóng góp. Chỉ cần có tiền là có thể tăng điểm không giới hạn.
+
+Và điều đáng sợ nhất là trò chơi còn cho phép trao đổi đồ trang trí. Những cô gái lại thích nhất những thứ hào nhoáng này, điều đó mang lại cơ hội tuyệt vời cho các thiếu gia ghi điểm với mỹ nhân!
+
+Mark ban đầu định nghiến răng chi 99 USD tặng Fiona một ngôi đền Taj Mahal, nhưng nhìn tình hình này, chắc hẳn hôm nay Fiona đã nhận vật phẩm này đến phát chán rồi.
+
+...
+
+Lúc này, Fiona thực sự đã nhận Taj Mahal đến mệt lử. Cô có hơn một nghìn người bạn, và tổng số vật phẩm "Taj Mahal" cô nhận được hôm nay đã vượt quá con số 2.000. Trong đó, hai người đứng đầu danh sách đóng góp đã tặng tới bảy tám trăm cái.
+
+Fiona nhẩm tính sơ qua, chỉ trong một ngày cô đã nhận được khoảng 200.000 điểm đóng góp. Tính ra, bạn bè của cô đã chi tới 20.000 USD cho mình.
+
+Tính đến con số này, Fiona vừa chấn động vừa cảm thấy vô cùng tiếc nuối. Phía công ty trò chơi không hề nói sẽ chia hoa hồng cho cô. Có vẻ như 20.000 USD này sẽ chẳng rơi vào túi cô một đồng nào. Không những không được tiền, mà cô còn chẳng thể dùng hết số quà tặng khổng lồ này. Trong game, diện tích đất canh tác và xây dựng đều có hạn, cần phải mở mang từng chút một. Hiện giờ cô không còn nhiều đất trống, đặt hai ba cái Taj Mahal là kịch, làm sao mà chứa nổi 2.000 cái? Như vậy là quá lãng phí.
+
+Đúng lúc Fiona đang xót xa cho khoản tiền 20.000 USD kia thì hệ thống đột nhiên gửi cho cô một thông báo. Fiona nhấp vào xem, và cô phấn khích đến mức suýt phát điên.
+
+Thông báo từ trang chủ có nội dung: "Kính thưa người dùng, nhận thấy có tình trạng người dùng nhận được quá nhiều vật phẩm mà không thể sử dụng hết, đội ngũ vận hành đã đặc biệt mở ra cổng thu hồi vật phẩm cho bạn. Bạn có thể giao nộp những vật phẩm thừa cho hệ thống. Sau khi trừ đi một khoản phí vận hành và bảo trì nhất định, hệ thống sẽ quy đổi giá trị còn lại thành tiền mặt và trả cho bạn. Tỷ lệ phí vận hành là 50%, và tỷ lệ chia sẻ cho bạn là 50%. Khi khoản tiền đạt đủ 100 USD, bạn có thể nộp đơn xin thanh toán. Chúng tôi sẽ khấu trừ thuế thu nhập theo luật liên bang và chuyển tiền sau thuế vào tài khoản chỉ định của bạn. Nếu đồng ý, xin nhấn YES."
+
+Fiona hạnh phúc đến mức muốn ngất xỉu. Hôm nay cô nhận được lượng quà trị giá 20.000 USD, nếu giao nộp hết cho hệ thống thu hồi, chẳng phải cô sẽ có 10.000 USD trước thuế sao? Sau khi trừ thuế thu nhập 15%, ít nhất cô cũng đút túi được 8.500 USD! 
+
+
+Chương 1024
+
+Trong mắt Lý Mục, việc phải chia sẻ lợi nhuận từ các vật phẩm trong trò chơi là điều tất yếu. Anh không bao giờ có ý định giữ toàn bộ nguồn thu từ quà tặng của người dùng cho riêng mình, bởi nếu muốn nền tảng mở rộng, anh buộc phải chia sẻ lợi nhuận với những "cửa ngõ lưu lượng" (traffic entrances) bên trong nền tảng đó.
+
+Trong Liên minh Taobao, anh phải chia sẻ lợi nhuận với các trang web tham gia; còn trong "Thành Phố Thiên Đường", anh dĩ nhiên phải chia lợi nhuận với những người nổi tiếng trong trường. Mỗi một gương mặt nổi bật ở các trường đại học chính là một cửa ngõ lưu lượng cho trò chơi. Họ không chỉ kéo thêm người dùng mới mà còn kích thích người dùng nạp tiền và chi tiêu. Vì vậy, họ chính là những "thần tài" của Lý Mục. Lẽ tự nhiên, Lý Mục phải buộc chặt họ vào nền tảng của mình để họ tiếp tục phát huy sức hút tại đây.
+
+Fiona chỉ là một trong số vô vàn người đã được hưởng lợi từ "Thành Phố Thiên Đường".
+
+Với mức thu nhập dồi dào như vậy, sự cống hiến của Fiona cho trò chơi gần như đã đạt 100%. Cô thậm chí còn xin nghỉ học, chỉ ở lỳ trong ký túc xá để trò chuyện với những người bạn "bạo chi" đã tặng quà cho mình. Cô tìm cách làm họ vui lòng để họ tiếp tục vung tiền mua vật phẩm tặng cô. Fiona thậm chí còn mơ tưởng rằng nếu duy trì được mức thu nhập hàng nghìn đô mỗi ngày thế này, đến tháng Giêng năm sau cô sẽ tự tậu cho mình một chiếc xe thể thao nhỏ trị giá vài chục nghìn đô làm quà cho bản thân.
+
+Giống như hầu hết các cô gái tóc vàng nóng bỏng ở các trường đại học Mỹ, Fiona có một niềm đam mê mãnh liệt với xe hơi. "Bạn trai tin đồn" của cô sở hữu một chiếc Mustang cũ. Dù hơi nát nhưng mỗi khi ngồi vào đó vẫn khiến người ta cảm thấy phấn khích. Tuy nhiên, mỗi khi nghĩ đến anh chàng bạn trai có gia thế không tầm thường này, Fiona lại thấy bực bội một cách khó hiểu.
+
+Gia cảnh nhà anh ta quả thực rất tốt, nhưng anh ta dường như luôn giữ khoảng cách với cô. Anh ta thích cô đã lâu nhưng lại không muốn xác lập mối quan hệ chính thức, thậm chí còn rất keo kiệt trong việc chi tiền cho cô. Cách đây không lâu vào dịp sinh nhật cô, anh ta chỉ tặng ba bông hồng và đưa cô đi ăn một bữa bít tết bình dân. Sau đó, anh ta còn muốn đưa cô đến rạp chiếu phim ngoài trời và đòi làm "chuyện ấy" ngay trên xe, nhưng Fiona đã từ chối. Kết quả là anh ta không thèm liên lạc với cô suốt mấy ngày liền.
+
+Vì xuất thân bình thường nên Fiona cực kỳ nhạy cảm. Cô biết đối phương khinh thường mình và coi mình là hạng người dễ dãi. Dù chưa bao giờ nói ra nhưng trong lòng cô luôn âm ỉ một ngọn lửa giận dữ. Cô cũng hy vọng tìm được một người bạn trai tốt hơn, gia thế khủng hơn và đối xử với mình tử tế hơn. Nhưng giờ đây, việc có tìm được bạn trai hay không dường như đã không còn quan trọng nữa. Với đà này, chẳng mấy chốc những gã đàn ông tự cao tự đại kia sẽ phải nhìn cô với ánh mắt khác.
+
+Với ý nghĩ đó, Fiona tiếp tục điên cuồng kết bạn mới. Mặt khác, cô phản hồi nhiệt tình hơn với những người bạn chịu chi trong trò chơi, hy vọng kích thích họ tặng thêm vật phẩm để cô có thể kiếm được nhiều tiền hơn.
+
+...
+
+Lý Mục không ngờ rằng chính mình lại là người mở ra kỷ nguyên mới của Internet tại Mỹ trước thời hạn: kỷ nguyên của những "người nổi tiếng trên mạng" (Internet celebrities/KOLs).
+
+Sở dĩ nhiều người nổi tiếng trên mạng ở các thế hệ sau có thể dễ dàng nhận mức lương hàng chục triệu nhân dân tệ mỗi năm từ các nền tảng livestream chính là bởi nhóm người đặc biệt này có sức hút cực lớn đối với người hâm mộ. Thực chất, nền kinh tế KOL có thể hình thành một ngành công nghiệp và mô hình hóa chỉ vì một lý do: kinh tế người hâm mộ (fan economy).
+
+Kinh tế người hâm mộ vốn dĩ là một mô hình công nghiệp khổng lồ. Nó không phải là sản phẩm của thời đại Internet mà đã được phát triển sâu sắc hơn nhờ Internet. Trước khi có Internet, các nhà văn, nhạc sĩ, ca sĩ hay ngôi sao điện ảnh nổi tiếng đều sống nhờ vào nền kinh tế này. Album ca nhạc và sách in dựa vào fan mua ủng hộ; các buổi hòa nhạc dựa vào fan mua vé; phim điện ảnh và truyền hình dựa vào fan đóng góp doanh thu và tỷ suất người xem. Ngoại trừ những nhu cầu thiết yếu như ăn uống không cần đến sự hỗ trợ của fan, hầu như tất cả các ngành nghề khác đều có bóng dáng của kinh tế người hâm mộ. Chỉ là hiện nay, các "Internet celebrities" đã đẩy kinh tế fan đến mức cực đoan.
+
+Mô hình công nghiệp chuẩn của KOLs thế hệ sau là: livestream, mở cửa hàng trực tuyến, tham gia sự kiện, làm nội dung số và nhận quảng cáo. Những KOL lớn có thể kiếm hàng chục triệu mỗi năm chỉ từ livestream, chưa tính hoa hồng vật phẩm. Họ có thể mở cửa hàng và bán bất cứ thứ gì cho fan. Nhờ lượng fan đông đảo, các hoạt động sự kiện cũng đem tiền đến tận cửa.
+
+Mọi nguồn thu này đều được xây dựng trên nền tảng "người hâm mộ". Nói trắng ra, một khi đã tập hợp được một lượng fan nhất định, người ta sẽ tìm đủ mọi cách để kiếm tiền từ họ. Hôm nay fan đóng góp nhân lực cho nền tảng livestream, ngày mai kích thích fan mua vật phẩm tặng quà, ngày kia giới thiệu quần áo, mỹ phẩm hay đồ điện tử, và cuối cùng là "bán" fan cho các đơn vị quảng cáo.
+
+Trên Internet thế hệ sau, thường xuyên có tin tức về việc người hâm mộ tặng quà khủng cho thần tượng. Thậm chí có những "ông chồng quốc dân" cũng tham gia livestream và vừa vào phòng một hot girl nào đó là đã tặng ngay những món quà trị giá hàng trăm nghìn tệ. Thậm chí có nhiều học sinh tiểu học và trung học còn lén dùng điện thoại của cha mẹ để tặng quà cho các KOL.
+
+Trong mắt người ngoài, những fan như vậy dường như khó hiểu, nhưng thực tế, mối quan hệ giữa fan và KOL giống như "Chu Du đánh Hoàng Cái", một người sẵn lòng đánh, một người tình nguyện chịu đau. Người hâm mộ sẵn sàng chi tiền cho người họ yêu thích, và KOL để kiếm tiền cũng sử dụng mọi cách để đáp ứng nhu cầu của fan. Quan hệ cung cầu rõ ràng, không gian thị trường khổng lồ, bản thân nó đã là một mô hình công nghiệp vận hành rất trơn tru.
+
+Mặc dù Lý Mục chưa thể tạo ra một hệ thống KOL quy mô toàn diện, nhưng anh đủ khả năng để nuôi dưỡng một làn sóng "KOL địa phương" như Fiona tại các trường đại học Mỹ. Những KOL địa phương này tuy không có tầm ảnh hưởng rộng khắp cả nước, nhưng sức ảnh hưởng cục bộ của họ lại cực kỳ mạnh mẽ. Suy cho cùng, họ tác động trực tiếp lên nhóm fan ở ngay cạnh mình trong đời thực. Dĩ nhiên một cô hot girl học đường đứng ngay trước mặt sẽ có sức hút hơn nhiều so với những ngôi sao xa xôi trên mạng. Vì thế, mặc dù những cô gái như Fiona có thể ít fan hơn các KOL thực thụ, nhưng chất lượng fan lại tốt hơn nhiều.
+
+Hơn nữa, có vô số KOL địa phương như Fiona đang hợp tác với "Thành Phố Thiên Đường", trải dài khắp các trường đại học trên toàn nước Mỹ, tạo nên một sức ảnh hưởng tổng thể vô cùng đáng sợ.
+
+Trong ngày đầu tiên hệ thống bảng xếp hạng và hệ thống tặng qùa ra mắt, doanh thu nạp tiền của "Thành Phố Thiên Đường" đã chạm mốc 78 triệu USD. Điều khó tin hơn nữa là con số 78 triệu USD này đến từ 4 triệu người dùng trả phí. Tức là trung bình mỗi người dùng nạp tới gần 20 USD, và người nạp nhiều nhất đã chi tới 83.200 USD.
+
+Đối với sinh viên đại học Mỹ, 20 USD chẳng là gì cả. Nếu không có học bổng, học phí hàng năm của một trường công lập cũng hơn 10.000 USD, còn trường tư thì phải vài chục nghìn. Trong tâm trí họ, 20 USD chỉ là một khoản tiền lẻ. Còn với những "phú nhị đại" (con nhà giàu) trong trường, chi vài chục nghìn USD cho một trò chơi cũng chẳng hề hấn gì. Họ không những không thấy xót tiền mà còn hào hứng vì có cơ hội tốt để khoe khoang sự giàu có của mình.
+
+Với những người dùng này, việc đứng đầu danh sách bạn bè chỉ là bước cơ bản. Họ còn muốn dẫn đầu danh sách đóng góp cho những người bạn cụ thể, thậm chí là ghi tên mình vào top 100 toàn cầu. Dù sao thì mục tiêu này có thể đạt được bằng tiền, mà với họ, tiêu tiền là cách dễ dàng nhất.
+
+Con số doanh thu nạp tiền 78 triệu USD đã gây rúng động toàn bộ ngành Internet tại Mỹ. Ngay cả những công ty trị giá hàng chục tỷ cũng không ngờ rằng kiếm tiền lại dễ dàng đến thế. Các công ty Mỹ đang phát điên vì ghen tị. Không ai ngờ được rằng Mục Dã sau khi đến Mỹ lại biến thành một "chiếc máy hút bụi" siêu cấp, điên cuồng hút tiền từ các trường đại học. Hầu như mọi nhân viên công ty Internet Mỹ đều tự hỏi: "Tại sao trước khi Mục Dã đến, chúng ta lại không nhận ra mức độ chi tiêu của sinh viên Mỹ lại cao đến vậy!"
+
+Thậm chí có những tờ báo phê bình sinh viên Mỹ tiêu tiền như nước, cho rằng: "Sự thiếu kiềm chế của sinh viên Mỹ trước Thành Phố Thiên Đường là một sự sỉ nhục của quốc gia!"
+
+Tuy nhiên, cũng có những tờ báo lên tiếng tán dương Mục Dã. Họ cảm thấy: "Mặc dù Mục Dã không phải công ty Internet lớn nhất thế giới, nhưng họ là công ty hiểu người dùng nhất thế giới. Từng chi tiết nhỏ trong công việc của họ đều được tính toán dựa trên bản chất con người. Họ chiều lòng người dùng về mọi mặt, khiến người dùng nảy sinh cảm giác phụ thuộc đặc biệt. Khả năng gặt hái thành quả lớn với nỗ lực nhỏ này rất đáng để các công ty Mỹ học tập."
+
+Trong khi giới truyền thông vẫn đang tranh cãi, Mark Zuckerberg lại có một mối quan hệ kiểu vừa yêu vừa hận với "Thành Phố Thiên Đường". Khi Mark nhận ra rằng anh khó có thể khiến Fiona chú ý đến mình hơn trước áp lực tài chính quá lớn từ những kẻ khác, anh đã khá thất vọng với bầu không khí của trò chơi. Tuy nhiên, anh cũng hiểu rằng lỗi nằm ở những người dùng sùng bái tiền bạc, chứ không phải ở phía Mục Dã.
+
+
+Chương 1025
+
+Bất kể giới truyền thông Mỹ bình luận thế nào về "Thành Phố Thiên Đường", sinh viên nước này vẫn hoàn toàn bị trò chơi mê hoặc.
+
+Trước hết, có rất nhiều người giống như Fiona ở mọi trường học. Bằng cách tích cực quảng bá trò chơi, kết bạn và liên tục nhận vật phẩm quà tặng từ bạn bè, họ bỗng chốc trở thành những "đại gia" mới nổi trên khuôn viên trường với thu nhập hàng ngày lên tới hàng nghìn, thậm chí hàng chục nghìn đô la.
+
+Thứ hai, mọi sinh viên tham gia trò chơi đều nhận ra nó có tác động tích cực đến việc mở rộng mạng lưới quan hệ. Thông qua trò chơi, họ không chỉ tương tác nhiều hơn với bạn bè hàng ngày mà còn có thể tiếp xúc trực tiếp với những thần tượng, hot girl trong trường. Nó thậm chí còn có tác dụng tuyệt vời trong việc kết nối lại những mối quan hệ đã lâu không liên lạc. Những người bạn cũ bỗng nhiên tìm thấy nhau và trò chuyện trở lại chỉ nhờ vào cái nông trại này.
+
+Một trò chơi xã hội như "Thành Phố Thiên Đường" có một cốt lõi cực kỳ mạnh mẽ: thời gian bạn bỏ ra để chơi game cũng chính là thời gian bạn dành để duy trì và sắp xếp các mối quan hệ của mình.
+
+Giới trẻ trong thời đại mới ngày càng trở nên khép kín trong giao tiếp hàng ngày. Họ cùng lắm chỉ giữ liên lạc với vài người bạn và bạn học thân thiết, ngoài ra rất ít khi tiếp xúc với người khác. Hơn nữa, không ai muốn lãng phí thời gian và năng lượng chỉ để duy trì mạng lưới xã hội một cách đơn thuần. Sẽ chẳng ai bỏ ra mười phút hay vài tiếng mỗi ngày để nhắn tin, gọi điện hay viết thư cho bạn bè chỉ để giữ mối quan hệ. Thế nhưng, nếu công việc này được kết hợp với một trò chơi, kết quả sẽ hoàn toàn khác biệt.
+
+Khả năng sắp xếp và duy trì các kết nối của "Thành Phố Thiên Đường" đã giúp mọi sinh viên tìm thấy một niềm vui chưa từng có. Sự say mê của họ đối với kiểu giải trí này đã đẩy nhanh tốc độ phổ biến của trò chơi trong các trường đại học Mỹ.
+
+Chỉ trong một thời gian ngắn, Công nghệ Mục Dã đã trở thành một "gã khổng lồ" trong mắt giới Internet Mỹ nhờ vào trò chơi này cùng các phương pháp quảng bá đi kèm. Nó cũng trở thành đối tượng bị săn đuổi điên cuồng trong lĩnh vực đầu tư tài chính tại Mỹ.
+
+Cho đến nay, Mục Dã đã chủ động thực hiện hai "nước cờ" chấn động trên thị trường Mỹ và toàn cầu.
+
+Nước cờ đầu tiên là việc YY bất ngờ trở nên phổ biến trong giới tinh hoa, sau đó Mục Dã ngay lập tức thực hiện các nâng cấp tùy chỉnh cho nhóm người dùng này, từ đó mở rộng thị trường và nguồn thu từ giới thượng lưu.
+
+Nước cờ thứ hai là dựa vào một trò chơi để kiếm hàng chục triệu đô la mỗi ngày tại Mỹ, thu hút sự theo đuổi cuồng nhiệt của vô số sinh viên đại học.
+
+Tổng biên tập của tạp chí uy tín nhất Silicon Valley, Silicon-Valley-Magazine - người đã trở thành fan cuồng của Lý Mục kể từ khi YY phổ biến - đã dành những lời khen ngợi không chút dè dặt cho Mục Dã trong số mới nhất. Trong bài viết, ông nói: "Lý Mục và Công nghệ Mục Dã của ông ấy đã thực sự gây ấn tượng mạnh với tôi. Tôi chưa bao giờ thấy một công ty Internet nào thành công dễ dàng đến vậy tại thị trường Mỹ. Thậm chí nó còn cho tôi một ảo giác rằng Mỹ không phải là quốc gia tạo ra Internet, cũng không phải là trung tâm của Internet, mà là Hoa Hạ!"
+
+"Nếu không thì tại sao một công ty từ Hoa Hạ lại có thể chinh phục thị trường Mỹ một cách dễ dàng như vậy? Theo ấn tượng của tôi, ngay cả những công ty Internet từ Mỹ sang Hoa Hạ phát triển, cũng chưa có công ty nào giành chiến thắng dễ dàng như Mục Dã tại Mỹ, đúng không?"
+
+Nhận định của ông được toàn bộ Thung lũng Silicon và cộng đồng Mỹ quan tâm đến Mục Dã tán thành. Thành công của Mục Dã tại Mỹ đã cho thấy thị trường nước này mỏng manh như biên giới của một quốc gia yếu kém, vốn dĩ dễ bị xâm chiếm bởi các thế lực nước ngoài.
+
+Thậm chí còn có những nhận xét thú vị hơn. Nhờ bài báo này, ông đã tạo ra một học thuyết mới trong ngành Internet: "Học thuyết Gấu Trúc".
+
+Nguyên văn bài báo viết: "Tôi nghĩ rằng khi các công ty Internet Mỹ đối mặt với Mục Dã, họ cũng bất lực y như những loài động vật khác trong vườn thú Washington khi đối mặt với gấu trúc của Hoa Hạ vậy."
+
+"Lý do của sự bất lực này là vì gấu trúc dường như có một sức mạnh ma thuật bẩm sinh. Nó thậm chí không cần phải làm gì cả, chỉ cần đáp máy bay đến Mỹ và xuất hiện trong vườn thú. Nó có thể ăn, uống và ngủ tùy thích mà không cần phải cố gắng làm hài lòng du khách. Chỉ bằng sự xuất hiện của mình, nó ngay lập tức thu hút vô số người hâm mộ và khiến du khách phải đuổi theo. Nó không chỉ tuyệt vời, mà là tuyệt vời một cách tự nhiên."
+
+"So với chú gấu trúc Hoa Hạ này, các loài động vật khác trong vườn thú vốn phải vắt óc và vắt kiệt sức lực để mua vui cho du khách thực sự trông quá thảm hại. Mọi sự nỗ lực cả đời của chúng đều không thể so sánh với sức ảnh hưởng của gấu trúc khi nó chỉ nằm trên mặt đất và gặm tre."
+
+Cuối cùng, ông kết luận: "Có lẽ một số công ty sinh ra đã mang trong mình 'phẩm chất gấu trúc', vì thế họ có thể đạt được thành công lớn nhất một cách nhanh nhất và dễ dàng nhất. Đối mặt với một công ty như vậy, các công ty khác không cần phải nản lòng. Ai bảo người ta là gấu trúc cơ chứ? Trước một công ty như vậy, các quỹ đầu tư mạo hiểm phải nắm bắt lấy cơ hội. Các bạn phải biết rằng đây là một chú gấu trúc hiếm có. Khi gặp một công ty như vậy, điều duy nhất bạn nên làm là trực tiếp hỏi họ: 'Các bạn muốn bao nhiêu? Tôi sẽ chi!'"
+
+Bài báo đã gây ra một sự náo động lớn trong giới Internet và tài chính Mỹ. Mọi người đều đồng tình với "Học thuyết Gấu Trúc" này vì màn trình diễn của Mục Dã quả thực không khác gì một con gấu trúc. Cho đến nay, không có công ty nào hiệu quả như Mục Dã. Chỉ với hai "nước cờ" tại Mỹ, họ đã giành được thị trường, doanh thu và sức ảnh hưởng mạnh mẽ đến vậy. Vì vậy, Mục dã đã trở thành một hiện tượng, một "chú gấu trúc" từ Hoa Hạ với hào quang của riêng mình.
+
+Sở hữu của "Thành Phố Thiên Đường" nằm trong tay Muye Games sau khi được tách ra. Về bản chất, số tiền kiếm được từ trò chơi này không liên quan trực tiếp đến Công nghệ Mục Dã. Tuy nhiên, điều này vẫn thúc đẩy sự theo đuổi điên cuồng của giới tư bản đối với Công nghệ Mục Dã. Bởi vì Lý Mục đã từng chơi trò này ở thị trường Hoa Hạ một lần rồi.
+
+Khi "Nông trại vui vẻ" (Happy Farm) trở nên phổ biến ở Hoa Hạ, nó tương đương với việc chuẩn bị một cuộc tấn công hạt nhân vào các sản phẩm giao tiếp và mạng xã hội khác trên thị trường. Chỉ cần Happy Farm hợp nhất với YY, nó tương đương với việc nhấn nút kích hoạt vũ khí hạt nhân và lập tức lật đổ sự thống trị của QQ thời điểm đó.
+
+Giờ đây, phiên bản nâng cấp của nó là "Thành Phố Thiên Đường" - vốn hấp dẫn hơn Happy Farm nhiều lần - đã bắt đầu phổ biến trong cộng đồng sinh viên Mỹ. Sau khi chinh phục được sinh viên, ngày nó phổ biến trên toàn nước Mỹ đang đến gần. Điều này cũng ám chỉ rằng một khi Thành Phố Thiên Đường phổ biến tại Mỹ, YY cũng sẽ được phổ cập hoàn toàn tại đây. Khi đó, giá trị thị trường của Công nghệ Mục Dã chắc chắn sẽ tăng lên gấp nhiều lần.
+
+Đinh Chính Lâm, người thành thạo nghệ thuật vận hành vốn, nhận ra đây là thời điểm tuyệt vời. Ông tìm gặp Lý Mục và câu đầu tiên ông nói là: "Lý tổng, đến lúc phải sang Mỹ rồi!"
+
+Lý Mục cũng đã dự liệu được điều này. Anh biết mình phải sang Mỹ trong tương lai gần, nhưng chưa xác định thời gian cụ thể. Vì vậy, anh hỏi: "Ông nghĩ khi nào là thời điểm thích hợp?"
+
+Đinh Chính Lâm nói: "Trong hai ngày tới. Hiện tại danh tiếng của chúng ta tại Mỹ đang ở mức cao nhất."
+
+Câu nói đột ngột của Đinh Chính Lâm tương đương với việc giúp Lý Mục đưa ra một quyết định vốn đã đắn đo từ lâu. Việc gọi vốn cho một công ty có định giá hơn mười tỷ USD còn hiếm hoi hơn cả cửa sổ phóng tên lửa. Vì vậy, Lý Mục không suy nghĩ quá nhiều, anh gật đầu ngay lập tức và nói: "Vậy chúng ta sẽ khởi hành sau hai ngày nữa. Ông hãy chuẩn bị và đi cùng tôi."
+
+Đinh Chính Lâm gật đầu: "Vâng Lý tổng, tôi sẽ bắt đầu chuẩn bị ngay."
+
+Sau khi Đinh Chính Lâm rời đi, Lý Mục đã triệu tập Khổng Lệnh Vũ cùng đội ngũ quản lý nòng cốt của Công nghệ Mục Dã và Muye Games để họp khẩn cấp. Vì họ sẽ lên đường sang Mỹ sau hai ngày nữa, tức là ba ngày sau sẽ chính thức đặt chân lên đất Mỹ để đối đầu với các "ông trùm" và tài phiệt nơi đây, Lý Mục cảm thấy mình vẫn cần thêm nhiều "hỏa lực hỗ trợ" từ phía công ty!
+
+Sau khi mọi người đã ổn định chỗ ngồi trong phòng họp, Lý Mục đi thẳng vào vấn đề: "Hôm nay tôi gọi mọi người tới đây để thông báo một quyết định. Tôi đã thảo luận với ông Đinh, người phụ trách vận hành vốn của chúng ta. Chúng ta đã quyết định tận dụng thành công hiện tại tại Mỹ để lên đường đàm phán về vòng gọi vốn Series C với Sequoia. Thời gian khởi hành cụ thể là ngày kia."
+
+Ngay khi Lý Mục thông báo đi Mỹ, tất cả mọi người trong phòng đều phấn khích. Mặc dù Mục Dã đang phát triển nhanh chóng nhưng họ đang mở rộng ra chiến trường toàn cầu. Vũ khí, đạn dược và lương thực đều đang ở trạng thái căng thẳng, nên YY vẫn chưa chính thức phát động một chiến dịch quảng bá rầm rộ tại Mỹ. Thành Phố Thiên Đường mới chỉ chiếm lĩnh được chiến trường sinh viên, chưa thể đánh một trận toàn diện. Thế nhưng, một khi khoản tài trợ được rót vào, hơn một tỷ USD tiền mặt sẽ nằm trong tài khoản. Khi đó, Mục dã sẽ có đủ thực lực để bành trướng ra toàn thế giới.
+
+Mọi người thảo luận sôi nổi về việc sẽ điều chỉnh lối chơi ra sao khi có tiền. Lý Mục để mọi người mặc sức tưởng tượng trong vài phút. Khi họ đã hưng phấn hò hét xong, anh mỉm cười giơ tay ra hiệu im lặng: "Lần này sang Mỹ, chúng ta không chỉ thảo luận về gọi vốn mà còn tìm cơ hội gặp gỡ tất cả các nhân vật sừng sỏ trong ngành tài chính, Internet, phần mềm và phần cứng. Trong vài ngày tới, khi tôi đàm phán với họ tại trụ sở của họ, để đạt được hiệu quả tốt nhất, tôi chắc chắn sẽ cần thêm sự tự tin để trấn áp họ. Vì vậy, tôi cần mọi người tập trung hỗ trợ hỏa lực cường độ cao cho tôi trong giai đoạn này."
+
+Khổng Lệnh Vũ hiểu ý Lý Mục, ông lập tức nói: "Lý tổng, anh cần chúng tôi phối hợp thế nào? Cứ việc chỉ thị. Các tính năng 'xem trước tệp đính kèm trực tuyến' và 'nhóm thảo luận' mà anh yêu cầu phát triển cho YY gần như đã hoàn thành. Sớm nhất là trong hai đến ba ngày tới sẽ được tung ra. Tôi tin rằng hai chức năng này chắc chắn sẽ làm giới tinh hoa Mỹ chấn động hơn nữa!"
+
+Chuyên gia công nghệ Phương Húc Đông cũng cười nói: "Nếu hai chức năng mới này được tung ra cùng lúc, tôi tin rằng người dùng sẽ không chỉ chấn động mà còn thành fan cuồng của chúng ta luôn!"
+
+
+Chương 1026
+
+Vừa nghe tin Lý Mục sắp làm một chuyện lớn, người phụ trách đội ngũ vận hành "Thành Phố Thiên Đường" lập tức ngồi thẳng người, gương mặt kiên định nói với Lý Mục: "Lý tổng, anh cứ việc chỉ thị anh cần chúng tôi hỗ trợ những gì!"
+
+Lý Mục mỉm cười nói: "Thành Phố Thiên Đường đang lan nhanh trong giới sinh viên Mỹ. Đã đến lúc tạo ra một vài tin tức bùng nổ rồi, vì vậy tôi nghĩ chúng ta cần thường xuyên tung ra các sự kiện và cuộc thi lớn ngay trong trò chơi."
+
+Mọi người đều hiểu rằng một khi Lý Mục đưa ra yêu cầu cụ thể, anh chắc chắn đã có sẵn một kế hoạch chi tiết. Bấy lâu nay họ đã quen với phong cách vừa tạo ra vấn đề vừa giải quyết vấn đề của anh, nên tất cả đều đổ dồn ánh mắt chờ đợi Lý Mục tiếp tục.
+
+Lý Mục nói: "Hiện tại trong Thành Phố Thiên Đường, sức ảnh hưởng của những 'người nổi tiếng học đường' là rất rõ ràng. Tiếp theo, chúng ta phải thừa thắng xông lên, đẩy tầm ảnh hưởng này đến mức cực đại."
+
+Dừng một chút, Lý Mục tiếp tục: "Cá nhân tôi thấy rằng sinh viên ở Trung Quốc hay ở các nước phát triển đều có tâm lý hư vinh và sùng bái tiền bạc khá nặng nề. Đã vậy, hãy để chúng ta đẩy hiện tượng này lên đến tột đỉnh tại Mỹ. Chúng ta sẽ tổ chức một cuộc bình chọn 'Hoa khôi các trường đại học toàn nước Mỹ' ngay trong Thành Phố Thiên Đường. Về lý thuyết, mọi nữ sinh đại học đều có thể tham gia. Mỗi trường sẽ chọn ra một hoa khôi cấp trường, sau đó đến cấp bang, và cuối cùng các hoa khôi đại diện của 50 bang sẽ cùng nhau tranh tài ở vòng chung kết toàn quốc. Ba người xuất sắc nhất sẽ nhận được những phần thưởng có thể gây chấn động toàn bộ nước Mỹ, hoặc ít nhất là chấn động giới trẻ Mỹ."
+
+Nghe đến đây, ai nấy đều tò mò. Lý Mục luôn là người "vung tay quá trán", nhưng trong mắt anh, đó chỉ là một phương pháp marketing thông thường. Giờ đây khi anh lại dùng từ "chấn động", mọi người thực sự tò mò muốn biết phần thưởng khủng đến mức nào.
+
+Khổng Lệnh Vũ thay mặt mọi người hỏi: "Sếp, anh cứ nói luôn kế hoạch hào phóng của anh đi để chúng em được mở mang tầm mắt."
+
+Lý Mục cười nói: "Tạm thời tôi đang nghĩ thế này. Người đứng đầu của mỗi trường trong số hơn 3.000 trường đại học sẽ nhận được phần thưởng 1.000 USD sau thuế. Người chiến thắng ở mỗi bang trong số 50 bang (và một đặc khu) sẽ nhận được 20.000 USD sau thuế. Còn top 3 toàn quốc, phần thưởng lần lượt là 300.000 USD, 200.000 USD và 100.000 USD. Chưa hết, quán quân sẽ nhận thêm một chiếc siêu xe Ferrari 360, á quân nhận một chiếc Porsche 911, và vị trí thứ ba là một chiếc Ford Mustang."
+
+Lời vừa dứt, cả căn phòng lặng ngắt như tờ.
+
+Đúng là phong cách hào phóng của một đại gia thứ thiệt. Chỉ riêng tiền thưởng cho vị trí đứng đầu của 3.000 trường đã là hơn 3 triệu USD. Tiền thưởng cho 51 bang cộng lại cũng tầm 2 đến 3 triệu nữa. Thêm cả tiền mặt và siêu xe cho top 3 toàn quốc, sơ sơ cũng tốn vài triệu. Tính toán sơ bộ, chỉ riêng quỹ giải thưởng đã lên tới cả chục triệu USD. Một cuộc thi có quy mô và giải thưởng như vậy cực kỳ hiếm thấy trên thế giới, và hoàn toàn chưa từng có tiền lệ trong ngành Internet.
+
+Đối với một chiến dịch quảng bá, chi phí giải thưởng thực ra chưa phải là lớn nhất, cái tốn kém nhất là chi phí vận hành và quảng cáo. Lý Mục đã dám chi ngần ấy tiền giải thưởng, nếu cộng thêm chi phí marketing thì ngân sách cho sự kiện này có thể dễ dàng chạm mốc vài chục triệu USD.
+
+Có người phản đối: "Lý tổng, chi phí cho giải thưởng như thế là quá cao. Hơn nữa nếu phân bổ như vậy thì quà tặng bị dàn trải quá. Cá nhân tôi nghĩ tốt hơn là bỏ qua các giải thưởng ở cấp cơ sở, mà tập trung trực tiếp vào vòng chung kết quốc gia để chọn ra 3 người nhận phần thưởng siêu khủng."
+
+Chưa đợi Lý Mục lên tiếng, một người khác đã phản bác: "Tôi lại thấy nếu không phân cấp thì không ổn. Nếu trực tiếp chọn ra 3 người trên toàn quốc, hy vọng của mọi người sẽ quá mong manh. Mục tiêu quá khó khiến họ mất tự tin ngay từ đầu. Ngược lại, nếu thiết lập nhiều cấp độ, họ sẽ cảm thấy mục tiêu đầu tiên không quá xa vời; đạt được cấp trường họ sẽ có động lực tiến tới cấp bang; và khi đã vượt qua hai vòng đầu, họ sẽ cảm thấy mình đã ở rất gần giải thưởng cuối cùng. Điều này mới kích thích được tối đa nhiệt huyết tham gia của người dùng."
+
+Người này nói thêm: "Mọi người có để ý chương trình 'Siêu cấp nữ thanh' (Super Girl) của đài Hồ Nam gần đây không?"
+
+Mọi người lắc đầu. Anh ta cười nói: "Chương trình đó có thể không hot với lứa tuổi chúng ta nhưng cực kỳ phổ biến với giới trẻ. Mô hình của họ là chia quốc gia thành nhiều khu vực thi đấu lớn, chọn ra top 100, rồi top 50, top 30... Cuối cùng những người xuất sắc nhất vùng mới hội quân tại vòng chung kết toàn quốc. Hiện giờ tôi thấy con gái tôi cực kỳ thích xem nó, tôi cũng đã xem cùng vài lần. Tôi cảm thấy nhịp độ của mô hình này rất tốt, giống y những gì Lý tổng vừa nói. Họ dẫn dắt khán giả và thí sinh đi từng bước một, càng đi xa họ càng trân trọng vị trí của mình và chiến đấu hết mình để leo lên đỉnh cao."
+
+Lý Mục vốn không có ấn tượng sâu sắc với người này, nhưng anh vẫn nhớ tên anh ta. Đó là Sun Jia (Tôn Gia), một phó giám đốc (VP) của đội ngũ vận hành Mục Dã. Lời của Tôn Gia về cơ bản cũng chính là những gì Lý Mục đang nghĩ. Người ngoài không ai biết rằng khung sườn của "Siêu cấp nữ thanh" chính là do anh thiết lập. Và mô hình bình chọn hoa khôi học đường Mỹ lần này cũng dựa trên khung sườn đó. Lý Mục hy vọng sử dụng tâm lý tiến bước này để lôi kéo càng nhiều người tham gia càng tốt.
+
+Nhiều người lập tức bày tỏ sự tán đồng. Nếu đã muốn phủ sóng toàn bộ các trường đại học Mỹ, đúng là nên thiết lập nhiều giai đoạn. Nếu ngay lập tức chỉ chọn ra vài người trên quy mô toàn quốc, sức hút với đại đa số sẽ giảm đi đáng kể. Đồng nghiệp vừa nãy giơ tay phản đối cũng tỏ vẻ hơi ngượng nghịu nói: "Xin lỗi mọi người, là tôi chưa suy nghĩ thấu đáo. Kế hoạch của Lý tổng đúng là phù hợp nhất."
+
+Tôn Gia nói tiếp: "Nếu giải thưởng của hoạt động này được công bố, nó chắc chắn sẽ gây chấn động toàn bộ nước Mỹ, đặc biệt là giới sinh viên, nhưng chắc chắn không chỉ dừng lại ở sinh viên đâu!" Nhận định này nhận được sự đồng tình của tất cả mọi người. Một sự kiện quy mô lớn như vậy, cộng thêm các phương thức quảng bá, chắc chắn sẽ trở thành chủ đề nóng hổi của toàn xã hội.
+
+Thấy mọi người không còn phản đối, Lý Mục chốt lại: "Vậy chúng ta sẽ thiết lập khung cơ bản. Tên của sự kiện sẽ là 'Bảng xếp hạng mỹ nhân học đường Mỹ' của Thành Phố Thiên Đường. Quy trình sẽ là người dùng bỏ phiếu trong thời gian quy định. Vòng 1 là bình chọn cấp trường, vòng 2 là cấp bang, và cuối cùng là toàn quốc."
+
+Người phụ trách đội ngũ "Thành Phố Thiên Đường" lập tức hỏi Lý Mục: "Lý tổng, anh muốn dùng cơ sở nào để bình chọn? Dùng số phiếu của người dùng, hay dùng điểm đóng góp (tiền nạp) làm căn cứ mấu chốt?"
+
+Lý Mục lắc đầu: "Không phải cả hai. Ý tưởng của tôi là tạo ra một căn cứ bình chọn đặc biệt, tên là 'Chứng nhận cư dân Thành Phố Thiên Đường'. Cái gọi là chứng nhận này được dùng để bỏ phiếu, nhưng nó không thể được tặng, cũng không thể dùng tiền mua trực tiếp. Bạn chỉ có thể nhận được nó thông qua việc chơi game bình thường."
+
+Lý Mục giải thích thêm: "Ví dụ, trong mỗi giai đoạn của sự kiện, mọi người dùng từ cấp 20 trở lên sẽ có cơ hội nhận được chứng nhận cư dân, và mỗi người chỉ nhận được tối đa 3 chứng nhận ở mỗi giai đoạn. Muốn có chúng, bạn phải thực hiện các nhiệm vụ: sau khi canh tác 500 lần sẽ có 1 cái; làm xong 200 lượt giúp đỡ bạn bè sẽ có cái thứ 2; hoàn thành 100 nhiệm vụ sẽ có cái thứ 3."
+
+"Bằng cách này, những cô gái có cơ hội trở thành số 1 của trường chắc chắn sẽ cố gắng hết sức để kêu gọi và khuyến khích các nam sinh trong trường bỏ phiếu cho mình ngay từ vòng gửi xe. Những chàng trai này, dù đã chơi game của chúng ta hay chưa, nếu muốn bỏ phiếu thì buộc phải vào chơi. Hơn nữa mỗi tài khoản chỉ có tối đa 3 cơ hội. Như vậy không chỉ tránh được việc gian lận bằng cách 'cày' phiếu hàng loạt, đảm bảo tính công bằng, mà đồng thời còn dẫn dắt một lượng lớn người dùng đầu tư nhiều thời gian hơn vào game của chúng ta. Một mũi tên trúng rất nhiều đích."
+
+"Ngoài ra, những người được bình chọn sẽ thấy được thời gian bỏ phiếu cũng như thông tin của người đã bầu cho mình. Điều này đảm bảo những chàng trai kia sẽ thể hiện sự nhiệt tình nhất trước mặt nữ thần của họ."
+
+Lý Mục vừa dứt lời, vài người đã vỗ đùi khen hay vì phấn khích. Quả thực là một mũi tên trúng nhiều đích. Nếu mỗi người đều có "chứng nhận cư dân" một cách dễ dàng, vấn đề gian lận (hack phiếu) sẽ rất khó kiểm soát. Những bản script đăng ký tài khoản hàng loạt không làm khó được dân lập trình. Nhưng nếu bán phiếu bầu thì tính thực dụng quá cao, dễ khiến người chơi phẫn nộ và mất tính công bằng.
+
+Phương pháp của Lý Mục rất thú vị: phiếu bầu không miễn phí, cũng không bán lấy tiền. Muốn có thì phải cày cuốc chăm chỉ, lên cấp 20 và làm nhiệm vụ. Với ngưỡng cao như vậy, dù ngăn được gian lận nhưng độ khó lớn có thể khiến người dùng nản lòng. Tuy nhiên, điều đó không quan trọng. Người dùng có thể lười, nhưng động lực thực sự thúc đẩy họ không phải là trò chơi, mà là "nữ thần" - người có thể thấy rõ ai đã bầu cho mình và bầu bao nhiêu phiếu. Đã được nữ thần yêu cầu, để lấy lòng người đẹp, các chàng trai kiểu gì chẳng phải nỗ lực để có đủ 3 phiếu?
+
+Còn nếu ai đó vẫn còn tâm huyết đến mức lập thêm nick phụ, cày cuốc từ đầu để lấy thêm phiếu cho thần tượng, Lý Mục càng không phản đối. Chi phí để "hack" phiếu theo kiểu thủ công này là cực kỳ cao, lại mang lại hiệu quả tuyệt vời cho chỉ số đăng ký, thời gian chơi trung bình và thậm chí là nạp tiền của công ty. Lý Mục chỉ mong có càng nhiều thanh niên chăm chỉ làm thế càng tốt!
+
+Lúc này, ngón tay Lý Mục gõ nhẹ lên bàn. Nhìn những cộng sự đang phấn khích xung quanh, anh mỉm cười nói: "Đừng vội mừng sớm thế. Vẫn còn một yếu tố then chốt khác mà dường như mọi người chưa để ý."
+
+Mọi người ngạc nhiên nhìn anh: "Lý tổng, yếu tố then chốt gì nữa ạ?"
+
+Lý Mục cười đáp: "Mọi người quên kế hoạch 'chia sẻ vật phẩm' của chúng ta rồi sao? Mỗi cô gái tham gia cuộc thi này không chỉ có cơ hội nhận tiền thưởng ở mỗi giai đoạn, mà quan trọng hơn là họ sẽ được trò chơi của chúng ta quảng bá tới nhiều người chơi hơn. Khi đó, lượng fan của họ sẽ tăng vọt, và họ sẽ nhận được nhiều quà tặng vật phẩm hơn từ fan."
+
+Mọi người chợt vỡ lẽ. Lý Mục tiếp tục: "Thử nghĩ xem, một 'hot girl trường học' bình thường đã có thể nhận hàng nghìn, hàng chục nghìn đô mỗi ngày từ quà tặng. Vậy nếu họ chiến thắng vòng 1 và trở thành hoa khôi của trường thì sao? Nếu thắng vòng 2 và đứng đầu bang? Thậm chí là top 3 toàn quốc? Mỗi chiến thắng sẽ mang lại cho họ sự hiện diện (exposure) khổng lồ. Càng lộ diện nhiều thì càng nhiều fan, càng nhiều quà. Tôi nghĩ nếu lạc quan, một quán quân cấp bang hoàn toàn có thể thu về triệu đô từ game của chúng ta. Có khối tài sản đó chờ đợi, họ sẽ càng có động lực điên cuồng để tiến xa hơn trong cuộc thi này."
+
+"Thật tuyệt vời!"
+"Em không đợi được nữa rồi!"
+"Một khi cuộc thi này được tung ra tại Mỹ, em tin chắc nó sẽ trở thành một chủ đề nóng mang tính hiện tượng!"
+
+Mọi người thảo luận vô cùng sôi nổi, ai nấy đều tràn đầy tự tin. Lý Mục cũng vậy. Anh cảm thấy một khi "Hoa khôi các trường đại học toàn nước Mỹ" được công bố, mức phần thưởng chưa từng có này chắc chắn sẽ gây sốc và thu hút sự chú ý của toàn xã hội. Đồng thời, nó sẽ tạo nên làn sóng theo đuổi điên cuồng của mọi sinh viên. Khi đó, tầm ảnh hưởng của "Thành Phố Thiên Đường" tất yếu sẽ đạt được một bước nhảy vọt khác.
+
+Dù là đàm phán tài trợ hay tổ chức các cuộc gặp gỡ tại Mỹ, anh đều cần nắm giữ thế chủ động. Muốn có chủ động, anh phải tung ra những "chiêu bài" lớn! Một loạt các nước đi lớn và những đòn tấn công dồn dập chắc chắn sẽ làm bùng nổ thị trường tương lai của Mục Dã tại Mỹ.
+
+Định giá vòng gọi vốn Series C của Mục Dã sẽ là 15 tỷ USD? Hay 16 tỷ USD hoặc hơn? Đối với Lý Mục, chẳng việc gì phải lo lắng. Chỉ cần nắm chắc nhịp độ, lần này anh chắc chắn sẽ đàm phán được một mức giá gây chấn động thế giới cho Mục Dã.
+
+Trong đầu Lý Mục thỉnh thoảng hiện lên một hình ảnh: nếu đối phương không đồng ý với mức giá 15 tỷ USD của anh, anh sẽ lẳng lặng quay về khách sạn. Ngày hôm sau, anh tung ra cuộc thi Hoa khôi toàn quốc và thu hút sự chú ý của toàn nước Mỹ. Khi đó, chẳng phải đối phương sẽ hối hận đến xanh ruột sao? Nếu lúc đó họ tìm đến anh và nói: "Lý tổng à, 15 tỷ, chúng ta mau ký hợp đồng thôi!", anh chắc chắn sẽ phất tay nói: "Xin lỗi, giá của ngày hôm nay không còn là 15 tỷ nữa rồi."
+
+
+Chương 1027
+
+Hai tính năng cập nhật lớn của YY và chiến dịch bom tấn "Bảng xếp hạng mỹ nhân học đường Mỹ" của Thành Phố Thiên Đường vẫn là chưa đủ đối với Lý Mục.
+
+Anh cảm thấy chuyến đi Mỹ lần này của mình không chỉ vì tiền bạc và các mối quan hệ cao cấp trong ngành, mà còn là một "trận đấu biểu diễn" đẹp mắt. Đã là trận đấu biểu diễn thì phải nỗ lực để nó trở nên kịch tính nhất.
+
+Vì vậy, khi mọi người tưởng rằng Lý Mục đã căn dặn xong xuôi và tất cả đang hừng hực khí thế bắt tay vào làm, Lý Mục lại nói tiếp: "Đối với Thành Phố Thiên Đường, một cuộc thi hoa khôi vẫn là chưa đủ. Tôi nghĩ chúng ta cần thêm một sự kiện khác để đạt được sự bao phủ chéo (cross-coverage) cho các nhóm người dùng khác nhau."
+
+Mọi người nghe xong đều cảm thấy áp lực đè nặng trong lòng. Lý Mục là linh hồn của nhiều công ty. Theo lẽ thường, ở tầm vóc này, anh không còn cần phải tự mình hoạch định từng chi tiết kinh doanh nhỏ nhặt nữa, bởi đội ngũ bên dưới chắc chắn phải đủ năng lực để giải quyết mọi khâu từ lên ý tưởng đến thực thi. Thế nhưng, tư duy của Lý Mục lại đi trước mọi người quá xa, khiến đội ngũ nòng cốt dù đã cố gắng hết sức cũng chỉ có thể làm theo những gì anh nghĩ chứ chưa thể thay anh nghĩ được.
+
+Hiện tại, đội ngũ vẫn chưa thể bắt kịp nhịp độ của anh. Có một khoảng cách khổng lồ về ý thức chiến lược và khả năng kiểm soát chi tiết giữa họ và Lý Mục. Mọi đổi mới sản phẩm quan trọng hay các bước đi chiến thuật về cơ bản vẫn dựa vào chính Lý Mục. Mục Dã mang lại đãi ngộ tốt như vậy cho tất cả, nhưng họ vẫn chưa thực sự san sẻ được gánh nặng trí tuệ cho vị CEO của mình. Là cấp dưới, không chịu áp lực sao được.
+
+Thấy mọi người im lặng, Lý Mục nhíu mày hỏi: "Có chuyện gì thế? Vừa nãy hăng hái lắm mà, sao tự nhiên lại xìu xuống vậy?"
+
+Mọi người nhìn nhau, Khổng Lệnh Vũ thẳng thắn nói: "Sếp, mọi thứ đều do anh tự mình suy nghĩ và hoạch định. Là thành viên của Mục Dã, chúng em thực sự thấy hổ thẹn vì không thể đứng cùng đẳng cấp với anh trong những vấn đề này..."
+
+Lý Mục sững người, im lặng một lúc. Sau đó anh mỉm cười thản nhiên, nói với mọi người: "Nếu tạm thời chưa thể đóng vai trò then chốt trong việc hoạch định chiến lược, thì trước mắt các bạn hãy làm thật tốt khâu thực thi đã. Chúng ta là một đội, không thể chỉ dựa vào một bộ não hay một đôi tay. Nhờ có sự phối hợp của mọi người, Mục Dã mới có được như ngày hôm nay. Tôi tin rằng chỉ cần có thời gian để trưởng thành và củng cố, trong tương lai gần, tất cả các bạn đều sẽ có những bước tiến vượt bậc."
+
+Dù nói vậy nhưng trong lòng Lý Mục cũng có chút bất lực. Trong khía cạnh sản phẩm Internet và tư duy vận hành, với lợi thế dẫn trước hơn mười năm, anh hoàn toàn có thể "bóp nghẹt" cả thế giới. Anh có thể nghĩ ra những thứ người khác không tưởng tượng nổi, nhìn ra những điều người khác không hiểu, và tìm ra con đường tắt nhanh nhất mà người khác phải mất nhiều năm và hàng đống tiền bạc mới nhận ra mình đã đi vòng. Vì vậy, rất khó để anh tìm được một ai đó cùng đẳng cấp về tư duy Internet. Điều này cũng có nghĩa là anh định sẵn phải luôn là người đưa ra quyết định cốt lõi tại Mục Dã và Taobao để đảm bảo công ty luôn dẫn đầu một cách tuyệt đối.
+
+Lý Mục cảm thấy việc xây dựng được một đội ngũ có khả năng thực thi hoàn hảo như thế này đã là rất khó rồi, nên anh không thể đòi hỏi quá nhiều. Bây giờ là cơ hội tốt để phát triển nhanh và gia tăng lợi thế, anh không thể lơ là một chút nào. Vì vậy anh chỉ có thể tự mình đưa ra các quyết định lớn rồi giao cho đội ngũ triển khai cụ thể.
+
+Sau khi trấn an xong, Lý Mục quay lại bàn công chuyện chính: "Bây giờ đã là tháng 11, lễ Tạ ơn (Thanksgiving) ở phương Tây là vào ngày 28 tháng 11. Do đó, tôi muốn tận dụng cơ hội này để tổ chức một cuộc thi toàn cầu trong Thành Phố Thiên Đường. Nói là toàn cầu, nhưng địa bàn quảng bá và hoạt động chính sẽ là ở Bắc Mỹ."
+
+Mọi người xốc lại tinh thần, chờ đợi những lời tiếp theo của anh.
+
+Lý Mục tiếp tục: "Nếu muốn quảng bá ở một thị trường cụ thể, dĩ nhiên chúng ta phải tôn trọng và thậm chí là làm hài lòng người dùng ở thị trường đó. Khi người nước ngoài kiếm tiền của chúng ta, họ cũng kỷ niệm các ngày lễ lớn của chúng ta như Quốc khánh hay Tết Nguyên đán. Đó không chỉ là sự tôn trọng thị trường, mà còn là tôn trọng người tiêu dùng và văn hóa bản địa. Vậy nếu chúng ta muốn kiếm tiền của họ, chúng ta cũng phải tôn trọng ngày lễ và văn hóa của họ. Đó là điều kiện tiên quyết."
+
+"Lễ Tạ ơn và Giáng sinh là những ngày lễ truyền thống cực kỳ quan trọng ở phương Tây. Ngoài ra, các thị trường Nhật Bản, Hàn Quốc hay Đông Nam Á cũng có những nét văn hóa riêng biệt. Vì vậy, đội ngũ vận hành tương lai của chúng ta phải nhắm mục tiêu cụ thể vào từng quốc gia để phát triển các hoạt động trò chơi phù hợp. Quay lại chủ đề chính, vì đây là cuộc thi nhân dịp lễ Tạ ơn, nên ngay từ đầu chúng ta phải làm sao để cuộc thi khớp với chủ đề nhất có thể. Trong bản cập nhật mới nhất, phải thêm vào các yếu tố thiết kế của lễ Tạ ơn. Từ thiết kế hình ảnh, vật phẩm cho đến tương tác đều phải thể hiện sự coi trọng của chúng ta đối với ngày lễ này. Thứ hai, bối cảnh trò chơi cũng phải tương ứng. Chẳng phải ở phương Tây người ta thường ăn gà tây quay vào lễ Tạ ơn sao? Vậy đề xuất của tôi là tổ chức một cuộc thi 'Nuôi gà tây' trong trò chơi."
+
+"Cuộc thi nuôi gà tây?" Mọi người đều tò mò và hứng thú với khái niệm mới này của Lý Mục.
+
+Lý Mục nói: "Thứ nhất, chúng ta phải đưa vào ít nhất ba giống gà tây, được phân loại theo phẩm cấp. Phẩm cấp càng cao thì càng khó kiếm và khó nuôi."
+
+"Thứ hai, về nguyên tắc, chúng ta sẽ không mở bán trực tiếp gà giống. Dù dùng tiền vàng trong game hay tiền mặt cũng không thể mua được gà con. Thay vào đó, người chơi phải thực hiện các nhiệm vụ của lễ Tạ ơn để nhận ngẫu nhiên gà giống. Họ phải có gà giống trước rồi mới bắt đầu nuôi được."
+
+"Thứ ba, để nuôi gà tây, cần có loại thức ăn chuyên dụng. Thức ăn này có thể được chế biến qua máy chế biến thức ăn của người dùng, và nguyên liệu sẽ đến từ chính các loại nông sản của họ như lúa mì, ngô và đậu nành."
+
+"Toàn bộ quy trình là: người chơi hoàn thành các nhiệm vụ nhỏ để có gà giống, sau đó nuôi các loại gà khác nhau. Gà xịn thì ăn thức ăn xịn, thức ăn xịn thì cần nguyên liệu khó kiếm. Về lý thuyết, gà cấp càng cao càng khó lấy giống, thời gian nuôi càng lâu và thức ăn càng khó chế biến. Hơn nữa, gà giống và thức ăn bị cấm giao dịch trực tiếp giữa người dùng, họ buộc phải tự mình nỗ lực."
+
+"Cuộc thi nuôi gà tây lễ Tạ ơn sẽ xoay quanh hoạt động này. Hãy tính toán một thuật toán hợp lý về thời gian, nguyên liệu và kinh nghiệm thu được khi nuôi ba loại gà. Sau đó lập ra một bảng xếp hạng toàn cầu cho cuộc thi, bắt đầu từ ngày diễn ra sự kiện và kết thúc vào lúc 24 giờ ngày lễ Tạ ơn. Người đứng đầu có tổng điểm tích lũy cao nhất sẽ nhận phần thưởng 100.000 USD. Vị trí thứ hai là 80.000 USD, thứ ba là 50.000 USD, từ thứ tư đến thứ sáu là 30.000 USD, và từ thứ bảy đến thứ mười là 20.000 USD."
+
+"Từ hạng 11 đến 20, mỗi người nhận 10.000 USD. Hạng 21 đến 35 là 8.000 USD. Hạng 36 đến 50 là 5.000 USD. Và từ hạng 51 đến 100 là 3.000 USD."
+
+Sau khi chứng kiến sự hào phóng của Lý Mục lúc trước, mọi người không còn quá ngạc nhiên khi nghe kế hoạch này nữa. Lúc này, Lý Mục nói tiếp: "Ngoài ra còn có một giải thưởng quan trọng nhất."
+
+Mọi người chấn động: "Vẫn còn nữa sao?? Sếp định vung tiền đến bao giờ đây? Đây không phải là đốt tiền nữa, mà là bay sang Mỹ, mở cửa máy bay rồi rắc tiền xuống đấy à!"
+
+Ai nấy trông đều kinh hồn bạt vía, riêng Lý Mục vẫn thản nhiên nói: "Giải thưởng quan trọng nhất chính là: top 200 người dẫn đầu sẽ được tặng một chuyến du lịch 10 ngày miễn phí tại Hoa Hạ. Chúng ta sẽ chi trả toàn bộ chi phí từ chuyên cơ riêng, ăn ở tại khách sạn 5 sao, cho đến xe đưa đón và máy bay chuyển tiếp. Mức phí tiêu chuẩn cho mỗi người là hơn 10.000 USD. Chúng ta sẽ sắp xếp hành trình để họ thưởng ngoạn những danh lam thắng cảnh hùng vĩ nhất của đất nước mình."
+
+Nói đến đây, Lý Mục thêm vào đầy ẩn ý: "Mời 200 người sang du lịch Hoa Hạ với chi phí hơn 10.000 đô mỗi người là một nước đi lớn khiến tất cả người chơi phải kinh ngạc. Ngay từ giai đoạn quảng bá, nó đã đủ để thu hút sự chú ý rồi. Chưa kể khi quá trình 200 người này tận hưởng chuyến du lịch xa hoa tại Hoa Hạ được ghi hình lại, nó sẽ mang lại tác động thị giác và sự chấn động cho khán giả. Cộng thêm việc quảng bá đầy đủ, điều này chắc chắn sẽ giới thiệu được nguồn tài nguyên du lịch phong phú và tuyệt vời của Hoa Hạ tới toàn bộ cộng đồng game thủ, tới nước Mỹ và cả thế giới. Nó tương đương với việc làm một chương trình quảng cáo sống động khổng lồ cho ngành du lịch của đất nước chúng ta."
+
+Mọi người nghe xong thì gần như đã hoàn toàn bị thuyết phục.
+
+Lý Mục mỉm cười nói: "Chúng ta sẽ bỏ tiền ra thuê những đạo diễn và đội ngũ hàng đầu để thực hiện một video ngắn quảng bá du lịch Hoa Hạ. Dùng những phương pháp tốt nhất để phô diễn sự độc đáo của phong cảnh đất nước mình trong thời gian ngắn nhất. Vạn Lý Trường Thành là gì, Đội quân đất nung trong lăng mộ Tần Thủy Hoàng ra sao, Ngũ Nhạc gồm những núi nào, Hoàng Sơn đẹp thế nào, Trương Gia Giới hùng vĩ ra sao, Quế Lâm thơ mộng thế nào, cung điện Potala uy nghiêm thế nào... Một khi video được hoàn thành, chúng ta sẽ phát lặp lại trong trò chơi để khơi gợi niềm khao khát của người Mỹ và người nước ngoài đối với Hoa Hạ. Coi như đây cũng là đóng góp của chúng ta cho nền kinh tế nước nhà!"
+
+Lý do vì sao Lý Mục có thể nhận được sự ủng hộ tuyệt đối của chính phủ có thể thấy rõ qua điểm này. Anh làm kinh doanh để kiếm tiền, nhưng chắc chắn anh không chỉ nghĩ đến việc kiếm tiền. Dù là sự phát triển chung của ngành công nghiệp, thúc đẩy năng lượng tích cực xã hội, làm từ thiện, hay mang lại vinh quang cho đất nước, đều là những vấn đề quan trọng mà anh cực kỳ chú trọng. Hơn nữa bấy lâu nay, Lý Mục vẫn luôn nỗ lực hết mình để thúc đẩy những điều có lợi cho quốc gia và nhân dân.
+
+Giờ đây, Lý Mục thậm chí còn nghĩ ra cách quảng bá phong cảnh Hoa Hạ ra thế giới thông qua trò chơi. Bản thân điều này đã là biểu hiện của trách nhiệm xã hội. Việc chi tiền mời 200 người sang du lịch là nước đi lớn, kết hợp với sức mạnh của nền tảng game, nền tảng YY và các phương tiện truyền thông toàn cầu, đây chắc chắn là một cơ hội hiếm có để hình ảnh du lịch Hoa Hạ được phô diễn trên vũ đài thế giới. Nếu làm tốt, ý nghĩa thực tiễn của nó là không thể đong đếm!
+
+
+Chương 1028
+
+Trong lúc vô số sinh viên Mỹ đang phát cuồng vì "Thành Phố Thiên Đường" và Lý Mục bắt đầu chuẩn bị cho chuyến đi Mỹ, toàn bộ khuôn viên trường Đại học Nhân dân (Nhân Đại) cũng đang xôn xao vì một sự kiện trọng đại.
+
+Chẳng hiểu tại sao, mới vài ngày trước, ngôi trường danh giá Harvard Business School (Trường Kinh doanh Harvard) của Mỹ lại đột ngột chủ động liên lạc với Khoa Kinh tế của Nhân Đại - vốn không mấy tên tuổi trên bản đồ thế giới - như thể... đầu óc họ có vấn đề vậy.
+
+Đầu tiên, Harvard chủ động bày tỏ mong muốn thiết lập mối quan hệ hữu nghị với Khoa Kinh tế Nhân Đại. Chỉ riêng yêu cầu này thôi đã khiến các vị lãnh đạo Nhân Đại một phen kinh ngạc. Harvard Business School là trường kinh doanh số một toàn cầu, trong khi Khoa Kinh tế của Nhân Đại thậm chí còn chẳng có thứ hạng quốc tế. Khoảng cách giữa hai bên thực sự là trời vực.
+
+Là "anh cả" của các trường kinh doanh, hàng năm có không biết bao nhiêu ngôi trường danh tiếng trên thế giới muốn kết thâm giao với Harvard nhưng không tìm được cửa. Nhân Đại vốn cũng nằm trong nhóm muốn kết giao nhưng "lực bất tòng tâm". Kết quả là miếng bánh từ trên trời rơi xuống, Harvard tự mình tìm tới cửa. Chuyện này chẳng khác nào một giấc mơ, thậm chí còn đẹp hơn cả mơ. Cảm giác này y hệt như việc Michael Jackson đột nhiên chủ động đòi làm anh em kết nghĩa với một ca sĩ phòng trà vậy. Một bên là số một thế giới, một bên là ngôi trường cổ lỗ sĩ ở Yên Kinh chẳng mấy ai biết tới. Cho dù là nằm mơ, người ta cũng chẳng dám dệt nên tình tiết như thế.
+
+Điều khó tin hơn nữa là Harvard Business School còn chủ động đề xuất một chương trình trao đổi sinh viên cực kỳ hấp dẫn. Chi tiết như sau: Harvard và Khoa Kinh tế Nhân Đại mỗi bên sẽ chọn ra 8 sinh viên năm hai để thực hiện một kỳ học trao đổi kéo dài nửa năm. Về chi phí, Harvard đề nghị họ sẽ trả học phí và trợ cấp sinh hoạt cho sinh viên trao đổi từ Nhân Đại sang, còn Nhân Đại sẽ lo cho 8 sinh viên từ Harvard sang. Nghĩa là tất cả 16 người đều được đi theo diện công phí hoàn toàn.
+
+Dĩ nhiên Nhân Đại chẳng có lý do gì để phản đối. Các vị lãnh đạo chỉ nghĩ đến việc sau khi thiết lập quan hệ với Harvard, danh tiếng và sức ảnh hưởng của Nhân Đại sẽ gia tăng đáng kể. Vì thế, đối với họ, đừng nói là lo cho 8 sinh viên, dù có bắt họ lo cho cả 16 người và nộp thêm vài triệu tệ cho Harvard, họ cũng sẵn sàng chi tiền ngay lập tức.
+
+Trước khoảng cách quá lớn về thực lực và tầm ảnh hưởng, Nhân Đại gần như chấp nhận vô điều kiện mọi đề nghị của Harvard, thể hiện rất tốt tinh thần "hiệu quả". Khi các bạn trẻ ở Harvard còn đang mải mê chơi "Thành Phố Thiên Đường", Nhân Đại đã ký xong thỏa thuận và bước ngay vào quy trình tuyển chọn sinh viên.
+
+Tin tức vừa tung ra, toàn bộ Nhân Đại chấn động. Thầy và trò đều phát cuồng. Ngay cả những sinh viên không thuộc diện trao đổi cũng ghen tị đỏ mắt với sinh viên Khoa Kinh tế, sinh viên các khóa khác thì ghen tị với khóa năm hai. Còn đám sinh viên năm hai Khoa Kinh tế thì khỏi phải nói, ai nấy đều dốc sức rèn luyện, hy vọng lọt vào danh sách 8 người duy nhất được bước chân vào ngôi đền thiêng Harvard Business School.
+
+Đối với nhiều sinh viên trong nước, "sinh viên trao đổi quốc tế" là cơ hội cực kỳ tốt, đặc biệt là sang Âu Mỹ. Không chỉ giúp mở mang tầm mắt, tăng thêm kiến thức, mà còn là môi trường tốt nhất để rèn luyện tiếng Anh. Quan trọng hơn, kinh nghiệm này sẽ giúp ích rất nhiều cho việc thi cao học, du học hay xin việc sau này.
+
+Lần này, vô số người đang nhắm vào 8 chiếc ghế quý giá của Nhân Đại. Không chỉ những sinh viên xuất sắc nhất khoa, mà cả đám con nhà giàu, con ông cháu cha cũng không bỏ qua cơ hội này. Nghe nói có cả con cái của các tỷ phú và hậu duệ của quan chức cấp tỉnh, bộ. Kết quả là ngưỡng cửa văn phòng các trưởng khoa, viện trưởng, thậm chí là hiệu trưởng suýt chút nữa bị giẫm nát.
+
+Tô Ánh Tuyết tình cờ cũng nằm trong danh sách xét tuyển lần này. Mặc dù vô cùng khao khát, nhưng cô dường như không dám nuôi hy vọng vào 8 suất đó. Một mặt, khi mới vào trường, hạng của cô trong toàn khoa là ngoài 50. Dù học hành rất chăm chỉ nhưng sau khi lên đại học, cô cũng đã nới lỏng dây thần kinh căng thẳng từ hồi lớp 12, nên hiện giờ hạng của cô chỉ tầm 70. Cộng với việc gia đình bình thường, không quyền thế, cô gần như không có cửa cạnh tranh. Tuy nhiên, dù trong lòng không hy vọng nhưng cũng giống như những sinh viên năm hai khác, Tô Ánh Tuyết vẫn mong ngóng một phép màu khi danh sách cuối cùng được công bố.
+
+Nghe đâu, vì Harvard hiểu rõ tầm quan trọng của "quan hệ", "gia thế" và "cửa sau" ở Trung Quốc, nên sau khi ký kết, họ đã đưa ra một loạt yêu cầu đặc thù cho việc tuyển chọn. Thứ nhất, trong số 8 sinh viên trao đổi, ít nhất 5 người phải được chọn dựa trên bảng xếp hạng thành tích công bằng. Năm người này phải là những người đứng đầu, nếu có người từ bỏ mới được đôn người tiếp theo lên. Tuyệt đối không chấp nhận bất kỳ sự ưu tiên hay gian lận nào, nếu không Harvard có quyền chấm dứt hợp tác ngay lập tức.
+
+Thứ hai, Viện trưởng Khoa Kinh tế có quyền tiến cử một sinh viên. Hội sinh viên năm hai cũng có quyền tiến cử một người. Và suất cuối cùng, thật bất ngờ, lại được giao quyền quyết định cho một giảng viên nước ngoài tại khoa.
+
+Năm suất đầu tiên tính theo thành tích là hoàn toàn công bằng và hợp lý. Suất của viện trưởng và hội sinh viên là sự tôn trọng dành cho Nhân Đại. Việc phân bổ 7 suất này cho thấy Harvard đã cân nhắc rất kỹ lưỡng, vừa đảm bảo chất lượng sinh viên, vừa tính đến yếu tố "quan hệ" sâu rộng ở Hoa Hạ.
+
+Còn suất thứ 8 quý giá, theo yêu cầu của phía Harvard, quyền quyết định thuộc về giảng viên nước ngoài đang giảng dạy môn Kinh tế học Tây phương tại Nhân Đại. Việc Harvard trao một suất cho một giảng viên không giữ chức vụ lãnh đạo nghe có vẻ lạ, nhưng Nhân Đại sớm hiểu ra lý do. Vị giảng viên này vốn là cựu sinh viên Harvard (alumnus) và luôn giữ mối quan hệ thân thiết với trường cũ. Lần này khi hai trường kết nghĩa, vị giảng viên này chính là người được Harvard tin tưởng nhất phía Nhân Đại. Vì thế Nhân Đại cũng hết sức tôn trọng yêu cầu của Harvard.
+
+Sau khi quy tắc phân bổ bị lộ ra, đa số sinh viên năm hai Khoa Kinh tế đều tuyệt vọng. Xem ra muốn đi Harvard không hề dễ dàng. Hoặc là bạn phải nằm trong top 5 của khối, hoặc gia đình phải có quan hệ đủ mạnh để tác động lên viện trưởng hay hội sinh viên, hoặc là phải lấy lòng được vị giảng viên nước ngoài kia.
+
+Trong một thời gian ngắn, những sinh viên thấy mình còn chút hy vọng lập tức bắt đầu trổ hết tài năng. Người thì nhắm vào suất của viện trưởng, kẻ thì dùng "đạn bọc đường" tấn công giảng viên nước ngoài. Có tin đồn một phụ huynh đã đề nghị trả cho giảng viên đó 1 triệu tệ chỉ để con mình được đi trao đổi nửa năm.
+
+Khác với những người đang vắt óc tìm cách, ngay khi quy tắc được công bố, Tô Ánh Tuyết đã hoàn toàn bỏ cuộc. Thành tích của cô còn cách top 5 rất xa, quan hệ hay tiền bạc cô đều không có. Vì vậy 8 suất kia chắc chắn không dành cho cô. Sau khi bình tâm lại, Tô Ánh Tuyết vẫn đi học như bình thường, không còn bận tâm đến việc đó nữa.
+
+Nhưng thật bất ngờ, sau tiết học Kinh tế học Tây phương, vị giảng viên nước ngoài bỗng dưng gọi Tô Ánh Tuyết lại khi cô định rời khỏi lớp. Cô ấy nói bằng tiếng Anh: "Ánh Tuyết, em có thể lên văn phòng của tôi một lát không?"
+
+Tô Ánh Tuyết không nghĩ ngợi nhiều, giảng viên gọi thì không thể từ chối, cô nhẹ nhàng gật đầu đáp bằng tiếng Anh: "Vâng thưa giáo sư Simpson."
+
+Jenny Simpson, một phụ nữ chỉ mới ngoài 30 tuổi, mỉm cười nói: "Đợi tôi một chút, xong việc chúng ta cùng đi."
+
+Ánh Tuyết gật đầu đứng chờ cạnh bục giảng. Khi Jenny dọn dẹp xong giáo trình, cả hai rời lớp đi thẳng về văn phòng. Trên đường đi, không ít sinh viên bắt gặp cảnh hai người đi cạnh nhau. Lập tức tin đồn nổ ra. Có người nói: "Có khi Ánh Tuyết đã 'mua' thành công Jenny Simpson rồi. Bao nhiêu người đang nhắm vào suất của bà ấy, xem ra Ánh Tuyết thắng chắc rồi."
+
+Vẫn có người nghi ngờ: "Ánh Tuyết thì lấy đâu ra gia thế khủng chứ? Hình như cô ấy đến từ một thành phố nhỏ, gia cảnh chỉ mức khá thôi. Nghe bảo có người trả bà Jenny tận 1 triệu, Ánh Tuyết lấy gì mà cạnh tranh?"
+
+Kẻ không phục thì bĩu môi: "Thành tích của Ánh Tuyết đâu phải nhất đâu đúng không? Học trong lớp bài của Jenny cũng bình thường. Nếu bà ấy thực sự giao suất đó cho cô ấy, chắc chắn có khuất tất gì rồi!"
+
+"Ôi dào, lo chi cho mệt. Harvard cố ý để lại ba suất để người ta tự thu xếp mà. Ba suất đó vốn dĩ sinh ra là để 'đi cửa sau'. Ai có quan hệ mạnh thì được thôi."
+
+"Thế tôi mới hỏi, Ánh Tuyết lấy đâu ra quan hệ và thực lực đó?"
+
+"Tôi không biết cô ấy có quan hệ gì không, nhưng đừng quên cô ấy là bạn gái của Lý Mục. Lý Mục bây giờ quyền thế ngất trời, giúp Ánh Tuyết một chuyện nhỏ thế này chắc chẳng thành vấn đề nhỉ?"
+
+"Ồ, nghe cậu nói mới nhớ, có khi vụ Harvard tìm đến trường mình lần này là do Lý Mục đứng sau dàn xếp không chừng? Nếu không làm gì có chuyện Harvard tự dưng lại nhiệt tình với trường mình thế?"
+
+"Này, cậu nói nghe có lý đế đấy!"
+"Có lý thì có lý, nhưng có một điểm tôi không hiểu..."
+"Điểm gì?"
+
+
+Chương 1029
+
+Trong khi nhiều sinh viên còn đang bàn tán xôn xao, Tô Ánh Tuyết đã theo chân Jenny Simpson lên đến văn phòng.
+
+Văn phòng của Jenny có tổng cộng sáu giảng viên, tất cả đều là các giáo sư nước ngoài đến từ khắp nơi trên thế giới. Lúc này các giảng viên khác chưa về, Jenny mời Ánh Tuyết ngồi xuống, mỉm cười nhìn cô và hỏi bằng tiếng Anh: "Ánh Tuyết, em có biết vì sao tôi tìm em không?"
+
+Ánh Tuyết nhẹ nhàng lắc đầu: "Thưa giáo sư Simpson, em không biết ạ."
+
+Một nụ cười bí ẩn hiện lên trên gương mặt Jenny. Cô ấy nhìn Ánh Tuyết, nhấn mạnh từng chữ: "Chúc mừng em, em sẽ là một trong những sinh viên trao đổi giữa Đại học Nhân dân và Harvard Business School. Em sẽ đại diện trường sang Mỹ tham gia kỳ trao đổi học thuật kéo dài nửa năm!"
+
+Tô Ánh Tuyết sững người. Cô nhìn Jenny đầy vẻ không tin nổi. Thấy giáo sư không hề có vẻ gì là đang đùa, cô thốt lên: "Tại sao lại là em (Why me)?"
+
+Jenny mỉm cười nói: "Thành thật mà nói, Ánh Tuyết, em là sinh viên tôi yêu thích nhất tại Nhân Đại. Tôi thích sự tập trung của em trong giờ học, sự điềm tĩnh và phát âm tiếng Anh rất chuẩn của em. Tôi biết em luôn khao khát sang Mỹ học tập, vì vậy tôi nghĩ em là người xứng đáng nhất nhận được cơ hội này."
+
+Tô Ánh Tuyết thực sự không ngờ mình lại được đánh giá cao đến thế. Mặc dù cô rất thích tiết học của Jenny và luôn dốc sức học tiếng Anh, nhưng cô không thể tin nổi Jenny lại trao suất duy nhất đó cho mình. Hơn nữa còn có tin đồn suất học này đáng giá triệu tệ.
+
+Khi Ánh Tuyết còn đang ngẩn ngơ chưa biết đáp lại thế nào, Jenny tiếp tục: "Harvard là trường cũ của tôi. Tôi đã lấy bằng cử nhân và MBA tại đó. Đó là ngôi trường có thứ hạng toàn diện nhất thế giới và trường kinh doanh mạnh nhất. Nếu sau này em muốn thi vào MBA của Harvard, em buộc phải nắm lấy cơ hội này. Nửa năm trao đổi sẽ giúp em hiểu sâu sắc về Harvard và tăng cơ hội trúng tuyển MBA sau này."
+
+Bà nói thêm: "Ánh Tuyết, dù em mới là năm hai nhưng tôi thấy mình có trách nhiệm đưa ra một lời khuyên khách quan cho tương lai của em. Lần này sang Harvard, tôi sẽ giới thiệu giáo sư hướng dẫn của mình cho em. Bà ấy là một trong những chuyên gia hàng đầu về MBA tại Harvard. Với sự tiến cử của tôi, các em có thể làm quen trước. Sau này khi thi MBA, em có thể trực tiếp chọn bà ấy làm người hướng dẫn, điều đó sẽ giúp ích cho em cực kỳ nhiều."
+
+"Có kinh nghiệm trao đổi cộng với mối quan hệ với giáo sư MBA từ trước, khả năng em đỗ vào Harvard sẽ tăng lên gấp bội. Khi em có tấm bằng MBA của Harvard trong tay, về cơ bản em có thể vào bất kỳ tập đoàn đa quốc gia nào. Lúc đó em có thể chọn ở lại làm việc tại phố Wall, hoặc về Yên Kinh làm cho các chi nhánh quốc tế, hay trực tiếp tìm việc tại các công ty hàng đầu trong nước. Tóm lại, cuộc đời em sẽ thay đổi hoàn toàn. Đây là cơ hội nghìn năm có một!"
+
+Tô Ánh Tuyết không nói nên lời, nhưng trong lòng cô không khỏi bị thu hút bởi viễn cảnh đó. Sang Mỹ du học đã là ước mơ nhiều năm của cô. Trước đây nó giống như giấc mơ trẻ con, nhưng từ khi đỗ vào Nhân Đại, giấc mơ đó càng lúc càng gần thực tế hơn. Tuy nhiên ngay cả trong mộng, cô cũng hiếm khi dám nghĩ mình có thể vào Harvard học MBA.
+
+Hiện giờ, cơ hội từ trên trời rơi xuống lại cho cô sang Harvard trao đổi nửa năm. Đây đúng là một sự khởi đầu trong mơ. Nếu đúng như Jenny nói cô còn được giới thiệu với giáo sư MBA nữa thì thật hoàn hảo. Đối với Ánh Tuyết, dường như không có lý do gì để từ chối đề nghị này. Tuy nhiên, có một "nút thắt" trong lòng khiến cô vô cùng phân vân, đó chính là Lý Mục.
+
+Kể từ khi Lý Mục hoàn toàn nghỉ học tại Nhân Đại, thời gian và sự gắn kết tình cảm giữa hai người ngày một ít đi. Ánh Tuyết hiểu rằng với tư cách là một doanh nhân thiên tài đang gánh vác hai đế chế Internet, Lý Mục bận rộn đến mức nào. Nhưng sâu thẳm trong lòng cô luôn tồn tại một nỗi lo sợ và cảm giác tự ti sâu sắc.
+
+Trong tính cách của Ánh Tuyết, cô thiên về kiểu tình cảm mà cả hai cùng đẳng cấp về năng lực, hoặc ít nhất cô không được kém cạnh người yêu quá nhiều. Giống như hồi mới thích Lý Mục, thành tích học tập của Lý Mục luôn thua xa cô. Khi đó đối mặt với anh, tâm thế của cô rất tự nhiên.
+
+Nhưng sau khi vào đại học, năng lực của Lý Mục thăng tiến như tên lửa, bỏ xa cô phía sau. Cảm giác tự ti trong lòng Ánh Tuyết từ đó sinh ra và chưa bao giờ nguôi ngoai. Vì sự tự ti này, cô đã dành rất nhiều thời gian riêng tư để nghiên cứu về Internet, về các doanh nghiệp và sản phẩm của Lý Mục, cũng như những vấn đề mà anh có thể gặp phải. Nhưng như vậy vẫn là chưa đủ. Cô thực sự khao khát một cơ hội để có thể bắt kịp nhịp độ của Lý Mục, và kỳ trao đổi này chính là cơ hội tuyệt vời.
+
+Thế nhưng cơ hội dù hiếm có, Ánh Tuyết cũng hiểu rằng một khi chấp nhận, cô sẽ phải xa Lý Mục ít nhất nửa năm. Nửa năm không dài nhưng cũng chẳng ngắn. Đối với một người có nhịp sống hối hả như Lý Mục, nửa năm có khi đủ để khiến "bãi bể hóa nương dâu". Ánh Tuyết cũng thầm lo sợ nếu cô rời khỏi Yên Kinh, tình cảm giữa cô và Lý Mục liệu có rơi xuống vực thẳm hay không.
+
+Nếu ở lại Yên Kinh, dù ít gặp mặt nhưng cô vẫn là bạn gái của anh, vẫn sống cùng một thành phố. Nói một cách đầy cảm tính, dù không bên nhau mỗi ngày nhưng ít ra cô luôn biết anh ở ngay gần đó. Cả hai cùng ngủ và thức dậy trong cùng một múi giờ. Ngay cả khi nhớ nhau, cũng chỉ cách nhau hai tiếng đồng hồ chạy xe mà thôi.
+
+Nhưng nếu sang Mỹ, cả hai không chỉ bị ngăn cách bởi đại dương mà còn bởi múi giờ chênh lệch tới 12 tiếng. Khoảng cách địa lý chắc chắn sẽ kéo giãn khoảng cách trái tim. Khi cô thức dậy bắt đầu ngày mới thì anh chuẩn bị kết thúc ngày làm việc mệt mỏi để nghỉ ngơi. Khi cô chuẩn bị đi ngủ thì anh lại bắt đầu một ngày bận rộn. Hoàn cảnh thay đổi, mọi thứ đều có thể đổi thay.
+
+Tuy nhiên, có một điều Ánh Tuyết rất rõ ràng: nếu cô thực sự muốn đuổi kịp bước chân của Lý Mục, xóa bỏ mặc cảm tự ti và thực sự giúp anh giải quyết các vấn đề sau này, thì suất trao đổi này đúng là mũi tên trúng nhiều đích. Nếu bỏ lỡ cơ hội này, e rằng sau này cô khó lòng đạt được mục tiêu đó.
+
+Về lâu dài, Ánh Tuyết cảm thấy tình cảm của mình và Lý Mục có thể đi được bao xa phụ thuộc phần lớn vào việc cô có thể đóng vai trò gì bên cạnh anh. Nếu chỉ đơn thuần là một người bạn gái, cô có lẽ chẳng dịu dàng nết na bằng những cô gái xuất thân bình dân khác. Hơn nữa với Lý Mục, anh chắc chắn không cần một "bình hoa di động" bên cạnh. Một người cộng sự có thể giúp ích cho sự nghiệp và có nhiều tiếng nói chung có lẽ mới là người đồng hành bền lâu nhất của anh.
+
+Dựa vào phán đoán đó, Ánh Tuyết thấy mình nên nắm lấy cơ hội sang Harvard. Trong nửa năm tới, cô sẽ nỗ lực mở mang tầm mắt, hấp thụ kiến thức để trưởng thành nhanh chóng, đặt nền móng vững chắc cho bước tiến tiếp theo.
+
+Lúc này, Jenny Simpson dường như nhìn ra sự giằng xé trong lòng cô. Cô ấy mỉm cười nói: "Ánh Tuyết, chỉ là nửa năm thôi mà. Nếu em cứ sống bình lặng như trước thì nửa năm chẳng thay đổi được gì lớn lao. Nhưng nếu em dùng nửa năm này để trưởng thành vượt bậc, không ai biết em có thể vươn xa đến đâu đâu."
+
+Tô Ánh Tuyết cắn môi, gương mặt lộ vẻ mâu thuẫn nhưng vẫn vô thức gật đầu.
+
+Jenny nói tiếp: "Nếu em lo cho anh chàng bạn trai phi thường của mình, tôi thấy hoàn toàn không cần thiết. Sự nghiệp của cậu ấy đang phát triển cực tốt tại Mỹ, ai cũng thấy cậu ấy đang chuyển trọng tâm ra thị trường hải ngoại. Trong trường hợp đó, chắc chắn sau này cậu ấy sẽ sang Mỹ rất thường xuyên. Có khi các em lại có nhiều cơ hội gặp nhau đấy."
+
+Đến tận bây giờ, Jenny vẫn không hiểu vì sao Harvard lại yêu cầu bà phải thuyết phục Ánh Tuyết sang Mỹ. Nhưng bà không ngốc, Harvard không đời nào đột nhiên lại quan tâm tới một sinh viên bình thường ở Hoa Hạ nếu không có ai đó âm thầm thúc đẩy. Bà đoán người đứng sau có lẽ chính là Lý Mục. Có thể Lý Mục muốn tạo cơ hội tốt nhất cho bạn gái nhưng không muốn lộ liễu, nên đã đi một đường vòng lớn như vậy để đưa Ánh Tuyết đi du học trước.
+
+Jenny tin chắc 80% vào suy luận của mình vì bà vẫn thường xuyên giữ liên lạc với bạn bè bên Mỹ. Nghe tin bà dạy ở Nhân Đại, chủ đề chung của mọi người luôn là chàng trai huyền thoại Lý Mục. Sự bành trướng của Mục Dã tại Mỹ hiện đã nổi đình nổi đám. Vì thế Jenny thấy có lẽ Lý Mục nghĩ sau này mình cũng sang Mỹ suốt, nên ý tứ để bạn gái sang đó trước cho tiện đôi đường.
+
+Ánh Tuyết thì không nghĩ xa xôi đến việc Lý Mục đứng sau. Cô chỉ thấy lời Jenny rất có lý. Sau này Lý Mục kiểu gì cũng sang Mỹ thường xuyên. Nếu cô cũng sang đó trao đổi, biết đâu cả hai lại có cơ hội bồi đắp tình cảm ở nơi đất khách quê người tốt hơn.
+
+
+Chương 1030
+
+Bởi vì nhịp độ chuẩn bị sang Mỹ khá gấp gáp, Lý Mục không có nhiều thời gian. Dù rất muốn về Hải Châu thăm cha mẹ trước khi đi nhưng không kịp nữa, anh chỉ có thể gọi điện thông báo cho họ.
+
+Mẹ Lý có chút lo lắng khi con trai phải sang tận bên kia đại dương. Theo lời bà, con đi ngàn dặm mẹ đã lo, huống hồ lần này là đi vạn dặm. Chỉ cần nghĩ tới thôi là bà đã không yên lòng. Thế nhưng cha Lý thì lại thoáng hơn nhiều. Ông cảm thấy nam nhi phải có chí ở bốn phương, muốn làm nên nghiệp lớn thì phải đi đây đi đó.
+
+Hơn nữa, cha Lý cũng căn dặn Lý Mục rằng anh không chỉ gánh vác trách nhiệm với hai công ty, mà còn đại diện cho hình ảnh của ngành Internet Hoa Hạ trước thế giới. Vì thế dù đi đâu cũng phải nghiêm khắc với bản thân và chú trọng hình ảnh quốc tế của mình.
+
+Lý Mục dĩ nhiên khiêm tốn tiếp thu và hứa với mẹ sẽ chú ý an toàn. Nghe con trai cam đoan chắc nịch, mẹ Lý mới phần nào nhẹ lòng.
+
+Chỉ còn hai ngày nữa là khởi hành. Lý Mục tính toán, trong hai ngày này ngoài việc chuẩn bị cho chuyến đi, thời gian còn lại chỉ đủ để anh ăn một bữa cơm riêng với Tô Ánh Tuyết và Triệu Tử Thu. Trần Uyển đang ở tận Tứ Xuyên bận rộn với chương trình "Siêu cấp nữ thanh" nên không có thời gian gặp mặt.
+
+Lý Mục định hẹn Ánh Tuyết đi ăn trước rồi mới nói chuyện sang Mỹ. Không ngờ ngay trên bàn ăn, anh đã nghe Ánh Tuyết kể về việc cô được chọn đi trao đổi tại Harvard.
+
+Lúc đầu Lý Mục khá bất ngờ khi thấy Harvard chủ động kết nghĩa với Nhân Đại. Anh luôn cảm thấy Harvard dường như chẳng có lý do hay động cơ gì để làm việc này. Tuy nhiên theo anh thấy thì đây thực sự là một điều tốt, dù không hiểu rõ ngọn ngành nhưng anh cũng không thấy có gì nguy hiểm ẩn giấu trong đó.
+
+Sau khi nghe Ánh Tuyết kể đầu đuôi câu chuyện, cô nhìn anh đầy mong đợi và hỏi: "Anh thấy em có nên đi không?"
+
+Lý Mục sực tỉnh, khẽ mỉm cười: "Vì đó là ngôi trường em hằng mơ ước và cơ hội này lại quá hiếm có, nên anh ủng hộ em đi. Dù sao nửa năm cũng không phải là quá dài."
+
+Ánh Tuyết nhẹ nhàng gật đầu. Cô vừa thấy vui vừa thấy có chút hụt hẫng trước câu trả lời của anh. Vui vì anh ủng hộ giấc mơ của mình, khi đó cô đã thầm lo anh sẽ độc đoán bắt cô ở lại. Nhưng hụt hẫng là vì anh trả lời quá dứt khoát, dường như chẳng hề bận tâm việc cô đi xa vạn dặm thì cả hai sẽ khó gặp nhau thế nào. Liệu có phải tình cảm của anh dành cho cô chưa đủ sâu nặng không?
+
+Lý Mục thấy thần sắc của Ánh Tuyết có chút không tự nhiên, liền cười nói: "Đúng rồi, ngày kia anh cũng sang Mỹ đấy."
+
+Nghe tin Lý Mục sang Mỹ, mắt Ánh Tuyết lập tức sáng lên. Cô vô thức hỏi: "Anh sang Mỹ làm gì thế?"
+
+Lý Mục cười đáp: "Lần này anh sang để đàm phán vòng gọi vốn Series C cho Mục Dã. Ngoài chuyện tiền nong, anh cũng muốn khích lệ đội ngũ bên đó và rà soát lại công việc phát triển thị trường."
+
+Ánh Tuyết không nén nổi tò mò: "Sau này anh sẽ sang Mỹ thường xuyên chứ?"
+
+Lý Mục nói: "Thị trường trong nước của Mục Dã dần đi vào ổn định, không có đối thủ cạnh tranh nào đáng kể nữa. Lúc này quả thực cần điều chỉnh trọng tâm chiến lược sang hải ngoại. Sau này công việc ở Mỹ sẽ ngày càng nhiều, có lẽ tần suất anh sang đó cũng sẽ tăng lên."
+
+"Thật tuyệt quá!" Ánh Tuyết mỉm cười nói: "Vậy thì nếu em sang Harvard trao đổi, chúng ta vẫn có cơ hội gặp nhau bên Mỹ rồi."
+
+Lý Mục gật đầu cười: "Dĩ nhiên rồi mạng, có khi còn gặp nhau nhiều hơn ấy chứ." Ánh Tuyết bấy giờ mới thở phào nhẹ nhõm: "Vậy thì em yên tâm rồi."
+
+...
+
+Triệu Tử Thu những ngày này luôn cảm thấy bất an. Kể từ khi mẹ cô "đại giá quang lâm" đến Yên Kinh chất vấn lần trước, cô luôn trong trạng thái căng thẳng tột độ. Dù mẹ đã về được vài ngày nhưng tâm trí cô vẫn chưa được ổn định.
+
+Đêm trước khi Lý Mục ra nước ngoài, anh hẹn Tử Thu đi ăn tối. Trước khi rời trường, Tử Thu đã cố ý trang điểm và ăn diện thật xinh đẹp. Nghĩ sắp được gặp Lý Mục, tâm trạng u uất của cô cũng vơi đi phần nào. Đang đứng chờ ở cổng trường đại học Yên Kinh, trước khi Lý Mục đến thì mẹ cô lại gọi điện tới. Việc nhận cuộc gọi bất ngờ từ mẹ khiến Tử Thu lập tức lo lắng trở lại. Cô rụt rè nhấc máy: "Mẹ ạ."
+
+Tạ Vân hỏi với giọng quan tâm: "Con ăn tối chưa?"
+"Dạ chưa, lát nữa con mới ăn ạ." Giọng nói ôn tồn của mẹ khiến Tử Thu bớt căng thẳng.
+
+Tạ Vân hỏi tiếp: "Sao giờ còn chưa ăn? Đã hơn 7 giờ rồi."
+Tử Thu đáp: "Lát nữa Lý Mục qua đón con đi ăn ạ."
+
+"Ồ..." Tạ Vân ừ một tiếng, dừng lại một chút rồi hỏi: "Ngày mai Lý Mục sang Mỹ rồi đúng không?"
+"Vâng ạ, ngày mai anh ấy đi." Tử Thu ngạc nhiên: "Mẹ ơi, sao mẹ biết anh ấy đi Mỹ ạ?"
+Tạ Vân nói: "Chuyện đó đoán cũng ra mà."
+
+Đoạn, giọng Tạ Vân trở nên nghiêm túc: "Mẹ có chuyện này muốn nói với con."
+Tử Thu vội vàng: "Mẹ cứ nói đi, con đang nghe đây ạ."
+
+Tạ Vân nói: "Sắp tới bạn gái của Lý Mục sẽ sang Mỹ nửa năm. Trong nửa năm này, con và Lý Mục buộc phải có một kết quả rõ ràng. Hoặc là con bắt cậu ta phải cho con một danh phận chính thức, hoặc là con phải dứt khoát chia tay với cậu ta." Bà nói thêm đầy tâm huyết: "Đừng nghĩ là mẹ ép con. Mọi việc mẹ làm đều là vì tốt cho con, hiểu không?"
+
+Tử Thu kinh ngạc: "Tô Ánh Tuyết sang Mỹ ạ? Bạn ấy sang đó làm gì thế mẹ?"
+"Đi trao đổi sinh viên." Tạ Vân nói: "Bạn ấy đã xác nhận với trường rồi, đầu tháng 12 sẽ đi, thời gian chuẩn bị là một tháng. Đến khoảng tháng 6, tháng 7 năm sau mới về."
+
+Tử Thu càng ngạc nhiên hơn: "Mẹ ơi, làm sao mẹ biết những chuyện này ạ?"
+Tạ Vân thản nhiên: "Tất nhiên là mẹ biết rồi."
+
+"Dạ?"
+"Dạ gì mà dạ! Đây là chuyện liên quan đến hạnh phúc cả đời của con, con phải để tâm vào. Mẹ cũng chỉ có thể giúp con đến mức này thôi đấy!"
+
+
+Chương 1031
+
+Triệu Tử Thu hoàn toàn bị sốc trước những lời của mẹ mình.
+
+Cô dĩ nhiên hiểu được ý nghĩa đằng sau những lời đó. Cô không ngạc nhiên khi mẹ can thiệp vào chuyện giữa mình và Lý Mục, nhưng cô không bao giờ ngờ rằng mẹ lại một tay dàn xếp để Tô Ánh Tuyết đi du học với tư cách là sinh viên trao đổi.
+
+Trái tim Triệu Tử Thu lập tức thắt lại. Cô vội vàng hỏi: "Mẹ, mẹ đi tìm Tô Ánh Tuyết rồi ạ?"
+
+Triệu Tử Thu sợ rằng vì chuyện của cô và Lý Mục mà mẹ đã lén lút đi tìm Tô Ánh Tuyết. Cô đã xem quá nhiều tình tiết cẩu huyết trong các bộ phim tình cảm. Dù là mẹ đi tìm Tô Ánh Tuyết để nói về chuyện của cô và Lý Mục, hay ép cô ấy rời xa anh, hoặc viết một tấm séc khổng lồ để dụ dỗ cô ấy ra đi, Tử Thu đều không thể chấp nhận được.
+
+Triệu Tử Thu dĩ nhiên hy vọng một ngày nào đó Tô Ánh Tuyết sẽ tự nguyện rút khỏi thế giới tình cảm của Lý Mục. Tuy nhiên, cô không thể chấp nhận việc sử dụng ngoại lực để đạt được mục tiêu này, đặc biệt là khi liên quan đến gia đình mình. Ngay cả khi Tô Ánh Tuyết thực sự rút lui theo cách đó, Tử Thu vẫn sẽ cảm thấy vô cùng đau lòng và hối hận. Điều quan trọng nhất vẫn là Lý Mục. Nếu một ngày nào đó anh phát hiện ra gia đình cô dùng những thủ đoạn ngầm để bắt Tô Ánh Tuyết rời xa anh, chắc chắn anh sẽ oán trách cô.
+
+Tạ Vân nghe ra được sự lo lắng trong giọng nói của con gái. Bà trấn an: "Con yên tâm đi, mẹ biết mình đang làm gì. Mẹ không đời nào đi tìm Tô Ánh Tuyết rồi yêu cầu cô ấy rời xa Lý Mục. Dù có phải tốn bao nhiêu công sức, mẹ cũng không thể làm mất đi nguyên tắc của mình."
+
+Triệu Tử Thu vội hỏi: "Vậy chuyện này là thế nào ạ?"
+
+Tạ Vân nói: "Mẹ đã nhờ cậu của con giúp khởi động một dự án nhỏ ở Harvard hợp tác với Đại học Nhân dân. Họ đã dành tám suất trao đổi năm thứ hai cho Khoa Kinh tế của Nhân Đại. Một trong những suất đó được giao cho một giảng viên nước ngoài tại đó, và cô ta đã trao suất này cho Tô Ánh Tuyết."
+
+Nói xong, Tạ Vân bồi thêm: "Bản thân Tô Ánh Tuyết đã tự nguyện chấp nhận suất học đó. Mẹ tự nhiên sẽ xử lý mọi việc một cách hoàn hảo nhất, nên con không phải lo lắng chuyện Lý Mục phát hiện ra sau này đâu."
+
+Triệu Tử Thu lo lắng nói: "Mẹ ơi, con cảm thấy khó chịu quá..."
+
+"Có gì mà phải ngại?" Tạ Vân không nhịn được mà hỏi: "Con thấy áy náy à?"
+
+"Một chút ạ..." Triệu Tử Thu mím môi nói: "Con không thể không cảm thấy có chút hổ thẹn, nhưng sâu trong thâm tâm lại thấy hơi vui. Thật là mâu thuẫn quá đi mất."
+
+Tạ Vân nói: "Con không cần phải nghĩ nhiều, cũng đừng cảm thấy mâu thuẫn. Việc Tô Ánh Tuyết đi Mỹ là lựa chọn của chính cô ấy. Mẹ chỉ tạo ra một cơ hội để cô ấy đưa ra lựa chọn, nên con không cần phải gánh nặng tâm lý làm gì."
+
+Nói đến đây, Tạ Vân bồi thêm: "Hơn nữa, việc cô ấy đi Mỹ không có nghĩa là hai người họ sẽ chia tay. Mẹ không trực tiếp giải quyết vấn đề tình cảm của con. Mẹ chỉ giúp con tranh thủ một khoảng thời gian trống (window of time) để con tập trung xử lý vấn đề. Vì vậy việc con có nắm bắt được cơ hội này hay không là ở con, chứ không phải ở mẹ. Nếu sau nửa năm nữa mà con vẫn chưa có một lời khẳng định rõ ràng với Lý Mục, thì ngày Tô Ánh Tuyết từ Harvard trở về cũng chính là ngày con phải lên đường sang Harvard. Mẹ không bàn bạc với con chuyện này, mà là thông báo trước cho con biết. Con hiểu chứ?"
+
+"Con hiểu rồi ạ..."
+
+Tạ Vân nói: "Mẹ không nói quá nhiều với con nữa. Có rất nhiều việc con cần phải cân nhắc và tự nắm bắt lấy."
+
+"Con hiểu rồi mẹ ạ..."
+
+Sau khi cúp máy, sự day dứt trong lòng Triệu Tử Thu vơi đi phần nào, nhưng đổi lại là một áp lực khổng lồ đè nặng lên vai.
+
+Ban đầu cô chỉ muốn ở bên cạnh Lý Mục mà không cần danh phận gì cả. Dù sao tuổi thanh xuân của cô vẫn còn dài, cô có thừa thời gian để ở bên và chờ đợi anh. Nhưng cô không ngờ chuyện này lại bị lộ ra, khiến mẹ cô can thiệp mạnh mẽ đến vậy. Theo lời mẹ, giờ đây cô chỉ có đúng nửa năm. Nếu Lý Mục không chia tay với Tô Ánh Tuyết và không xác định rõ ràng muốn ở bên cô, thì cô chắc chắn phải rời xa anh. Chuyện này tuyệt đối không có sự thương lượng.
+
+Đúng lúc Triệu Tử Thu đang thẫn thờ, một chiếc Mercedes-Benz S-Class dừng lại bên cạnh cô. Cửa sổ xe hạ xuống, Lý Mục đang ngồi bên trong.
+
+Mặc dù xe đã dừng ngay cạnh nhưng vài giây đầu Triệu Tử Thu không hề hay biết. Cô vẫn nhìn chằm chằm vào mũi giày của mình cho đến khi Lý Mục hắng giọng và mỉm cười hỏi: "Nghĩ gì mà đờ người ra thế kia?"
+
+Triệu Tử Thu bừng tỉnh, ngước nhìn Lý Mục. Cô sững lại nửa giây rồi lập tức định thần, vội vàng mở cửa xe ngồi vào bên trong.
+
+Vừa vào xe, Lý Mục đã thấy Tử Thu có vẻ không tự nhiên. Không chỉ ánh mắt có chút né tránh mà tư thế ngồi của cô cũng như đang ngồi trên đống lửa. Anh không nhịn được hỏi: "Vừa nãy có chuyện gì à?"
+
+Tử Thu vội vàng đáp: "Không có gì ạ. Em đột nhiên nghĩ đến một chuyện nên hơi mất tập trung..." Sau đó, cô nhanh chóng đổi chủ đề: "Chúng ta đi ăn ở đâu thế anh?"
+
+Lý Mục cười nói: "Em bị lú à? Chẳng phải vừa nãy mình nói trên điện thoại là đi ăn cua lông sao?"
+
+"À, đúng rồi, đầu óc em giờ cứ lộn xùng bậy cả lên..." Triệu Tử Thu sực nhớ ra mình đã bảo muốn ăn cua và Lý Mục cũng đã đồng ý. Sau cuộc điện thoại của mẹ, tâm trí cô rối như tơ vò, chẳng còn nhớ nổi chuyện gì vừa mới xảy ra.
+
+Lý Mục bất lực lắc đầu, mỉm cười trêu chọc: "Với cái não cá vàng này của em, anh thật không hiểu làm sao em đỗ được vào Đại học Yên Kinh nữa."
+
+Triệu Tử Thu thè lưỡi: "Vừa nãy em mải nghĩ chuyện khác quá mà."
+"Nghĩ gì mà tập trung thế?"
+Tử Thu nói: "Nghĩ về anh đấy. Ngày mai anh đi Mỹ rồi, em chẳng biết bao lâu nữa mới được gặp lại. À mà lần này anh đi bao lâu thế?"
+Lý Mục nói: "Chắc tầm mười ngày đến nửa tháng thôi, tùy tình hình công việc nữa."
+"Dạ..." Tử Thu gật đầu. Cô định hỏi thêm gì đó nhưng cuối cùng lại thôi.
+
+Lý Mục lái xe đưa Triệu Tử Thu đến một nhà hàng ăn cua lông nổi tiếng ở Yên Kinh. Hai người chọn một phòng riêng có không gian yên tĩnh.
+
+Đối với một cô gái lớn lên ở vùng Giang Nam như Tử Thu và gia đình lại khá giả, việc ăn cua lông mỗi độ thu về cũng thường tình như việc Lý Mục ăn dưa hấu mùa hè vậy. Đó là một thói quen gây nghiện, nếu vài ngày không ăn là sẽ thấy thèm. Mặc dù Lý Mục không quá mặn mà với món này nhưng anh luôn vui vẻ tháp tùng mỗi khi Tử Thu muốn. Nhìn cô ăn một cách mãn nguyện, anh cũng cảm thấy có chút thành tựu.
+
+Trên bàn ăn, Tử Thu luôn muốn tìm cơ hội để hỏi Lý Mục về chân tướng chuyện của Tô Ánh Tuyết, nhưng mỗi khi ý định đó nảy ra cô lại kìm lại. Cô lo lắng nếu hỏi quá nhiều sẽ khiến Lý Mục nghi ngờ. Chuyện mẹ cô dàn xếp cho Tô Ánh Tuyết đi du học đã xong xuôi rồi, cô tuyệt đối không được để anh biết.
+
+Khi đã gần xong bữa, Tử Thu hỏi: "Tiện thể, mấy giờ mai anh bay thế?"
+"10 giờ rưỡi sáng."
+"Bay đi đâu ạ? Mất bao lâu thì tới?"
+Lý Mục nói: "Seattle. Bay mất khoảng 12 tiếng. Anh sẽ hạ cánh vào khoảng 7 giờ rưỡi sáng bên đó."
+Tử Thu nhìn anh: "Anh có muốn em ra tiễn không?"
+Lý Mục mỉm cười: "Sáng mai có mấy đồng nghiệp cùng đi nữa. Nếu em không ngại thì cũng được."
+Tử Thu thè lưỡi cười: "Em quên mất là anh chắc chắn không đi Mỹ một mình rồi. Vậy thôi em không tiễn nữa đâu, mắc công lại gây phiền hà cho anh."
+
+Nói đoạn, Tử Thu đôi mắt to tròn nhìn Lý Mục đầy tình tứ, e thẹn nói: "Sáng mai em không tiễn được, vậy để tối nay em bù cho được không?"
+
+...
+
+Sáng sớm hôm sau, khi Lý Mục thức dậy trong căn biệt thự Tử Vân, Triệu Tử Thu - người đã ở bên anh cả đêm qua - đã không còn thấy đâu.
+
+Sau khi tỉnh táo lại, Lý Mục mới nhận ra Tử Thu đã dậy từ sớm và đang chuẩn bị bữa sáng cho anh dưới bếp.
+
+Cô đang mặc chiếc áo sơ mi trắng của anh, để lộ đôi chân thon dài thẳng tắp. Chiếc áo rõ ràng là hơi quá khổ đối với cô, vai sụp xuống và ống tay áo hơi dài, vạt áo vừa vặn che đến đùi. Mặc dù không vừa vặn nhưng lại mang đến cho Lý Mục một cảm xúc khó tả.
+
+Nhìn kỹ hơn có thể thấy dưới lớp áo sơ mi trắng, quanh hông cô chỉ có một dải đăng ten mỏng manh. Ngoài chiếc sơ mi ra, phần trên của cô hoàn toàn để trần. Mái tóc dài hơi xoăn xõa trên vai, không góc chết nào có thể chê được.
+
+Tử Thu không hề biết rằng cách ăn mặc vô tình này lại đúng "gu" của Lý Mục nhất. Chẳng biết sở thích này hình thành từ bao giờ, nhưng Lý Mục đặc biệt thích vẻ đẹp của phụ nữ khi khoác lên mình chiếc áo sơ mi nam giới. Đó thực sự là một kiểu phong tình rất khác biệt.
+
+Nghe thấy tiếng động, Tử Thu quay đầu lại thấy Lý Mục đang đứng ngoài cửa bếp. Cô mỉm cười ngọt ngào: "Anh dậy rồi à! Sắp được ăn rồi đây!"
+
+Lý Mục tiến tới, vòng tay nhẹ nhàng ôm lấy eo cô từ phía sau. Anh tựa đầu lên vai cô, nhìn hai quả trứng ốp la đang xèo xèo trong chảo, hỏi nhẹ: "Sao em dậy sớm thế?"
+
+Tử Thu dùng xẻng lật nhẹ quả trứng, khẽ hôn lên má anh và nói: "Chuyến bay của anh lúc 10 giờ rưỡi, nên tầm 7 rưỡi 8 giờ là phải ra khỏi nhà rồi. Quanh đây không có quán ăn sáng, anh không thể để bụng rỗng ra sân bay được đúng không? Em thấy trong tủ lạnh còn bánh mì, thịt xông khói với trứng còn tươi nên làm luôn. Bánh mì em đang nướng trong lò rồi, lát anh ăn nhé."
+
+Lý Mục không nhịn được khen ngợi: "Xem ra đại tiểu thư của chúng ta sắp thành đầu bếp nhỏ rồi đây."
+
+Đúng lúc đó, điện thoại anh vang lên. Là trợ lý Lý Tử Vi gọi tới. Lý Mục nói với Tử Thu: "Anh nghe điện thoại cái đã."
+Tử Thu gật đầu: "Anh cứ nghe đi. Năm phút nữa vào ăn cơm nhé."
+
+Lý Mục bước ra khỏi bếp nghe máy. Lý Tử Vi hỏi: "Lý tổng, anh dậy chưa ạ?"
+"Anh dậy rồi. Kế hoạch hôm nay thế nào?"
+Lý Tử Vi đáp: "Đoàn xe đang ở dưới nhà em rồi. Em sẽ xuất phát đi đón mọi người trước rồi qua đón anh sau."
+Nói xong, Tử Vi hỏi lại: "Giờ anh đang ở đâu ạ?"
+Lý Mục nói: "Anh đang ở biệt thự Tử Vân, nhưng em không cần qua đón đâu. Anh sẽ tự lái xe ra sân bay."
+
+
+Chương 1032
+
+Lịch trình cho chuyến đi Mỹ lần này của Lý Mục có thể ngắn là một tuần, dài thì mười ngày đến nửa tháng. Tuy nhiên, hành lý mang theo của anh lại vô cùng đơn giản. Chỉ là một chiếc vali xách tay cỡ 20 inch với hai bộ quần áo và vài món đồ cá nhân đơn giản. Ngoài ra chỉ có thêm một chiếc máy tính xách tay, ngoài ra không còn gì khác.
+
+Sau khi đưa Triệu Tử Thu về trường Đại học Yên Kinh, Lý Mục một mình lái xe ra sân bay hội quân với đoàn công tác đang chờ sẵn.
+
+Lần này đi Mỹ cùng anh có tổng cộng mười một người. Ngoài trợ lý riêng Lý Tử Vi, còn có ba vệ sĩ bao gồm cả Vương Nguyên Lãng. Bốn người này là đội ngũ thân cận của Lý Mục, bảy người còn lại đều là các chuyên gia đàm phán do Đinh Chính Lâm điều động, cùng với các đại diện về tài chính và pháp lý.
+
+So với lần trước khi nhân viên Mục Dã thuê chuyên cơ riêng sang Mỹ rầm rộ với lễ tiễn đưa tại sân bay, lần này Lý Mục và đoàn của mình khởi hành một cách vô cùng kín tiếng. Họ không thuê chuyên cơ mà chỉ mua toàn bộ ghế hạng nhất trên chuyến bay thường lệ này. Đồng thời, họ cũng không thông báo cho truyền thông trong nước. Ngay cả quỹ đầu tư Sequoia Capital của Mỹ - những người đang sốt sắng muốn gặp Lý Mục - cũng không hề biết chính xác khi nào anh sẽ sang.
+
+Để tránh rắc rối, đoàn mười hai người đợi trong phòng chờ VIP cho đến khi tất cả hành khách khác đã lên máy bay và tiếp viên đã kéo rèm ngăn cách các khoang hạng nhất, hạng thương gia và hạng phổ thông thì họ mới bắt đầu lên máy bay.
+
+10 giờ 40 phút sáng, chiếc máy bay chở Lý Mục và đoàn công tác cất cánh rời sân bay Thủ đô. Lý Mục ngả người trên chiếc ghế hạng nhất bán mở, nhìn qua cửa sổ thấy sân bay Thủ đô đang nhỏ dần, trong lòng trào dâng bao cảm xúc.
+
+Lý Mục chưa từng đến Mỹ trước đây. Với tư cách là một lập trình viên ở kiếp trước, anh vốn coi nước Mỹ và Thung lũng Silicon là thánh đường của giới công nghệ. Vì thế, ở kiếp trước anh đã từng định đi du lịch Mỹ một chuyến. Nhưng vì một lý do vô cùng trớ trêu, anh đã bị đại sứ quán từ chối cấp visa. Kể từ đó, Lý Mục không bao giờ có ý định đi Mỹ nữa.
+
+Nhớ lại quá trình bị từ chối visa năm đó, mọi chuyện vẫn còn vẹn nguyên trong tâm trí anh. Khi ấy, anh đã làm việc ở Bắc Kinh được vài năm và có khoản tiết kiệm hơn 100.000 tệ. Ban đầu anh định chi khoảng 30.000 tệ để đi du lịch Mỹ. Cuối cùng, sau khi nhân viên lãnh sự xem xét thông tin nghề nghiệp và các giấy tờ khác, họ chỉ hỏi anh một câu: "Anh sang Mỹ để làm gì?"
+Lý Mục thành thật trả lời: "Để đi du lịch ạ."
+Nhân viên lãnh sự hỏi tiếp: "Anh thích thành phố hay khu vực nào nhất ở Mỹ?"
+Lý Mục đáp: "Tôi chưa từng đến Mỹ nên không thể nói mình thích nơi nào nhất. Nếu phải nói về nơi tôi mong đợi nhất, thì đó chính là Thung lũng Silicon."
+
+Nhân viên lãnh sự gật đầu tán thưởng: "Thung lũng Silicon đúng là niềm tự hào của nước Mỹ. Vì anh làm trong ngành Internet, nếu có cơ hội đúng là nên đến đó một chuyến."
+Nhưng ngay sau đó, ông ta đổi giọng: "Nhưng tôi xin lỗi, lần này tôi không thể phê duyệt cho anh. Hy vọng tương lai anh sẽ có cơ hội khác để đến Thung lũng Silicon." Thế rồi ông ta thẳng tay từ chối cấp visa mà không chút do dự.
+
+Thu nhập, dòng tiền và giấy bảo lãnh của công ty Lý Mục khi đó đều đáp ứng đầy đủ yêu cầu. Vì vậy anh đã vô cùng hoang mang khi bị từ chối. Anh hỏi nhân viên lãnh sự lý do là gì.
+Ông ta kiên nhẫn giải thích: "Thứ nhất, anh chưa từng ra nước ngoài bao giờ. Thứ hai, anh làm việc ở Bắc Kinh nhiều năm như vậy nhưng lại chưa có hộ khẩu, cũng không có nhà cửa cố định, tiền tiết kiệm cũng chưa đầy 20.000 USD. Thứ ba, sự khao khát của anh đối với Thung lũng Silicon khiến tôi lo ngại anh có ý định cư trú bất hợp pháp để tìm việc làm, vì vậy tôi không thể cấp visa cho anh."
+
+Lúc đó Lý Mục chết lặng, anh hỏi lại: "Tại sao tôi lại bị nghi ngờ cư trú bất hợp pháp chỉ vì tôi chưa từng ra nước ngoài và không có xe, có nhà hay nhiều tiền tiết kiệm? Chẳng lẽ định cư không phải là trò chơi dành cho giới nhà giàu sao?"
+Nhân viên lãnh sự nói lời xin lỗi: "Thưa anh, những gì tôi sắp nói có thể hơi trực diện, mong anh lượng thứ. 'Ý định cư trú' chỉ là cách nói chung chung. Trong trường hợp của anh, nó có thể được hiểu là nghi vấn anh muốn tìm việc làm tại Thung lũng Silicon."
+
+Lý Mục chợt nhận ra rằng mình bị từ chối chỉ vì không có xe, không có nhà, không có hộ khẩu ở Bắc Kinh, lại còn lỡ miệng thể hiện sự ngưỡng mộ quá mức với Thung lũng Silicon. Người ta sợ anh sang đó không phải để chơi mà là để "nhảy việc" vào Silicon Valley.
+
+Lần đó Lý Mục đã phải chịu một cú sốc khá lớn. Anh cảm thấy thất bại trên con đường lập nghiệp nơi đất khách nên đã dốc hết vốn liếng mua một chiếc Pentium B50 giá chưa đầy 100.000 tệ ngay sau khi rời đại sứ quán. Đó là chiếc xe đầu tiên và cũng là món đồ đắt giá nhất anh từng mua ở kiếp trước.
+
+Ai mà ngờ được cái kẻ từng bị từ chối visa du lịch ở kiếp trước, giờ đây lại đang ngồi trên máy bay sang Mỹ với tư cách một nhà tài phiệt để đàm phán một thương vụ trị giá hơn một tỷ USD. So sánh hai kiếp người, đúng là một trời một vực, khiến người ta không khỏi bùi ngùi.
+
+Đối với nước Mỹ, Lý Mục có một cảm xúc lẫn lộn giữa yêu và ghét. Không thể phủ nhận Mỹ có vị thế cực mạnh trong lĩnh vực IT, nơi hội tụ những tài năng hàng đầu thế giới và khai sinh ra vô số tập đoàn Internet vĩ đại.
+
+Nhưng mặt khác, sự ngạo mạn của người Mỹ cũng khiến Lý Mục luôn canh cánh trong lòng. Chính cảm giác mâu thuẫn này đã thôi thúc anh muốn dùng chính sản phẩm của mình để chinh phục thị trường Mỹ. Đối với các công ty Internet Hoa Hạ, cụm từ "thị trường hải ngoại" vốn dĩ đã chiếm một nửa trọng lượng là ở nước Mỹ rồi.
+
+Muốn chinh phục thế giới, trước tiên phải chinh phục được nước Mỹ!
+
+...
+
+Sân bay San Francisco.
+Lâm Thanh Nhã, người vốn đang bận rộn với chi nhánh Mục Dã tại Thung lũng Silicon, đã vội vàng lái đoàn xe đi thuê ra sân bay từ sáng sớm.
+
+Thời gian qua, với tư cách là quản lý cấp cao của Mục Dã tại Mỹ, Lâm Thanh Nhã đã tự mình đưa ra rất nhiều quyết định. Nhìn thì có vẻ quyền cao chức trọng, nhưng trong thâm tâm cô lại càng nhớ những ngày tháng ở Trung Quốc hơn. Ở trong nước, mọi việc đều do Lý Mục quyết định, hoặc ít nhất là do anh chốt phương án cuối cùng. Nhưng kể từ khi sang Mỹ, Lý Mục luôn nhấn mạnh khái niệm "tự mình gánh vác". Theo anh, việc đưa cô sang Mỹ là để cô đại diện cho Mục Dã chinh chiến, vì vậy cô buộc phải học cách tự mình ra quyết định.
+
+Lý Mục đã cố tình không tham gia vào việc chọn địa điểm đặt văn phòng chi nhánh. Anh cũng không thèm xem qua bản thiết kế hay ảnh thực tế của văn phòng. Ngay cả việc tuyển dụng nhân sự cấp cao, anh cũng không xem qua một bản sơ yếu lý lịch nào... Mọi thứ đều nhằm ép Lâm Thanh Nhã nhanh chóng nhập vai và trở thành một người lãnh đạo thực thụ.
+
+Lâm Thanh Nhã dĩ nhiên không phải người tầm thường. Tuy còn trẻ nhưng cô giống như sự kết hợp giữa lò xo và miếng bọt biển. Nhấn càng mạnh sức bật càng lớn, và khả năng hấp thụ kinh nghiệm, kiến thức của cô là cực kỳ đáng nể.
+
+Dù đã thích nghi rất nhanh nhưng khi hay tin Lý Mục sắp sang, Lâm Thanh Nhã gần như lập tức nảy sinh tâm lý ỷ lại. Cô luôn cảm thấy mình đã mong đợi ngày này từ rất lâu rồi, cuối cùng thì sếp cũng tới.
+
+Chuyến bay của Air China hạ cánh an toàn xuống đường băng sân bay San Francisco. Vào khoảnh khắc bánh máy bay chạm đất, trong lòng Lý Mục trào dâng một ý thức trách nhiệm mãnh liệt. Cuối cùng anh cũng đã đặt chân tới Mỹ!
+
+Lý Mục hiểu rõ rằng anh không chỉ gánh vác sứ mệnh chinh phục mảnh đất này, mà còn mang theo sứ mệnh khiến người dân nơi đây phải có cái nhìn mới về ngành Internet Hoa Hạ, về con người Hoa Hạ và cả đất nước Hoa Hạ nữa. Có lẽ sau này, ngày anh lần đầu đặt chân tới Mỹ sẽ được coi là bước ngoặt của cả ngành công nghiệp Internet nước nhà. Nó đại diện cho việc lần đầu tiên, sau bao năm học tập và bắt chước mô hình của Mỹ, Internet Hoa Hạ đã quay trở lại xuất khẩu những sản phẩm và mô hình vận hành tiên tiến hơn vào chính trái tim của làng công nghệ thế giới.
+
+Máy bay dừng hẳn, cầu dẫn được kết nối, cửa khoang mở ra. Lý Mục, người đang tràn đầy phấn khích, đeo một chiếc khẩu trang y tế và nhanh chóng cùng đoàn công tác rời máy bay.
+
+Vừa bước xuống, Lý Mục không còn thời gian để mơ mộng hay cảm thán như khi đang ngồi trên máy bay. Lần đầu tiên đứng trên mảnh đất Mỹ, anh không rảnh để chê bai hay đánh giá gì cả. Cả đoàn cùng dòng người đi thẳng về phía khu vực làm thủ tục nhập cảnh.
+
+Lần này để đảm bảo hiệu quả, Lý Mục yêu cầu hành lý của mọi người phải càng đơn giản càng tốt, ưu tiên xách tay để không mất thời gian chờ lấy đồ ký gửi. Những vật dụng cá nhân thiết yếu anh đã dặn Lâm Thanh Nhã chuẩn bị sẵn. Nếu có nhu cầu phát sinh, họ hoàn toàn có thể mua sắm tại chỗ vì thị trường bán lẻ ở Mỹ cực kỳ phát triển và tiện lợi.
+
+Lâm Thanh Nhã đã cùng trợ lý và các nhân viên của Mục Dã chờ sẵn tại lối ra. Khi Lý Mục cùng đoàn bước ra sau khi làm xong thủ tục, cô lập tức nhận ra anh dù anh đang đeo khẩu trang. Cô vội tiến tới nghênh đón, giọng đầy hào hứng: "Lý tổng, cuối cùng anh cũng tới rồi."
+
+Lý Mục nhìn Lâm Thanh Nhã một lượt rồi mỉm cười: "Thanh Nhã sang Mỹ chưa lâu mà trông càng xinh đẹp và khí chất hơn hẳn đấy."
+Lâm Thanh Nhã cười đáp một cách phóng khoáng: "Cảm ơn sếp đã khen. Nhưng anh nói thế nghe cứ như em sang đây để trưng diện chứ không phải để làm việc vậy." Nói xong, cô khẽ thở dài than vãn: "Anh không biết đâu, tụi em ở bên này bận đến mức bắt đầu nghi ngờ nhân sinh rồi đây này. Đến thời gian trang điểm còn chẳng có, hôm nay đi đón anh em mới tranh thủ tút tát lại một chút trên xe đấy."
+
+Lý Mục cười nói: "Anh biết mọi người vất vả mà. Nhưng đừng tưởng chúng anh sang đây để giúp gỡ rối nhé. Thực ra chúng anh sang để mang thêm rắc rối tới cho mọi người đấy."
+Lâm Thanh Nhã đáp: "Chỉ cần anh tới là chúng em có chỗ dựa rồi. Dù có thêm rắc rối thì chúng em vẫn sẵn lòng đón nhận!"
+
+
+Chương 1033
+
+Lý Mục cùng mọi người theo chân Lâm Thanh Nhã rời sân bay. Bên ngoài đã có một đoàn xe sang trọng chờ sẵn. Dẫn đầu là vài chiếc SUV Cadillac cỡ lớn, theo sau là hai chiếc limousine Cadillac dài dằng dặc, trông chẳng khác gì chiếc "Không lực Một" của Tổng thống. Phía sau đoàn xe còn có thêm vài chiếc SUV nữa hộ tống, trông vô cùng oai phong.
+
+Lý Mục và Lâm Thanh Nhã bước vào một chiếc limousine. Khoang sau của xe cực kỳ xa hoa. Lâm Thanh Nhã nhấn một nút trên bệ tỳ tay, tấm kính ngăn cách với ghế lái lập tức được kéo lên kèm theo rèm che kín đáo.
+
+Thấy vẻ ngạc nhiên của Lý Mục, Lâm Thanh Nhã mỉm cười nói: "Em vừa tìm thuê được trên đường tới đây thôi. Nếu sau này anh sang Mỹ thường xuyên, chi nhánh bên này sẽ sắm hẳn một chiếc."
+
+Lý Mục cười nói: "Một chiếc thì buồn chán quá. Đoàn xe này trông khá được đấy. Hay là chúng ta cứ theo tiêu chuẩn này, hoặc là sắm hẳn một đoàn xe xịn hơn thế này chút đi."
+
+Lâm Thanh Nhã đáp: "Lý tổng, đoàn xe em thuê đã đạt cấp độ đón tiếp cấp nhà nước rồi đấy ạ. Ngoại trừ việc thiếu xe cảnh sát dẫn đường thì chẳng khác gì đoàn xe của chính phủ cả. Nếu chúng ta thực sự sắm một đoàn xe như thế, liệu có hơi phô trương quá không?"
+
+Lý Mục mỉm cười: "Dĩ nhiên ở trong nước thì chúng ta phải khiêm tốn. Dù phát triển tốt đến đâu thì ở nhà mình cũng nên nhún nhường một chút. Nhưng ở Mỹ thì khác. Chúng ta đang đứng trước cửa nhà người khác, chúng ta không chỉ đại diện cho cá nhân mình mà còn là bộ mặt của cả ngành Internet Hoa Hạ. Người Mỹ đang nhìn chúng ta, và người dân ở quê nhà cũng đang nhìn chúng ta, vì vậy lúc này chúng ta buộc phải cao điệu."
+
+Lâm Thanh Nhã cười: "Thế sao sếp không bảo sớm? Nếu thế thì hôm nay em đã dắt theo vài chục đơn vị truyền thông ra sân bay đón anh cho nó rầm rộ rồi."
+
+Lý Mục xua tay: "Lần này hơi đặc biệt. Lý do anh không muốn sắp xếp truyền thông hay quảng bá là vì anh cố tình muốn giữ kín tiếng lúc mới tới. Vừa chân ướt chân ráo đến Mỹ không cần phải làm rùm beng lên làm gì. Anh muốn giữ thái độ thấp cho đến khi người Mỹ chưa kịp nhận ra thực lực thực sự của mình. Cái anh muốn là tạo ra một 'tin chấn động' sau khi đã chuẩn bị kỹ càng."
+
+Lâm Thanh Nhã gật đầu: "Sếp, tin chấn động mà anh nói chính là công bố con số gọi vốn sau khi đàm phán xong đúng không ạ?"
+
+Lý Mục gật đầu: "Muốn cho người ta biết mình giàu thì mua xe sang hay biệt thự là chưa đủ. Phải lọt vào danh sách tỷ phú và để người ta biết mình đáng giá bao nhiêu tiền."
+
+Lâm Thanh Nhã cảm thấy lời Lý Mục rất có lý. Mặc dù Mục Dã hiện tại đã có sức ảnh hưởng nhất định tại Mỹ, nhưng không phải người Mỹ nào cũng am hiểu ngành Internet hay tài chính, nên họ chưa có khái niệm rõ ràng về tầm vóc của Mục Dã. Khái niệm duy nhất mà người bình thường có thể nắm bắt chính xác nhất chính là dùng tiền để đo lường.
+
+Nói với họ công ty mạnh thế nào, người dùng trung thành ra sao đều vô nghĩa. Tốt nhất là cứ nói thẳng công ty đó đáng giá bao nhiêu tỷ đô.
+
+Lý Mục hiểu rất sâu sắc điểm này. Ở kiếp trước, trước khi Alibaba lên sàn, người dân chẳng mấy ai biết nó mạnh tới mức nào. Họ chỉ biết đến Taobao, Tmall nhưng không biết nó đáng giá bao nhiêu. Alibaba thực sự trở thành công ty Internet quốc dân từ khi nó lên sàn và giá trị thị trường vượt mốc 100 tỷ rồi 200 tỷ USD. Chỉ khi những con số đó được công bố, người ta mới thực sự hiểu thế nào là một gã khổng lồ.
+
+Lý Mục nói tiếp: "Thanh Nhã, lần này anh sang là có chuẩn bị cả rồi. 'Dàn tên lửa' ở nhà đã được thiết lập xong. Một khi anh ngồi xuống bàn đàm phán với các nhà đầu tư, anh chắc chắn sẽ đánh một trận lớn với họ. Anh cần em phối hợp về mặt dư luận. Khi anh gặp người từ Sequoia chính là lúc chúng ta bắt đầu cao điệu tại Mỹ. Nhiệm vụ của em là khiến cả nước Mỹ, thậm chí là cả thế giới phải dõi theo cuộc đàm phán này."
+
+Lâm Thanh Nhã lập tức khẳng định: "Lý tổng yên tâm, em sẽ dốc toàn lực phối hợp với anh."
+
+Lý Mục mỉm cười hài lòng, rồi chuyển chủ đề quay lại đoàn xe: "Thực ra đoàn xe có rất nhiều công dụng. Chúng ta đã trở thành 'tiền đồn' ở Mỹ rồi. Ngoại trừ các nhà lãnh đạo cấp cao của quốc gia, nếu các lãnh đạo địa phương hay các ngành sang Mỹ công tác, học tập hay dự họp thì chính phủ Mỹ cũng không cung cấp dịch vụ đoàn xe đâu. Nhưng nếu đoàn xe của Mục Dã chúng ta ở San Francisco luôn sẵn sàng, thì bất kỳ lãnh đạo nào sang đây đều có thể sử dụng miễn phí khi cần."
+
+Anh nói thêm: "Dù đoàn xe có hơi phô trương một chút, nhưng chúng ta làm việc công khai minh bạch, dĩ nhiên là hợp tình hợp lý. Dư luận trong nước chắc chắn sẽ được định hướng theo hướng ủng hộ và đánh giá cao, không lo ảnh hưởng tiêu cực đâu."
+
+Lâm Thanh Nhã đáp: "Em hiểu rồi sếp, em sẽ sắp xếp việc sắm xe trong thời gian tới."
+
+Lý Mục sực nhớ ra: "À, giúp anh hẹn gặp Bill Gates của Microsoft, Steve Jobs của Apple và Larry Page của Google nữa. Bảo với họ là anh cá nhân rất ngưỡng mộ họ và hy vọng có cơ hội gặp gỡ chuyện trò, nếu được ăn tối cùng nhau thì càng tốt."
+
+Lâm Thanh Nhã ngạc nhiên: "Lý tổng, với giá trị tài sản và sức ảnh hưởng hiện tại của Mục Dã, dùng từ 'ngưỡng mộ' liệu có hơi quá lời không ạ?"
+
+Lý Mục xua tay, gương mặt nghiêm nghị: "Không hề quá lời. Họ là những bậc thầy của ngành công nghiệp Internet, đã có đóng góp vĩ đại cho cả nhân loại. Đừng nói là ngưỡng mộ, dù dùng từ sùng bái cũng không có gì là quá. Cứ truyền đạt y nguyên lời anh. Nếu họ có hứng thú, cứ xem lịch trình của họ trước, anh sẽ ưu tiên theo lịch của họ."
+
+"Vâng ạ." Lâm Thanh Nhã gật đầu rồi nói tiếp: "Đúng rồi, hôm qua Elon Musk có liên lạc với em hỏi xem anh sắp sang Mỹ chưa. Em chưa trả lời cụ thể. Anh ta bảo nếu anh sang thì nhắn là anh ta muốn dành thời gian qua thăm anh. Cái cớ của anh ta nghe cũng giống y như lời sếp vừa nói với ba vị kia đấy, xem ra Elon Musk cũng rất 'ngưỡng mộ' anh..."
+
+Lý Mục cười: "Người này cũng thú vị đấy. Có lẽ sau này anh ta sẽ tìm ra một con đường khác và làm nên chuyện chấn động cho mà xem. Em không cần trả lời anh ta đâu, cứ đưa thông tin liên lạc đây, anh sẽ tự nhắn tin."
+
+Lý Mục không mặn mà gì với xe năng lượng mới lúc này, nhưng anh phải thừa nhận Elon Musk là một nhân vật vô cùng thú vị. Kiểu người này có thể bây giờ chưa quá tỏa sáng, nhưng một khi gặp thời họ sẽ tỏa sáng rực rỡ. Nghĩ đến một Elon Musk - người từng được hàng triệu người săn đón ở kiếp trước - giờ đây lại đang mong ngóng gặp mình với vẻ ngưỡng mộ, Lý Mục không khỏi cảm thấy chút tự hào.
+
+Anh đoán Elon Musk hiện tại chắc đang khá đắc ý. Hồi bán PayPal, anh ta định mượn tay Lý Mục để nâng giá bán cho eBay. Không ngờ lại rơi vào cái hố do Lý Mục đào sẵn. Kết quả là PayPal giờ đây thuộc sở hữu chung của eBay và Mục Dã. Giá trị của PayPal đang tăng phi mã, Elon Musk chắc hẳn phải thầm cảm ơn quyết định ban đầu của mình, nếu không bán sạch thì đâu có kiếm bộn tiền như bây giờ.
+
+Mặc dù muốn gặp Musk, nhưng Lý Mục không xếp anh ta vào danh sách ưu tiên hàng đầu. Anh ta phải xếp sau các nhà đầu tư và các "ông trùm" ngành công nghệ. Lý Mục cũng chưa có kế hoạch gì sâu xa cho Musk lúc này. Thời điểm khởi nghiệp Tesla vẫn chưa tới, còn công nghệ hàng không vũ trụ thì anh không mấy bận tâm. Theo anh, tốt nhất là cứ để Musk cày cuốc ở PayPal thêm vài năm nữa, biến nó thành công ty tỷ đô. Nếu lúc đó anh ta muốn khởi nghiệp Tesla, Lý Mục dứt khoát sẽ thâu tóm lấy 30-50% cổ phần trước.
+
+...
+
+Khi đoàn xe tiến vào Thung lũng Silicon, Lý Mục bắt đầu phấn khích như một đứa trẻ. Thung lũng Silicon giống như vùng đất thánh trong mắt mọi người làm công nghệ. Trung Quan Thôn vốn dĩ đã linh thiêng trong lòng Lý Mục rồi, nhưng so với Silicon Valley thì đúng là "anh lính so với ông tướng", đẳng cấp hoàn toàn khác biệt.
+
+Ngồi trong xe nhìn ngắm những logo tập đoàn dọc đường, trong đó có cả những công ty "tàu sân bay" lừng lẫy trong tương lai, Lý Mục càng thêm phấn khích. Từng có lúc anh ước mơ được trở thành một phần của nơi này, đóng góp cho sự phát triển của thế giới. Không ngờ giờ đây chính anh đã mở chi nhánh ở đây. Apple, Google, IBM, Oracle, Intel, Nvidia, Cisco... bao nhiêu đầu tàu công nghệ đều hội tụ tại đây. Lý Mục tin rằng trong tương lai gần, Mục Dã cũng sẽ vươn lên thành một công ty hàng đầu tại mảnh đất này.
+
+Đoàn xe từ từ tiến vào khu vực trung tâm của Thung lũng Silicon và dừng lại trước một khách sạn hạng sang. Mọi người xuống xe chuẩn bị nhận phòng. Ban đầu Lâm Thanh Nhã định để mọi người nghỉ ngơi sau chuyến bay dài, rồi trưa mới tổ chức một buổi gặp mặt chào mừng các nhân viên đang làm việc tại Mỹ, sau đó chiều mới qua văn phòng mới.
+
+Tuy nhiên, khi tới khách sạn, Lý Mục thấy tinh thần mọi người đều rất tốt. Mười một người đi cùng anh đã ngủ say sưa suốt chuyến bay dài, nên giờ đây họ hoàn toàn tỉnh táo và tràn đầy năng lượng. Vừa mới đặt chân tới Mỹ, ai nấy đều phấn khích, chẳng ai còn nghĩ đến chuyện ngáp ngắn ngáp dài hay ngủ nghê gì cả.
+
+
+Chương 1034
+
+Chi nhánh của Mục Dã tại Silicon Valley tọa lạc ngay tại trung tâm sầm uất nhất của khu vực này. Lâm Thanh Nhã đã quyết định thuê một căn biệt thự ba tầng biệt lập với tổng diện tích hơn 2.000 mét vuông trong một công viên công nghệ nhỏ. Trên tấm biển tên ở cửa, Lý Mục nhìn thấy hai chữ tiếng Hán "Mục Dã Công Nghệ" vô cùng nổi bật, phía dưới là dòng chữ tiếng Anh "Muye-technology".
+
+Dọc đường đi Lý Mục đã thấy rất nhiều công ty danh tiếng, nhưng Mục Dã là công ty duy nhất có tên bằng chữ Hán.
+
+Thấy Lý Mục cứ nhìn chằm chằm vào tấm biển tên, Lâm Thanh Nhã bước tới bên cạnh nói: "Lý tổng, chúng ta là công ty Internet trong nước duy nhất chính thức mở văn phòng tại Silicon Valley đấy ạ. Các công ty khác cũng có văn phòng ở đây nhưng họ thường ẩn mình trong các căn hộ nhỏ của những vườn ươm khởi nghiệp, diện tích lớn nhất cũng không quá 100 mét vuông."
+
+Lý Mục gật đầu, chỉ tay vào dòng chữ "Mục Dã Công Nghệ" mỉm cười: "Xem ra chúng ta là công ty Hoa Hạ đầu tiên thực sự 'đường đường chính chính' bước vào Silicon Valley."
+
+Lâm Thanh Nhã cười đáp: "Đúng vậy ạ, đúng nghĩa là công ty đầu tiên." Đoạn cô hạ thấp giọng: "Chúng ta vào thôi, nhiều nhân viên đang đợi anh lắm."
+
+Theo giới thiệu của Lâm Thanh Nhã, tổng số nhân viên của Mục Dã tại Mỹ đã vượt quá 300 người. Trong đó, ngoài hơn 110 người từ Trung Quốc sang trong hai đợt, số còn lại đều được tuyển dụng tại Mỹ trong thời gian qua. Đa số nhân viên mới thuộc đội ngũ quảng bá "Thành Phố Thiên Đường". Do số lượng trường đại học ở Mỹ quá lớn nên đội ngũ này cực kỳ đông đảo. Đây đều là những nhân viên chính thức đã ký hợp đồng dài hạn. Ngoài ra, còn có một đội ngũ bán thời gian gồm hơn 1.000 sinh viên dưới sự quản lý của họ.
+
+Tuy nhiên, vì đội ngũ quảng bá đang tản ra các trường đại học trên khắp nước Mỹ nên số lượng nhân viên thực tế làm việc tại Silicon Valley không nhiều, chỉ khoảng 100 người. Trong đó có 40 nhân viên cũ từ Trung Quốc sang, 60 người còn lại là nhân viên mới tuyển tại chỗ, hầu hết đều là nhân tài kỹ thuật.
+
+Trong số 60 nhân viên mới này, hơn một nửa là người Hoa và gốc Hoa. Điều này cũng nhờ vào sức ảnh hưởng phi thường của Mục Dã trong giới công nghệ Trung Quốc. Nhiều người Hoa đang làm việc tại các công ty công nghệ ở hải ngoại đều có ấn tượng cực tốt với Mục Dã và luôn khao khát được gia nhập đội ngũ của Lý Mục.
+
+Lý Mục đã yêu cầu Lâm Thanh Nhã bắt đầu chiến dịch chiêu mộ nhân tài hải ngoại từ vài tháng trước. Cho đến nay, Mục Dã đã thu hút được hơn 100 chuyên gia kỹ thuật cao cấp từ các nước phát triển, đặc biệt là Mỹ. Tuy nhiên, vẫn còn rất nhiều nhân tài đã định cư hoặc có quốc tịch Mỹ, việc khiến họ từ bỏ cuộc sống ổn định để về Trung Quốc làm việc là khá khó khăn. Nhưng giờ đây, khi Mục Dã đã có chi nhánh ngay tại Silicon Valley, họ có thể cống hiến cho công ty ngay tại "sân nhà", đây dĩ nhiên là điều tuyệt vời đối với họ.
+
+Lâm Thanh Nhã quay sang Lý Mục: "Trong số các nhân viên mới tuyển, hầu hết họ đều rất ngưỡng mộ và mong được gặp trực tiếp anh. Hiện giờ tất cả đều đang thấp thỏm chờ đợi trong công ty. Chút nữa anh gặp họ chắc chắn họ sẽ hơi phấn khích đấy, anh chuẩn bị tâm lý nhé."
+
+Lý Mục trêu: "Cô nói thế làm tôi áp lực quá, cứ như đi họp fan vậy."
+
+Lâm Thanh Nhã cười: "Anh có sức ảnh hưởng cực lớn trong giới người Hoa ở đây. Người ta bảo anh là người mang lại vinh quang lớn nhất cho đất nước tại Silicon Valley này, nên mọi người thần tượng anh cũng là chuyện đương nhiên thôi."
+
+Lời Lâm Thanh Nhã không sai chút nào. Lúc này, hơn một trăm con người trong công ty đã chờ đợi từ lâu. Khi Lý Mục và Lâm Thanh Nhã bước vào, nhân viên đứng dọc hai bên cửa, reo hò chào đón: "Chào Lý tổng!"
+
+Lý Mục nhìn quanh, thấy nhiều gương mặt thân quen lẫn lạ lẫm. Anh luôn giữ nụ cười khiêm tốn, gật đầu chào mọi người. Khi có ai đó tiến tới muốn bắt tay, anh đều vui vẻ đáp lại và cảm ơn họ bằng tiếng Trung. Đối với những nhân viên cũ từ trong nước sang, sự hiện diện của Lý Mục chẳng khác nào vị tổng tư lệnh ra tiền tuyến động viên binh sĩ, tinh thần ai nấy đều lên cao ngút ngàn.
+
+Với những người Hoa mới gia nhập, Lý Mục là một huyền thoại sống. Được tận mắt thấy huyền thoại xuất hiện ngay trước mặt, họ dĩ nhiên vô cùng phấn khích. Ngoài ra còn có một nhóm nhân viên đến từ nhiều quốc gia và sắc tộc khác nhau. Dù không "cuồng nhiệt" như hai nhóm trên, nhưng họ vẫn tràn đầy sự tôn kính và tò mò đối với vị tỷ phú mới ngoài 20 tuổi này.
+
+Silicon Valley rộng lớn đủ sức chứa hàng loạt tập đoàn trong danh sách Fortune 500 cùng vô số công ty khởi nghiệp. Nhưng Silicon Valley cũng rất nhỏ, nhỏ đến mức chẳng có bí mật nào giấu được lâu. Những người làm việc ở đây đều nhạy bén như những tiểu thương ở Trung Quan Thôn, họ nắm lòng từng động thái của cả khu vực. Lý Mục mới đến văn phòng chưa đầy nửa tiếng, tin tức đã lan truyền khắp Silicon Valley: "Lý Mục đã tới!".
+
+Vào thời điểm YY đang làm mưa làm gió và "Thành Phố Thiên Đường" len lỏi vào từng ngõ ngách của các trường đại học Mỹ, sự xuất hiện của Lý Mục mang theo nhiều ý nghĩa. Đó có thể là tín hiệu cho một cuộc tổng tấn công vào thị trường Mỹ, hoặc là khúc dạo đầu cho vòng gọi vốn Series C, hoặc cả hai.
+
+Ngay lập tức, cả Silicon Valley trở nên căng thẳng. Các công ty cùng ngành lo sợ Lý Mục sẽ mang tốc độ bành trướng kinh hoàng của Mục Dã sang Mỹ. Chẳng ai muốn thấy đối thủ cạnh tranh của mình mạnh lên, đặc biệt là một đối thủ đáng gờm trong lĩnh vực mạng xã hội và nhắn tin tức thời như Mục Dã.
+
+Nếu là một công ty như Cisco hay Intel thì còn đỡ lo. Các công ty Internet thậm chí còn mong có thêm sự cạnh tranh giữa các hãng phần cứng để giá linh kiện giảm xuống và tốc độ nâng cấp nhanh hơn, giúp cả ngành được hưởng lợi. Nhưng Mục Dã thì khác. Lĩnh vực mạng xã hội nhắm vào nhu cầu thiết yếu của người dùng, nó sẽ nuốt chửng lượng truy cập và thời gian trực tuyến của khách hàng như một con cá voi khổng lồ. Mục Dã lại còn có xu hướng phát triển theo chiều ngang quanh nền tảng cốt lõi này. Nếu nó lớn mạnh, gần như tất cả các công ty Internet khác đều bị ảnh hưởng. Mục Dã giống như một loài ngoại lai đang xâm nhập và không ngừng chiếm lĩnh không gian sống và dưỡng chất của các công ty khác.
+
+Sequoia Capital, chỉ cách văn phòng Mục Dã có ba khu phố, cũng đứng ngồi không yên khi nhận được tin. Vòng gọi vốn Series C của Mục Dã đã bị trì hoãn hết lần này đến lần khác. Mặc dù phía Mục Dã luôn giữ thái độ mập mờ với Sequoia, nhưng cái kiểu "vừa đấm vừa xoa" đó khiến họ vô cùng sốt ruột.
+
+Trước đó khi đàm phán tại Trung Quốc, Mục Dã khác hẳn với những công ty cần vốn khác vì họ chưa bao giờ tỏ ra cần tiền. Họ muốn gọi vốn nhưng phong thái cứ như chẳng thiếu tiền chút nào, nên chẳng mặn mà gì với tiến độ đàm phán. Đằng sau thái độ "thờ ơ" đó, Mục Dã liên tục tung ra những nước đi mới: không ngừng nâng cấp sản phẩm, thậm chí còn lấn sân sang mảng thanh toán trực tuyến tại Mỹ, thành công trong việc "mượn vốn" eBay để mua cổ phần PayPal. Định giá của họ tăng vọt như tên lửa, khiến mọi nhà đầu tư đều bồn chồn.
+
+Giờ đây, ai cũng biết Mục Dã là một "con tàu siêu tốc" hái ra tiền. Mọi người cũng biết Mục Dã cần một lượng vốn lớn để khởi động "mô hình toàn cầu", họ hoàn toàn có thể niêm yết trên NASDAQ một cách dễ dàng nhưng vẫn thiếu một vòng gọi vốn và sự vận hành của dòng vốn Mỹ. Do đó các quỹ đầu tư tại Mỹ hiểu rất rõ rằng Lý Mục chắc chắn sẽ chốt việc gọi vốn trong tương lai gần, và đối tác chắc chắn sẽ là các quỹ của Mỹ vì anh cần một đồng minh mạnh tại đây để bành trướng.
+
+Sequoia vốn tưởng mình là đối tác tiềm năng nhất, nhưng không ngờ Lý Mục lại âm thầm sang Mỹ mà không báo trước một lời. Nếu thực sự muốn hợp tác với Sequoia, lẽ ra anh phải thông báo lịch trình và hẹn gặp ban lãnh đạo từ sớm. Nhưng giờ đây có vẻ như Lý Mục chẳng hề có sự ưu tiên nào cả. Sự ưu tiên duy nhất của anh có lẽ chính là: bên nào trả giá cao hơn. Thực tế nghiệt ngã này khiến ban lãnh đạo Sequoia cảm thấy áp lực nặng nề. Nếu không có được thiện cảm từ Lý Mục, có lẽ họ sẽ phải bước vào một trận "giáp lá cà" đẫm máu về giá với Softbank, Goldman Sachs và hàng loạt ông lớn khác!
+
+
+Chương 1035
+
+Lý Mục thực sự muốn nhận vốn từ Sequoia Capital. Điều này không chỉ bởi sức mạnh tài chính mà còn bởi "gene Internet" độc đáo của quỹ đầu tư này. Có nhiều tập đoàn tài chính hùng mạnh hơn Sequoia, nhưng số công ty có tầm ảnh hưởng sâu rộng đến ngành Internet như họ thì quá hiếm.
+
+Trong tương lai, bóng dáng của Sequoia có thể được nhìn thấy trong một nửa số doanh nghiệp Internet tại Hoa Hạ. Họ là kiểu nhà đầu tư dường như rót vốn vào tất cả những công ty tiềm năng, nếu thấy chưa đủ họ sẽ rót thêm. Việc hợp tác với một quỹ đầu tư am hiểu tường tận về ngành Internet như vậy không chỉ mang lại hiệu quả cao mà còn giúp người sáng lập bớt đi nhiều mối lo toan.
+
+Tuy nhiên, bản chất của tư bản vốn dĩ là tàn nhẫn. Dù Lý Mục có thiện cảm với Sequoia hơn, mọi chuyện vẫn phải dựa trên lợi ích kinh tế. Hiện tại Mục Dã đang phát triển quá nhanh, anh nắm giữ hoàn toàn thế chủ động trong lòng bàn tay. Chẳng việc gì anh phải vội vàng bày tỏ thiện chí riêng với Sequoia lúc này.
+
+Ưu thế duy nhất của Sequoia trong tâm trí Lý Mục là: nếu không có bên nào đưa ra cái giá hời hơn, anh chắc chắn sẽ chọn họ. Nhưng ngay cả ưu thế này, anh cũng không muốn để Sequoia biết. Chính vì thế anh không hề công khai tin mình sang Mỹ, cũng không có bất kỳ liên lạc cụ thể nào trước đó với họ. Mục đích là để khiến Sequoia nói riêng và thị trường vốn Mỹ nói chung phải rơi vào trạng thái bị động.
+
+Kể từ khi khởi nghiệp, Lý Mục luôn giữ vẻ lạnh lùng với giới đầu tư, trái ngược hoàn toàn với hầu hết những người sáng lập công ty khởi nghiệp khác - vốn khao khát vốn đầu tư hơn cả khao khát tình ái hay bất cứ thứ gì. Trong mắt Lý Mục, việc hợp tác với giới đầu tư giống như một cuộc hôn nhân mà lợi ích là cốt lõi. Nếu bản thân không đủ mạnh, không có đủ bản lĩnh và sự kiên định, người ta sẽ chỉ biết cúi đầu trước đối phương và đánh mất thế chủ động trong cuộc hôn nhân tương lai đó. Công ty là của mình, nhưng lại sống kiếp "ở rể" nhà người ta.
+
+Nhưng với Lý Mục, anh chẳng cần phải nhìn sắc mặt của ai, cũng chẳng cần phải khúm núm quỵ lụy vì tiền, bởi việc gọi vốn của anh không hề mang tính bị động. Vòng gọi vốn Series C của Mục Dã giống như một cuộc hôn nhân giữa hoàng gia và quý tộc. Anh đủ mạnh, đủ tự tin để thách thức đối phương. Bất kể tiểu thư của gia tộc nào muốn gả vào nhà anh cũng đều phải biết tiết chế tính khí tiểu thư và chuẩn bị một bộ sính lễ thật hậu hĩnh. Anh không cần lo lắng vì có quá nhiều người đang xếp hàng chờ đợi.
+
+Phó Chủ tịch cấp cao S (Eric), một thành viên trong Hội đồng quản trị của Sequoia Capital, là người trực tiếp phụ trách dự án gọi vốn của Mục Dã. Chính ông là người tình cờ phát hiện ra "báu vật" văn phòng mang tên YY, sau đó đã nhiệt liệt đề cử với CEO. Sau này khi YY bùng nổ trong giới tinh hoa toàn cầu, tầm nhìn độc đáo của S đã được chứng minh, vì vậy tập đoàn đã giao trọng trách lớn này cho ông.
+
+S vốn hằng mong được gặp gỡ Lý Mục tại Mỹ. Ông vẫn đang chờ đợi một thông báo chính thức về lịch trình của anh. Chẳng ngờ, Lý Mục lại xuất hiện tại Thung lũng Silicon một cách âm thầm như vậy. Đúng lúc S đang cân nhắc liệu có nên chủ động liên hệ hay không, vị CEO của tập đoàn cũng đã nhận được tin và ngay lập tức triệu tập ông tới văn phòng.
+
+Vừa thấy S bước vào, vị CEO đã hỏi ngay: "Eric, trước khi đến Silicon Valley, Lý Mục có hẹn gặp ông không?"
+S lắc đầu: "Tôi chẳng biết gì về việc anh ta sang Mỹ cả. Phía Mục Dã không hề thông báo bất kỳ thông tin liên quan nào."
+Nghe vậy, vị CEO nhíu mày: "Xem ra lần này Lý Mục sẽ ở lại Mỹ khá lâu đấy."
+S hiểu ý sếp, cười khổ: "Chắc chắn là vậy rồi. Cậu ta muốn có được cái giá tốt nhất, nên có lẽ sẽ tiếp xúc rầm rộ với các ngân hàng đầu tư lớn trong thời gian tới."
+
+Vị CEO nói: "Mặc dù tôi chưa tiếp xúc nhiều với Lý Mục, nhưng đã nghe về cách làm việc của cậu ta. Thôi thì chúng ta cũng chẳng việc gì phải giấu giếm nữa. Ông hãy chủ động liên hệ với cậu ta, thể hiện sự chân thành của chúng ta. Hãy hẹn gặp bằng được cậu ta càng sớm càng tốt. Tiền nong bao nhiêu không quan trọng, cái chính là phải ngồi xuống để cậu ta chịu mở lời đã."
+S gật đầu: "Tôi hiểu rồi. Tôi sẽ bảo trợ lý liên hệ với phía Mục Dã ngay."
+
+Vị CEO dặn thêm: "Chúng ta đã thảo luận về tình hình Mục Dã nhiều lần. Với tốc độ phát triển chóng mặt hiện nay và giá trị của PayPal đang tăng quá nhanh, chúng ta ước tính định giá của Mục Dã tối đa là 16,5 tỷ USD. Ông phải cố gắng kiểm soát nhịp độ, tốt nhất là đàm phán trong phạm vi này. Nếu vượt quá, chúng ta sẽ phải họp Hội đồng quản trị lại."
+"Rõ thưa sếp!"
+
+...
+
+Lý Mục ngồi tại văn phòng chi nhánh suốt từ trưa đến nửa chiều. Trong thời gian này, phía Trung Quốc và Lâm Thanh Nhã đã nhận được tới 23 yêu cầu gặp mặt, nhưng Lý Mục đều lấy lý do bận việc để khất lại. Phía Sequoia còn thú vị hơn: sau khi yêu cầu gặp mặt cấp công ty bị Lâm Thanh Nhã từ chối, S đã bí mật tìm đến Đinh Chính Lâm - người đang đi cùng Lý Mục - để nhờ chuyển lời mời anh đi ăn tối.
+
+Thế nhưng Lý Mục vẫn thẳng thừng từ chối với lý do hôm nay anh phải ăn tối cùng toàn thể nhân viên chi nhánh Mỹ. Đây là ngày đầu tiên của anh tại văn phòng mới, với tư cách là một ông chủ có tâm, dĩ nhiên anh muốn tận dụng cơ hội này để liên hoan cùng mọi người, coi như là một buổi team building cho chi nhánh hải ngoại.
+
+S bị từ chối nhưng vẫn không bỏ cuộc. Ông vẫn kiên trì xin một cái hẹn. Lần này Lý Mục không còn quá lạnh lùng nữa, nhưng cũng chẳng nể nang gì: anh bảo Đinh Chính Lâm nhắn lại rằng ngày mai anh có 20 phút trống từ 10 giờ 30 đến 10 giờ 50 sáng. Nếu ông ấy muốn, có thể đến gặp anh tại văn phòng.
+
+Nghe tin xong, S thực sự bị sốc. 20 phút? Lý Mục định làm cái quái gì thế? Đây là một thương vụ gọi vốn khổng lồ lên tới hơn một tỷ USD. Chẳng lẽ Lý Mục định chốt con số đó chỉ trong vòng 20 phút thôi sao? Nói lùi lại một bước, dù không chốt được thì việc thảo luận một thương vụ tỷ đô trong vỏn vẹn 20 phút cũng quá hời hợt và thiếu tôn trọng rồi chứ? Trong 20 phút thì giải quyết được vấn đề gì?
+
+Tuy vô cùng không hài lòng nhưng S vẫn lập tức đồng ý và xác nhận lại với Đinh Chính Lâm nhiều lần. Dù sao thì cũng phải gặp bằng được cái người tên Lý Mục đó đã. Sau khi chốt xong giờ hẹn, S bắt đầu suy tính hai việc:
+Thứ nhất, ngày mai gặp anh ta thì nên mang theo quà gì? Ông biết người Hoa rất coi trọng lễ nghĩa, "có đi có lại mới toại lòng nhau". Đôi khi một món quà nhỏ đúng lúc có thể mang lại hiệu quả "bốn lạng đẩy ngàn cân".
+Thứ hai, 20 phút là quá ngắn. Một phút giới thiệu, một phút hỏi thăm xã giao, một phút thay mặt giới đầu tư Mỹ chào mừng anh đến Silicon Valley, một phút tặng quà, và một phút để dẫn dắt vào chủ đề chính. Dù có hiệu quả đến đâu thì cũng mất đứt 5 phút rồi. Tính ra chỉ còn 15 phút để bàn công chuyện. Làm sao để xoáy sâu vào chủ đề chính trong 15 phút đó và để lại ấn tượng sâu đậm cho Lý Mục về cá nhân mình cũng như về Sequoia là bài toán nan giải nhất lúc này của S.
+
+Giống như S, có ít nhất mười mấy đại diện từ các quỹ đầu tư khác tại Silicon Valley cũng đã hẹn gặp được Lý Mục vào ngày mai. Khi S đang chuẩn bị quà, ông nghe ngóng được từ bạn bè trong ngành rằng ngày mai Lý Mục có lịch hẹn với hơn chục quỹ đầu tư, mỗi bên đều được ấn định đúng... 20 phút. Lịch trình dày đặc như vậy có vẻ rất vội vã, nhưng tính ra cũng mất mấy tiếng đồng hồ. Nếu sắp xếp thời gian nghỉ ngơi hợp lý, anh ta có thể giải quyết xong xuôi hết các cuộc gặp chỉ trong một ngày.
+
+Có vài điều có thể dự báo được cho cuộc gặp ngày mai. Trước tiên là sẽ rất khó để có sự linh hoạt hay thảo luận sâu trong 20 phút ngắn ngủi đó, nên buộc phải chớp lấy thời cơ. Thứ hai, có quá nhiều nhà đầu tư muốn gặp Lý Mục lần này. Dù cuộc gặp đầu tiên ngày mai có đi thẳng vào vấn đề gọi vốn hay không, thì cuối cùng kế hoạch tài chính của Mục Dã tại Mỹ vẫn sẽ phải được bàn bạc kỹ lưỡng với từng bên một.
+
+S đã có thâm niên hàng chục năm trong giới đầu tư, kinh nghiệm vô cùng phong phú. Ông hiểu rằng những dự án đầu tư siêu chất lượng như Mục Dã là vô cùng hiếm gặp kể từ sau khi bong bóng dot-com tan vỡ. Ông biết mọi đối thủ đều đang quyết tâm giành lấy cơ hội này. Ông cũng hiểu khi một công ty cùng lúc đàm phán với nhiều quỹ đầu tư thì người phụ trách rất dễ bị rơi vào trạng thái "mệt mỏi thẩm mỹ". Nếu có quá nhiều cuộc thương thảo, Lý Mục có thể sẽ chỉ nhìn vào con số nào cao nhất mà thôi. Theo cách đó, nếu muốn bứt phá thì chỉ có nước "vung tiền" thật mạnh, điều này khiến S cảm thấy áp lực cực lớn.
+
+Sáng sớm hôm sau, Lý Mục rời khách sạn đến văn phòng chi nhánh. Đúng 9 giờ sáng giờ địa phương, anh bắt đầu đón tiếp đợt khách đầu tiên. Với sự sắp xếp lịch hẹn dày đặc như hôm nay, mục tiêu lớn nhất của Lý Mục chính là thiết lập nhịp độ. Mặc dù cả ngành đều biết anh có kế hoạch gọi vốn nhưng anh chưa hề tiết lộ ý định cụ thể cho bất kỳ ai trước đó. Anh cứ úp úp mở mở khiến các nhà đầu tư càng thêm lo lắng và sốt ruột.
+
+S đã có mặt tại văn phòng Mục Dã từ trước 10 giờ. Vì đến sớm nên ông không vội bước vào mà ngồi lại trong xe, không ngừng suy tính mọi tình huống có thể xảy ra khi đối mặt với Lý Mục. Ông chưa từng gặp anh, nhưng biết rõ đây là kẻ không bao giờ làm việc theo quy tắc thông thường. Chỉ nhìn vào việc anh lặng lẽ sang Mỹ là đủ hiểu. Ông đoán ngày mai có thể Lý Mục sẽ chơi bài "Thái Cực Quyền" (vòng vo), hoặc biết đâu anh ta lại đi thẳng vào vấn đề khiến ông không kịp trở tay. S đã thực hành trong đầu vô số lần các tình huống đó. Giờ đây, ông chỉ chờ đợi để được gặp và "so găng" trực tiếp với Lý Mục.
+
+
+Chương 1036
+
+Trước khi gặp S, Lý Mục đã gặp đại diện của hai tổ chức đầu tư mạo hiểm khác tại Thung lũng Silicon trong văn phòng mà Lâm Thanh Nhã đã chuẩn bị cho anh. Tuy nhiên, trong suốt cuộc gặp với hai tổ chức này, Lý Mục không hề đả động nhiều đến chuyện gọi vốn. Phần lớn thời gian anh chỉ "giả ngây giả ngô" chơi bài ngửa với họ.
+
+Lý Mục không nghi ngờ việc hầu hết các tổ chức đầu tư tại Silicon Valley có thể huy động hơn một tỷ USD, cũng không nghi ngờ việc họ sẵn lòng rót vốn vào Mục Dã Công Nghệ. Thế nhưng, hiện tại anh đang ở vị thế chọn lựa đối tác. Dòng vốn đổ vào vòng Series C của Mục Dã là cực kỳ quan trọng. Tiền bạc đơn thuần thôi là chưa đủ để trở thành đối tác chiến lược của Mục Dã trong giai đoạn tiếp theo.
+
+Sau một hồi trò chuyện vòng vo, đại diện của hai công ty này không nhịn được mà cố gắng hỏi Lý Mục về bản kế hoạch kinh doanh (Business Plan - BP) cho vòng Series C. Một bản BP thông thường sẽ nêu rõ quy mô phát triển, tiến độ kinh doanh, doanh thu, hồ sơ đội ngũ nòng cốt và quan trọng nhất là mức định giá kỳ vọng. Có được BP cũng đồng nghĩa với việc biết được "giá sàn" mà Lý Mục mong muốn.
+
+Thế nhưng, Lý Mục hoàn toàn không chuẩn bị bất kỳ bản BP nào cho vòng này cả. Hay nói cách khác, anh không có một mức giá mục tiêu cố định nào để ghi lên giấy. Định giá kỳ vọng của anh là trên 20 tỷ USD, nhưng con số này vẫn cần được hỗ trợ bởi một vài nước đi lớn sắp tới. Nếu tung ra mức giá này ngay bây giờ, tất cả các quỹ đầu tư sẽ sốc tận óc. Tỷ lệ thặng dư quá cao sẽ khiến thị trường nghĩ rằng anh đang quá ảo tưởng và bong bóng.
+
+Vì vậy, trước sự gặng hỏi của họ, Lý Mục chỉ đưa ra một điều kiện gia nhập sơ bộ: Định giá lý tưởng của Mục Dã là trên 17 tỷ USD. Sau khi xác nhận mức định giá tối thiểu 17 tỷ USD này, hai bên mới có thể ngồi xuống nói chuyện sâu hơn.
+
+Mức giá không tưởng 17 tỷ USD thực sự đã giáng một đòn mạnh vào tâm lý của hai vị đại diện. Mục Dã đúng là đã có những bước tiến thần tốc gần đây, nhưng dù sao thì mảng trò chơi cũng đã được tách riêng ra rồi. Do đó, doanh thu từ "Thành Phố Thiên Đường" không thể được dùng trực tiếp để tính toán định giá cho Mục Dã Công Nghệ. Ngay cả khi tính thêm sức ảnh hưởng cộng hưởng từ trò chơi này, cũng tuyệt đối không thể có mức thặng dư cao đến vậy.
+
+Thị trường hiện tại đang đưa ra mức định giá khá "bình tĩnh" cho Mục Dã là khoảng 15 đến 16 tỷ USD. Lý do có sự dao động một tỷ USD này không phải vì 16 tỷ là con số chắc chắn, mà vì mức 16 tỷ đó yêu cầu YY phải có một bước đột phá kinh doanh lớn trong tương lai gần.
+
+Nếu YY có thể phát triển mạnh mẽ hơn, hoặc PayPal có bước đột phá lớn hơn, thì các nhà đầu tư mới sẵn lòng nâng định giá lên. Khoảng dao động một tỷ USD đã cho thấy các quỹ đầu tư lạc quan đến mức nào đối với Mục Dã tại Mỹ, nhất là khi bong bóng dot-com vừa mới tan vỡ chưa lâu.
+
+Thế nhưng, ngay khi vừa mở miệng, Lý Mục đã nâng ngưỡng cửa lên tận 17 tỷ USD, điều này khiến đối phương không khỏi khiếp sợ. Tư bản luôn thận trọng. Đằng sau mỗi khoản đầu tư khổng lồ là hàng loạt cuộc điều tra và thảo luận chuyên sâu. Nhà đầu tư không chỉ đo lường quy mô và doanh thu hiện tại mà còn phân tích không gian phát triển tương lai và quan trọng nhất là kiểm soát rủi ro. Dù ai cũng biết khả năng thành công của Mục Dã là không nhỏ, nhưng họ vẫn lo ngại công ty sẽ đi chệch hướng trong quá trình ra quyết định, hoặc cả ngành công nghiệp đột nhiên "đóng băng".
+
+Ngành Internet vốn dĩ bán các khái niệm (concept). Một phần lớn giá trị thị trường của các công ty được hỗ trợ bởi các khái niệm này. Nếu có một vụ nổ bong bóng khác, thị trường sẽ không còn ai chịu chi tiền cho các khái niệm nữa. Khi đó, các công ty Internet định giá cao chắc chắn sẽ sụp đổ, và ngay cả Mục Dã cũng khó lòng tránh khỏi.
+
+Ngay khi 20 phút gặp mặt kết thúc, đại diện của hai công ty rời đi trong sự kinh ngạc tột độ. Họ cần báo cáo lại ngay cho cấp trên để xem ban lãnh đạo sẽ quyết định thế nào trước ngưỡng cửa 17 tỷ USD kia.
+
+Sau khi tiễn hai nhóm khách liên tiếp, Lý Mục nghỉ ngơi một lát trong văn phòng. Đúng 10 giờ 25 phút, Lâm Thanh Nhã gõ cửa: "Lý tổng, người của Sequoia tới rồi ạ."
+
+Lý Mục gật đầu: "Mời họ vào."
+
+Dưới sự dẫn dắt của Lâm Thanh Nhã, S (Eric Hanks) bước qua dãy hành lang dài tới trước cửa văn phòng Lý Mục. S - người đã đóng vai trò quan trọng trong vô số thương vụ đầu tư lớn nhỏ - vốn dĩ đã quá quen thuộc với những buổi đàm phán như thế này. Thế nhưng, ngay chính lúc này, ông lại cảm thấy có chút lo lắng.
+
+Ở Thung lũng Silicon có rất nhiều người có thể xây dựng một công ty giá trị hơn 10 tỷ USD, nhưng người Hoa và các công ty Internet Hoa Hạ chưa bao giờ đạt tới tầm cao đó. Huống hồ, ông chưa từng thấy ai mới 20 tuổi mà làm được điều này, bất kể là sắc tộc hay quốc gia nào. Và đằng sau cánh cửa trước mặt ông chính là chàng trai trẻ huyền thoại đó. S không tự chủ được mà căng thẳng, vì tiềm thức ông mách bảo rằng mình sắp được chứng kiến lịch sử.
+
+Lâm Thanh Nhã đẩy cửa bước vào cùng với S. Cô giới thiệu với Lý Mục: "Lý tổng, đây là ông S, Phó chủ tịch của Sequoia Capital."
+Sau đó, cô nói bằng tiếng Anh: "This is Mr. Li Mu, the CEO of Makino Technology."
+
+Lý Mục đứng dậy từ bàn làm việc, mỉm cười và chào S bằng tiếng Anh: "Rất vui được gặp ông." Vừa nói, anh vừa tiến tới bắt tay S. S đáp lại một cách lịch thiệp: "Ông Lý, tôi đã nghe nói rất nhiều về ông tại Mỹ. Tôi vô cùng mong chờ cuộc gặp này. Cảm ơn ông đã dành thời gian quý báu giữa lịch trình bận rộn ngày hôm nay."
+
+Lý Mục cười đáp: "Ông Hanks, ông không cần khách sáo vậy đâu. Chúng ta gặp nhau là để tìm kiếm cơ hội cùng phát triển, nên không cần cảm ơn đâu."
+
+S gật đầu mỉm cười: "Ông Lý nói đúng. Cùng nhau phát triển chính là mục tiêu cốt lõi mà chúng ta cùng theo đuổi."
+
+Lý Mục mời ông ngồi xuống khu vực tiếp khách: "Ông Hanks, lẽ ra tôi nên đích thân tới thăm ông, nhưng tôi vừa mới tới và còn quá nhiều việc phải xử lý. Mong ông lượng thứ."
+
+S biết người Hoa thích nói lời xã giao lịch sự, nhưng không ngờ anh lại khiêm tốn đến vậy. Ông vội nói: "Đây là lần đầu ông Lý tới Silicon Valley. Sequoia đã cắm rễ ở đây nhiều năm nên cũng coi như là nửa người chủ nhà. Đương nhiên tôi phải chủ động tới thăm ông rồi. Ban đầu tôi định mời ông dùng bữa tối hôm qua. Dù Silicon Valley là nơi của công nghệ cao, nhưng gần Đại học Stanford có vài nhà hàng đặc sản rất ngon. Một trong số đó nổi tiếng với món sườn lợn nướng ngon nhất bang. Nếu ông có hứng thú, chúng ta có thể hẹn nhau tới thử."
+
+Lý Mục gật đầu cười: "Được thôi, khi nào có thời gian tôi chắc chắn sẽ qua thử." Nói đoạn, Lý Mục khẽ thở dài: "Nhưng có lẽ tôi sẽ khá bận trong vài ngày tới. Mục Dã vừa mới khởi động tại Mỹ, việc xây dựng đội ngũ, vận hành sản phẩm và phát triển thị trường tiêu tốn rất nhiều thời gian và tâm sức. Vì vậy bữa tối chắc phải lùi lại sau rồi, mong ông thông cảm."
+
+Vừa thấy Lý Mục chủ động nhắc đến công việc, S mỉm cười điềm tĩnh và lập tức nương theo lời anh để mở đầu chủ đề chính thức: "Ông Lý, màn trình diễn của Mục Dã Công Nghệ tại thị trường Mỹ thực sự đã gây ấn tượng mạnh với cả Silicon Valley. Với thực lực của Mục Dã, tôi tin rằng một ngày nào đó công ty sẽ trở thành tập đoàn Internet hàng đầu thế giới. Đó chỉ là vấn đề thời gian mà thôi."
+
+Nói xong, S quan sát biểu cảm của Lý Mục. Thấy anh vẫn mỉm cười, ông tiếp tục: "Ông Lý, việc khai phá lãnh thổ mới là cực kỳ quan trọng với bất kỳ quốc gia nào. Trong nhiều trường hợp, thời gian cần thiết để khai phá tỉ lệ nghịch với số tiền chi ra. Chi càng nhiều tiền thì thời gian càng ngắn và ngược lại. Triết lý phát triển của Sequoia Capital chúng tôi là giúp tất cả các công ty thực hiện việc đổi tiền lấy thời gian một cách tốt nhất. Thời gian phát triển càng ngắn, không gian phát triển sẽ càng lớn."
+
+Lý Mục cười nói: "Điều đó là hiển nhiên. Danh tiếng của Sequoia đã được vô số công ty trong ngành ca tụng. Các ông đã giúp nhiều công ty khởi nghiệp phát triển thần tốc và đóng góp to lớn cho sự tiến bộ của ngành Internet."
+
+S khiêm tốn: "Không dám nhận là đóng góp đâu ạ. Mọi người chỉ là lấy thứ mình cần thôi. Chúng tôi không có đội ngũ vận hành dự án thực tế. Vì vậy chúng tôi chỉ có thể tìm kiếm những dự án và đội ngũ tiềm năng để đầu tư, giúp họ phát triển tốt hơn và mang lại lợi nhuận cho chúng tôi."
+
+S nhìn Lý Mục, nghiêm túc nói: "Ông Lý, Sequoia luôn dành sự quan tâm đặc biệt tới Mục Dã Công Nghệ và Taobao của ông. Chúng tôi cũng biết ông đang tìm kiếm đối tác phù hợp cho vòng gọi vốn Series C. Với tư cách là một công ty đầu tư mạo hiểm kỳ cựu trong ngành Internet, chúng tôi rất hy vọng được trở thành đối tác của ông về mặt vốn liếng. Và xin ông hãy tin rằng Sequoia có thể mang lại cho ông không chỉ hỗ trợ tài chính mạnh mẽ, mà còn là nguồn lực vô tận trên thị trường vốn Mỹ. Thậm chí khi ông có kế hoạch niêm yết tại Mỹ trong tương lai, Sequoia cũng có thể hỗ trợ đắc lực cho ông và công ty."
+
+Lý Mục gật đầu nghiêm túc: "Tôi hoàn toàn tin tưởng những gì ông nói. Hiện tại, Mục Dã thực sự đang chuẩn bị cho vòng Series C. Tôi cũng rất mong muốn thiết lập quan hệ hợp tác với quý công ty."
+
+Nghe vậy, vẻ mặt S giãn ra một chút. Ông mỉm cười: "Vậy thì tôi nghĩ chúng ta có thể thảo luận sâu hơn về vấn đề này. Không biết phía Mục Dã đã chuẩn bị bản kế hoạch kinh doanh cho vòng Series C chưa ạ?"
+
+Lý Mục lắc đầu, thản nhiên đáp: "Chúng tôi chưa chuẩn bị BP. Tôi tin là ông cũng đã nắm rõ nhiều thông tin về Mục Dã rồi. Để tiết kiệm thời gian và nâng cao hiệu quả giao tiếp, chúng ta cần xác nhận một sự đồng thuận chung trước khi thảo luận sâu hơn."
+
+S vội nói: "Mời ông cứ nói."
+
+
+Chương 1037
+
+Mười bảy tỷ đô la Mỹ không phải là một con số nhỏ để đưa ra bàn luận.
+
+Biểu cảm của Lý Mục vẫn thản nhiên, nhưng S thì kinh ngạc đến mức không nói nên lời trong một lúc lâu. Trước khi đi, vị CEO của Sequoia mới chỉ dặn ông rằng giá kịch trần mà họ có thể chấp nhận là 16,5 tỷ USD. Cái gọi là giá kịch trần chính là giới hạn cao nhất mà Sequoia có thể tham gia đấu thầu.
+
+Mặc dù vị CEO không nói rõ phải làm gì nếu giá yêu cầu của Mục Dã Công Nghệ cao hơn giá kịch trần của Sequoia, nhưng theo quy trình thông thường, một khi Sequoia đã ấn định giá trần thì chỉ có hai kết quả: Nếu giá nằm trong phạm vi đó, Sequoia sẽ tham gia. Nếu giá cao hơn, Sequoia sẽ rút lui. Trong nhiều năm qua, khả năng thứ ba chưa bao giờ xảy ra.
+
+Sequoia cũng giống như các quỹ đầu tư mạo hiểm khác. Mọi khoản đầu tư đều phải được tính toán dựa trên biên lợi nhuận tiềm năng và rủi ro vốn. Vòng Series C của Mục Dã là một khoản đầu tư khổng lồ, hơn một tỷ USD tiền mặt sẽ được rót vào một lúc. Do đó, rủi ro phải được đánh giá lặp đi lặp lại. Bởi lẽ tiền của Sequoia không phải từ trên trời rơi xuống, đó là tài sản chung của tất cả các thành viên hội đồng quản trị và các nhà đầu tư của nhiều quỹ thành viên khác nhau.
+
+Trong trường hợp này, ngay cả khi Sequoia tin rằng tài sản của Mục Dã có thể đạt mức 170 tỷ USD trong vài năm tới, họ vẫn phải cân nhắc rủi ro một cách hợp lý. Không thể chỉ vì công ty đang phát triển thuận lợi mà đưa ra một quyết định vội vàng, để lại những rủi ro tiềm ẩn.
+
+Đối với các nhà đầu tư mạo hiểm, khi họ dẫn dắt hoặc rót vốn vào một công ty, họ chắc chắn sẽ cố gắng hạ thấp định giá thực tế xuống. Một mặt là để giảm khoản vốn đầu tư, mặt khác là để có thể "bán" công ty với giá hời hơn trong tương lai. Nhảy vào khi định giá là 100 triệu, rút ra khi định giá là 500 triệu và để công ty tiếp theo tiếp quản với mức giá đó chính là cách kiếm tiền phổ biến của giới đầu tư. Tuy nhiên, nếu họ không nắm bắt được tỷ lệ thặng dư khi tiếp quản, nó sẽ khiến các ngân hàng đầu tư khác nghĩ rằng cái giá họ bỏ ra là quá cao. Khi đó sẽ rất khó để bán lại phần vốn góp với mức thặng dư cao trong tương lai.
+
+S chợt nghĩ đến rất nhiều điều. Lý Mục thấy vẻ mặt khác lạ của ông thì đoán được cái giá mình đưa ra đã khiến ông khiếp sợ. Trước ông, anh cũng đã làm đại diện của hai công ty đầu tư khác sợ hãi rồi. Thế nên Lý Mục chẳng hề bận tâm. Anh mỉm cười nói: "Ông Hanks, ông không cần quá lo lắng. Hoa Hạ có câu cổ ngữ: 'Mua bán không thành thì tình nghĩa vẫn còn'."
+
+S khẽ gật đầu, nghiêm mặt nói với Lý Mục: "Lý tổng, thành thật mà nói, chúng tôi đã đánh giá tình hình Mục Dã một cách rất sâu sắc và khách quan. Mức định giá 17 tỷ USD thực sự là quá cao. Nếu gọi vốn theo mức định giá này, tôi e rằng lượng vốn chúng tôi có thể chấp nhận là rất ít."
+
+Lý Mục vẫn giữ vẻ thản nhiên, đầy tự tin nói: "Ông Hanks, trước hết tôi muốn đính chính một sai sót trong lời nói của ông."
+S mướn mày nhìn Lý Mục, chờ anh nói tiếp.
+Lý Mục cười: "Tôi không muốn mức định giá 17 tỷ USD. Tôi muốn bắt đầu từ 17 tỷ USD. Ông có thể coi đó là giá khởi điểm."
+
+Vào khoảnh khắc đó, S cảm nhận được sự tự tin mãnh liệt tỏa ra từ Lý Mục. Theo ông, khi Lý Mục nói lời này, giọng điệu không đơn thuần là tự tin nữa, mà thậm chí có phần kiêu ngạo. Sequoia đã tung hoành trong lĩnh vực Internet bao năm qua, không quá lời khi nói Sequoia là "bố già" của ngành công nghiệp này. Với bề dày kinh nghiệm đó, Sequoia về cơ bản có thể đưa ra đánh giá chính xác về một công ty Internet. Nghĩa là, nếu Sequoia dùng con số 16,5 tỷ USD làm giá trần cho Mục Dã, thì hầu hết các công ty trong ngành sẽ không đưa ra mức giá cao hơn. Việc Lý Mục mở thầu từ 17 tỷ đúng là có phần ngạo mạn trong mắt ông.
+
+Lý Mục thấy S có vẻ hơi giận và không hài lòng. Có vẻ lời của anh đã khiến ông phật ý, nhưng Lý Mục không quan tâm. Anh tiếp tục mỉm cười nói: "Ông Hanks, người Hoa Hạ chúng tôi rất thích một loại ngọc gọi là Phỉ Thúy. Giá của Phỉ Thúy tốt cao đến mức đáng kinh ngạc. Ngay cả một chiếc nhẫn làm từ Phỉ Thúy cũng có thể đáng giá hơn mười triệu tệ. Nhưng nếu chất lượng không tốt, ông có thể mua nó chỉ với vài trăm tệ. Vì biên độ giá của Phỉ Thúy rất lớn nên trong ngành đã khai sinh ra một mô hình gọi là 'cờ bạc đá'. Cờ bạc đá rất thú vị, tôi thấy nó có nhiều điểm tương đồng với ngành đầu tư đấy. Nếu ông có hứng thú, tôi có thể kể cho ông nghe."
+
+S đưa tay ra hiệu: "Xin cứ tự nhiên."
+
+Lý Mục kể: "Phỉ Thúy là một loại quặng đặc biệt. Điều thú vị là khi mới được khai thác, nó cơ bản được bao bọc bởi một lớp vỏ phong hóa. Không ai có thể thấy được giá trị của khối ngọc bên trong nếu không cắt lớp vỏ đó ra. Đôi khi một khối đá chỉ to bằng quả bóng rổ có thể đáng giá hơn một trăm triệu tệ, nhưng có lúc lại chẳng đáng một xu. Vì vậy, để chuyển giao rủi ro, người bán quặng không tự mình cắt hết khối đá mà để người mua tự cắt."
+
+S bắt đầu cảm thấy bị thu hút, ông tò mò chờ Lý Mục kể tiếp.
+Lý Mục tiếp tục: "Có những người bán giao dịch đá thô hoàn toàn. Việc trong đá có ngọc hay không, nếu có thì chất lượng thế nào, cơ bản phụ thuộc vào phán đoán và vận may của chính người mua. Nói chung giá trung bình của loại đá này khá thấp vì người mua phải gánh chịu toàn bộ rủi ro. Lại có những người bán, khi giao dịch đá thô, họ sẽ cắt một vết nông trên bề mặt để lớp ngọc bên trong lộ ra một chút màu sắc. Trong giới gọi đó là 'mở cửa sổ'. Sau khi cửa sổ được mở, nếu chất lượng phần lộ ra cực cao, giá của khối đá sẽ tăng vọt. Bởi vì với một chút màu sắc lộ ra đó, người mua sẽ tự tin hơn khi phán đoán và giảm bớt rủi ro.
+Có khối đá thô chỉ có một cửa sổ, có khối thậm chí có tới ba năm cửa sổ hoặc nhiều hơn. Tuy nhiên, tương đối mà nói, càng nhiều cửa sổ, chất lượng phần lộ ra càng tốt thì giá khối đá thô càng cao.
+Thế nhưng, bất kể có bao nhiêu cửa sổ thì vẫn luôn tồn tại rủi ro lớn. Bởi vì cửa sổ chỉ nằm trên bề mặt, không ai biết chất lượng khối ngọc bên trong thực sự thế nào. Có nhiều khối nhìn cửa sổ rất đẹp nhưng sau khi cắt sâu vào bên trong thì thấy chẳng đáng giá mấy, ngoại trừ chính cái phần đẹp đẽ ở ngoài đó. Hơn nữa, nhiều thương nhân đá quý còn cố tình làm giả phần cửa sổ để khiến nó trông như có chất lượng cực cao. Trong trường hợp đó, khi người mua mang về cắt ra sẽ lập tức trắng tay, thậm chí là phá sản."
+"Ngược lại cũng vậy. Đôi khi phần cắt ra trông không đẹp lắm, nhưng sau khi mua và cắt hoàn toàn, ông lại thấy chất lượng bên trong cực kỳ xuất sắc. Trong trường hợp đó, lợi nhuận đầu tư dĩ nhiên sẽ rất cao."
+
+Nói đến đây, Lý Mục mỉm cười tiếp tục: "Ông thấy đấy, cờ bạc đá giống với đầu tư biết bao. Những người dám mua một khối đá thô nguyên bản chính là các nhà đầu tư thiên thần. Với một công ty đã phát triển được một thời gian và có được sự hiểu biết nhất định từ thế giới bên ngoài, công ty đó tương đương với việc đã 'mở cửa sổ'. Phát triển càng lâu, triển khai càng nhiều dự án thì càng mở được nhiều cửa sổ. Một khi công ty đã lên sàn và mọi thứ hoàn toàn công khai trên thị trường chứng khoán, nó tương đương với một khối ngọc đã được mài giũa hoàn chỉnh và đưa ra thị trường bán lẻ. Mọi mức giá đều rõ ràng, già trẻ không bị lừa gạt."
+
+S tặc lưỡi mỉm cười: "Dù tôi chưa hiểu hết hoàn toàn, nhưng nghe thực sự thú vị."
+
+Lý Mục gật đầu và chuyển chủ đề: "Trong ngành cờ bạc đá, bất kể có bao nhiêu cửa sổ thì bên trong vẫn luôn ẩn chứa những bí ẩn mà ngay cả các chuyên gia cũng không thể nhìn thấu hoàn toàn. Người mua không thể thấy hết mọi thứ, vì vậy họ không thể cho rằng phán đoán của mình hoàn toàn tương xứng với giá trị thực tế của toàn bộ khối ngọc."
+
+S nhận ra Lý Mục đang ám chỉ rằng Sequoia không thể nhìn thấu "khối ngọc" Mục Dã Công Nghệ. Ông không nhịn được cười: "Ông Lý, theo như ông nói thì giá trị thực tế của khối ngọc cả người bán lẫn người mua đều không biết chắc sao?"
+Lý Mục cười: "Tất nhiên rồi, chẳng ai biết chắc được cả. Họ chỉ có thể dựa vào phán đoán của chính mình thôi."
+
+S nhún vai, xòe hai tay: "Đã là dựa trên phán đoán thì chắc chắn sẽ có sự sai lệch từ cả hai phía. Điều quan trọng nhất là đôi bên có thể đạt được sự đồng thuận hay không. Nếu không thể đồng thuận, thì khối ngọc đó có tốt đến mấy cũng không thể thành giao được."
+
+Lý Mục cười lớn và vỗ tay: "Đây cũng chính là điều tôi muốn nói. Nếu người mua và người bán không thể đạt được đồng thuận về giá trị khối ngọc, thì dĩ nhiên chẳng có cách nào giao dịch cả. Nhưng không đạt được đồng thuận cũng chẳng sao. Ông cứ về trước đi. Sau khi tôi mở thêm một cái cửa sổ nữa, ông có thể quay lại xem. Lúc đó, hãy dùng đôi mắt chuyên gia của mình để đánh giá lại mức giá cho cái cửa sổ mới mở của Mục Dã. Nếu chúng ta vẫn chưa thể đồng thuận, cũng không sao cả. Tôi có thể mở thêm một cái cửa sổ nữa, hoặc hai cái nữa, cho đến khi ông hoặc các nhà đầu tư khác sẵn lòng đạt được đồng thuận với tôi!"
+
+S hơi ngẩn người. Ông từng nghĩ Lý Mục muốn mỉa mai Sequoia không biết nhìn hàng, nhưng không ngờ Lý Mục lại bảo sẽ chủ động "mở thêm cửa sổ". Điều đó nghĩa là gì? S hiểu nghĩa đen của việc mở cửa sổ trên đá quý, nhưng ông thực sự không rõ làm cách nào để "vận hành" một cái cửa sổ cho công ty.
+
+Mặc dù chưa hiểu hết phép ẩn dụ cụ thể, nhưng S nghe ra được giọng điệu đầy bá đạo và không chịu khuất phục trong lời nói của Lý Mục. Ý nghĩa lời nói của Lý Mục rất rõ ràng: Anh ta nhất định sẽ khiến giới đầu tư phải tự nguyện đạt tới sự đồng thuận với mình. Ý tại ngôn ngoại chính là: chỉ có giới đầu tư phải cúi đầu trước anh ta, chứ anh ta tuyệt đối không bao giờ cúi đầu trước giới đầu tư.
+
+S có chút ác cảm với sự ngạo mạn tuổi trẻ của Lý Mục. Đồng thời, ông biết rõ hôm nay mình chắc chắn phải ra về tay trắng. Lý Mục kiên quyết giữ mức giá 17 tỷ USD và ông không thể khiến anh ta hạ xuống. Ông chỉ có thể quay về báo cáo lại. Nếu vị CEO và hội đồng quản trị sẵn lòng thay đổi ý định và chấp nhận mức giá đó, đôi bên sẽ tiếp tục đàm phán. Nếu không, Sequoia sẽ rời khỏi bàn đàm phán và dự án này sẽ bị đình chỉ vô thời hạn đối với họ. Trong trường hợp đó, trừ khi Lý Mục đổi ý sau khi vấp phải khó khăn và hạ thấp định giá để mời gọi Sequoia quay lại, nếu không thương vụ này coi như xong.
+
+
+Chương 1038
+
+Suốt cả một ngày hôm đó, Lý Mục đều dùng cùng một phương thức để phô diễn sức mạnh. Có thể nói chỉ trong vòng một ngày, Lý Mục đã đắc tội với tất cả các ông lớn trong giới đầu tư mạo hiểm tại Thung lũng Silicon.
+
+Giá khởi điểm từ 17 tỷ USD cùng thái độ không chịu thỏa hiệp đã khiến tất cả các nhà đầu tư nghĩ rằng Lý Mục bị điên. Anh ta đơn giản là quá ngạo mạn và đánh giá quá cao bản thân mình. Đừng nói đến việc mọi người không công nhận mức định giá 17 tỷ USD kia, dù có công nhận đi chăng nữa thì quy mô công ty của anh cũng chưa phải hàng tốp đầu tại Silicon Valley. Lấy cái quyền gì mà kiêu ngạo đến thế?
+
+Thực ra Lý Mục không phải kiểu người ngông cuồng vô lối. Lý do anh tỏ thái độ cứng rắn như vậy là vì muốn các nhà đầu tư cảm nhận được sự tương phản cực lớn. Không công nhận mức giá khởi điểm 17 tỷ USD của tôi cũng chẳng sao. Cứ chờ đi, tôi sẽ khiến các ông phải tự động tìm đến và chấp nhận con số đó. Nhưng lúc đó, giá khởi điểm của tôi sẽ không còn đơn giản là 17 tỷ USD nữa đâu.
+
+Vì vậy, sau khi dành ra một ngày để "gây hấn" với giới đầu tư Silicon Valley, Lý Mục không còn tiếp khách nữa. Thế giới bên ngoài đồn đoán rằng anh đã phải nếm mùi thất bại ngay khi vừa đặt chân tới nước Mỹ. Nhiều tờ báo giật tít: "Thiên tài Internet Hoa Hạ nếm mùi Waterloo tại Silicon Valley. Sự ngạo mạn quá mức khiến các nhà đầu tư quay lưng. Hiện tại chưa có tin tức về việc bất kỳ quỹ đầu tư nào tiếp tục đàm phán với Lý Mục. Nghi vấn Lý Mục vẫn chưa thoát khỏi cú sốc thất bại này."
+
+Trong thoáng chốc, cả Thung lũng Silicon đều tưởng rằng Lý Mục đã thực sự gục ngã sau đòn đau. Thế nhưng Lý Mục chẳng thèm bận tâm.
+
+Anh lập tức tổ chức một cuộc họp video với đội ngũ quảng bá đang có mặt rải rác trên khắp nước Mỹ cùng đội ngũ hỗ trợ trong nước. Nội dung cốt lõi của cuộc họp chỉ có một: nhanh chóng đẩy mạnh sự kiện "Paradise Town Cup".
+
+Tất cả các kế hoạch trước đó phải được triển khai ngay lập tức, đồng thời thêm vào một chức năng mới: Tất cả các thí sinh tham gia đều có thể đặt một màn hình rạp chiếu phim hoạt hình trong thị trấn riêng của mình, và họ có thể quay một đoạn video dài 60 giây rồi tải lên đó. Một khi được phê duyệt, tất cả người dùng khác đều có thể xem video ngay trong thị trấn của thí sinh đó.
+
+Đã là nền kinh tế người nổi tiếng (KOL) thì cần phải mang lại cho các "hot girl" những cơ hội lộ diện trực quan và đa chiều hơn. Không chỉ là hình ảnh hay âm thanh, mà còn phải là video. Dùng video để kích thích sự cuồng nhiệt của người hâm mộ chính là giải pháp hiệu quả nhất trong ngành Internet.
+
+Với trình độ công nghệ và phần cứng hiện tại, Lý Mục chưa thể thực hiện livestream toàn quốc. Ngay cả cả ngành Internet cũng phải mất ít nhất vài năm nữa mới đạt tới giai đoạn đó. Tuy nhiên, Lý Mục có thể tối giản hóa livestream ở mức cao nhất. Một số lượng nhỏ các ứng cử viên có thể tải lên các video ngắn sử dụng giải pháp truyền thông trực tuyến (streaming media) của Mục Dã Công Nghệ.
+
+Khi đó, những cô gái tham gia cuộc thi chắc chắn sẽ làm mọi cách để video của mình trở nên hấp dẫn hơn trong mắt khán giả, dù là vì sự nổi tiếng, vì thu nhập hay vì giải thưởng lớn. Một khi các video này được tung ra, nó chắc chắn sẽ thổi bùng ngọn lửa cuồng nhiệt của toàn bộ sự kiện.
+
+Mục Dã Công Nghệ sở hữu đội ngũ kỹ thuật hùng hậu và đã có sẵn dự trữ về công nghệ streaming. Việc phát triển thêm một chức năng nhỏ như vậy dựa trên nền tảng sẵn có là quá dễ dàng. Ngay khi Lý Mục phát lệnh, toàn bộ đội ngũ kỹ thuật lập tức làm việc hết công suất để nhanh chóng phát triển, thử nghiệm và hiệu chỉnh.
+
+Đồng thời, đội ngũ quảng bá trên toàn nước Mỹ cũng đã sẵn sàng. Các tài liệu quảng cáo cho "Paradise Town Cup", các nguồn lực marketing online và offline đều đã vào vị trí. Một khi khởi động, sẽ có những thông báo chạy liên tục trong trò chơi "Thành Phố Thiên Đường" để đảm bảo sự kiện này nhanh chóng bùng nổ tại các trường đại học trên khắp nước Mỹ.
+
+Trong mắt giới công nghệ Silicon Valley, Lý Mục và cả tập đoàn Mục Dã dường như đã im hơi lặng tiếng suốt hai ngày qua. Mọi người đều chờ đợi khoảnh khắc anh phải cúi đầu trước thị trường vốn. Thế nhưng không ai hay biết rằng, Lý Mục đã bí mật chôn giấu một "quả bom" Internet hạng nặng tại các trường đại học Mỹ, chỉ chờ giờ G để phát nổ.
+
+...
+
+Hàng ngàn km cách đó tại Cambridge, bang Massachusetts, Mark Zuckerberg cuối cùng cũng nảy ra một ý tưởng mới trong ký túc xá Đại học Harvard sau nhiều ngày "mê mệt" với "Thành Phố Thiên Đường".
+
+Hiện tại trò chơi này đang quá hot. Nữ thần trong lòng Mark là Fiona đã trở thành một trong những cái tên được săn đón nhất tại Harvard. Fiona chẳng cần phải làm gì nhiều mỗi ngày, chỉ riêng tiền quà tặng nhận được cũng đã lên tới vài ngàn, thậm chí có hôm tới cả chục ngàn USD. Sức chi tiêu khủng khiếp của người hâm mộ Fiona khiến Mark Zuckerberg thực sự kinh ngạc.
+
+Sau khi kế hoạch thu hút sự chú ý của nữ thần thất bại, Mark bắt đầu tìm kiếm cảm hứng từ sự thành công của "Thành Phố Thiên Đường". Anh tin rằng trò chơi này đã mở ra một kỷ nguyên mới cho nền kinh tế fan hâm mộ trực tuyến, điều này thôi thúc anh rất lớn. Sau khi cân nhắc kỹ lưỡng, anh quyết định ra mắt một trang web để bình chọn cô gái xinh đẹp nhất trường. Anh thậm chí đã nghĩ ra một cái tên: "Facemash".
+
+Ý tưởng của Mark là biến Facemash trở thành một trang web hiển thị thông tin về các mỹ nhân của các trường đại học lớn, để người hâm mộ vào bình chọn cho họ, từ đó chọn ra hoa khôi của từng trường. Anh cũng hy vọng phát triển một hệ thống quản trị (backstage) để mỗi hoa khôi có thể tự cập nhật trang chủ, đăng ảnh cá nhân và thậm chí đăng tin nhắn kêu gọi fans bầu chọn.
+
+Ngoài ra, quan trọng hơn cả là Mark dự định bắt chước hệ thống quà tặng của "Thành Phố Thiên Đường" vào sản phẩm của mình, để khán giả không chỉ bầu chọn mà còn có thể để lại lời nhắn, tương tác và tặng quà cho các nữ thần. Một khi hệ thống quà tặng được xây dựng xong, Facemash có thể kết nối với PayPal để fans trực tiếp thanh toán online, sau đó nền tảng sẽ phân chia lợi nhuận với các mỹ nhân. Bằng cách này, người hâm mộ chi tiền cho người đẹp, còn người đẹp và nền tảng thì kiếm tiền dựa trên sự trung thành của fan. Mô hình kinh doanh bỗng chốc trở nên vô cùng rõ ràng.
+
+Mark Zuckerberg tin chắc rằng một khi mô hình kinh doanh đã rõ ràng và khả thi, đó chắc chắn là một dự án tốt. Facemash chính là dự án khởi nghiệp sinh viên đầu tiên trong mắt anh.
+
+Quyết tâm thực hiện Facemash, Mark chủ động mời người bạn cùng phòng Dustin Moskowitz tham gia. Tuy nhiên, Dustin lúc này lại đang hoàn toàn đắm chìm trong "Thành Phố Thiên Đường", chính xác hơn là đắm chìm trong việc chơi game và tán tỉnh cô bạn cùng lớp Monica mà anh thầm mến. Vì mối quan hệ với Monica ngoài đời đang tiến triển rất nhanh nhờ chơi game chung nên Dustin chẳng còn tâm trí đâu mà khởi nghiệp. Tất cả những gì anh nghĩ đến là làm sao để sớm xác lập mối quan hệ và biến Monica thành bạn gái thực sự của mình.
+
+Sự từ chối của người bạn cùng phòng không làm dập tắt nhiệt huyết của Mark. Anh lập tức đăng ký tên miền Facemash và bắt đầu phát triển mã nguồn cũng như giao diện trang web. Nếu chỉ là một trang hiển thị đơn thuần thì khối lượng công việc không quá lớn. Nhưng nếu có cả hệ thống front-end và back-end riêng biệt kèm theo nhiều chức năng phức tạp, khối lượng công việc sẽ tăng lên theo cấp số nhân.
+
+Nếu như ở kiếp trước, Mark chỉ thiết kế một trang hiển thị đơn giản kèm tính năng bình chọn, thì ở kiếp này, dưới sự dẫn dắt và tác động vô hình của Lý Mục, yêu cầu về sản phẩm của Mark cho Facemash đã thay đổi chóng mặt. Trên nền tảng cũ, anh không chỉ phải phát triển hệ thống đăng nhập và khu vực dành cho người dùng thông thường mà còn phải xây dựng hệ thống quản lý riêng cho các mỹ nhân và thiết kế cả một hệ thống quà tặng hoàn chỉnh.
+
+Khối lượng công việc khổng lồ khiến Mark có chút do dự lúc ban đầu. Anh từng nghĩ đến chuyện bỏ cuộc hoặc chuyển sang cách làm đơn giản hơn, nhưng sau khi cân nhắc kỹ, anh quyết định kiên trì. Trong mắt Mark, Lý Mục chính là hình mẫu lý tưởng nhất. Hai người trạc tuổi nhau nhưng anh ta đã là một ông trùm sở hữu khối tài sản hàng chục tỷ USD. Mark mới chỉ là sinh viên năm nhất Harvard, nếu muốn thành công như vậy thì con đường duy nhất là phải nỗ lực gấp nhiều lần.
+
+Nghĩ đến đó, Mark Zuckerberg như được tiêm thuốc kích thích. Anh ngồi lì trước máy tính ngày đêm để viết code. Dustin cũng phải ngạc nhiên trước sự chăm chỉ của bạn mình, anh chưa bao giờ thấy Mark làm việc điên cuồng đến thế. Đôi lúc Dustin cũng có ý định tham gia cùng, nhưng cứ quay đầu lại là anh lại bị Monica thu hút. Chỉ cần Monica lên tiếng, anh sẵn sàng bật dậy lúc 3 giờ sáng để chơi game cùng cô. Hiện tại, Monica chính là cả thế giới của anh.
+
+Điều đầu tiên Mark tập trung chính là hệ thống quà tặng của Facemash. Sau vài ngày làm việc cật lực, hệ thống cuối cùng cũng có một bản beta tương đối hoàn chỉnh. Đúng lúc anh đang hừng hực khí thế muốn chạy thử chức năng mới thì Dustin đi học về. Thấy Mark đang bận, Dustin không làm phiền mà theo thói quen bật máy tính lên để vào "Thành Phố Thiên Đường" làm vài nhiệm vụ. Vừa khéo Monica sắp về tới phòng và sẽ lên mạng ngay. Anh đã hứa với cô là sẽ giúp cô làm thêm nhiệm vụ để tăng cấp nhanh hơn.
+
+Hệ thống nhiệm vụ của trò chơi này có tính tương tác rất cao. Các nhiệm vụ thường yêu cầu người dùng cung cấp một loạt các mặt hàng ngẫu nhiên không liên quan đến nhau, ví dụ như vài chục trái bắp, ít sữa và kem. Nếu không thu thập đủ, nhiệm vụ sẽ luôn ở trạng thái chưa hoàn thành. Nếu số lượng nhiệm vụ tồn đọng quá nhiều, người chơi sẽ không thể nhận thêm nhiệm vụ mới. Trong trường hợp đó, sự giúp đỡ của bạn bè là cực kỳ quan trọng. Người chơi có thể trực tiếp gửi yêu cầu hỗ trợ và nhờ bạn bè cung cấp nguyên liệu thiếu hụt. Khi bạn bè giúp hoàn thành, họ cũng sẽ nhận được phần thưởng từ hệ thống. Ngoài ra, người chơi còn có thể trực tiếp trao đổi vật phẩm với nhau. Bằng cách này, nếu một người sẵn sàng hy sinh lợi ích cá nhân để hỗ trợ người kia thăng cấp, đó sẽ là một sự giúp đỡ tuyệt vời.
+
+Dustin dĩ nhiên rất hạnh phúc khi được giúp đỡ nữ thần Monica của mình, bởi trong lúc hai người cùng làm nhiệm vụ, tình cảm giữa họ cũng không ngừng được bồi đắp. Với Dustin, việc vừa được chơi game vừa chiếm được cảm tình của người đẹp chính là điều hời nhất trên đời.
+
+
+Chương 1039
+
+Vào thời điểm sự kiện "Paradise Town Cup – Bảng xếp hạng Hoa khôi học đường Mỹ" chính thức được khởi động, Mark Zuckerberg đang hào hứng đắm mình trong việc thử nghiệm hệ thống quà tặng của mình. Trong mắt anh, cốt lõi của Facemash chính là hệ thống này. Việc nó vận hành tốt hay dở sẽ trực tiếp quyết định tương lai của Facemash sau khi ra mắt.
+
+Trong khi đó, cả Thung lũng Silicon đang nín thở chờ xem Lý Mục sẽ bẽ mặt như thế nào. Trong mắt họ, cái gã Hoa Hạ này lặn lội đến tận Silicon Valley để tìm kiếm nguồn vốn nhưng lại chẳng biết lượng sức mình. Anh ta nghĩ rằng ở đây cũng giống như ở quê nhà, nơi anh ta là một thiên tài Internet được vạn người săn đón. Tại Silicon Valley, mọi sự phát triển đều không thể tách rời sự thúc đẩy của tư bản. Việc đối đầu với chính các nhà đầu tư là điều tối kỵ trong ngành.
+
+Một vài tạp chí công nghệ tại Silicon Valley thậm chí còn muốn nhân cơ hội này để nhục mạ Lý Mục. Một tờ báo còn dành hẳn chuyên đề đặc biệt về Lý Mục làm bài đinh cho số tạp chí xuất bản hai tuần một lần sắp tới. Nội dung bài viết tấn công trực diện vào sự ngạo mạn của anh, thậm chí khẳng định rằng việc Lý Mục quá tự tin trước các nhà đầu tư là biểu hiện của sự coi thường quá mức đối với thị trường vốn và ngành Internet Mỹ. Bài báo còn tuyên bố xanh rờn rằng nếu Lý Mục không chịu cúi đầu trước dòng vốn của Mỹ, anh ta sớm muộn gì cũng phải cút về Hoa Hạ.
+
+Tạp chí này dự kiến ra mắt sau hai ngày nữa, nên thành phẩm đã được chuẩn bị sẵn trong kho của nhà in từ lâu. Bắt đầu từ sáng nay, các kiện hàng chính thức được vận chuyển và sẽ có mặt trên tất cả các kênh phân phối lớn sau hai ngày.
+
+Đúng vào thời điểm nhạy cảm này, Lý Mục - người dường như im hơi lặng tiếng suốt vài ngày qua - đột ngột tung ra sự kiện "Paradise Town Cup – Bảng xếp hạng Hoa khôi học đường Mỹ". Ngay khi vừa ra mắt, sự kiện này đã tạo nên một cơn địa chấn chưa từng có trên khắp nước Mỹ.
+
+Những người đầu tiên phát cuồng chính là sinh viên các trường đại học - những người vốn đang "mê muội" với "Thành Phố Thiên Đường" - bởi lẽ giải thưởng cho cuộc thi hoa khôi lần này thực sự quá khủng khiếp! Ban đầu Lý Mục dự định chi vài triệu USD tiền thưởng để quảng bá cuộc thi. Thế nhưng, sau khi gặp gỡ mười mấy tay tài phiệt Silicon Valley, anh đã quyết định tăng gấp bốn lần tổng giá trị giải thưởng, nâng thẳng lên con số 30 triệu USD!
+
+Chẳng phải giới tư bản Mỹ chê anh ngạo mạn sao? Vậy thì anh sẽ làm cho sự kiện này bùng nổ đến mức không tưởng. Chi hơn 20 triệu USD có vẻ là một con số gây sốc, nhưng so với việc định giá tổng thể công ty sẽ tăng thêm hàng tỷ USD, thì cái giá này vẫn là quá rẻ.
+
+Lần này, mặc dù Lý Mục tổ chức cuộc thi hoa khôi trong phạm vi các trường đại học Mỹ, nhưng mục tiêu của anh là thu hút sự chú ý của toàn xã hội Mỹ thông qua cuộc thi này. Anh muốn nâng tầm quan trọng của cuộc thi để nó trở thành tâm điểm của dư luận đại chúng. Nếu thành công, "Thành Phố Thiên Đường" sẽ bước ra khỏi cổng trường đại học để len lỏi vào đời sống của toàn thể người dân Mỹ.
+
+Cơ cấu giải thưởng sau khi điều chỉnh cực kỳ hào phóng. Đầu tiên, tiền thưởng cho người thắng cuộc tại mỗi trường trong số hơn 3.000 trường đại học đã được nâng từ 1.000 USD lên 5.000 USD. Chỉ riêng khoản này đã ngốn tới 17 triệu USD. Điều này ngay lập tức kích thích nhiệt huyết tham gia của các nữ sinh ngay từ vòng đầu tiên, đảm bảo sức hút mãnh liệt ngay từ vạch xuất phát. Tiếp theo, giải thưởng dành cho 50 tiểu bang và Đặc khu Columbia được nâng từ 20.000 USD lên 100.000 USD, tổng cộng là 5,1 triệu USD. Cuối cùng, giải thưởng cho các ngôi vị Hoa hậu, Á hậu 1 và Á hậu 2 toàn quốc còn khủng khiếp hơn: từ mức ban đầu 300.000, 200.000 và 100.000 USD được nâng thẳng lên một triệu, năm trăm ngàn và ba trăm ngàn USD! Cộng thêm cả những chiếc siêu xe thể thao, tổng chi phí rơi vào khoảng 2,5 triệu USD nữa.
+
+Khẩu hiệu của Lý Mục là bình chọn "Mỹ nhân triệu đô" tại các trường đại học Mỹ. Trong tiếng Anh là "R-Beauty". Chỉ riêng cái danh hiệu "Mỹ nhân triệu đô" thôi đã là một chủ đề cực nóng. Thêm vào đó, điểm bán hàng cực kỳ hấp dẫn này sẽ thu hút mãnh liệt các cô gái và tạo ra hiệu ứng xã hội to lớn. Mục tiêu của Lý Mục là biến khái niệm "R-Beauty — Mỹ nhân triệu đô" thành một từ khóa siêu hot. Nếu thành công, đây sẽ trở thành một siêu IP riêng của anh và anh có thể dùng nó để tạo nhiệt mỗi năm.
+
+Chưa hết, ngoài các danh hiệu được bầu chọn, cuộc thi còn thêm giải thưởng "Người được yêu thích nhất". Cuộc thi sẽ thiết lập một bảng xếp hạng sự nổi tiếng dựa trên mức độ đóng góp của fan hâm mộ (fan contribution). Mức đóng góp càng cao, thứ hạng càng cao. Giải thưởng này được trao cho mỗi tiểu bang với mức 50.000 USD (tổng cộng 2,55 triệu USD). Quán quân quốc gia nhận 500.000 USD, Á quân 300.000 USD và giải ba 100.000 USD. Mục đích cuối cùng của việc thêm giải thưởng này là để khơi dậy lòng tham tiền bạc và sự phù phiếm của các nữ sinh đại học, từ đó thôi thúc họ tìm đủ mọi cách để lôi kéo fans tăng mức đóng góp cho mình.
+
+Cuối năm 2002, ngay cả tại một đất nước phát triển như Mỹ, chưa có ai từng tổ chức một cuộc thi tìm kiếm tài năng (talent show) quy mô lớn đến vậy. Hơn nữa, đây là cuộc thi đầu tiên trong lịch sử nước Mỹ, và cả thế giới, được tổ chức hoàn toàn trên nền tảng Internet. Vì vậy, ngay khi thông báo được tung ra, nó lập tức thổi bùng một cơn bão tại tất cả các trường đại học! Nữ sinh của hơn 3.000 trường đại học gần như phát điên trong chớp mắt! Không ai có thể hình dung được một trò chơi trực tuyến như "Thành Phố Thiên Đường" lại có thể chứa đựng một cuộc thi tầm cỡ đến vậy. Giải thưởng quá hậu hĩnh khiến vô số người phải hét lên kinh ngạc trước màn hình máy tính! Vào thời điểm đó, các khu ký túc xá nữ trên khắp nước Mỹ hoàn toàn bị nhấn chìm trong những tiếng reo hò không dứt!
+
+Bùng nổ! Hoàn toàn bùng nổ! "Paradise Town Cup" đã làm nức lòng hàng triệu cô gái. Mức độ cuồng nhiệt chẳng kém gì những fan nữ điên cuồng trong buổi hòa nhạc của Michael Jackson. Sự chịu chơi của cuộc thi này chắc chắn là điều mà người dân Mỹ chưa từng được thấy trước đây! Thêm vào đó, cơ chế thăng hạng từng cấp một cùng giải thưởng lớn cho mỗi cấp độ đã thu hút hoàn toàn sự chú ý của phái đẹp!
+
+Đây chính là sự khác biệt giữa "Paradise Town Cup" và các cuộc thi quốc gia trước đây tại Mỹ. Trong những cuộc thi cũ, những người thực sự nhận được tiền thưởng thường chỉ là vài cá nhân đứng đầu được chọn ra từ vòng chung kết quốc gia. Đa số những người khác chỉ đóng vai trò "làm nền". Đừng nói đến nhận thưởng, một số cuộc thi còn yêu cầu thí sinh phải nộp từ vài chục đến vài trăm USD lệ phí đăng ký. Ngược lại, cuộc thi của Lý Mục không những không thu một xu lệ phí nào, mà còn có giải thưởng lớn ngay từ vòng vô địch cấp trường. Những phần thưởng rải rác suốt chặng đường giúp mỗi cô gái đều có thể theo đuổi giấc mơ một cách thực tế nhất, theo kiểu "ăn của trong tay, nhìn quân trong bát, đợi mồi trong nồi".
+
+Điều khiến các cô gái phát cuồng nhất chính là khái niệm "Mỹ nhân triệu đô". Giành được vương miện quốc gia, trở thành một triệu phú thực thụ, đồng thời trở thành đối tượng ghen tị của mọi cô gái và là người trong mộng của mọi chàng trai Mỹ - đó chính là đỉnh cao của mọi giấc mơ trong đời thực. Thêm vào đó, việc cuộc thi cho phép thí sinh quay video ngắn 60 giây để trình chiếu cho tất cả người chơi xem đã giúp họ nhận ra đây là cơ hội vàng để thu hút lượng fans khổng lồ! Nếu may mắn lọt vào vòng bang, họ có thể có được hàng chục, thậm chí hàng trăm ngàn người hâm mộ. Khi đó, dù cuối cùng có giành được danh hiệu triệu đô hay không, họ vẫn có thể nhận được hàng chục ngàn USD quà tặng mỗi ngày từ người hâm mộ. Đó chẳng khác nào một "cái cây hái ra tiền", còn nhanh hơn cả máy in tiền!
+
+Suốt dọc chặng đường là những phần thưởng hậu hĩnh, cơ hội lộ diện nhiều hơn, từ đó có thêm fans và thu nhập từ quà tặng. Số tiền đó đơn giản là quá hấp dẫn. Hơn nữa họ chẳng mất đồng nào để tham gia, chỉ cần tải phiên bản mới của game và đăng ký tài khoản. Vì vậy sinh viên Mỹ hành động cực nhanh. Chỉ trong vòng một giờ đồng hồ, đã có hơn một triệu nữ sinh đăng ký tham gia! Đồng thời, các biển quảng cáo liên quan đến cuộc thi cũng bất ngờ xuất hiện dày đặc gần các trường đại học lớn. Đó là một đòn tấn công truyền thông tổng lực cả online lẫn offline nhắm thẳng vào giới sinh viên.
+
+Mặc dù mọi hoạt động quảng bá của Lý Mục đều xoay quanh sinh viên, nhưng đây thực chất là một "điểm nổ định sẵn" của anh. Trường đại học chỉ là điểm kích nổ mà anh đã cẩn thận lựa chọn để từ đó lan tỏa ra toàn bộ các tầng lớp xã hội Mỹ. Một cuộc thi cuồng nhiệt như vậy, dưới sự bảo chứng của khái niệm "triệu đô", đã mang trong mình khả năng tự lan tỏa cực mạnh. Trong mắt Lý Mục, sinh viên đại học chính là nhóm có khả năng truyền thông mạnh nhất xã hội nhờ sự tổng hòa của các yếu tố: tự do, rảnh rỗi, cấp tiến và thích buôn chuyện. Do đó anh tin chắc cuộc thi này sẽ mang lại hiệu quả lan truyền kinh ngạc.
+
+Đúng như dự đoán! Ngay khi vừa ra mắt, cuộc thi đã bắt đầu lan sang mọi tầng lớp xã hội. Các nữ sinh khi đăng ký xong lập tức chia sẻ tin tức với gia đình, nhờ bố mẹ và anh chị em tải game để thu thập "Chứng nhận cư dân" (resident vouchers) - loại phiếu bầu duy nhất hằng ngày - để có thể bầu chọn cho mình ngay khi vòng thi bắt đầu. Trong đó bao gồm cả bố mẹ đang làm việc ở đủ mọi ngành nghề, em nhỏ đang học trung học, họ hàng thân thích và cả những người bạn không đi học nữa... Chiến lược định nghĩa đặc biệt về "phiếu bầu" của Lý Mục đã thành công vang dội. Mọi phiếu bầu đều phải được người dùng tự kiếm trong game. Nhờ đó khi cuộc vận động bầu chọn lên đến đỉnh điểm, các nữ sinh và fans của họ sẽ huy động mọi người có thể để tham gia. "Thành Phố Thiên Đường" sẽ dùng kẽ hở này để nhanh chóng phá vỡ rào cản cổng trường đại học và tràn vào cuộc sống của từng người dân Mỹ.
+
+Lý Mục thực chất đã học được chiêu này từ chương trình "Super Girl" (Siêu cấp nữ thanh) ở quê nhà. Cốt lõi của nó là mượn nhóm thiếu nữ trẻ tuổi để "bẩy" cả xã hội. Anh đã cải biên nó và lần này đối tượng anh dùng để bẩy toàn bộ xã hội Mỹ chính là nhóm nữ sinh đại học.
+
+
+Chương 1040
+
+Thung lũng Silicon.
+Văn phòng biệt lập của Mục Dã Công Nghệ.
+
+Lý Mục đã thiết lập một bộ chỉ huy tiền phương tại phòng họp lớn. Những nhân sự chủ chốt phụ trách vận hành toàn bộ cuộc thi đều đang miệt mài làm việc tại đây. Đội ngũ kỹ thuật trong nước duy trì kết nối video thời gian thực, trong khi nhóm quản trị máy chủ liên tục theo dõi áp lực hệ thống. Không khí lúc này chẳng khác gì những ngày diễn ra "Ngày hội thương hiệu Taobao" hay "Lễ hội 929" rầm rộ trước đây.
+
+Tốc độ tăng trưởng của các dữ liệu vượt xa mọi hình dung. Số lượng người đăng ký tăng chóng mặt: một triệu, 1,5 triệu, hai triệu, rồi 2,5 triệu và ba triệu... Chính Lý Mục cũng phải sững sờ trước tốc độ leo thang này. "Mỹ nhân triệu đô" thực sự đã trở thành một sự cám dỗ không thể cưỡng lại đối với các nữ sinh đại học Mỹ. Nó mang trong mình sức mạnh quét sạch mọi ranh giới.
+
+Dù có nét tương đồng với chương trình "Super Girl", nhưng giữa hai bên vẫn có sự khác biệt rất lớn. Chi phí để tham gia "Super Girl" là rất cao. Mặc dù hầu hết các cô gái đều muốn tham gia, nhưng do yêu cầu về khả năng ca hát, việc phải đến các địa điểm chỉ định để đăng ký và thử giọng, cộng với việc thiếu phần thưởng trong suốt quá trình thăng hạng, khiến mọi nỗ lực đều trở nên vô ích nếu không vào được vòng sau. Hơn nữa tiến trình kéo dài đòi hỏi rất nhiều thời gian, công sức và tiền bạc. Tổng chi phí là một con số khổng lồ.
+
+Ngược lại, chi phí để tham gia "Paradise Town Cup" chỉ đơn giản là gõ bàn phím trước máy tính và điền thông tin đăng ký. Quy trình đơn giản đến mức nực cười và chi phí gần như bằng không. Quan trọng hơn, phần thưởng ở từng giai đoạn là cực kỳ hậu hĩnh. Thí sinh không cần phải đợi tới chung kết, chỉ cần vượt qua một vòng thi là đã có tiền mặt trao tay cùng tiềm năng thu nhập từ fans. Trước sự cám dỗ khổng lồ và sự tiện lợi tuyệt đối này, nữ sinh Mỹ gần như phát cuồng, tranh nhau điền thông tin đăng ký ngay lập tức.
+
+Có khoảng 15 triệu sinh viên đại học tại Mỹ. Tỷ lệ nam nữ đã thay đổi từ 2,16:1 sau Thế chiến II thành xấp xỉ 1:1 hiện nay. Nói cách khác, số lượng nữ sinh thậm chí còn nhỉnh hơn nam sinh, chiếm khoảng 55%, tương đương 8,5 triệu người. Dựa trên xu hướng này, Lý Mục dự đoán sẽ có ít nhất 5 triệu nữ sinh Mỹ nộp đơn dự thi. Và trong số 5 triệu thí sinh đó, nếu mỗi người lôi kéo được trung bình 4 người không phải sinh viên chơi game, "Thành Phố Thiên Đường" sẽ có thêm 20 triệu người dùng tiềm năng từ các tầng lớp khác.
+
+Trước khi cuộc thi được công bố, dù trò chơi này rất phổ biến trong khuôn viên trường học, nhưng nó vẫn chưa tìm được cơ hội thích hợp để phá vỡ rào cản đó. Trên khắp nước Mỹ, ngoại trừ sinh viên, rất ít người dùng biết đến "Thành Phố Thiên Đường". Nhưng bây giờ, mọi thứ đang thay đổi chóng mặt.
+
+Chỉ trong ngày hôm đó, khi có 3 triệu người đăng ký dự thi, trò chơi cũng ghi nhận thêm 8 triệu tài khoản đăng ký mới. Nếu tính trung bình, mỗi thí sinh đã mang về 2,66 người dùng mới. Tuy con số này vẫn còn cách mục tiêu 4 người của Lý Mục, nhưng đó mới chỉ là dữ liệu của một ngày đầu tiên! Cuộc thi thậm chí còn chưa chính thức bắt đầu. Một khi bước vào giai đoạn quyết liệt nhất, con số này chắc chắn sẽ tăng vọt. Với đà này, hàng triệu người dự thi sẽ thu hút hàng chục triệu người tham gia gián tiếp và nhận được sự chú ý của hàng trăm triệu người.
+
+Chỉ tính riêng phần dữ liệu thôi, sức ảnh hưởng của "Paradise Town Cup" chắc chắn sẽ đạt đến mức kinh thiên động địa. Mọi người tại "Bộ chỉ huy tiền phương" đều vô cùng phấn khích trước khởi đầu rực rỡ này. Lý Mục quyết định chi thêm 15 triệu USD nữa cho giai đoạn hai và ba của cuộc thi để chạy quảng cáo quy mô lớn trên truyền hình và các phương tiện truyền thông offline.
+
+Giai đoạn đầu của cuộc thi là cuộc bình chọn kéo dài 7 ngày tại mỗi trường đại học. Sau khi chọn ra người đứng đầu mỗi trường, toàn bộ số phiếu sẽ được thiết lập lại (reset), và quy tắc nhận "Chứng nhận cư dân" của mỗi người chơi cũng được làm mới. Sau lễ trao giải chính thức trong game, mọi người sẽ có 3 ngày nghỉ ngơi trước khi bước vào giai đoạn hai. Tại giai đoạn này, phiếu bầu của các hoa khôi cấp trường sẽ được tính lại từ đầu để chọn ra người đứng đầu mỗi bang và đặc khu. Sau 3 ngày nghỉ tiếp theo sẽ là giai đoạn ba.
+
+Giai đoạn ba chính là phần "Mỹ nhân triệu đô" tâm điểm nhất. Lúc đó, 51 ứng cử viên chắc chắn đã trở nên nổi tiếng khắp nước Mỹ, thu hút sự chú ý cực lớn của xã hội. Trong giai đoạn này, game sẽ liên tục đẩy mạnh sức hút của 51 cô gái thông qua các video ngắn. Quá trình này kéo dài 10 ngày, cho đến khi tìm ra được "Mỹ nhân triệu đô" thực thụ.
+
+Từ giai đoạn hai, cuộc thi đã vượt ra ngoài phạm vi trường học. Hơn 3.000 cô gái được chọn chắc chắn sẽ mang nhiều phong cách khác nhau. Vì vậy lúc này phần quảng bá sẽ tập trung vào một số cá nhân nổi bật. Ví dụ ở một thành phố nào đó, họ sẽ đẩy mạnh hình ảnh của ứng cử viên tại đó, giúp khán giả Mỹ hình thành ý thức về "sân nhà" và mỗi người sẽ có hoa khôi khu vực của riêng mình để ủng hộ.
+
+Sang giai đoạn ba, khi sự chú ý của cả nước Mỹ đổ dồn vào 51 cô gái, hoạt động quảng bá sẽ càng tăng cường. Kế hoạch của Lý Mục là liên tục phơi bày thông tin cuộc thi bằng mọi giá, không chỉ trên tivi, báo giấy mà cả trên những màn hình lớn ở Quảng trường Thời Đại.
+
+Cùng lúc đó, giới công nghệ Silicon Valley vốn chậm chạp hơn cũng đã nhận được tin về sự kiện "Paradise Town Cup" và "Mỹ nhân triệu đô". Các công ty phân tích dữ liệu hàng đầu nhanh chóng công bố những số liệu chính xác về trò chơi. Lần này, cả Thung lũng Silicon thực sự rúng động! Chẳng ai ngờ Lý Mục lại im lặng vài ngày qua chỉ để chuẩn bị cho một nước đi kinh hồn bạt vía đến thế!
+
+Kể từ khi Silicon Valley hình thành và phát triển, nơi đây đã sản sinh ra vô số chuyên gia về công nghệ, sản phẩm và đổi mới mô hình kinh doanh. Nhưng chưa từng thấy một "bậc thầy vận hành" nào như Lý Mục - người có thể điều khiển các chiến dịch marketing xuất sắc đến vậy. Nếu không được tận mắt chứng kiến mà chỉ nghe tin Lý Mục định chi hàng chục triệu USD để tổ chức thi hoa khôi sinh viên, chắc chắn cả Silicon Valley sẽ khinh miệt gọi anh là kẻ ngốc. Tuy nhiên, Lý Mục thực sự thấu hiểu tường tận việc vận hành, sự phân tích thị trường và người dùng của anh đã đạt đến tầm cao mà các đồng nghiệp không thể sánh kịp. Điều này khiến những kẻ đang chờ xem anh bẽ mặt cảm thấy như vừa bị tát thẳng vào mặt.
+
+Lúc này, thảm hại nhất chính là những tờ báo đã đăng bài đặc biệt để mỉa mai, châm chọc Lý Mục. Tờ tạp chí mang tên "Mạng lưới công nghệ" (Network Technology) có lượng phát hành hơn 700.000 bản tại Bắc Mỹ. Dù đây không phải là một tờ báo hàng đầu tại Mỹ năm 2002, nhưng lượng phát hành đó cũng không hề nhỏ. Thời đại đó truyền thông in ấn cực kỳ phát triển, Mỹ có tới hơn 10.000 đầu báo, trong đó 60 tờ có lượng phát hành trên một triệu bản. Việc "Mạng lưới công nghệ" có hơn 700.000 bản đã in xong và đóng gói chờ xuất xưởng có nghĩa là họ đang cầm trên tay một đống "giấy vụn" khổng lồ vì nước đi bất ngờ của Lý Mục. Toàn bộ số tạp chí đó giờ đây buộc phải hủy bỏ và in lại.
+
+Tạp chí sống dựa trên nội dung trả phí, thu nhập cốt lõi của họ đến từ việc cung cấp thông tin cho nhóm người dùng chuyên sâu. Do đó nội dung phải đảm bảo được sự công nhận của độc giả, nếu không họ sẽ mất đi lượng đăng ký và sớm phải đóng cửa. Lần này bài viết đinh của "Mạng lưới công nghệ" lại nhắm vào cái gọi là sự "ngạo mạn" của Lý Mục. Ban đầu tổng biên tập muốn tỏ ra khôn ngoan khi dùng "thất bại" của Lý Mục để công kích sự phát triển của ngành Internet Hoa Hạ, giúp độc giả Mỹ thấy được khoảng cách và nâng cao lòng tự tôn dân tộc. Thế nhưng trước khi báo kịp ra sạp, Lý Mục đã tạo nên một màn lật kèo hoàn hảo. Một cuộc thi tài năng bắt rễ từ giới trẻ bỗng chốc lan tỏa như một trận động đất khắp xã hội Mỹ. Tốc độ này thật kinh ngạc, và tài điều binh khiển tướng của Lý Mục còn đáng kinh ngạc hơn. Nếu đợi thêm hai ngày nữa khi cuộc thi đã phủ sóng mọi nẻo đường, khi độc giả thấy bài báo công kích Lý Mục kia, chẳng phải họ sẽ chửi cả ban biên tập là lũ ngốc sao?
+
+Vì vậy giải pháp duy nhất là loại bỏ mọi nội dung liên quan đến Lý Mục, thay thế bằng một bài viết khác có độ dài tương đương, giữ nguyên các trang còn lại và cấp tốc in lại. Chi phí in ấn của 700.000 bản ban đầu coi như đổ sông đổ biển, chưa kể chi phí in ấn khẩn cấp và phí vận chuyển nhanh phát sinh. Tổn thất vô cùng nặng nề, cả tòa soạn chỉ biết kêu trời mà không thốt nên lời. Ngoài tờ báo này, còn có hai đơn vị truyền thông khác tại Silicon Valley cũng chung số phận. Một bên đã in xong 300.000 bản buộc phải tiêu hủy ngay lập tức. Bên còn lại thì may mắn hơn, bản kẽm vừa mới làm xong chuẩn bị đưa vào máy in thì nhận tin, đành vứt bỏ toàn bộ đề tài đó để làm lại từ đầu.
+
+Ngoài các tòa báo chịu thiệt hại tài chính trực tiếp, các quỹ đầu tư mạo hiểm tại Silicon Valley cũng đang đứng ngồi không yên. Dù không mất đồng nào nhưng trong lòng họ, sự hối hận còn đau đớn hơn cả việc đánh mất hàng trăm triệu USD...
+
+

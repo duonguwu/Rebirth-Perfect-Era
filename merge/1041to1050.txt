@@ -1,0 +1,453 @@
+Chương 1041
+
+Thung lũng Silicon, trụ sở Sequoia.
+
+Trong phòng họp dành riêng cho các quan chức cấp cao, ai nấy đều lộ vẻ mặt đắng chát. S (Eric Hanks), người vừa mới gặp Lý Mục vài ngày trước, cũng có mặt ở đó. Dù gương mặt ông cũng chẳng mấy vui vẻ gì, nhưng so với tám người còn lại trong phòng thì ông vẫn còn là người giữ biểu cảm tốt nhất. Bảy người kia bao gồm cả vị CEO (tạm gọi là C) đều là thành viên hội đồng quản trị - những người nắm quyền lực cao nhất tại Sequoia.
+
+Mấy ngày trước, khi S từ chỗ Lý Mục trở về báo cáo, chính vị CEO này đã khịt mũi khinh thường ngay tại phòng họp này: "Lý Mục muốn có mức định giá 17 tỷ USD tại Silicon Valley sao? Đúng là nằm mơ giữa ban ngày. Tuyệt đối không có nhà đầu tư mạo hiểm nào chịu chi cái mức giá đó đâu!"
+
+Lúc S hỏi sếp kế hoạch tiếp theo là gì, vị CEO tự tin khẳng định: "Kế hoạch à? Tôi chẳng có kế hoạch nào cho cái thương vụ 17 tỷ đó cả! Thực tế thì chúng ta chẳng cần làm gì cả, cứ kiên nhẫn mà đợi. Sau khi Lý Mục vấp phải bức tường ở khắp mọi nơi, anh ta chắc chắn sẽ phải cụp đuôi lại mà đến cầu xin chúng ta thôi!"
+
+Khi ấy, mọi thành viên hội đồng quản trị đều đồng tình. Họ cảm thấy Sequoia đã từng đầu tư vào quá nhiều tập đoàn lớn rồi, còn Mục Dã thực sự chưa lọt được vào nhóm hạng nhất đó. Lý Mục đã ngạo mạn như vậy thì dĩ nhiên Sequoia chẳng việc gì phải mua cái giá đó.
+
+Thế nhưng, mọi chuyện thay đổi quá nhanh. Lúc này, vị CEO đứng trong phòng họp, mặt đỏ bừng lên vì sốt sắng: "Chúng ta phải đàm phán lại với Mục Dã càng sớm càng tốt! Lần này, chúng ta phải thể hiện sự chân thành 100%!" Nói đoạn, ông nhìn sang S: "Eric, ngày mai ông mang đề nghị định giá 17 tỷ USD tới gặp Lý Mục đi. Chỉ cần anh ta đồng ý, 1,7 tỷ USD sẽ lập tức được chuyển vào tài khoản của Mục Dã. Nếu cá nhân Lý Mục muốn rút tiền mặt, chúng ta cũng đồng ý cho anh ta rút ở mức tối đa!"
+
+Nghe thì có vẻ là một đề nghị rất hời, nhưng S hiểu rất rõ rằng điều này chỉ đúng trước ngày hôm nay thôi. Mặc dù hôm đó ông không hiểu hết phép ẩn dụ về "cờ bạc đá" của Lý Mục, nhưng giờ đây khi kết hợp với nước đi lớn vừa rồi của anh, ông lập tức đại ngộ. Thực tế, những gì Lý Mục muốn diễn đạt hôm đó, nói một cách huỵch toẹt ra là: "Các ông Sequoia đúng là chuyên gia, nhưng các ông không nhìn thấy giá trị thực sự khối ngọc của tôi. Vì các ông không công nhận giá trị đó, nên tôi sẽ mở thêm một 'cửa sổ' để các ông thấy rõ hơn. Nhưng một khi cửa sổ đã mở và cho thấy chất lượng hoàn mỹ như thế, cái giá dĩ nhiên sẽ phải tăng lên rồi."
+
+Vì vậy, S đứng dậy nghiêm nghị nói với sếp và hội đồng quản trị: "Tôi không nghĩ Lý Mục sẽ chấp nhận mức giá 17 tỷ nữa đâu. Theo đà phát triển của cuộc thi hiện tại, mức giá kỳ vọng trong lòng cậu ta chắc chắn đã tăng lên đáng kể rồi."
+
+Vị CEO bác bỏ: "Đừng có lẫn lộn logic. Cuộc thi này do 'Thành Phố Thiên Đường' tổ chức, mà trò chơi đó về mặt vốn liếng thuộc về Mục Dã Games, chẳng liên quan gì tới Mục Dã Công Nghệ (Makino Technology) cả. Dù Mục Dã Công Nghệ có được hưởng chút lợi lộc cộng hưởng thì cũng không thể cao đến mức đó. Trước đây chúng ta công nhận định giá 16,5 tỷ, giờ cộng thêm phần lợi lộc từ mảng game kia, chúng ta nâng lên 17 tỷ là đã cực kỳ hào phóng rồi, tăng hẳn 500 triệu đô chứ ít gì!"
+
+Vị CEO thực sự cảm thấy nâng định giá thêm 500 triệu USD đã là rất cao rồi. Nếu Sequoia sở hữu 5% cổ phần, họ sẽ phải trả thêm tới 50 triệu USD nữa. 50 triệu USD chắc chắn là một khoản tiền khổng lồ. Thế nhưng S biết rõ với niềm kiêu hãnh và sự tự tin của Lý Mục, dù có kề súng vào đầu ép anh đồng ý với mức giá 17 tỷ đó bây giờ, anh chắc chắn cũng sẽ đáp lại bằng một câu "Cút!" dứt khoát.
+
+S bèn nói: "Để tôi kể cho mọi người nghe câu chuyện mà Lý Mục đã kể cho tôi hôm nọ. Nó hơi dài, tôi không nhớ hết từng chữ nhưng đại ý thì thế này." Mọi người đều đổ dồn ánh mắt về phía ông. S sắp xếp lại ngôn từ và cố gắng thuật lại câu chuyện cờ bạc đá của Lý Mục. Khi ông dứt lời, căn phòng rơi vào im lặng một hồi lâu. Nếu đúng như vậy, cuộc thi của "Thành Phố Thiên Đường" thực chất chính là một cái "cửa sổ" mà Lý Mục mở ra cho người mua xem. Một khi cửa sổ đã mở, giá sẽ bay vút tận trời xanh.
+
+Thấy mọi người im lặng, S bồi thêm: "Thẳng thắn mà nói, với tính cách của Lý Mục, nếu chúng ta chủ động tiếp cận lại lần nữa thì mức giá đề nghị buộc phải nằm trong kỳ vọng của cậu ta. Nếu không, cậu ta vẫn sẽ từ chối chúng ta không chút do dự."
+
+Vị CEO mím môi hồi lâu, tim đập thình thịch như đánh trống. Ông ta cũng chỉ là người làm thuê cao cấp cho các ông chủ thực sự là thành viên hội đồng quản trị kia. Vấn đề là ông mới nhậm chức chưa lâu và cũng chưa có thành tích gì lẫy lừng. Lần này, một thương vụ lẽ ra có thể chốt ở mức 17 tỷ nhưng giờ có thể bị đẩy lên 17,5 tỷ hoặc cao hơn nữa chỉ vì sai lầm trong phán đoán của ông. Đây rõ ràng là biểu hiện của sự kém cỏi.
+
+Do đó, vị CEO lên tiếng: "Chúng ta có thể đặt ra một mức giá mới cho Mục Dã, nhưng khi đàm phán, hãy vẫn dùng con số 17 tỷ. Tôi nghĩ sức mạnh của Sequoia trong việc vận hành và các mối quan hệ trên thị trường vốn là thứ Lý Mục đang rất cần. Một người như anh ta chắc hẳn phải có cái nhìn bao quát. Nếu dùng lý trí, đôi bên chắc chắn có thể hợp tác." Nói tới đây, ông bồi thêm: "Nếu không được, chúng ta sẽ chủ động tăng giá sao cho có được hợp đồng trong phạm vi giá trần mới."
+
+S thầm thở dài trong lòng. Vị sếp năm nay thực sự không ổn. Đến lúc này rồi mà vẫn còn muốn cầu may sao? Đúng là nằm mơ giữa ban ngày. Tuy nhiên, S vẫn hỏi: "Vậy lần này mức giá kịch trần chúng ta đặt ra là bao nhiêu?"
+Vị CEO buột miệng: "18... à không, 17,5 tỷ USD!" Ông không dám tăng quá nhiều, vì con số 17 tỷ ban đầu đã là cái mốc rồi. Càng tăng thêm càng chứng tỏ năng lực phán đoán của ông có vấn đề.
+
+Lần này không chỉ S mà ngay cả những người khác trong phòng cũng lộ vẻ mặt lạ lùng. Những thành viên hội đồng quản trị lớn tuổi nhìn ông với ánh mắt pha chút thất vọng và không hài lòng rõ rệt. Vị CEO cũng nhận ra con số mình vừa đưa ra có vẻ hơi hẹp hòi, ông ngập ngừng một lát rồi nói: "Hãy để đội ngũ thẩm định vào làm một bản đánh giá nhanh xem sao."
+
+Dù là lý do cá nhân để bào chữa cho sự lúng túng của mình, nhưng đội ngũ thẩm định cực kỳ chuyên nghiệp của Sequoia không hề bị ảnh hưởng. Ngay tại phòng họp, họ thực hiện một cuộc thẩm định cấp tốc dựa trên sức ảnh hưởng xã hội mà cuộc thi mang lại, cũng như sự tăng trưởng hiệu suất của mảng Game và Công nghệ của Mục Dã. Kết quả khiến tất cả mọi người phải câm nín.
+
+Vị giám đốc phụ trách thẩm định tài chính trịnh trọng tuyên bố: "Chúng tôi tin rằng, trên cơ sở cân nhắc đầy đủ sức ảnh hưởng từ cuộc thi này, mức định giá thận trọng của Mục Dã Công Nghệ sẽ vượt quá 19 tỷ USD, và xác suất vượt mốc 20 tỷ USD là rất cao."
+
+Vị CEO là người đầu tiên phát hoảng, thốt lên: "Tại sao lại cao thế?"
+Vị giám đốc thẩm định giải thích: "Chúng ta phải xét đến mô hình sản phẩm của Mục Dã. Sản phẩm cốt lõi của họ là YY. Xét về vốn thì nó không có quan hệ trực tiếp với 'Thành Phố Thiên Đường', nhưng về mặt kỹ thuật và vận hành, hai sản phẩm này luôn gắn kết chặt chẽ. Quan trọng nhất là dữ liệu người dùng của họ dùng chung. Người dùng trò chơi đang bùng nổ và chắc chắn sẽ tiếp tục tăng trưởng trong tương lai. Tất cả người dùng đó đều là khách hàng tiềm năng của YY. Chúng ta thậm chí có thể thực hiện đăng ký một chạm cho YY thông qua chia sẻ dữ liệu nền tảng và chuyển toàn bộ các mối quan hệ bạn bè từ game sang ứng dụng nhắn tin."
+
+"Dựa trên sự dẫn đầu về tính năng sản phẩm hiện nay, đội ngũ thẩm định chúng tôi đạt được đồng thuận chung: Hiện tại đa số người dùng MSN và ICQ tại Mỹ vẫn chưa chuyển sang YY chỉ vì hai lý do. Một là họ chưa biết phần mềm này; hai là họ biết nhưng vẫn tiếp dùng sản phẩm cũ vì ngại chuyển đổi các mối quan hệ. Tuy nhiên, một khi họ đã vào chơi game và vui vẻ tích lũy các mối quan hệ trực tuyến trong đó, khả năng họ từ bỏ sản phẩm cũ để chọn YY sẽ tăng vọt. Chúng tôi có thể khẳng định chắc nịch rằng người dùng 'Thành Phố Thiên Đường' trong tương lai rất cao sẽ trở thành người dùng YY."
+
+Nói đến đây, thấy mọi người đều kinh ngạc, vị giám đốc thẩm định nghiêm nghị tiếp tục: "Tiền thân của trò chơi này từng giúp Lý Mục đánh bại một phần mềm nhắn tin có 10% thị phần tại Hoa Hạ chỉ trong một đêm. Do đó trò chơi càng hot thì triển vọng của YY càng rộng mở. Với sức ảnh hưởng của cuộc thi hoa khôi, việc YY bùng nổ tại Mỹ chỉ là vấn đề thời gian. Vì vậy mức định giá 19 tỷ USD chẳng hề cao, thậm chí còn rất thận trọng."
+
+"Mọi người đều biết tỷ lệ chi trả của nhóm tinh hoa tại Mỹ cao như thế nào. Nếu YY cũng có được tỷ lệ chi trả tốt ở các nhóm người dùng khác, doanh thu chắc chắn sẽ tăng vọt. Lúc đó doanh thu, lưu lượng, tiềm năng, sức ảnh hưởng và hàng loạt lợi ích khác sẽ phát huy tác dụng cùng lúc. Ngay cả con số 20 tỷ USD cũng chưa chắc đã dừng lại được. Nếu đánh giá khách quan hoàn toàn, tôi nghĩ chỉ cần Lý Mục chơi cuộc chơi này đến cùng, định giá của Mục Dã ít nhất sẽ vượt quá 22 tỷ USD..."
+
+Nghe đến đây, tất cả những người có mặt trong phòng đều cảm thấy xây xẩm mặt mày. Họ đã từng thực hiện nhiều thương vụ lớn, nhưng đây là lần đầu thấy một thương vụ tăng giá chóng mặt đến vậy. Những người có trái tim yếu chắc hẳn không chịu nổi cú sốc này. Trước đây họ tưởng Lý Mục chỉ đào được một cái giếng nước, nhưng giờ mới biết đó là một mỏ dầu khổng lồ... Quan trọng nhất là ngay trước khi mỏ dầu phun trào, họ đã có cơ hội tham gia, nhưng chỉ vì một phút đắn đo mà giờ đây mỏ dầu đã bắt đầu phun lên xối xả. Điều này khiến mọi người trong phòng cảm thấy như đang ngồi trên đống lửa.
+
+Tim vị CEO thắt lại, ông cảm thấy như trái tim mình vừa vỡ vụn ra thành trăm mảnh. Và cũng giống ông, một chàng trai trẻ rụt rè với nụ cười hiền từ ở Harvard - Mark Zuckerberg - cũng đang cảm thấy tan nát cõi lòng...
+
+
+Chương 1042
+
+Trước khi biết rõ các chi tiết về cuộc thi hoa khôi học đường của "Thành Phố Thiên Đường", Mark Zuckerberg cảm thấy mình giống như anh em nhà Wright vừa mới tìm được nguồn cảm hứng để tạo ra máy bay. Sau bao khó khăn, anh đã chế tạo xong chiếc phi cơ thô sơ của mình và đang định tìm cơ hội bay thử, thì đột nhiên nhìn thấy một chiếc Boeing khổng lồ bay vút qua ngay trên đầu. Cảm giác tuyệt vọng đó đúng là...
+
+Ngoài sự tuyệt vọng, đây là lần đầu tiên Mark Zuckerberg cảm nhận được mùi vị của sự thất bại thảm hại. Anh từng nghĩ mình đã nhìn ra tiềm năng kiếm tiền từ hoa khôi trường học thông qua trò chơi trực tuyến. Anh ngỡ rằng mình đã tạo ra một nền tảng chuyên biệt cho họ - một sự đổi mới chưa từng có. Thế nhưng, cuộc thi của Lý Mục đã giúp anh hiểu thấu rằng cái Facemash của mình chẳng hề là "chưa từng có" chút nào. Anh chỉ đơn giản là sao chép ý tưởng của người ta một cách thô thiển, rồi thêm thắt vài chi tiết vụn vặt và ảo tưởng rằng mình đang làm nên một cuộc cách mạng vĩ đại. Thực tế, đội ngũ vận hành của đối phương đã vượt xa tầm hiểu biết của anh từ lâu và bắt tay vào thực hiện với quy mô khủng khiếp đến mức khiến anh bàng hoàng.
+
+Mark Zuckerberg ngồi trước máy tính với gương mặt đỏ lựng vì xấu hổ. Anh nhìn vào dự án Facmash còn dang dở mà lòng ngổn ngang trăm mối. Xấu hổ chỉ là một phần, phần nhiều hơn là sự khâm phục sát đất trước tài vận hành cực đỉnh của "Thành Phố Thiên Đường". Anh chưa từng nghĩ một công ty Internet lại có thể tạo ra sức ảnh hưởng xã hội mạnh mẽ đến thế trong đời thực. Dù là Google hay Microsoft, sự vĩ đại của họ nằm ở chỗ thay đổi lối sống của con người thông qua nỗ lực bền bỉ, nhưng sự thay đổi đó mang tính tích lũy dần dần, giống như một cái cây non lớn lên thành rừng, người dùng đã quá quen thuộc với quy trình đó rồi.
+
+Còn cuộc thi hoa khôi của Lý Mục thì giống như một trận sóng thần đột ngột quét qua mặt đất. Trước đó chưa từng có công ty Internet nào tạo ra được sự cuồng nhiệt lớn đến vậy trong thời gian ngắn như thế. Điều này giúp Mark có cái nhìn sâu sắc hơn về thế giới Internet. Anh bắt đầu tôn sùng Lý Mục - người cũng chẳng lớn hơn anh bao nhiêu tuổi nhưng lại đang điều khiển mọi thứ từ sau bức màn. Trong mắt Mark, Lý Mục chính là thần tượng và hình mẫu lý tưởng nhất. Thất bại lần này càng khiến trái tim anh bừng cháy nhiệt huyết và lòng kính trọng đối với ngành công nghiệp đầy mê hoặc này.
+
+Mark đã cày cuốc nhiều ngày cho Facemash, nhưng nó đã bị tuyên án tử ngay trước khi kịp ra mắt. Anh quyết định dừng hẳn việc phát triển dự án này để học hỏi từ thất bại và tìm kiếm một phương án sản phẩm chín muồi hơn.
+
+Nằm trong sự suy tư đó, Mark Zuckerberg không hay biết vận mệnh của mình đã rẽ hướng dưới tác động của Lý Mục. Ban đầu anh muốn dùng Facemash để tích lũy kinh nghiệm, từ đó đúc kết cho sản phẩm tiếp theo - sản phẩm thần thánh đã biến anh thành tỷ phú: FAC. Nhưng giờ đây, Facemash đã chết yểu, bao nhiêu kinh nghiệm thực chiến không còn cơ hội để đắp bồi. Quan trọng hơn, không ai biết FAC sau này có liên hệ mật thiết thế nào với Facemash. Nếu hai bên có mối dây ràng buộc không thể tách rời, thì e rằng Mark sẽ lỡ hẹn với chính FAC của mình.
+
+Dustin, người bạn cùng phòng, còn chẳng buồn để ý đến cậu bạn rụt rè đang ngồi nghệch mặt ra đó, bởi cô gái trong mộng của anh - Monica - cũng đã đăng ký tham gia cuộc thi hoa khôi đang làm khuynh đảo giới sinh viên kia. Với tư cách là "bạn trai hờ", Dustin đang phải huy động mọi người thân quen qua MSN để nhờ họ đăng ký "Thành Phố Thiên Đường", chơi game cày kéo để có được "phiếu cư dân" nhằm bầu chọn cho Monica khi vòng thi chính thức bắt đầu.
+
+Nhan sắc của Monica thực ra chỉ ở mức trung bình, nếu xếp hạng ở Harvard chắc chẳng lọt nổi top 100. Nhưng mỗi cô gái trong khuôn viên trường lúc này đều có một giấc mơ mang tên "Mỹ nhân triệu đô", nên Monica cũng muốn thử vận may. Dẫu sao cũng chẳng mất đồng nào, tội gì không thử?
+
+Dustin đã dành cả ngày để thuyết phục bố mẹ, cậu em trai đang học trung học và cả mấy người anh em họ hứa sẽ dành thời gian chơi game anh giới thiệu. Anh còn định liên lạc với mấy người bạn cũ thời trung học, nhưng đen đủi là đám bạn đó giờ cũng đang bận cày phiếu cho những cô gái mà họ thầm mến ở trường mình, nên Dustin chẳng nhờ vả được gì.
+
+Đang lúc vò đầu bứt tai nghĩ xem còn ai để nhờ không, Dustin bỗng nhớ tới cậu bạn cùng phòng cả ngày chỉ biết dán mắt vào màn hình máy tính. Ban đầu anh không nghĩ tới Mark vì tưởng Mark đang "mê muội" cô nàng Fiona nên chắc chắn sẽ dành hết phiếu cho cô ta, thậm chí còn đi kêu gọi giúp cô ta nữa cơ. Nhưng anh sực nhớ ra hai ngày trước Mark có vẻ đã nói rằng Fiona giờ đã ở một đẳng cấp khác hắn, có bao nhiêu người theo đuổi và tặng quà đắt tiền mỗi ngày, hai người là người thuộc hai thế giới khác nhau. Có vẻ như sự ám ảnh của Mark đối với Fiona đã biến mất.
+
+Nghĩ tới đó, Dustin vội hỏi: "Này Mark, giúp tớ một việc được không?"
+Mark nhìn anh: "Cứ nói đi."
+Dustin cười xòa: "Buddy, tớ biết cậu rất thích Fiona, nhưng vấn đề là tớ với Monica sắp thành đôi rồi. Cô ấy muốn tham gia cuộc thi hoa khôi nên nhờ tớ tìm bạn bè bầu chọn giúp. Tớ hy vọng cậu có thể giúp tớ một tay, dành phiếu cho Monica nhé."
+Sợ Mark khó xử, Dustin vội bồi thêm: "Nếu cậu không muốn thì cứ nói thẳng, đừng ngại."
+Mark cười tự giễu: "Fiona chắc chắn không thiếu mấy phiếu của tớ đâu. Đến lúc đó tớ sẽ bầu cho Monica."
+
+Dustin ngạc nhiên: "Thật sao? Cậu thực sự sẵn lòng bầu cho Monica à?"
+Mark gật đầu: "Tất nhiên rồi."
+"Tuyệt quá!" Dustin phấn khích: "Cảm ơn cậu nhé buddy!"
+"Không có gì."
+
+Vừa phấn khích lại vừa có chút ngại ngùng, Dustin lại ngập ngừng: "Này Mark, còn một việc nữa..."
+"Nói đi, đừng có lề mề thế."
+Dustin mím môi, ánh mắt có chút không chắc chắn: "Nếu xung quanh cậu có ai có phiếu nữa, ý tớ là bố mẹ, anh chị em hay bạn thân ấy, cậu có thể nhờ họ bầu cho Monica luôn được không?"
+Mark kinh ngạc nhìn bạn mình: "Cậu muốn giúp Monica kiếm bao nhiêu phiếu vậy?"
+Dustin nhún vai, xòe tay: "Càng nhiều càng tốt. Monica kỳ vọng vào cuộc thi này lắm, tớ dĩ nhiên phải nỗ lực hết mình rồi." Anh bắt đầu đếm ngón tay: "Cậu xem, tớ đã báo cho bố mẹ, em trai, mấy ông anh họ, ngay cả ông anh họ làm ở xưởng gỗ cũng không tha. Tớ đã lôi kéo tất cả những ai có thể rồi. Tớ còn định nhờ cả bà ngoại, nhưng bà không biết dùng máy tính nên đành chịu."
+
+Mark chết lặng: "Cậu đi tấn công cả gia đình mình à?"
+"Đây là cơ hội tốt để tớ thể hiện trước mặt cô ấy mà, phải nắm bắt lấy chứ!" Dustin nói tiếp: "Ngoài người nhà ra tớ chẳng còn ai để nhờ nữa. Giờ ai cũng quan tâm đến cuộc thi này, phiếu của ai cũng bị người khác 'đặt gạch' hết rồi."
+
+Mark Zuckerberg vô cùng ngạc nhiên. Dù biết tầm quan trọng của "Thành Phố Thiên Đường", anh cũng không ngờ nó lại tạo ra sự cuồng nhiệt đến thế. Dustin chỉ là một nam sinh, không phải thí sinh trực tiếp, vậy mà cũng đang dốc sức quảng bá trò chơi chỉ vì cuộc thi này. Đủ thấy sự tinh quái trong khâu tổ chức của cuộc thi! Một sinh viên đại học sẽ tuyệt vọng đến mức giới thiệu game cho cả gia đình chỉ vì cô gái mình yêu. Họ đơn giản là những "người quảng bá" tận tụy nhất thế giới, và hoàn toàn tự nguyện. Loại hình quảng bá này hiệu quả hơn bất kỳ đòn marketing cứng nhắc nào.
+
+Sự ngưỡng mộ của Mark dành cho Lý Mục lúc này đã lên tới đỉnh điểm. Trong mắt anh, Lý Mục giống như Lý Tiểu Long sở hữu võ thuật Hoa Hạ huyền bí trong phim vậy, dùng một cuộc thi để phá vỡ mọi tầng lớp xã hội phức tạp của nước Mỹ. Người này không chỉ giỏi về sản phẩm đến mức khó tin mà tư duy vận hành cũng cực kỳ bá đạo.
+Mark đột nhiên nảy ra một ý tưởng, anh nhìn Dustin với ánh mắt rực lửa: "Dustin, nếu tớ mời Lý Mục tới Harvard diễn thuyết, cậu nghĩ anh ấy có đồng ý không?"
+...
+
+
+Chương 1043
+
+"Lý Mục? Lý Mục là ai? Lý Mục là ai kia?" Dustin ngơ ngác nhìn Mark Zuckerberg.
+
+Mark giải thích: "Anh ấy là người Hoa Hạ, người sáng lập Mục Dã Công Nghệ. Không chỉ tạo ra Mục Dã Công Nghệ, mà cả Mục Dã Games – đơn vị phát triển và vận hành 'Thành Phố Thiên Đường' – cũng là công ty của anh ấy."
+
+"Ồ!" Mắt Dustin mở to kinh ngạc: "Tại sao cậu lại muốn mời anh ấy?"
+Mark nghiêm túc đáp: "Lý Mục là thần tượng của tớ. Tớ thực sự ngưỡng mộ anh ấy nên rất mong được gặp mặt."
+Dustin không nhịn được thắc mắc: "Vậy cậu định mời bằng cách nào? Người ta quyền lực như thế, e là người thường khó lòng tiếp cận trực tiếp được đúng không?"
+"Tớ có thể gửi email cho anh ấy, hoặc gửi tới công ty!" Mark bỗng trở nên hăm hở: "Harvard là đại học tốt nhất thế giới. Nếu nhận được lời mời diễn thuyết tại Harvard, chắc chắn anh ấy sẽ không từ chối đâu."
+
+Dustin dội gáo nước lạnh: "Dù anh ấy không từ chối thì cậu cũng đâu thể đại diện cho Harvard mà mời được? Cậu định qua mặt nhà trường à?"
+Mark lém lỉnh: "Tớ có thể nói chuyện với trường trước. Tớ sẽ bảo mình có cách mời được Lý Mục. Nếu trường không phản đối, tớ sẽ xin họ ủy quyền để gửi thư mời chính thức. Như vậy tớ sẽ đường đường chính chính đại diện cho Harvard!"
+Anh hào hứng tiếp tục: "Anh ấy đang ở Mỹ. Nếu Harvard chính thức mời, tớ tin anh ấy sẽ dành thời gian tới!"
+
+Dustin lo lắng: "Nghe này buddy, tớ không muốn làm cậu buồn đâu. Nhưng nếu cậu 'nổ' với trường mà cuối cùng không mời được thì tính sao? Cậu định giải thích thế nào?"
+Mark mỉm cười: "Đơn giản thôi mà. Tớ sẽ bảo dù rất muốn tới nhưng vì quá bận nên anh ấy không sắp xếp được thời gian. Dẫu sao thì trường cũng chẳng mất gì cả. Việc duy nhất họ làm chỉ là cho phép tớ mượn danh nghĩa để gửi thư mời mà thôi."
+"Lạy Chúa!" Dustin thốt lên: "Cậu đúng là thông minh thật đấy, dám tính kế cả nhà trường luôn."
+Mark cười ngại ngùng: "Cậu cứ giữ bí mật nhé, đừng có kể với ai."
+Dustin gật đầu: "Yên tâm, cứ tin ở tớ."
+
+...
+
+Thời gian trôi qua, sức ảnh hưởng của cuộc thi hoa khôi sinh viên Mỹ không ngừng lan rộng. Đến ngày thứ hai, nó đã trở thành chủ đề nóng nhất cả nước. Lý Mục vốn đoán trước được giới truyền thông Mỹ sẽ đưa tin, nhưng anh không ngờ mức độ lại khủng khiếp đến vậy. Gần như qua một đêm, sự kiện này đã chiếm lĩnh trang nhất của hơn một nửa các tờ báo lớn nhỏ tại Mỹ.
+
+Tiêu đề của mỗi trang báo tuy khác nhau nhưng đa số đều thể hiện sự kinh ngạc: "Công ty Internet Hoa Hạ tạo nên show tìm kiếm tài năng lớn nhất nước Mỹ"; "Mỹ nhân triệu đô khiến các trường đại học phát cuồng"; "Lý Mục và tham vọng bành trướng tại Mỹ"; "Lý Mục nổ phát súng đầu tiên tại Mỹ"...
+Một tờ báo tinh ý còn tìm lại đoạn video Lý Mục đón nhân viên tại sân bay và kết hợp với sức nóng của cuộc thi để đăng bài phóng sự đặc biệt với tiêu đề: "Lý Mục: Ta đến, ta thấy, ta chinh phục".
+
+Cả xã hội Mỹ đều đang đổ dồn sự chú ý vào cuộc thi tài năng trị giá hàng chục triệu đô này. Các nhóm tinh hoa, từ truyền thông, giới Internet cho đến tài chính đều quan tâm theo những góc độ khác nhau. Giới truyền thông kinh ngạc vì show này có thể thu hút lượng quan tâm khổng lồ đến thế chỉ bằng một trò chơi. Các đài truyền hình cảm thấy khó tin, vì ngay cả họ cũng khó lòng tạo ra sức ảnh hưởng mạnh mẽ như vậy trong thời gian ngắn. Giới Internet thì mải mê tìm kiếm nguồn cảm hứng mới từ nước đi của Lý Mục, nhận ra sức mạnh thực sự của mạng xã hội.
+
+Riêng giới tài chính thì chỉ còn biết đấm ngực giậm chân. Tất cả các nhà đầu tư đã gặp hoặc chưa gặp Lý Mục đều cuống cuồng tìm cách liên lạc lại, mong có được một cuộc hẹn. Tuy nhiên, Lý Mục đã dặn Lâm Thanh Nhã gửi câu trả lời thống nhất cho tất cả: Lịch trình hai ngày tới đã kín đặc, không thể gặp gỡ bất kỳ nhà đầu tư nào. Sự kiện đang ở đỉnh điểm, giờ là lúc Lý Mục bắt đầu "kiêu" một chút!
+
+Tạm thời từ chối giới đầu tư, Lý Mục bắt đầu chuẩn bị cho đợt tấn công tiếp theo. Anh muốn cuộc thi này phải trở thành sự kiện hot nhất năm, biến nó thành một siêu IP (tài sản trí tuệ) để những năm sau sức ảnh hưởng sẽ càng ghê gớm hơn, thu hút vô số nhà tài trợ tự tìm đến. Vì mục tiêu đó, anh triệu tập đội ngũ để thảo luận cách gia tăng sức hút cho cuộc thi mà không cần dùng chiêu "vung tiền" thêm lần nữa, vì chiêu gì dùng nhiều cũng sẽ phản tác dụng.
+
+Trong phòng họp, mọi người đưa ra nhiều ý kiến: cho top 3 đi du lịch vòng quanh thế giới; tăng tỷ lệ chia hoa hồng quà tặng trong game cho thí sinh từ 5:5 lên 80% hoặc tặng hết; hay để họ làm đại sứ hình ảnh cho game với mức thù lao hậu hĩnh... Lý Mục thấy những ý kiến này vẫn chưa thoát khỏi cái bóng của "tiền". Nếu cứ nói mãi về tiền sẽ làm giảm thiện cảm của công chúng, người Mỹ không thích một công ty chỉ biết vung tiền mà thiếu chiều sâu văn hóa.
+
+Sau một hồi thảo luận lâu mà chưa chốt được phương án, một nhân viên lên tiếng: "Lý tổng, tôi nghĩ chúng ta có thể học theo mô hình British Idol hay American Idol, tạo ra một 'nấc thang' cao hơn cho người chiến thắng."
+Lý Mục tò mò: "Cậu nói rõ hơn xem nào."
+Nhân viên đó giải thích: "American Idol đang rất hot năm nay. Ngoài việc mua bản quyền từ Anh, điểm thu hút nhất là họ chuẩn bị một hợp đồng thu âm trị giá triệu đô cho quán quân để chính thức bước vào con đường ca sĩ chuyên nghiệp. Việc đoạt giải không phải là điểm cuối, mà là khởi đầu để trở thành ngôi sao thực thụ. Giấc mơ đổi đời đó đã lôi kéo hàng triệu thanh niên tham gia. Vì vậy, tôi đề xuất chúng ta cũng tìm một công ty đĩa nhạc cùng hợp tác, hứa hẹn một hợp đồng thu âm triệu đô."
+
+Mắt Lý Mục sáng lên: "Ý hay đấy! Không chỉ cho tiền mà còn cho danh. Danh và lợi là điều con người khao khát nhất." Anh tặc lưỡi: "Nhưng ca hát không hợp lắm. Cuộc thi hoa khôi của chúng ta là thi về nhan sắc (phần nhìn). Nếu kết thúc bằng phần nghe (ca hát) thì e là các thí sinh sẽ không thích nghi được. Nhỡ đâu quán quân đẹp như tiên mà giọng hát lại 'phá làng phá xóm' thì hỏng."
+Cả phòng họp cười ồ lên. Lý Mục nói đúng, một show nhan sắc thì phải kiên trì với phần nhìn đến cùng.
+
+Anh nảy ra ý tưởng mới: "Đổi lại đi. Chúng ta hãy liên hệ với các hãng phim Hollywood, mời họ cho top 3 của chúng ta cơ hội đóng phim. Ví dụ quán quân được đóng 3 phim, á quân 2 phim, giải ba 1 phim. Phải đảm bảo ít nhất là vai thứ chính trở lên và cát-xê không dưới 500.000 USD. Nếu họ đồng ý, chúng ta sẽ dùng YY và 'Thành Phố Thiên Đường' để quảng bá rầm rộ cho phim của họ trước khi ra rạp. Điều kiện duy nhất là họ phải phối hợp quảng bá cuộc thi của chúng ta ngay từ bây giờ."
+
+Lý Mục phân tích tiếp: "Tôi tin các hãng phim Hollywood sẽ không từ chối đâu, vì sự kiện này đang quá hot. Việc đưa một gương mặt đang được cả nước chú ý vào phim sẽ giúp phim được quan tâm hơn nhiều. Với sự hỗ trợ truyền thông của chúng ta, phim đó khó mà không thắng đậm về doanh thu. Hơn nữa top 3 chắc chắn sẽ có ngoại hình cực phẩm, lên hình sẽ rất lợi thế. Không biết diễn cũng chẳng sao, có thể đào tạo dần."
+
+Mọi người đều hào hứng, đây đúng là một cách chơi thú vị. Nếu kéo được các hãng phim vào cuộc, họ chắc chắn sẽ sướng phát điên vì được tham gia vào một sự kiện tầm cỡ như thế này.
+
+Chưa dừng lại ở đó, Lý Mục tiếp tục: "Tìm thêm vài thương hiệu thời trang, mỹ phẩm nổi tiếng tại Mỹ nhờ họ trao hợp đồng đại diện cho top 3. Phí đại diện cũng không dưới 500.000 USD. Nếu đồng ý, họ sẽ trở thành nhà tài trợ cho cuộc thi."
+Đột nhiên anh nảy ra một ý tưởng khác: "Hãy tìm hiểu các nhà mạng viễn thông tại Mỹ để nắm rõ kênh nhắn tin. Chúng ta sẽ cân nhắc thêm chế độ bình chọn qua tin nhắn SMS ở giai đoạn cuối."
+"Bình chọn qua SMS?!" Đa số mọi người có mặt đều lộ vẻ ngơ ngác không hiểu.
+
+
+Chương 1044
+
+Khi đội ngũ vận hành của Mục Dã Công Nghệ bắt đầu liên hệ với các hãng phim danh tiếng tại Hollywood, sức ảnh hưởng của Lý Mục đối với xã hội Mỹ cũng không ngừng leo thang. Ngày càng nhiều nữ sinh đại học đăng ký tham gia, lượng người dùng mới của "Thành Phố Thiên Đường" cũng theo đó mà tăng vọt. "Mỹ nhân triệu đô" đã hoàn toàn trở thành giấc mơ cháy bỏng nhất của mọi nữ sinh Mỹ, khiến họ phát cuồng.
+
+Không ngoa khi nói rằng mức độ khao khát danh hiệu "Mỹ nhân triệu đô" của các nữ sinh đại học hiện nay cũng điên cuồng chẳng kém gì sự say mê của họ dành cho vị trí tiếp viên hàng không do Leonardo đóng trong phim "Catch Me If You Can" (Hãy bắt tôi nếu có thể).
+
+Giới truyền thông Mỹ cũng đang phát sốt vì ghen tị trước hai khái niệm "Hoa khôi học đường Mỹ" và "Mỹ nhân triệu đô". Đặc biệt là cụm từ "Million-Dollar-Beauty" (Mỹ nhân triệu đô) – một khẩu hiệu chỉ gồm ba từ đơn giản nhưng trong mắt giới truyền thông Mỹ, nó chính là một hình mẫu kinh điển về marketing và truyền thông, dù là xét về mặt ý niệm, danh xưng hay sức hút đối với công chúng.
+
+Những nhân tài marketing lỗi lạc nhất cũng phải dành sự nể trọng cho sức mạnh của một câu khẩu hiệu. Bởi nếu một khẩu hiệu được đẩy tới mức cực hạn, nó có thể tạo ra sự ám thị tâm lý cực mạnh, thậm chí là yếu tố then chốt để "tẩy não" người tiêu dùng. Một cái slogan đỉnh cao có thể làm tăng gấp bội hiệu quả của mọi nỗ lực hỗ trợ khác. Ví dụ như "Just Do It" của Nike, "Impossible Is Nothing" của Adidas, hay câu "Kim cương là vĩnh cửu, một viên là mãi mãi". "Beauty" (Mỹ nhân/Vẻ đẹp) vốn là một tính từ tuyệt vời dành cho phụ nữ, cực kỳ phổ biến trong văn hóa Mỹ. Vì thế, sự kết hợp giữa "Million-Dollar" (Triệu đô) và "Beauty" vừa rõ ràng vừa có sức hút mãnh liệt với nhóm khách hàng mục tiêu. Trong mắt giới truyền thông Mỹ, đây có thể gọi là tinh hoa của quảng bá thương hiệu.
+
+Tuy nhiên, báo chí Mỹ không hề biết rằng cái tên "Mỹ nhân triệu đô" của Lý Mục thực chất được ghép từ hai bộ phim Mỹ nổi tiếng. Một là "Million Dollar Baby" (Cô gái triệu đô) – bộ phim sẽ giành giải Oscar cho Phim hay nhất và Đạo diễn xuất sắc nhất sau đây ba năm; và hai là "American Beauty" (Vẻ đẹp Mỹ) – tác phẩm đã thắng lớn tại Oscar vài năm trước. Sự kết hợp tên của hai bộ phim đoạt giải Phim hay nhất Oscar này đã tạo nên cụm từ "Million-Dollar-Beauty" đang làm mưa làm gió khắp xã hội Mỹ.
+
+Cơn sốt "Mỹ nhân triệu đô" lớn đến mức ngay khi các hãng phim nhận được lời mời hợp tác từ Lý Mục, họ đã bày tỏ sự quan tâm đặc biệt. Một vài hãng phim nhanh chóng phản hồi lại Mục Dã Công Nghệ, hoàn toàn chấp thuận các điều kiện của Lý Mục: cung cấp các cơ hội đóng phim cho top 3 chung cuộc (lần lượt là 3, 2 và 1 phim) với mức cát-xê không thấp hơn 500.000 USD.
+
+Sở dĩ họ đồng ý nhanh chóng như vậy vì hãng phim nào cũng nhìn thấy cái lợi khổng lồ đằng sau. Họ chỉ mất vài triệu đô phí hợp tác là có thể gắn liền thương hiệu với chủ đề nóng nhất xã hội hiện nay. Chỉ riêng hiệu quả quảng cáo thôi cũng đã vượt xa số tiền đó rồi. Quan trọng hơn, sức ảnh hưởng của cuộc thi quá lớn, top 3 toàn quốc chắc chắn sẽ trở thành tâm điểm của dư luận. Một cô gái nhận được sự chú ý của cả nước chẳng khác nào một siêu sao, dù cô ấy có không biết diễn đi chăng nữa thì giá trị thương mại cũng đã vượt xa con số 500.000 USD rồi. Nhìn chung, đây là thương vụ đôi bên cùng có lợi nên các hãng phim đều rất tích cực.
+
+Ban đầu Lý Mục còn hơi phân vân không biết nên chọn hãng phim nào vì hãng nào của Hollywood cũng đều lẫy lừng cả. Đúng lúc anh đang do dự thì Warner Brothers (WB) đã nhạy bén nhận ra sự cạnh tranh khốc liệt nên đã nhanh chóng đưa ra một phương án hợp tác mới hời hơn cho Mục Dã Công Nghệ.
+
+Ngoài việc chấp nhận mọi điều kiện cũ của Lý Mục, Warner Brothers còn sẵn sàng bỏ ra 10 triệu USD để mua bản quyền chuyển thể phim ảnh cho cuộc thi này sau khi sự kiện kết thúc. Mức giá này bao gồm quyền chuyển thể cũng như bản quyền cụm từ "Million-Dollar-Beauty". Ý đồ của WB là sử dụng cái tên này cùng kịch bản cuộc thi làm nguyên mẫu để chuyển thể thành một bộ phim về tuổi trẻ học đường. Đồng thời, WB cũng cam kết chia cho Mục Dã Công Nghệ 20% doanh thu phòng vé của bộ phim này và mời đúng top 3 thí sinh của cuộc thi đóng vai chính mình trong phim. Tổng thù lao cho các em sẽ không dưới 3 triệu đô la Mỹ.
+
+Warner Brothers đã nhìn thấu mọi chuyện và có tầm nhìn xa trông rộng hơn các hãng khác. Họ sớm nhận ra khả năng lan tỏa thông tin cực mạnh của "Thành Phố Thiên Đường" và YY tại Mỹ. Việc chia 20% doanh thu sẽ thôi thúc Mục Dã Công Nghệ dốc toàn lực quảng bá cho bộ phim. Cuộc thi này thu hút sự chú ý của hàng chục, thậm chí hàng trăm triệu người. Với giá vé trung bình 8 USD, chỉ cần 20% số người quan tâm đi xem phim là doanh thu đã dễ dàng vượt mốc 100 triệu USD rồi. Dù chưa bước vào kỷ nguyên của các đại IP (tài sản trí tuệ), nhưng các ông lớn Hollywood đã cực kỳ nhạy bén với khái niệm này. Trong mắt họ, "Million-Dollar-Beauty" chính là một siêu IP của ngày hôm nay.
+
+Lời đề nghị quá hấp dẫn hời của Warner Brothers lập tức giúp Lý Mục thoát khỏi cảnh đắn đo. Anh đập bàn quyết định: "Chốt họ đi. Lâm trợ lý, hãy ký hợp đồng với họ sớm nhất có thể, sau đó chúng ta sẽ công bố rộng rãi."
+Lâm Thanh Nhã gật đầu: "Vâng, em sẽ liên hệ để thúc giục họ ký kết ngay ạ." Cô bồi thêm: "À phải rồi Lý tổng, em đã hồi âm cho mấy vị mà anh nhờ liên hệ rồi. Bill Gates của Microsoft hiện đang ở Úc nhưng sẽ sớm quay về để gặp anh. Steve Jobs đang ở Florida kiểm tra nhà máy gia công iMac G4 nhưng cũng nói rất sẵn lòng gặp anh, khi nào về sẽ sắp xếp lịch cụ thể. Còn Larry Page đang ở Silicon Valley, tối mốt anh ta rảnh. Nếu anh muốn gặp thì có thể hẹn vào lúc đó."
+
+Lý Mục không giấu nổi vẻ hào hứng: "Tuyệt quá. Đây đều là những nhân vật có tầm ảnh hưởng cực lớn trong giới Internet. Được gặp họ, dù chỉ là trò chuyện thôi cũng là một thu hoạch lớn rồi." Anh chợt nhớ ra điều gì đó: "Mà sao Lâm trợ lý lại gọi tôi là 'ngài' (you - kính ngữ) nữa rồi? Chẳng phải tôi đã nói là lúc riêng tư thì không cần khách sáo thế sao? Ở tuổi tôi mà được cô gọi thế thấy kỳ kỳ."
+Lâm Thanh Nhã mỉm cười: "Lý tổng, như anh nói đấy, ba vị kia đều là những 'lão đại' hàng đầu của giới công nghệ, vậy mà họ đều mong muốn được gặp anh. Điều đó chứng tỏ hiện giờ anh cũng đã là một trong những nhân vật tầm cỡ nhất rồi. Em dĩ nhiên phải tôn trọng anh hơn chứ."
+Lý Mục hỏi lại: "Tôi thành 'lão đại' hàng đầu từ bao giờ thế?"
+
+
+Chương 1045
+
+Mặc dù Harvard là trường đại học có sức mạnh tổng hợp hàng đầu nước Mỹ và thế giới, nhưng nơi đây cũng không thể thoát khỏi sức ảnh hưởng mãnh liệt từ cuộc thi hoa khôi và danh hiệu "Mỹ nhân triệu đô". Khoảng 80% nữ sinh Harvard đã đăng ký tham gia Bảng xếp hạng Hoa khôi học đường Mỹ. Không khí trong trường trở nên náo nhiệt lạ thường. Các cô gái tụm năm tụm ba thảo luận không ngớt về cuộc thi, thỉnh thoảng lại vang lên những tiếng reo hò phấn khích khiến cả khuôn viên trường luôn trong trạng thái "căng thẳng".
+
+Đa số nam sinh Harvard thì đang miệt mài cày kéo trong "Thành Phố Thiên Đường". Một số người thậm chí chơi nhiều tài khoản cùng lúc để có thể dành nhiều phiếu bầu hơn cho cô gái mình thích. Ngay cả Hiệu trưởng Harvard cũng phải thốt lên trong cuộc họp rằng ngoại trừ mùa thi cử và bảo vệ luận văn, ông chưa bao giờ thấy tỷ lệ quan tâm của sinh viên đối với một sự kiện nào cao đến vậy.
+
+Sức ảnh hưởng của cuộc thi đối với Harvard không chỉ dừng lại ở việc huy động nhiệt huyết của sinh viên. Ngay cả nhiều giáo sư cũng bị cuốn vào. Giáo sư khoa học máy tính đã dành nhiều ngày qua để phân tích chuyên sâu về YY và "Thành Phố Thiên Đường" nhằm giúp sinh viên hiểu rõ tầm quan trọng của công nghệ và sản phẩm, đồng thời khẳng định cốt lõi của phát triển máy tính: mọi công nghệ thực chất đều để phục vụ sản phẩm.
+
+Trong khi đó, Trường Kinh doanh Harvard đang thực hiện các bài giảng nghiên cứu trường hợp (case study) về những bước đi lớn liên tiếp của Mục Dã Công Nghệ tại Mỹ. Họ phân tích tại sao công ty này chỉ dùng mức "chi phí hứa hẹn" (promised cost) vài chục triệu đô mà lại tạo ra được hiệu ứng truyền thông tương đương hơn 100 triệu đô trong xã hội Mỹ. Trong mắt các giáo sư Harvard, Mục Dã Công Nghệ chính là đại diện tiêu biểu cho thế hệ những nhà kinh doanh tài ba thời đại mới.
+
+Cái gọi là "chi phí hứa hẹn" thực chất là những khoản chi phí không cần đầu tư thực tế ngay từ đầu mà chỉ được công bố thông qua các cam kết, chi phí thực tế bỏ ra ban đầu là rất nhỏ. Dù chưa tốn bao nhiêu tiền, nhưng nhờ lời hứa về giải thưởng hàng chục triệu đô mà sức ảnh hưởng đã được đẩy lên mức tối đa. Theo đánh giá của các giáo sư cao cấp, nếu lúc này Mục Dã mở thầu quảng cáo cho cuộc thi thì doanh thu tiềm năng có thể dễ dàng đạt mức hơn 80 triệu đô. Nghĩa là họ chưa cần bỏ ra 40 triệu đô chi phí sự kiện thì đã có thể thu về 80 triệu đô cả gốc lẫn lãi.
+
+Nhờ đó, cái tên "Mục Dã Công Nghệ" (Makino Technology) trở nên phổ biến khắp Harvard, từ sinh viên đến giáo sư. Danh tiếng của "Lý Mục" cũng nhận được sự nể trọng của toàn bộ nhà trường.
+
+Mark Zuckerberg chủ động tìm gặp trưởng khoa của mình, bày tỏ mong muốn đại diện trường mời Lý Mục tới Harvard diễn thuyết. Khi nghe yêu cầu này, phản ứng đầu tiên của ông trưởng khoa là: "Hay là đầu óc thằng bé này bị chập mạch vì quá hâm mộ Lý Mục rồi?". Ông tự hỏi: "Mời Lý Mục diễn thuyết sao? Sao cậu không mời Tổng thống Bush luôn đi? Hay mời Bill Gates, Warren Buffett chẳng hạn?"
+
+Trong mắt ông trưởng khoa, mời Bill Gates thậm chí còn dễ hơn mời Lý Mục, vì vài năm một lần Bill Gates vẫn hay về các trường đại học để đọc diễn văn tốt nghiệp. Nếu Harvard mời thì Bill Gates chắc chắn sẽ nể mặt, vì dù sao ông ta cũng từng học ở đây một năm. Còn Lý Mục thì hoàn toàn xa lạ với Harvard, chưa ai từng gặp mặt, cũng chẳng ai có cách nào liên lạc trực tiếp. Thậm chí không ai biết liệu một người đến từ Hoa Hạ như Lý Mục có chịu tới Harvard hay không.
+
+Vì vậy, ông trưởng khoa hỏi Mark: "Tôi rất tò mò, cậu định mời Lý Mục bằng cách nào? Gửi email cho anh ta à?"
+Mark nói dối không chớp mắt: "Một người anh họ của em đang làm việc tại Mục Dã Công Nghệ. Anh ấy có thể chuyển lời mời tới Lý Mục thay mặt em và nhà trường."
+"Thật sao?" Ánh mắt ông trưởng khoa lập tức thay đổi.
+"Tất nhiên rồi ạ! Vị trí của anh ấy không hề thấp, gần đây thường xuyên họp bàn với Lý Mục." Lời khẳng định của Mark cực kỳ chắc chắn.
+
+Ban đầu ông trưởng khoa nghĩ cậu sinh viên này nói hươu nói vượn, nhưng nghe câu chuyện có vẻ rất hợp lý nên ông lập tức tin ngay. Dù sao Mục Dã cũng đang tuyển rất nhiều người ở Mỹ. Ông dẹp bỏ vẻ coi thường ban đầu, hỏi tiếp: "Nếu cậu thực sự thay mặt trường mời được Lý Mục, cậu tin chắc bao nhiêu phần trăm anh ta sẽ đồng ý?"
+Mark vờ như suy nghĩ rất kỹ rồi đáp: "Em nghĩ ít nhất là 70% ạ! Thực tế nhà trường chỉ cần phát thư mời. Nếu thành công thì quá tốt, còn nếu Lý Mục không đồng ý thì trường cũng đâu có mất gì."
+
+Nghe vậy, ông trưởng khoa hoàn toàn bị thuyết phục. Đúng là chẳng mất gì cả, thử một phen cũng hay. Hơn nữa Lý Mục đang cực kỳ nổi tiếng tại Harvard, nếu mời được anh thì sinh viên sẽ sướng phát điên. Ông xác nhận lại lần cuối: "Cậu bảo người nhà cậu làm ở Mục Dã có chức vụ đủ cao để nói chuyện trực tiếp với Lý Mục đúng không?"
+Dù hơi cắn rứt lương tâm nhưng Mark vẫn gật đầu: "Vâng ạ!"
+"Tốt lắm! Tôi sẽ báo cáo việc này lên ban giám hiệu và báo lại cho cậu ngay khi có kết quả."
+
+Mark Zuckerberg vừa phấn khích vừa lo lắng chào tạm biệt. Sau khi nghe báo cáo, ban giám hiệu Harvard thấy đây là một ý tưởng tuyệt vời. Với một ngôi trường chú trọng đào tạo nhân tài cấp cao như Harvard, họ luôn mong muốn những người thành đạt đến chia sẻ kinh nghiệm, điều này vừa khơi gợi nhiệt huyết cho sinh viên, vừa nâng cao vị thế của trường, đúng là nhất cử lưỡng tiện.
+
+Mark trở về ký túc xá với tâm trạng bồn chồn. Không lâu sau, anh nhận được cuộc gọi từ ông trưởng khoa với giọng điệu cực kỳ thân mật: "Mark, nhà trường đã phê duyệt rồi. Cậu tới chỗ tôi lấy thư mời ngay nhé."
+"Tuyệt quá!" Mark hăm hở: "Em tới ngay đây, sau đó sẽ fax nó cho anh họ em!"
+
+...
+
+Nữ quản trị viên tại chi nhánh Silicon Valley của Mục Dã Công Nghệ bất ngờ nhận được một bản fax từ Đại học Harvard. Sau khi đọc kỹ, nội dung trong đó khiến cô vô cùng ngạc nhiên. Đó là một thư mời chính thức từ Harvard gửi tới Lý Mục, mời anh tới diễn thuyết. Nhưng điểm kỳ lạ là thư mời ghi rõ: Đại học Harvard ủy quyền cho "ông Mark Zuckerberg" thay mặt trường gửi lời mời này tới Lý Mục. Mark Zuckerberg là ai? Cô quản trị viên chẳng thể hiểu nổi, nhưng phía Harvard thì thấy chẳng có vấn đề gì vì họ nghĩ rằng thông qua mối quan hệ "anh họ" kia thì mọi chuyện sẽ được giải thích rõ ràng. Họ đâu ngờ mình đang bị Mark Zuckerberg "tính kế".
+
+Cô quản trị viên lập tức đem bản fax tới chỗ Lâm Thanh Nhã. Lâm Thanh Nhã cũng có chút bối rối, nhưng vì đây là lời mời từ Harvard danh giá nên cô vội mang nó vào văn phòng của Lý Mục.
+
+Lúc này, Lý Mục đang tiếp một "người bạn cũ" trong văn phòng – Elon Musk, một trong những người sáng lập PayPal. Từ khi Lý Mục tới Mỹ, Musk đã luôn nung nấu ý định tới thăm. Anh ta chẳng cần hẹn trước với Lâm Thanh Nhã mà tự mình vội vã tìm đến. Trong mắt Lý Mục, giá trị lớn nhất của Musk lúc này là tiếp tục ở lại PayPal. Vì thế thái độ của Lý Mục có chút kém nhiệt tình hơn, khiến Musk cảm thấy hơi tổn thương. Musk thấy chàng trai Hoa Hạ 20 tuổi này phát triển quá nhanh, dường như đã ở một đẳng cấp khác so với mình, cảm giác khi gặp lại ở Mỹ không còn giống như lần đầu gặp ở văn phòng bên Trung Quốc nữa.
+
+Lý Mục không ngờ trái tim của Musk lại "mỏng manh" đến thế. Thấy Musk có vẻ thiếu tự tin trước mình, anh liền gạt công việc sang một bên, trò chuyện thân mật như hai người bạn cũ suốt nửa tiếng đồng hồ. Trong mắt Lý Mục, giá trị cốt lõi của Musk nằm ở vài năm tới, nhưng hiện tại vẫn cần duy trì mối quan hệ tốt, nhỡ đâu sau này Musk nảy ra ý tưởng khởi nghiệp khác (như Tesla chẳng hạn) sẽ lại tìm đến anh đầu tư thì sao?
+
+Hai người đang chuyện trò rôm rả thì Lâm Thanh Nhã gõ cửa bước vào: "Lý tổng, Đại học Harvard vừa gửi fax mời anh tới trường diễn thuyết ạ."
+Lý Mục nhíu mày: "Harvard sao?"
+Lâm Thanh Nhã xác nhận: "Vâng, chính là Harvard."
+
+Lý Mục suy nghĩ một lát rồi đáp: "Giúp tôi gửi lời cảm ơn tới họ nhé. Tôi rất tôn trọng Harvard – một ngôi trường đẳng cấp thế giới có lịch sử lâu đời, và tôi cũng rất sẵn lòng chia sẻ kinh nghiệm sống với các bạn đồng trang lứa ở đó. Tuy nhiên, thời gian này tôi thực sự quá bận rộn, nên hy vọng lần tới khi quay lại Mỹ sẽ có cơ hội này."
+Lâm Thanh Nhã tiếc rẻ hỏi: "Lý tổng, anh từ chối họ thẳng thừng vậy sao?"
+Lý Mục thở dài: "Cambridge xa quá, cách đây hàng ngàn cây số, tôi chẳng có tâm trí nào mà bay tới đó lúc này."
+Lâm Thanh Nhã tặc lưỡi: "Cũng đúng ạ, bang Massachusetts xa thật, bay một chuyến cũng mất sáu bảy tiếng đồng hồ. Vậy em sẽ khéo léo từ chối như lời anh dặn."
+
+Lý Mục gật đầu: "Cứ khéo léo mà từ chối."
+Lâm Thanh Nhã nhìn bản fax trên tay, lẩm bẩm: "Cái thư mời này lạ thật. Nó nói là Đại học Harvard nhờ một người tên là Mark Elliot Zuckerberg đứng ra mời anh. Chẳng biết anh chàng Mark Elliot Zuckerberg này làm cái gì nữa."
+
+
+Chương 1046
+
+Khi Lâm Thanh Nhã nhắc lại cái tên Mark Zuckerberg, Lý Mục cuối cùng cũng xác nhận được rằng mình không hề nghe nhầm.
+
+Mark Zuckerberg – người đàn ông quyền lực nhất thế giới thuộc thế hệ 8x (ngoại trừ "vị thiếu gia thứ ba" của nhà họ Kim) – hóa ra lại chủ động xuất hiện trong tầm mắt của anh. Điều này khiến Lý Mục vô cùng kinh ngạc. Khi mới vừa trọng sinh, Lý Mục từng nghĩ rằng nếu mình có được một phần cổ phần của Facebook, dù chỉ là 10%, thì cả đời này cũng có thể kê cao gối mà ngủ. Vì lẽ đó, anh đã ngay lập tức đăng ký hàng loạt tên miền liên quan đến Facebook, nhằm dùng chúng làm "cái bẫy" chờ sẵn khi Mark nảy ra ý tưởng thành lập mạng xã hội này. Một khi Mark sa vào bẫy, anh có thể coi cậu ta như "con mồi", bỏ ra vài triệu đô để đổi lấy ít nhất một nửa cổ phần Facebook.
+
+Thế nhưng, điều Lý Mục không ngờ tới là tốc độ phát triển của mình ở thời đại này lại thuận lợi ngoài sức tưởng tượng. Trước khi Mark Zuckerberg kịp có ý tưởng về Facebook, cuộc đời của cậu ta đã bị tác động bởi Lý Mục mất rồi. Mark Zuckerberg thực sự đã thay mặt Harvard mời anh tới diễn thuyết. Chuyện này mới thú vị làm sao! Nếu anh đồng ý, anh có thể gặp vị tài phiệt huyền thoại thế hệ 8x này trước khi Facebook ra đời cả năm trời. Nếu thiết lập được mối quan hệ trực tiếp, có khi anh còn có thể bảo Mark dùng tiền của mình để xây dựng Facebook sớm hơn cũng nên.
+
+Thêm vào đó, Lý Mục cũng lo ngại rằng sức ảnh hưởng của mình đối với ngành Internet Mỹ không còn là con bướm chỉ vỗ cánh ở bên kia đại dương nữa. Thay vào đó, anh đã trở thành một mãnh thú đột ngột xông vào thị trường Mỹ. Trong trường hợp này, quỹ đạo phát triển của giới công nghệ Mỹ chắc chắn sẽ thay đổi lớn vì sự xuất hiện của anh. Nỗi lo của Lý Mục không hề vô căn cứ. Hiện tại, đã có nhiều tập đoàn truyền thông lên kế hoạch bắt chước khái niệm "Mỹ nhân triệu đô" để tổ chức các show tìm kiếm tài năng quy mô lớn tại Mỹ, dù mỗi bên chọn một hướng đi khác nhau.
+
+Được truyền cảm hứng từ Lý Mục, Trump Media thậm chí đã bắt đầu lên kế hoạch tung ra một show tìm kiếm tài năng bình dân vào mùa xuân tới. Theo tin đồn, tập đoàn này đang chuẩn bị một chương trình tập trung vào lĩnh vực người mẫu mang tên "Top Model List in the US" (Siêu mẫu Mỹ). Chỉ cần là cô gái Mỹ có ước mơ làm người mẫu, bất kể làm nghề gì, đều có quyền đăng ký. Trump Media thậm chí còn cam hứa mức lương hàng năm lên tới một triệu đô la, quán quân sẽ trở thành người mẫu độc quyền của họ.
+
+Theo đúng dòng thời gian gốc, Show siêu mẫu của Trump Media phải đến năm 2004 mới ra mắt và tạo được sức ảnh hưởng lớn trên toàn cầu. Ý tưởng này giờ đây đã sớm hơn lộ trình ban đầu hơn một năm. Đủ thấy sức ảnh hưởng của Lý Mục đã can thiệp vào tiến trình phát triển tự nhiên của xã hội Mỹ.
+
+Lý Mục cũng lo lắng: Nhỡ đâu có công ty Internet nào của Mỹ được truyền cảm hứng từ cuộc thi này mà phát triển ra một sản phẩm tương tự Facebook sớm hơn thì sao? Một sản phẩm như Facebook khởi đầu thì đơn giản, nhưng để đi được đường dài thì cực khó. Chỉ khi được đẩy đến mức cực hạn, nó mới là Facebook của Mark Zuckerberg. Còn nếu làm không tới, nó sẽ giống như "mạng nội bộ trường học" của Hoa Hạ trong lịch sử Internet, trực tiếp bóp chết ý tưởng sản phẩm này.
+
+Sau một lát suy nghĩ, Lý Mục thấy mình không thể tiếp tục ngồi ôm tên miền Facebook để chờ Mark nữa. Nếu không, dù có đợi được cậu ta thì nhỡ trên thị trường đã có sản phẩm tương tự, tương lai của Facebook sẽ trở nên khó đoán định. Dựa trên tình hình này, anh thấy cần phải đến Harvard gặp Mark Zuckerberg sớm. Nếu có thể dẫn dắt cậu ta khởi nghiệp trước thời hạn, anh sẽ trực tiếp rót vốn để cậu ta phát triển tốt hơn.
+
+Vì vậy, Lý Mục đổi giọng, hỏi Lâm Thanh Nhã: "Dẫu sao thì Harvard cũng là đại học số một thế giới. Tôi cứ từ chối họ thẳng thừng như vậy liệu có khiếm nhã quá không?"
+Lâm Thanh Nhã đáp: "Chẳng phải anh đang từ chối một cách lịch sự sao? Em tin Harvard sẽ hiểu thôi."
+Lý Mục khẽ thở dài: "Tôi suy nghĩ lại rồi. Ai tôi cũng có thể từ chối nhưng với Harvard thì không nên. Tôi phải thể hiện sự tôn trọng với ngôi trường này. Hơn nữa, tôi cũng vẫn đang là một sinh viên mà."
+
+Lâm Thanh Nhã ngạc nhiên nhìn anh: "Vậy là anh đổi ý, đồng ý với họ rồi ạ?"
+Lý Mục gật đầu: "Hãy sắp xếp đi. Dành ra hai ngày tuần sau để tới Harvard."
+Lâm Thanh Nhã vâng lời: "Được ạ, em sẽ liên lạc để chốt thời gian cụ thể."
+
+...
+
+Mark Zuckerberg, người đang túc trực bên máy fax, nằm mơ cũng không ngờ mình lại nhận được hồi âm từ Mục Dã Công Nghệ chỉ sau chưa đầy một giờ đồng hồ. Nội dung bản fax khiến Mark vỡ òa trong sung sướng. Trong đó, Lâm Thanh Nhã đại diện cho Lý Mục xác nhận đồng ý lời mời của Harvard và sẽ có mặt tại trường vào sáng thứ Tư tuần sau để thực hiện buổi diễn thuyết.
+
+Phấn khích tột độ, Mark lập tức đem bản fax tới nộp cho nhà trường. Đây là lần đầu tiên anh thử chiêu "tay không bắt giặc" mà không ngờ lại thành công rực rỡ đến thế. Phía Harvard dĩ nhiên cũng rất hào hứng trước kết quả này. Họ lập tức bắt tay vào điều phối hội trường cho sáng thứ Tư – buổi diễn thuyết được sắp xếp tại thính phòng lớn nhất của Harvard – và ngay lập tức công bố tin mừng cho toàn trường.
+
+Tin Lý Mục sắp tới Harvard diễn thuyết nhanh chóng lan truyền khắp khuôn viên trường, thậm chí cả giới truyền thông Mỹ cũng xôn xao. Việc Harvard mời một Lý Mục trẻ tuổi tới diễn thuyết đủ để chứng minh mức độ công nhận của ngôi trường danh giá này dành cho anh. Điều này khiến báo chí Mỹ ngỡ ngàng, bởi trong mắt họ, những người được mời diễn thuyết tại Harvard thường là cựu sinh viên thành đạt, lãnh đạo chính phủ hoặc các ông trùm kinh doanh lão luyện. Lý Mục là người trẻ tuổi đầu tiên nhận được vinh dự này.
+
+Một cách vô thức, Lý Mục đã phá vỡ vài kỷ lục: Anh là người trẻ tuổi nhất được mời diễn thuyết tại Harvard kể từ khi thành lập trường. Đồng thời, anh cũng là người mang quốc tịch Hoa Hạ (không phải người gốc Hoa ở nước ngoài) đầu tiên có được vinh dự này.
+
+Tin tức này không chỉ gây sốc tại Mỹ mà còn chấn động cả giới truyền thông Hoa Hạ. Đài truyền hình quốc gia CCTV ngay lập tức đưa tin đậm nét, mô tả chi tiết ngưỡng cửa để được mời diễn thuyết tại Harvard cao đến nhường nào, đồng thời nhấn mạnh việc Lý Mục đã lập nên nhiều "cái đầu tiên" trong lịch sử ngôi trường này. Cộng đồng mạng Trung Quốc như được "kích nổ" bởi tin vui. Họ không chỉ bàn tán xôn xao mà còn nâng tầm Lý Mục lên hàng anh hùng dân tộc. Hàng loạt tờ báo trong nước cũng theo đó đưa tin dồn dập, tạo nên một cơn sóng tự hào lan tỏa khắp đất nước...
+
+
+Chương 1047
+
+Trong khi các nhà đầu tư mạo hiểm ở Thung lũng Silicon đang mòn mỏi chờ đợi một cuộc gặp với Lý Mục, thì anh lại chủ động hẹn gặp Larry Page – người sáng lập Google, người tình cờ cũng đang có mặt tại Silicon Valley vào lúc này.
+
+Trong mắt Lý Mục, đóng góp của Larry Page cho thế giới còn lớn lao và sâu sắc hơn cả Steve Jobs. Dù Jobs đã tạo ra nhiều sản phẩm tuyệt mỹ, nhưng chính Larry Page mới là người thực sự thay đổi cả thế giới. Công cụ tìm kiếm đã đóng góp vĩ đại cho Internet, giúp nâng cao hiệu suất tìm kiếm thông tin của con người, từ đó cải thiện gần như toàn bộ hiệu quả sử dụng máy tính. Từ hiệu quả học tập, làm việc cho đến cả giải trí đều được nâng tầm. Giống như cách Baidu hòa quyện vào cuộc sống của cư dân mạng Hoa Hạ sau này, Google đã len lỏi vào từng hơi thở của cư dân mạng toàn cầu.
+
+Google là một công ty tôn sùng công nghệ, điều này gắn liền với chính bản thân Larry Page. Người dùng bình thường có thể không thấu hết sự vĩ đại của Google, nhưng với tư cách là một lập trình viên, Lý Mục hiểu Google rõ hơn ai hết. Sự tích lũy khổng lồ về công nghệ và bằng sáng chế khiến Google trở thành công ty Internet quyền lực nhất hành tinh, với những ứng dụng sâu rộng vượt xa tầm mắt của người dùng phổ thông. Thế nhưng, giá trị vốn hóa thị trường của Google lúc này vẫn chưa cao bằng Mục Dã Công Nghệ.
+
+Lý Mục ngưỡng mộ Larry Page, và ngược lại, Larry Page cũng rất nể trọng Lý Mục. Kể từ khi thành lập Google, Page đã dành nhiều năm để tạo ra những đổi mới có tầm ảnh hưởng sâu rộng, nhưng xét về khả năng thương mại hóa, anh vẫn thấy mình kém Mục Dã vài bậc.
+
+Lý Mục tới nhà hàng đã hẹn trước khoảng mười phút. Sau đó, Larry Page – lúc này mới 29 tuổi – xuất hiện. Đây là lần đầu họ gặp mặt. Lý Mục có chút hồi hộp, nhưng anh vốn giỏi giữ vẻ điềm tĩnh trên khuôn mặt. Ngược lại, biểu cảm của Larry Page lại lộ ra đôi chút căng thẳng. Đối mặt với Lý Mục, Page thực sự cảm thấy thiếu tự tin. Anh hơn Lý Mục gần mười tuổi, nhưng giá trị tài sản và công ty của Lý Mục lại cao hơn anh rất nhiều. Định giá của Google hiện nay chỉ khoảng 10 tỷ USD, trong khi Mục Dã Công Nghệ ít nhất là 20 tỷ USD. Đó là chưa kể Lý Mục còn sở hữu Mục Dã Games với siêu phẩm "Thành Phố Thiên Đường", và một trang web thương mại điện tử Taobao đang thống trị Hoa Hạ, sánh ngang với Amazon. Nếu tính toán một cách hệ thống, Lý Mục hoàn toàn có thể đứng chễm chệ trên đỉnh bảng xếp hạng những người giàu nhất thế giới.
+
+Larry Page không hiểu vì sao Lý Mục lại chủ động hẹn gặp mình. Trong thâm tâm, anh nghĩ mình không giàu bằng Lý Mục nên dĩ nhiên chẳng dám mơ rằng đối phương lại "hâm mộ" mình. Sau khi chào hỏi và bắt tay, hai người ngồi đối diện nhau. Lý Mục chân thành nói: "Anh Page, với tư cách là một fan hâm mộ của Google, tôi đã mong được gặp anh từ lâu lắm rồi. Thật vinh dự khi cuối cùng cũng có cơ hội gặp anh hôm nay."
+
+Larry Page không ngờ Lý Mục lại lịch thiệp đến thế, anh vội đáp: "Anh quá khen rồi, anh Lý. Ngược lại thì tôi mới là fan của Mục Dã Công Nghệ đây. YY là một sản phẩm xuất sắc, tôi dùng nó mỗi ngày. Nó giúp nâng cao hiệu suất làm việc của tôi rất nhiều và tiết kiệm khối thời gian. Đây chắc chắn là phần mềm hỗ trợ văn phòng tốt nhất mà tôi từng dùng. Thực sự rất kinh ngạc."
+Lý Mục cười khổ: "Anh Page, chắc anh cũng nhận ra bản chất của YY không phải là phần mềm văn phòng chứ..."
+Larry Page vội xin lỗi: "Tôi xin lỗi, thực lòng xin lỗi vì đã nhầm lẫn." Anh nói tiếp: "Bản thân YY đúng là một phần mềm giao tiếp xã hội hoàn hảo đến mức khó tin. Thành thật mà nói, khi lần đầu thấy YY, tôi luôn hoài nghi liệu nó có thực sự là sản phẩm của thời đại chúng ta đang sống hay không."
+
+Lý Mục giật mình, không nhịn được mà hỏi: "Tại sao anh lại nói vậy?"
+Larry Page nghiêm túc giải thích: "Theo tôi, YY hoàn hảo đến mức không tưởng ở mọi phương diện. Nó gần như không tuân theo bất kỳ quy tắc nào của các sản phẩm Internet thời đại này. Chỉ riêng ngôn ngữ thiết kế hình ảnh thôi đã vượt xa mọi sản phẩm hiện có. Trải nghiệm tương tác cũng cho thấy sự thân thiện chưa từng có, điều mà các sản phẩm khác không thể so bì. Quan trọng nhất là các chức năng cực kỳ tinh tế của YY cho thấy người sáng lập thấu hiểu sâu sắc nhu cầu người dùng. Tóm lại, sản phẩm này thực sự đã vượt xa thời đại."
+
+Page nhìn Lý Mục, nửa đùa nửa thật bồi thêm: "Có thể phát triển được một sản phẩm hoàn hảo thế này chứng tỏ tư duy của anh cũng vượt xa thời đại. Nếu không có anh và Mục Dã, có lẽ ngành Internet phải mất hơn 5 năm nữa mới đạt đến trình độ này."
+
+Đánh giá của Larry Page khiến Lý Mục cảm thấy lạnh sống lưng, một sự lo lắng không thể diễn tả bằng lời. Một mặt, anh không ngờ Page lại đánh giá cao sản phẩm của mình đến vậy; mặt khác, anh cũng không ngờ Page lại đưa ra một nhận định nghe có vẻ cường điệu nhưng thực tế lại sát sườn với sự thật đến thế. Thú thực, trong quá trình theo đuổi sự hoàn thiện cho sản phẩm, Lý Mục không quá để tâm đến vấn đề "khung thời gian". Nhưng sau lời nhắc nhở gián tiếp của Page, anh cuối cùng cũng nhận thức rõ về khái niệm này.
+
+"Khung thời gian", nói một cách đơn giản, là những gì mà thời đại đó vốn dĩ nên có. Nếu có thứ gì vượt qua cái khung đó, nó sẽ ngay lập tức nổi bật hẳn lên. YY hiện tại đúng là đi trước thời đại. Nó sử dụng ngôn ngữ thiết kế, phương thức tương tác và chức năng mà Tencent phải mất nhiều năm với vô số phiên bản nghiên cứu mới đúc kết được. Mọi khía cạnh đều phản ánh sự thấu hiểu sâu sắc người dùng. Người dùng bình thường chỉ thấy phần mềm quá dễ dùng, nhưng với một "lão đại" trong ngành như Larry Page, cảm giác đó nảy sinh là chuyện dễ hiểu.
+
+Giống như việc mang một chiếc Mercedes S-Class đời 2016, xóa bỏ hết thông tin thương hiệu rồi đưa về cho các kỹ sư ô tô năm 2002 nghiên cứu vậy. Họ chắc chắn sẽ bị sốc bởi ngôn ngữ thiết kế hoàn toàn khác biệt từ hốc gió, thân xe cho đến đường gân nổi. Kỹ sư gầm bệ sẽ thấy hệ thống treo phức tạp hơn hẳn tầm hiểu biết của họ. Kỹ sư động cơ sẽ kinh ngạc khi thấy khối động cơ 3.0L lại có công suất tới gần 400 mã lực, trong khi động cơ 3.2L của họ chỉ có vỏn vẹn 220 mã lực. Kỹ sư hộp số sẽ bàng hoàng khi hộp số tự động tốt nhất họ làm được chỉ có 5 cấp và chuyển số chậm chạp, trong khi chiếc xe này có tới 7 cấp và chuyển số cực kỳ mượt mà, nhanh chóng.
+
+YY chính là một sản phẩm như vậy. Nó không chỉ khiến người trong ngành cảm thấy tuyệt vọng mà còn khiến những chuyên gia đỉnh cao như Larry Page phải ngỡ ngàng. Lý Mục thậm chí còn nghi ngờ có ai đó sẽ bắt đầu giả định rằng anh là một người du hành thời gian tới từ tương lai hay không.
+
+Đang lúc Lý Mục căng thẳng, Larry Page thấy anh im lặng liền lên tiếng: "Theo tôi, chính vì YY có nhiều cải tiến mang tính kỷ nguyên như vậy nên nó đã trở thành một sản phẩm mang tính thời đại. Giống như chiếc máy ảnh màu đầu tiên làm cả thế giới kinh ngạc, hay giống như khi Penicillin lần đầu được phát hiện mang lại hiệu quả thần kỳ cho nhân loại. YY cũng khiến tôi kinh ngạc và truyền cảm hứng cho tôi, giúp tôi nhận ra rằng sản phẩm có thể được tạo ra theo cách này."
+
+Lý Mục thở phào nhẹ nhõm. Khi Page nghĩ về YY, anh ta đã tự động loại bỏ khả năng nó đến từ tương lai. Sự so sánh của Page khiến Lý Mục thấy thoải mái hơn nhiều. Trước khi anh trọng sinh, thế giới cũng từng xuất hiện nhiều sản phẩm mang tính bước ngoặt, nhưng dù chúng có mạnh mẽ đến đâu, người ta cũng chỉ khen ngợi và mô phỏng chứ chẳng ai nghi ngờ chúng đến từ tương lai cả. Có lẽ trong mắt các chuyên gia, YY giống như chiếc máy ảnh màu đầu tiên vậy, nó lật đổ thế giới ảnh đen trắng và khiến họ sốc nặng, nhưng họ sẽ chỉ tập trung nghiên cứu sản phẩm để đuổi kịp mà thôi.
+
+Sau khi thả lỏng, Lý Mục nói với Page: "Thực ra trong mắt tôi, Google cũng là một sản phẩm mang tính kỷ nguyên. Sự xuất hiện của nó đã mang lại thay đổi to lớn cho cả thế giới Internet. Giống như việc trao cho mỗi người dùng một chiếc kính thiên văn Hubble dành riêng cho thế giới mạng, giúp ai cũng có thể tìm thấy thứ mình cần và khám phá mọi điều mình muốn." Nói đoạn, anh hỏi Page: "Anh Page, tôi rất tò mò, điều gì đã thôi thúc anh tạo ra Google vậy?"
+
+Larry Page mỉm cười hơi ngại ngùng đáp: "Hồi tôi 22 tuổi, khi còn là nghiên cứu sinh tại Stanford, tôi rất đam mê Internet. Lúc đó mạng vẫn còn ở thời kỳ sơ khai, mọi thứ rất lộn xộn, chẳng có trật tự gì cả. Người ta cứ mạnh ai nấy làm, tạo ra những trang web rời rạc. Nó giống như thời đại trước khi thư viện ra đời vậy. Nhiều tác giả viết sách nhưng chẳng có thư viện nào gom chúng lại. Không có thư viện, độc giả tìm sách cực kỳ khó khăn. Thế là tôi nảy ra ý tưởng: Liệu có thể xây dựng một 'thư viện' trên Internet không? Giống như cách thư viện thu thập mọi tác phẩm rồi xây dựng danh mục mục lục, tôi có thể tải toàn bộ thông tin trên mạng về, tra cứu từng trang để tạo ra một danh mục khổng lồ. Như vậy nếu người dùng muốn đọc gì, họ chỉ cần tra mục lục 'thư viện' của tôi là mọi tác phẩm liên quan sẽ hiện ra."
+
+Lý Mục vờ kinh ngạc: "Ý tưởng về Google hóa ra thực sự bắt nguồn từ một thư viện sao?"
+Larry Page gật đầu: "Đúng vậy. Cách giải thích hợp lý nhất cho công cụ tìm kiếm chính là 'thư viện + mục lục sách'. Chương trình của Google sẽ liên tục thu thập mọi thông tin trên mạng để biến mình thành thư viện lớn nhất và toàn diện nhất thế giới."
+
+Nghe Page dùng phép ẩn dụ đó, Lý Mục chợt nhớ tới Google Books trong tương lai – thư viện trực tuyến siêu cấp với hơn 20 triệu cuốn sách điện tử. Nhưng theo trí nhớ của anh, Google Books ra đời muộn hơn một chút. Vì vậy Lý Mục hỏi: "Anh Page, nếu anh coi ý tưởng ban đầu của Google giống một thư viện như thế, anh đã bao giờ nghĩ tới việc làm một thư viện trực tuyến thực thụ, số hóa càng nhiều sách giấy càng tốt rồi đưa lên mạng cho mọi người đọc chưa?"
+
+
+Chương 1048
+
+Niềm đam mê lớn nhất cuộc đời Larry Page chính là nỗ lực số hóa mọi thứ trong thế giới thực. Anh được truyền cảm hứng từ mô hình thư viện ở trường đại học và đã tạo ra công cụ tìm kiếm Google. Sau khi thành lập Google, anh đã đầu tư hơn 400 triệu USD và mất mười năm để số hóa hơn 20 triệu cuốn sách vật lý trên thế giới, từ đó Google Books ra đời.
+
+Ngoài ra, từ thế kỷ trước, anh đã thử dùng máy ảnh di động để chụp hình khi đang lái xe. Theo phương pháp của anh lúc đó, cứ sau 100 mét anh sẽ dừng lại chụp vài tấm ảnh rồi gửi vào máy tính. Từ đó anh nảy ra ý tưởng số hóa chế độ xem phố (street view) toàn cầu và đưa lên mạng cho người dùng duyệt. Vài năm sau, Google Street View (Chế độ xem phố) ra mắt. Thông qua vô số chiếc xe chuyên dụng, mọi người có thể thưởng ngoạn phong cảnh của hàng chục quốc gia, hàng ngàn thành phố và hàng triệu con phố trên Internet mà không cần rời khỏi nhà. Tiếp đó, anh sử dụng công nghệ chụp ảnh vệ tinh và hàng không tiên tiến để chụp "bức ảnh" 360 độ về trái đất, và Google Earth ra đời.
+
+Hiện tại, Larry Page đang thực hiện nỗ lực số hóa quy mô lớn đầu tiên của mình: Google Books. Anh từng nghĩ rằng trên đời này sẽ không có ai có cùng ý tưởng điên rồ như mình là số hóa toàn bộ sách trên thế giới rồi đưa lên mạng. Thế nhưng, anh không ngờ rằng Lý Mục chỉ bằng vài phép ẩn dụ đã đưa ra mô hình này như một gợi ý cho chính mình. Điều này khiến Larry Page vừa có chút lo lắng lại vừa thấy bối rối.
+
+Anh lo lắng vì sợ Lý Mục cũng hứng thú với mô hình này. Google hiện đang làm việc đó nhưng chưa có ưu thế vượt trội so với Mục Dã Công Nghệ, mọi thứ cũng mới chỉ bắt đầu. Nếu Mục Dã cũng nhảy vào, họ sẽ rất dễ dàng đuổi kịp. Anh bối rối vì không biết trả lời Lý Mục thế nào. Một mặt anh không muốn tiết lộ rằng Google thực sự đang làm việc này; mặt khác nếu không nói ra, sau này khi ra mắt Google Books, Lý Mục chắc chắn sẽ nghĩ anh lấy cảm hứng từ gợi ý của mình, việc đó thật sự rất ngượng ngùng. Một người nghiêm túc như Larry Page vốn rất coi trọng nguồn gốc của các ý tưởng. Anh không muốn dự án tâm huyết của mình bị hiểu lầm là đạo nhái ý tưởng của người khác.
+
+Sau khi cân nhắc kỹ lưỡng, Larry Page quyết định nói thật với Lý Mục: "Anh Lý, tôi sẽ tiết lộ cho anh một bí mật. Dự án Google Books thực sự đã được triển khai rồi. Mục tiêu của chúng tôi là đưa toàn bộ sách trong đời thực lên không gian Internet."
+
+Lý Mục vờ như ngạc nhiên thốt lên: "Đó quả là một khối lượng công việc khổng lồ!"
+Larry Page gật đầu, mỉm cười: "Dù có khổng lồ đến đâu cũng không sao. Đây là một trong số ít những giấc mơ của đời tôi. Ngay cả khi phải từ bỏ mọi thứ, tôi cũng sẽ hoàn thành nó." Anh cố tình nói một cách kiên định như vậy vì hy vọng Lý Mục sẽ không nhòm ngó tới dự án này nữa. Khi biết anh đang dốc toàn lực cho nó, có lẽ đối phương sẽ lùi bước.
+
+Lý Mục mỉm cười thản nhiên: "Đó là một giấc mơ vĩ đại. Tôi tin anh có thể biến nó thành hiện thực."
+Larry Page thở phào nhẹ nhõm, cười đáp lại: "Mục Dã Công Nghệ cũng rất tuyệt vời. Tôi nghĩ YY có cơ hội trở thành sản phẩm cốt lõi cho việc giao tiếp của nhân loại trong thế giới mạng tương lai. Loại hình giao tiếp này có thể xuyên biên giới. Nếu YY phát triển tốt, nó thậm chí có thể gánh vác việc liên lạc trực tuyến của toàn nhân loại."
+
+Lý Mục khiêm tốn: "Anh Page, mục tiêu gánh vác cả nhân loại thì quá tham vọng rồi. Hiện tại tôi chỉ muốn làm tốt thị trường Mỹ mà thôi."
+Larry Page nhình Lý Mục: "Anh Lý, các sản phẩm Internet vốn là những sản phẩm ít bị hạn chế về mặt địa lý nhất. Khi Google được thành lập, tôi cũng không ngờ nó có thể đạt đến giai đoạn như hôm nay, thậm chí còn không dám mơ tới nữa là. Giờ đây Google đã trở thành công cụ trực tuyến tất yếu của mọi người trên toàn thế giới. Sản phẩm tốt thì không có biên giới. Chỉ cần sản phẩm được tung ra, nó chắc chắn sẽ chinh phục được nhiều người dùng hơn. Nguyên tắc này cũng áp dụng cho YY vậy." Page khẳng định: "Theo tôi, YY chỉ còn cách việc bùng nổ toàn cầu đúng một bước chân nữa thôi."
+
+Lý Mục tò mò: "Bước chân đó là gì?"
+Larry Page dứt khoát: "Gọi vốn! Những công ty bình thường dùng thời gian để đổi lấy tiền bạc, còn những công ty vĩ đại dùng tiền bạc để đổi lấy thời gian. Thứ YY cần lúc này là phát triển thần tốc. Sau khi gọi vốn thành công, các anh có thể lập tức tiến ra thị trường toàn cầu."
+
+Lý Mục gật đầu: "Việc gọi vốn thực tế đang được tiến hành, nhưng Mục Dã Công Nghệ không quá vội vàng."
+Larry Page hỏi: "Anh đã có ý định thiên về cái tên nào chưa?"
+Lý Mục cười: "Về lý thuyết, dĩ nhiên chúng tôi sẽ nghiêng về phía ai chịu chi nhiều tiền hơn rồi."
+Larry Page đề nghị: "Để tôi giới thiệu cho anh một công ty đầu tư mạo hiểm nhé."
+Lý Mục hỏi lại: "Anh Page định giới thiệu Sequoia cho tôi sao?"
+
+Biểu cảm của Larry Page có chút không tự nhiên, anh nói: "Vòng gọi vốn quan trọng nhất của Google là do Sequoia dẫn đầu. Dựa trên sự hợp tác lâu dài của chúng tôi, tôi nghĩ Sequoia chắc chắn là nhà đầu tư mạo hiểm tốt nhất trong ngành này."
+Lý Mục đáp: "Sequoia rất tốt, nhưng với Mục Dã Công Nghệ, quan trọng nhất vẫn là ai chi đậm hơn thôi."
+Larry Page thuyết phục thêm: "Sequoia có các mối quan hệ trên thị trường vốn rất mạnh. Nếu sau này các anh lên sàn, Sequoia sẽ đóng vai trò cực kỳ lớn. Họ cũng đang lên kế hoạch cho Google lên sàn chứng khoán. Một khi đã lên sàn, không gian phát triển của công ty sẽ rộng mở hơn nhiều."
+
+Lý Mục nghe xong liền cười hỏi: "Anh Page, có phải hôm nay anh đang nói giúp cho Sequoia không?"
+Bị Lý Mục "bắt bài", Larry Page hơi ngượng. Anh gãi đầu cười xòa: "Khi vị CEO của Sequoia nghe tin tôi sắp gặp anh, ông ấy đã cố ý dặn tôi tìm cách thuyết phục anh đấy."
+"Thuyết phục tôi?" Lý Mục tò mò: "Thuyết phục điều gì? Thuyết phục tôi chấp nhận cái mức giá 16,5 tỷ USD đó sao?"
+
+Larry Page vội đính chính: "Dĩ nhiên là không rồi. Con số 16,5 tỷ đó là do họ chưa hiểu rõ giá trị thực tế của Mục Dã Công Nghệ. Hiện tại họ đã đặt ra một mức giá mới, và đó là một mức giá cực kỳ chân thành. Tuy nhiên, họ không có cơ hội được ngồi lại nói chuyện tử tế với anh, nên họ hy vọng tôi có thể chuyển lời rằng họ thực sự muốn gặp để đàm phán trực tiếp."
+
+
+Chương 1049
+
+Lý Mục hoàn toàn không có ý định nể mặt Sequoia. Một khi "cửa sổ" gọi vốn đã đóng lại, việc mở lại nó không phụ thuộc vào các nhà đầu tư mà phụ thuộc vào chính bản thân Lý Mục. "Các ông đã từ chối tôi ở hiệp đầu, thì giờ nếu muốn tìm tôi lần nữa, các ông phải xem sắc mặt của tôi." Anh chẳng lo Sequoia sẽ thù hằn mình vì chuyện này, bởi trong mắt những kẻ cầm tiền, lợi ích mới là điều tối thượng.
+
+Thực tế, ngay từ buổi đàm phán đầu tiên với Sequoia, Lý Mục đã giăng sẵn một cái bẫy. Anh thừa hiểu họ sẽ không chấp nhận mức giá đó ngay, nhưng anh vẫn khăng khăng giữ nguyên đề nghị và đặt mình ở vị thế rất cao. Điều anh thực sự muốn chính là để Sequoia từ chối mình. Nếu bị từ chối, anh sẽ nắm giữ thế chủ động trong tương lai. Ngược lại, nếu Sequoia đồng ý ngay từ đầu thì có khi chính Lý Mục mới là người thẫn thờ. May mắn thay, Sequoia vốn có niềm kiêu hãnh riêng, họ đã diễn đúng theo kịch bản của Lý Mục. Thêm vào đó, sức nóng bất ngờ của cuộc thi hoa khôi học đường đã tạo nên nền tảng vững chắc, đưa mọi quyền chủ động vào tay anh.
+
+Larry Page đúng là đã nhận nhiệm vụ thuyết phục Lý Mục. CEO của Sequoia hy vọng Page có thể tác động từ bên lề để anh sớm tái khởi động đàm phán. Tuy nhiên, kết quả thật phũ phàng. Lý Mục từ chối một cách dứt khoát, không hề thay đổi thái độ chút nào dù là vì nể mặt Page. Anh thậm chí còn chẳng nói một lời xã giao khách sáo nào hứa sẽ cân nhắc lại.
+
+Nội bộ Sequoia đã tổ chức thảo luận để dự đoán thời điểm Lý Mục sẽ mở lại cửa sổ gọi vốn cho Mục Dã Công Nghệ. Đa số tin rằng Lý Mục sẽ thừa thắng xông lên với sức nóng của cuộc thi hoa khôi, khả năng cao là anh sẽ mở đàm phán vào giai đoạn chung kết của cuộc thi – lúc mà sự quan tâm của dư luận đạt đến đỉnh điểm. Vị CEO của Sequoia chẳng thể làm gì khác. Suy đoán này hoàn toàn phù hợp với quy luật gọi vốn doanh nghiệp. Gọi vốn cũng giống như chơi cổ phiếu, người nắm giữ luôn muốn bán ra ở thời điểm giá cao nhất. Với tư cách là cổ đông lớn nhất, chắc chắn Lý Mục cũng có ý đồ như vậy.
+
+Vị CEO cảm thấy áp lực đè nặng khi nghĩ đến việc một thương vụ lẽ ra có thể chốt ở mức 17 tỷ USD giờ đây có thể bị đẩy lên hơn 20 tỷ, thậm chí Sequoia có thể trắng tay hụt mất thương vụ này.
+
+Tuy nhiên, "cuộc dạo chơi" của Lý Mục tại Mỹ vẫn chưa dừng lại. Cuộc thi hoa khôi đúng là đã thu hút sự chú ý của toàn nước Mỹ, nhưng nó vẫn có một hạn chế lớn: Những người tham gia trực tiếp và hưởng lợi từ giải thưởng chỉ giới hạn trong nhóm nữ sinh đại học – tổng cộng chỉ có vài triệu người. Bất kể có bao nhiêu người khác quan tâm thì họ cũng chỉ đóng vai trò "khán giả" đi kèm. Có thể có hàng trăm triệu người theo dõi, nhưng chỉ một phần nhỏ thực sự bỏ thời gian và tâm sức tham gia sâu vào hoạt động.
+
+Vì vậy, làm thế nào để hàng trăm triệu người Mỹ khác cũng tham gia và được hưởng lợi từ "Thành Phố Thiên Đường" (Paradise Town) chính là kế hoạch thứ hai của Lý Mục. Do đó, vào ngày thứ hai sau khi gặp Larry Page, trang chủ của Paradise Town lại tung ra một thông báo chấn động: "Paradise Town – Cuộc thi Toàn cầu Ngày Lễ Tạ Ơn" chính thức được phát động.
+
+Sự kiện này hướng tới tất cả người dùng Paradise Town trên toàn thế giới. Dĩ nhiên, vì người dùng Trung Quốc chơi "Nông Trại Vui Vẻ" (Happy Farm) thay vì bản quốc tế "Paradise Town" nên họ không nằm trong phạm vi hoạt động này. Trọng tâm của cuộc thi nằm ở thị trường Mỹ. Đối với thị trường nội địa, Lý Mục đã bàn bạc với đội ngũ vận hành Happy Farm: Vì hai bản game hiện chưa liên thông dữ liệu nên họ sẽ không dùng các lễ hội phương Tây cho người dùng trong nước. Thay vào đó, họ sẽ tổ chức các hoạt động quy mô tương ứng vào các dịp lễ truyền thống như Tết Nguyên Đán, Tết Đoan Ngọ hay Tết Trung Thu.
+
+Trong chiến lược của Lý Mục, "Cuộc thi Toàn cầu Ngày Lễ Tạ Ơn" là mảnh ghép bù đắp hoàn hảo cho cuộc thi hoa khôi. Nếu cuộc thi trước chỉ dành cho nữ sinh thì cuộc thi này mở rộng cơ hội hưởng lợi cho mọi người dân Mỹ. Thể lệ tham gia rất đơn giản: Chỉ cần là người chơi đã đăng ký, bất kỳ ai cũng có thể trực tiếp tham gia cuộc thi thú vị này ngay trong game. Người chơi sẽ nuôi những con gà lôi (turkey) được chỉ định, sản xuất thức ăn và trồng các loại cây trồng theo quy tắc. Bảng xếp hạng toàn cầu sẽ được chốt vào lúc 24 giờ ngày Lễ Tạ Ơn. 10.000 người dẫn đầu sẽ nhận được những giải thưởng hậu hĩnh.
+
+Theo kế hoạch ban đầu, Lý Mục định chỉ trao giải cho top 100. Nhưng nhờ sức nóng từ cuộc thi hoa khôi đang tăng vọt, anh đã quyết định tạm thời nâng mức giải thưởng lên một tầm cao mới:
+- Giải Nhất: Tăng từ 100.000 USD lên thẳng 1.000.000 USD.
+- Giải Nhì: 500.000 USD.
+- Giải Ba: 300.000 USD.
+- Giải Tư đến Giải Sáu: 100.000 USD.
+- Giải Bảy đến Giải Mười: 50.000 USD.
+- Giải 11 đến 20: 10.000 USD.
+- Giải 21 đến 50: 5.000 USD.
+- Giải 51 đến 100: 3.000 USD.
+- Giải 101 đến 10.000: Mỗi người 1.000 USD.
+
+Việc nới rộng phạm vi nhận thưởng từ top 100 lên top 10.000 nhằm mở rộng hơn nữa sức ảnh hưởng, khiến mọi người chơi tiềm năng đều thấy mình có cơ hội "ẵm giải". Tính toán của Lý Mục rất đơn giản: Tổng giải thưởng hàng chục triệu đô nghe thì đáng sợ, nhưng đó cũng là "chi phí hứa hẹn". Nếu cuộc thi thu hút được lượng lớn người dùng cho Paradise Town thì đây là một thương vụ cực hời. Hơn nữa, tỷ lệ người chơi Mỹ chịu "móc hầu bao" trong game là rất cao. Khi cuộc thi nổ ra, chắc chắn họ sẽ nạp tiền để đua top. Có khi số tiền thu về từ người chơi trước ngày Lễ Tạ Ơn đã đủ bù đắp toàn bộ chi phí giải thưởng rồi.
+
+Mục tiêu chính của Lý Mục là khơi dậy nhiệt huyết của mọi cư dân mạng Mỹ thông qua sự kiện này, biến tất cả thành những người hưởng lợi tiềm năng. Quan trọng nhất, nó có thể kết hợp sâu sắc với cuộc thi hoa khôi. Theo luật chơi, để bầu chọn cho hoa khôi, người chơi phải hoàn thành các nhiệm vụ trong game để nhận "Phiếu cư dân". Giờ đây, thay vì chỉ chơi game để ủng hộ cái đẹp, họ còn có thêm động lực mạnh mẽ là tranh giải thưởng triệu đô cho chính mình. Hai hệ thống động lực này bổ sung cho nhau, tạo nên một sức hút khó cưỡng. Điều này giống như chính sách "phiếu tháng" của Qidian (Khởi Điểm). Nếu phiếu tháng quá khó kiếm, chỉ có fan cuồng mới tìm cách nạp tiền để lấy. Nhưng nếu quy định rằng chỉ cần đọc sách bình thường đạt mức nhất định là có phiếu tháng thì nhiệt huyết bình chọn sẽ tăng vọt.
+
+Lý Mục đang chơi chiêu "nhất tiễn hạ song điêu" (một mũi tên trúng hai đích). Kế hoạch của anh phát huy tác dụng cực nhanh. Trong khi cư dân mạng Mỹ đang ghen tị với các nữ sinh thì cuộc thi Lễ Tạ Ơn xuất hiện như một "cứu cánh". Họ cảm thấy mình cuối cùng cũng được đội ngũ vận hành game để mắt tới. Sự kích thích từ giải thưởng triệu đô khiến các nhóm người dùng bùng nổ. Sau khi cuộc thi ra mắt, lượng người dùng Paradise Town bắt đầu tăng vọt. Số lượng đăng ký tại Mỹ nhanh chóng vượt mốc 50 triệu, trở thành trò chơi trực tuyến có số người đăng ký lớn nhất nước Mỹ, với lượng người chơi online hàng ngày (DAU) đạt hơn 30 triệu.
+
+Mới đây, một báo cáo của Liên Hợp Quốc chỉ ra tổng số cư dân mạng tại Mỹ hiện có khoảng 143 triệu người. Trong đó, website có lượt truy cập hàng ngày lớn nhất là MSN của Microsoft với khoảng 90 triệu lượt. Phần mềm có lượng người dùng hàng ngày lớn nhất cũng là MSN của Microsoft với gần 100 triệu người. Con số 30 triệu DAU của Paradise Town đang tăng trưởng thần tốc, khiến Microsoft không thể ngồi yên. Cơn sốt Paradise Town có thể chỉ ảnh hưởng nhẹ tới các công ty Internet khác, nhưng với Microsoft, đó thực sự là một hồi chuông báo động đỏ.
+
+
+Chương 1050
+
+Kể từ khi đặt chân đến Mỹ, Lý Mục đã tung ra một chuỗi "đòn phối hợp" dồn dập. Kết quả trực tiếp nhất của chuỗi đòn này chính là sự bùng nổ của người dùng "Thành Phố Thiên Đường" (Paradise Town) tại thị trường Mỹ. Dưới sự thúc đẩy từ hai đợt hoạt động với giải thưởng hàng chục triệu đô, Paradise Town như được chắp thêm đôi cánh, tăng trưởng không ngừng nghỉ, khiến toàn bộ bộ phận MSN của Microsoft phải đứng ngồi không yên.
+
+Ở giai đoạn này, MSN có bốn mảng kinh doanh cốt lõi: Cổng thông tin MSN, MSN Network Access, MSN Messenger và MSN Hotmail. Trong đó, MSN Messenger là phần mềm nhắn tin tức thời – đối thủ trực diện của YY. Cổng thông tin và Hộp thư MSN cũng là những mảng quan trọng với hơn 100 triệu người dùng. Tuy nhiên, người lo sợ nhất trước sự trỗi dậy của YY dĩ nhiên là MSN Messenger – sản phẩm có cùng định vị nhưng trình độ phát triển thì lạc hậu hơn YY tới vài thế hệ.
+
+Trong mắt họ, "Thành Phố Thiên Đường" giống như bệ phóng cho "quả bom hạt nhân" mang tên YY. Mỗi khi số lượng người dùng game tăng lên, góc của bệ phóng lại càng hướng về vị trí thẳng đứng. Một khi bệ phóng đạt tới góc 90 độ lý tưởng, Lý Mục sẽ không ngần ngại mà kích hoạt quả bom YY đầy uy lực đó. Mọi người ở Microsoft đều hiểu rất rõ rằng: một khi YY sử dụng "Thành Phố Thiên Đường" để thực hiện màn ra mắt hoàn hảo trước cư dân mạng Mỹ, MSN sẽ phải đối mặt với một thảm họa thực sự.
+
+Dù Microsoft đã âm thầm phát triển phiên bản mới và sao chép nhiều tính năng độc đáo của YY, nhưng họ vẫn thiếu đi sự thấu hiểu sâu sắc về tương lai của Internet như Lý Mục. Ngay cả khi bản mới ra đời, nó vẫn thua xa YY. Điều này cũng dễ hiểu. Giống như khoảng cách giữa các hãng xe nội địa và xe hơi ở các nước phát triển vậy, dù có tham khảo vô số mẫu mã thành công của nước ngoài, xe nội địa vẫn luôn tụt hậu về động cơ, khung gầm hay hộp số. Đó là khoảng cách khách quan về trình độ công nghệ.
+
+Microsoft dù rất mạnh nhưng không phải là một doanh nghiệp vạn năng trong ngành Internet. Ở kiếp trước, MSN luôn là một sản phẩm tệ hại trong mắt Lý Mục, cho thấy Microsoft thực tế không có "gen" làm phần mềm giao tiếp xã hội. Vì thế ngay cả khi muốn bắt chước Lý Mục ở kiếp này, họ cũng không có đủ tố chất để làm điều đó. Đằng sau nhiều tính năng tinh tế của YY là những rào cản bằng sáng chế kỹ thuật riêng của Mục Dã Công Nghệ: Từ việc lưu trữ tin nhắn trên đám mây, gửi file ngoại tuyến, cho đến logic vận hành nhóm chat, công nghệ truyền dẫn đa phương tiện tiên tiến... tất cả đều là những bài toán mà MSN của Microsoft phải giải quyết từng bước một.
+
+Bên cạnh đó, về mặt thẩm mỹ thiết kế và sự thân thiện với người dùng, Microsoft cũng không phải là đối thủ của Mục Dã. Thẩm mỹ yêu cầu một quá trình tích lũy lâu dài để hình thành phong cách riêng, việc bắt chước thô thiển rất khó tạo nên dấu ấn. Điều này cực kỳ rõ ràng trong ngành ô tô. Trong hơn một thập kỷ tiếp theo, dù có bao nhiêu mẫu xe nước ngoài để tham chiếu, các hãng xe nội địa vẫn khó mà tạo ra được những mẫu xe thực sự nguyên bản và đẹp mắt do thiếu đi tư duy thẩm mỹ cốt lõi. Dĩ nhiên không bàn đến "siêu đạo nhái" như Chúng Thái (Zotye), nhưng một tập đoàn lớn như Microsoft dĩ nhiên không thể làm chuyện trắng trợn như thế.
+
+Chính vì vậy, phiên bản MSN mới đang được phát triển nội bộ vẫn lạc hậu hơn YY cả một thời đại về thiết kế. Hiện tại bản mới này vẫn chưa hoàn thiện, nhiều tính năng then chốt vẫn chưa tìm được giải pháp hiệu quả. Theo kế hoạch, sản phẩm phải mất ít nhất hai tháng nữa mới có thể thử nghiệm rồi mới ra mắt công chúng.
+
+Tuy nhiên, Luis May – người đứng đầu bộ phận MSN và là một trong những Phó chủ tịch tập đoàn Microsoft – không thể chờ đợi thêm được nữa. Một khi "Thành Phố Thiên Đường" bắt đầu dẫn lưu lượng người dùng sang YY, kẻ đầu tiên bị khai tử sẽ là MSN Messenger. Có thể dự đoán rằng khi đó, hầu như toàn bộ người chơi game sẽ lập tức từ bỏ MSN để chuyển sang dùng YY. Thêm vào đó là MSN Hotmail, bản thân YY đã tích hợp sẵn chức năng hộp thư với trải nghiệm tốt hơn nhiều. Điều duy nhất khiến họ còn chút an ủi là Cổng thông tin YY vẫn chưa ra bản tiếng Anh, nếu không ngay cả mảng Portal của MSN cũng sẽ bị ảnh hưởng.
+
+Trong mắt đội ngũ MSN, YY chính là kẻ thù số một. Để ngăn chặn YY bất ngờ chiếm lĩnh thị trường Mỹ thông qua Paradise Town, Luis May đã triệu tập một cuộc họp khẩn cấp và quyết định tung ra phiên bản MSN mới sớm nhất có thể. Yêu cầu của Luis May khiến mọi người vô cùng lo lắng. Trưởng nhóm phát triển báo cáo: "Bản mới vẫn đang trong quá trình xây dựng. Việc ra mắt sớm đồng nghĩa với việc phải dừng phát triển ngay lập tức, loại bỏ tất cả các mục chưa hoàn thiện để đóng gói thử nghiệm. Dù có xong phần đóng gói hôm nay thì cũng mất vài ngày để kiểm thử lỗi."
+
+Luis May gặng hỏi: "Mất bao lâu? Cho tôi một con số cụ thể!"
+Trưởng nhóm phát triển nhíu mày suy nghĩ: "Khoảng năm ngày ạ."
+Luis May gật đầu: "Năm ngày thì vẫn chờ được. Các anh hãy triển khai nhanh nhất có thể."
+Vị trưởng nhóm lại lo lắng: "Nhưng còn rất nhiều chức năng chưa xong. Nếu vội vàng ra mắt thì bản mới chẳng cải thiện được bao nhiêu so với bản cũ."
+Luis May hỏi: "Vậy những gì đã làm xong rồi?"
+"Hiện tại mới chỉ xong tính năng phân nhóm bạn bè tùy chỉnh, ghi chú và trò chuyện nhóm. Các yêu cầu khác vẫn chưa được giải quyết."
+
+Luis May kiên quyết: "Không còn lựa chọn nào khác. Chúng ta buộc phải cập nhật sản phẩm trước khi YY chính thức tung đòn tấn công. Tình hình hiện tại không cho phép chúng ta thong thả xây dựng một sản phẩm hoàn hảo để đối đầu với YY. Chúng ta cần làm mọi cách để kháng cự lại sức ảnh hưởng của họ. Cho nên dù hiện tại chỉ có một tính năng mới xong thì cũng phải đưa nó lên mạng ngay. Nếu không, một khi YY xuất chiêu trước, chúng ta sẽ không thể nào chống đỡ nổi."
+
+MSN Messenger hiện tại giống như một pháo đài. Trước khi quân đội của YY chính thức đổ bộ, Microsoft phải làm mọi cách để gia cố pháo đài này. Dù chỉ thêm được vài khẩu súng máy thì cũng phải lắp đặt ngay lập tức. Nếu không, một khi YY đã chiếm được cứ điểm và phá hủy hoàn toàn hầm trú ẩn của Microsoft, việc nâng cấp sau đó sẽ là quá muộn. Đội ngũ vận hành MSN tặc lưỡi: "Với chỉ bấy nhiêu tính năng, chúng ta vẫn quá yếu thế trước YY."
+
+"Yếu cũng phải làm!" Luis May thốt lên: "Chúng ta không còn nhiều thời gian. Lý Mục đầu tư hàng chục triệu đô vào Paradise Town mục đích cuối cùng là để đưa YY tới trước mắt cư dân mạng Mỹ. Chúng ta phải nâng cấp sản phẩm ngay để giữ chân người dùng!". Bà tiếp tục: "Chúng ta sẽ tiến hành theo hai hướng: một là nâng cấp bản hiện có ngay lập tức, hai là tiếp tục phát triển chuyên sâu và đẩy nhanh tốc độ. Phải giống như tiếp tế đạn dược cho tiền tuyến vậy, đừng đợi đủ một kho rồi mới gửi. Phải dùng chiến lược giao hàng thần tốc. Từ giờ, hãy cập nhật phiên bản 1.0 nhanh nhất có thể, sau đó khi có tính năng mới lại cập nhật ngay bản 2.0!"
+
+...
+
+Sau khi phát động "Cuộc thi Toàn cầu Ngày Lễ Tạ Ơn", sự hào hứng của các quỹ đầu tư dành cho Mục Dã Công Nghệ càng tăng cao, đến mức chi nhánh Silicon Valley mỗi ngày phải đón tiếp vô số nhân viên từ các công ty đầu tư mạo hiểm. Tuy nhiên, thái độ của Mục Dã rất hời hợt. Những người này may mắn lắm mới được mời một cốc nước lọc, còn yêu cầu gặp Lý Mục hay Lâm Thanh Nhã đều bị từ chối phũ phàng.
+
+Trong số đó, Sequoia là bên vội vã nhất. Mấy ngày trước họ nghe Larry Page nói rằng Lý Mục sẽ mở lại cửa sổ đàm phán sau khi "bước đi tiếp theo" hoàn thành. Họ đinh ninh cuộc thi Lễ Tạ Ơn chính là bước đi đó nên cuống cuồng tìm mọi cách. Thậm chí Elon Musk cũng bị kéo vào làm người thuyết khách, hy vọng giúp Sequoia đặt được một cuộc hẹn. Tuy nhiên, Lý Mục không nể mặt Musk chút nào, chỉ lạnh lùng đáp rằng cơ hội đàm phán vẫn chưa tới. Điều này khiến Sequoia càng lo sốt vó: Cơ hội chưa tới ư? Chẳng lẽ Lý Mục vẫn còn chiêu bài nào khác phía sau?
+
+Cuối cùng, đường cùng, trụ sở chính Sequoia đã yêu cầu văn phòng Sequoia Hoa Hạ liên hệ trực tiếp với Đinh Chính Lâm – người phụ trách mảng vận hành vốn tại Mục Dã. Đinh Chính Lâm vốn xuất thân từ Sequoia nên có chút thâm tình cũ. Họ hy vọng dù chưa bàn chuyện gọi vốn thì cũng sắp xếp được một buổi gặp mặt xã giao. Thế nhưng Đinh Chính Lâm cũng chẳng màng tới cái thâm tình đó, anh lạnh lùng đáp lại: "Tạm thời không được."
+
+Thái độ của Lý Mục rất rõ ràng: Bất kể các ông nói gì, tôi sẽ không bàn chuyện tiền bạc vào lúc này. Cho dù các ông có lôi cả Tổng thống Mỹ đến cũng vô ích. Bởi vì Lý Mục vẫn còn giữ một quân bài tẩy cuối cùng chưa lật. Anh đã dùng "Thành Phố Thiên Đường" làm bệ phóng, và giờ là lúc để phiên bản YY mới nhất chính thức xuất trận.
+
+
