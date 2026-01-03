@@ -1,0 +1,17 @@
+Chương 168
+
+Để giải quyết vấn đề phân loại tiền chuyển khoản từ hàng ngàn phụ huynh khi chưa có ví điện tử, Lý Mục đã nảy ra một chiêu "khấu trừ ngẫu nhiên" cực kỳ thông minh. Ví dụ đơn hàng 1000 tệ sẽ được yêu cầu chuyển chính xác là 1000.05 tệ hoặc 1000.55 tệ để không bị trùng lặp. 
+
+Khi nghe Lý Mục giải thích logic này, Triệu Tử Thu bỗng cảm thấy một sự thất vọng nhẹ nhàng. Dù điểm thi đại học của cô cao hơn Lý Mục rất nhiều, nhưng qua thời gian tiếp xúc, cô nhận ra mình và cậu ấy đơn giản là không cùng một đẳng cấp. Nhưng sự thất vọng nhanh chóng biến thành niềm tự hào. Người con trai cô thích là một thiên tài vượt xa mọi chuẩn mực, cô chỉ cần đứng bên cạnh ủng hộ cậu là đủ.
+
+Đêm đã khuya, Lý Mục tiễn Tử Thu ra cổng chung cư, bắt taxi đưa cô về tận trường Bắc Đại rồi mới trở lại ký túc xá trường Nhân dân. Các anh em trong phòng 606 vẫn chưa ngủ, cả lũ đang vây quanh máy tính xem phim "Đại Thoại Tây Du". 
+
+Thấy Lý Mục về, Tiết Kiến Phong rủ cậu sáng mai cùng đi Trung Quan Thôn để lắp máy tính mới. Lý Mục cười đồng ý, nhưng dặn sau buổi trưa là phải tập trung cho 3321 vì đây là giờ phút quan trọng nhất. 
+
+Sáng hôm sau, dữ liệu cho thấy toàn bộ 1500 sinh viên đợt đầu đều đã nhận được đơn đặt hàng. Trong đó có tới 70% là vượt mức giá khởi điểm. Cá biệt nhất là Hàn Bác Văn đã được đẩy lên cái giá điên rồ: 380 tệ/giờ! Một "đại gia" giấu mặt nào đó đã sẵn sàng vung tiền để đánh bại mọi đối thủ nhằm giành lấy chàng trạng nguyên này.
+
+Lý Mục không quá quan tâm đến con số kỷ lục đó, thứ cậu quan tâm là tỷ lệ giao dịch thành công. Trong đầu cậu đã bắt đầu phác thảo hình hài của "Alipay" (Vpay). Cậu nhận ra 3321 chính là mảnh đất màu mỡ nhất để nuôi dưỡng một hệ thống thanh toán trực tuyến. Với tệp khách hàng là hàng vạn phụ huynh giàu có và sinh viên tinh hoa, sau này khi cậu triển khai thương mại điện tử (Taobao), Vpay sẽ trở thành vũ khí hủy diệt.
+
+Sáng sớm, Lý Mục cùng Tiết Kiến Phong đi tậu một bộ máy tính cấu hình khủng với ngân sách 6000 tệ. Sau đó cậu vội vã thuê một chiếc xe du lịch để ra sân bay đón Khổng Lệnh Vũ và nhóm nhân viên từ Kim Lăng. 
+
+Đúng 12 giờ trưa, khi xe của đoàn Khổng Lệnh Vũ vừa lăn bánh khỏi sân bay, kết quả cuối cùng của đợt đấu giá cũng hiện ra. Con số trên màn hình khiến tất cả các nhân viên Mục Dã có mặt trên xe đều phải há hốc mồm kinh ngạc. 
