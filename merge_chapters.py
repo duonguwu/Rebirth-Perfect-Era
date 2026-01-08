@@ -5,7 +5,7 @@ def merge_chapters(start, end, output_file):
     """Merge chapter files from start to end into output_file"""
     with open(output_file, 'w', encoding='utf-8') as outfile:
         for chapter_num in range(start, end + 1):
-            input_file = f'truyen_crawl/pov_ngan/phan_{chapter_num}.txt'
+            input_file = f'vn_sub/chapter_{chapter_num}.txt'
             try:
                 with open(input_file, 'r', encoding='utf-8') as infile:
                     outfile.write(infile.read())

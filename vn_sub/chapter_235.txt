@@ -1,0 +1,27 @@
+Chương 235
+
+Sau khi bốn vị giám đốc chi nhánh ngân hàng mà Hồi Gia Minh mời đến đã tề tựu đông đủ, Hồi Gia Minh liền thay mặt Lý Mục đưa ra yêu cầu: họ muốn xây dựng một nền tảng thanh toán trực tuyến để chuẩn bị cho bước tiến tiếp theo của dự án 3321 ra khỏi phạm vi Yến Kinh.
+
+Khái niệm ngân hàng điện tử thực chất đã rục rịch xuất hiện tại Trung Quốc từ cuối những năm 90, nhưng suốt nhiều năm sau đó, nó vẫn giậm chân tại chỗ. Ngoại trừ một nhóm nhỏ những người am hiểu công nghệ, đa phần người dân vẫn cảm thấy xa lạ và đầy nghi ngại với việc chuyển tiền qua mạng. 
+
+Bốn vị giám đốc không khỏi ngạc nhiên trước tham vọng của Lý Mục. Giám đốc chi nhánh ngân hàng Nông nghiệp, Địch Nguyên, thận trọng hỏi: "Lý Mục, liệu có vấn đề kỹ thuật nào phát sinh không? Chẳng hạn nếu tiền đã trừ mà hệ thống 3321 không ghi nhận, khách hàng sẽ khiếu nại lên ngân hàng, điều đó ảnh hưởng rất lớn đến uy tín của chúng tôi."
+
+Lý Mục mỉm cười đầy tự tin: "Em cần thiết lập cổng thanh toán tại tất cả các ngân hàng của các anh. Nhưng với người dùng, bất kể họ dùng thẻ của ngân hàng nào, chỉ cần thông qua Alipay, họ sẽ thấy thông báo giao dịch thành công ngay lập tức. Alipay sẽ chịu trách nhiệm toàn bộ về phản hồi và xử lý khiếu nại. Các anh chỉ cần đảm bảo việc trừ tiền diễn ra thông suốt, còn lại cứ để em lo."
+
+Địch Nguyên gật đầu và tiếp tục hỏi về dòng tiền. Lý Mục thản nhiên quăng ra một "miếng mồi" dâm mị đầy mê hoặc: "Toàn bộ dòng tiền sẽ được ký gửi vào tài khoản của Alipay mở tại chính các chi nhánh của các anh. Chúng em giao phó số tiền này cho các anh quản lý và chấp nhận sự giám sát của Ngân hàng Trung ương."
+
+Hồ Khởi Vân, Giám đốc ICBC, nhanh chóng bắt kịp vấn đề: "Có nghĩa là Alipay sẽ mở tài khoản ở cả bốn ngân hàng và ký gửi tiền tại đó? Và khi người dùng thanh toán qua ngân hàng nào, tiền sẽ chảy trực tiếp vào tài khoản của Alipay tại chính ngân hàng đó?"
+
+"Chính xác là như vậy, thưa Giám đốc Hồ." – Lý Mục nở nụ cười đầy quyền lực. "Hiện tại, 3321 đang có dòng tiền luân chuyển khoảng vài triệu tệ mỗi tuần. Khi chúng em bành trướng ra toàn quốc, con số đó sẽ lên tới hàng chục triệu, thậm chí hàng trăm triệu tệ. Số dư tiền gửi khổng lồ này sẽ luôn nằm trong tài khoản các anh trong một khoảng thời gian nhất định trước khi được giải ngân."
+
+Con số hàng chục triệu tệ tiền gửi mỗi tuần thực sự là một chất kích thích cực mạnh đối với bốn vị giám đốc. Dù họ không phải trực tiếp đi huy động vốn, nhưng chỉ tiêu tiền gửi vẫn là thước đo sống còn cho hiệu quả công việc. Việc mở đèn xanh cho Alipay không chỉ giúp họ có thêm nguồn vốn nhàn rỗi khổng lồ mà còn mang lại danh tiếng khi hợp tác cùng dự án "quốc bảo" 3321. Một thương vụ một vốn bốn lời, dâm mị và đầy hứa hẹn.
+
+Tuy nhiên, Lý Mục đã giấu nhẹm tham vọng thực sự của mình. Cậu khéo léo biến Alipay thành một "phụ phẩm" của 3321 trong mắt các bankers. Nhưng cậu thừa hiểu, chỉ cần nắm giữ được cổng thanh toán, cậu đã nắm được "cuống họng" của toàn bộ thị trường Internet tương lai. Kẻ nào nắm giữ được dòng tiền, kẻ đó sẽ là vua. Nếu sau này Tencent hay Alibaba muốn tham dự vào cuộc chơi, họ sẽ phải đối mặt với một Alipay đã bám rễ sâu chắc vào hệ thống ngân hàng quốc gia.
+
+Bốn vị giám đốc, trong cơn say của những con số và hào quang chính trị, đã đồng ý ký kết thỏa thuận hợp tác ngay trong tuần tới. Nhờ có "uy thế" của Hồi Gia Minh, Lý Mục dễ dàng giành được những điều khoản cực kỳ có lợi: Alipay được toàn quyền tự do kết nối với các nền tảng khác mà không chịu bất kỳ sự ràng buộc nào từ phía ngân hàng. 
+
+Đây chính là chìa khóa để Lý Mục bành trướng đế chế của mình sau này. Mở được cánh cửa này, bóng dáng của một "chúa tể tài chính" đã bắt đầu hiện rõ.
+
+Lý Mục thở phào, chốt lịch ký hợp đồng vào thứ Hai và thứ Ba tới. Hồi Gia Minh còn gây sốc cho bốn vị giám đốc khi tuyên bố: "Tuần tới tôi rảnh, để tôi tháp tùng Lý Mục đi ký hợp đồng. Xe cậu ấy đang hỏng cản, tôi sẽ làm tài xế cho cậu ấy."
+
+Sự trân trọng tột bậc mà một đại gia sừng sỏ như Hồi Gia Minh dành cho chàng sinh viên trẻ khiến các vị giám đốc ngân hàng không khỏi rùng mình. Họ hiểu rằng, cái tên Lý Mục này không đơn thuần chỉ là một sinh viên ưu tú, mà là một con rồng đang vươn mình, một thực thể mang trong mình sức mạnh và sự dâm mị của thời đại mới. Một cuộc chơi quyền lực và tiền bạc đỉnh cao chính thức bắt đầu chuyển động.
