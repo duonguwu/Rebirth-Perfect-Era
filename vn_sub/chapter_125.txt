@@ -1,137 +1,29 @@
 Chương 125
 
-Mấy ngày nay, người của Baidu đang phát điên lên.
+Những ngày này, ban lãnh đạo của gã khổng lồ tìm kiếm Baidu đang phát điên vì một "căn bệnh" lây lan: sự đố kỵ.
 
-Người ta bảo rằng đang có một căn bệnh lây lan kỳ lạ trong hàng ngũ ban lãnh đạo cấp cao: bệnh đố kỵ.
+Mỗi khi mở báo cáo dữ liệu của trang web Dịch Thính và diễn đàn Tieba lên, trái tim của họ lại như thắt lại. Tieba không chỉ là một diễn đàn thông thường, nó là một tuyệt phẩm về giữ chân người dùng. Tính năng "tự tạo Tieba" vừa ra mắt đã khiến các giám đốc kỹ thuật của Baidu phải hộc máu vì điên tiết. Họ đã từng định sao chép mô hình này, nhưng chưa kịp viết xong bản yêu cầu kỹ thuật thì đối thủ đã tung ra một đòn chí mạng, cho phép người dùng tự do kiến tạo vương quốc của riêng mình chỉ bằng một cái tên.
 
-Kết quả là, việc đầu tiên mà các sếp làm khi tới công ty trong mấy ngày qua là kiểm tra dữ liệu của trang web Y Thính và Tieba. Khi nhìn thấy số liệu của Tieba cứ thế tăng vọt, các sếp không khỏi nảy sinh lòng ghen tị.
+Phó chủ tịch Baidu đã thử gõ từ khóa "cầu lông" và choáng váng khi thấy hàng ngàn người đã tụ tập ở đó, bàn luận say sưa về kỹ thuật và trang thiết bị. Ông ta nhận ra Tieba có giá trị ít nhất 50 triệu tệ hoặc hơn. Trong khi đó, dự án Hao123 mà Baidu đang theo đuổi bỗng chốc trở nên yếu ớt và thiếu sức sống.
 
-Vài ngày trước, họ còn đang lên kế hoạch sao chép mô hình của Tieba, dùng lợi thế của mình để phản đòn lại cái kiểu Tieba của Y Thính vốn chỉ tập trung vào ca sĩ. Họ định tung ra một phiên bản Tieba dành cho toàn bộ các ngôi sao. Thế mà, khi đội ngũ kỹ thuật còn chưa kịp đặt bút viết yêu cầu, Tieba đã nhanh tay tung ra phiên bản All-star rồi.
+Trong bóng tối của những căn phòng họp đầy khói thuốc, Baidu bắt đầu lên kế hoạch thâu tóm "đứa con cưng" này bằng mọi giá. Tuy nhiên, họ không biết rằng Li Mu – chủ nhân thực sự của Tieba – đang ung dung ngồi trước máy tính tại căn hộ thuê riêng, xem xét những lời đề nghị "khủng" khác từ NetEase và Sina. Với mức giá chào mua gói combo Yiting và Tieba dưới 30 triệu tệ, Li Mu chỉ khẽ nhếch môi khinh bỉ. Cậu biết giá trị của mình, và cậu đang chờ đợi một con cá lớn hơn, một kẻ thực sự cần đến "linh hồn" của mạng xã hội này.
 
-Chuyện này làm cho ban lãnh đạo và giám đốc kỹ thuật của công ty tức đến mức muốn hộc máu. Ngay sau đó, Tieba còn tung ra một chiêu còn "khủng" hơn nữa: cho phép người dùng tự tạo bar.
+---
 
-Jack Chu cũng đã dùng thử tính năng này và dễ dàng tạo được một cái 'Jack Chu bar'. Anh thấy cái này thực sự thú vị. Rồi khi nghĩ đến vợ mình, anh dùng tên cô ấy để tạo thêm một cái bar nữa. Ngay lập tức anh phải thốt lên: "Đỉnh thật đấy, đỉnh thật!"
+Gần trưa, Tô Ánh Tuyết gọi điện cho Lý Mục rủ đi ăn. Khi gặp nhau, Lý Mục không khỏi ngẩn ngơ trước vẻ đẹp của cô bạn cũ. Cô mặc một chiếc áo phông trắng đơn giản kết hợp với quần jeans bó sát, làm tôn lên đôi chân dài thẳng tắp và vòng ba căng tròn gợi cảm. Mái tóc đen mượt mà xõa trên bờ vai thon, tỏa ra hương thơm dịu nhẹ khiến Lý Mục chỉ muốn kéo cô vào lòng và hít hà thật sâu.
 
-Vị phó chủ tịch cũng dùng thử. Ông vốn thích chơi cầu lông lúc rảnh rỗi nên định tạo một cái bar cầu lông. Kết quả là khi vừa vào lệnh tạo, ông phát hiện cái bar cầu lông đó đã được tạo từ mấy ngày trước rồi, hiện tại đã có hơn hai nghìn cư dân mạng theo dõi. Trên đó cũng có vô số bài đăng chia sẻ về kỹ thuật và trang bị. Ông thực sự chấn động trước khả năng tập hợp những người dùng có chung sở thích, thần tượng và đam mê của Tieba. Ông thậm chí cảm thấy Tieba hiện tại có thể được định giá ít nhất là 50 triệu tệ trở lên.
+"Chiều nay có buổi họp mặt đồng hương tỉnh Nam Tô ở cổng Nam trường, anh đi cùng em nhé?" Su Yingxue khẽ chạm vào cánh tay Lý Mục, đôi mắt to tròn nhìn cậu đầy vẻ mong đợi.
 
-Lúc này, ông nhìn sang trang Hao123 mà mình cũng đang theo dõi, đột nhiên thấy cái trang điều hướng mà ông từng rất lạc quan kia sao mà yếu thế quá. Cái trang điều hướng đó đúng là chẳng thể giữ chân được người dùng. Người ta chỉ ghé qua đó vài giây rồi lại đi chỗ khác ngay. Cảm giác này đúng là đau đớn vô cùng!
+"Tình cờ thật, Tôn Kiên cũng rủ anh đi. Vậy thì đi thôi." Lý Mục cười đáp.
 
-Việc giữ chân người dùng và tạo ra sự gắn kết luôn là "nỗi đau" của Baidu!
+Cả hai cùng dạo bước quanh trường, thu hút vô số ánh nhìn ngưỡng mộ lẫn ghen tị của đám nam sinh. Su Yingxue dường như chỉ quan tâm đến gã trai đang đi cạnh mình, cô ríu rít kể về những ngày học tập vất vả trong thư viện, đôi môi hồng nhuận khẽ mấp máy đầy sức sống.
 
-Nhìn vào Tieba giữa lúc đang ôm nỗi đau đó, họ thấy nó cứ như một chiếc phao cứu sinh vậy. Đúng là một kiệt tác!
+Đến 2 giờ chiều, Lý Mục, Tô Ánh Tuyết và Tôn Kiên có mặt tại quán Wind Shelter – nơi tổ chức buổi họp mặt. Ngay tại bàn đăng ký, hai tên đàn anh khóa trên nhìn Su Yingxue bằng ánh mắt thèm khát không che giấu. Một tên vội vàng đon đả vẫy cô vào, bảo rằng "Hội phó Ngô Soái" đã bao trọn tiền cho cô rồi.
 
-Một ý tưởng thiên tài!
+Ngô Soái – cái tên nghe thật kêu, được mệnh danh là đệ nhất mỹ nam của khoa Kinh tế, gia cảnh giàu có và đang là tâm điểm của buổi họp mặt. Hắn ta rõ ràng đang muốn dùng tiền bạc để "đánh dấu chủ quyền" đối với nàng hoa khôi mới của trường.
 
-Nhưng tại sao nó lại không phải là ý tưởng của Baidu cơ chứ?!
+Lý Mục nhếch mép cười lạnh. Cậu rút tờ 100 tệ ra, đưa cho nhân viên đăng ký rồi nói dõng dạc: "Dùng tiền này trả cho ba chúng tôi. Còn tiền của gã họ Ngô kia, các anh cứ giữ lấy mà đi uống trà, hoặc bao cho mấy đứa khóa dưới đi."
 
-Thế là ông lập tức báo cáo lên CEO, hy vọng có thể thâu tóm Tieba càng sớm càng tốt bằng mọi giá. Tốt nhất là mua luôn cả trang Y Thính. Tuy nhiên, quyền định giá của ông có hạn. Chuyện lớn thế này cần ban hội đồng quản trị cùng đưa ra quyết định, nên ông phải nhanh chóng họp đại hội cổ đông để thảo luận. Thời gian không chờ đợi một ai!
+Hành động dứt khoát và phong thái bá đạo của Lý Mục khiến hai gã đăng ký đờ người ra. Một tên lầm bầm: "Thằng này... đúng là ngông cuồng thật." Tên còn lại thì nhìn vào danh sách, lẩm bẩm: "Lý Mục... cũng là người Hải Châu. Xem ra Ngô Soái gặp đối thủ sừng sỏ rồi đây. Trận chiến giành người đẹp chiều nay chắc chắn sẽ rất nóng!"
 
-Thực tế thì Baidu lúc này vẫn chưa phải là một "đại gia" giàu xụ trong ngành internet. Họ cũng mới chỉ bắt đầu khởi nghiệp chưa lâu, vẫn còn đang mải mê cung cấp dịch vụ công cụ tìm kiếm cho các nền tảng khác. Dù nhà sáng lập Lý Ngạn Hồng đã mang về một lượng vốn đầu tư không nhỏ khi từ Silicon Valley trở về, và sau đó cũng có thêm các đợt gọi vốn khác, nhưng họ đã đốt rất nhiều tiền dọc đường rồi. Họ vẫn chưa thực sự tìm ra một mô hình lợi nhuận ổn định.
-
-Nói cho cùng thì Baidu lúc này vẫn đang trong giai đoạn "vừa đi vừa dò đá qua sông". Nếu bảo họ bỏ ra một khoản tiền khổng lồ để thâu tóm Baidu ngay lúc này thì họ không thể tự ý làm được. Thế nên họ cần phải thảo luận với các cổ đông. Nếu các cổ đông nhất trí thâu tóm, cho dù công ty không đủ tiền, họ cũng sẽ tăng vốn để mua bằng được. Còn nếu các cổ đông đã không muốn, thì có tiền cũng chẳng để làm gì.
-
-Tuy nhiên vào thứ Bảy, Lý Mục đã tranh thủ sang căn nhà thuê của mình để dùng máy tính kiểm tra hộp thư điện tử.
-
-Hiện tại đã có vài công ty bày tỏ sự quan tâm đến Tieba.
-
-Một hãng tên là Yi (NetEase) và một hãng là Lang (Sina) cũng rất hứng thú. Họ hy vọng có thể nói chuyện trực tiếp với Lý Mục.
-
-Lý Mục chỉ trao đổi sơ bộ với đại diện của họ qua mạng và nhận được một cái giá chào mua tạm tính. Tuy nhiên, cậu chẳng mấy hài lòng với con số đó. Họ muốn thâu tóm cả gói Y Thính và Tieba nhưng cái giá đưa ra không vượt quá 30 triệu tệ.
-
-Lý Mục tạm thời từ chối với lý do là đang cân nhắc. Cậu vẫn nghiêng về phương án bán cho Baidu hơn, vì cậu hiểu nguyên tắc là phải bán thứ gì đó cho người thực sự cần nó nhất thì mới có được những điều kiện tốt nhất. Dù cái chuyện "bán lược cho sư" nghe có vẻ oai thật đấy, nhưng nó chẳng hề đúng với nguyên lý thị trường chút nào.
-
-...
-
-Gần trưa, Tô Ánh Tuyết gọi điện cho Lý Mục hỏi cậu đang làm gì. Lý Mục bảo đang ngồi quán nét bên ngoài. Tô Ánh Tuyết rủ cậu đi ăn trưa cùng nhau, và Lý Mục đồng ý ngay.
-
-Hai người hẹn gặp nhau ở một nhà hàng bên ngoài trường. Sau đó Lý Mục tắt máy, soi lại gương một chút rồi đi ra ngoài.
-
-Vừa gặp mặt, Tô Ánh Tuyết đã hỏi Lý Mục: "Chiều nay anh có bận gì không?"
-
-Lý Mục không trả lời ngay mà hỏi ngược lại: "Có chuyện gì thế?"
-
-Tô Ánh Tuyết có chút ngượng ngùng bảo: "Trong trường mình có mấy bạn học cũ hồi cấp hai của em. Bọn họ cứ nhất quyết đòi em phải tham gia một buổi gặp mặt Hội đồng hương Nam Tô vào buổi chiều. Em thì không muốn đi lắm, nhưng lại không nỡ từ chối, nên định hỏi xem anh có muốn đi cùng không."
-
-Lý Mục ngạc nhiên hỏi: "Trong trường mình cũng có bạn học cấp hai của em à?"
-
-Tô Ánh Tuyết gật đầu: "Em học cấp hai ở trường Trung học Thực nghiệm Kim Lăng. Lên cấp ba em mới quay về Hải Châu học."
-
-Lúc này Lý Mục mới nhớ ra, lâu quá rồi nên cậu quên mất là Tô Ánh Tuyết từng học ở cái trường cấp hai tốt nhất Kim Lăng đó. Trường Trung học Thực nghiệm Kim Lăng luôn là cái nôi sản sinh ra những sinh viên đại học hàng đầu ở Kim Lăng. Ở đó có cả cấp hai và cấp ba, và kết quả thi đại học của họ luôn đứng đầu tỉnh.
-
-Bạn học cấp hai của Tô Ánh Tuyết ở đó chắc chắn toàn là những học sinh ưu tú. Hơn nữa, mỗi năm Đại học Nhân dân tuyển khoảng năm sáu chục sinh viên từ tỉnh Nam Tô. Chuyện có vài bạn học cũ của Tô Ánh Tuyết cùng đỗ vào Nhân Đại là chuyện hoàn toàn bình thường.
-
-Lý Mục nhẩm tính trong đầu rồi ngạc nhiên hỏi: "Thế thì cái buổi gặp mặt này chẳng phải sẽ có tới mấy trăm người sao?"
-
-Tô Ánh Tuyết gật đầu: "Theo lý mà nói thì đông như thế, nên khi ban tổ chức sắp xếp, họ thường chia ra gặp mặt riêng. Lần này họ chủ yếu mời các tân sinh viên khóa mình, rồi có thêm các anh chị khóa trên và nghiên cứu sinh nữa. Mỗi khóa sẽ có vài người đại diện, tổng lại chắc cũng phải vài chục người."
-
-Lý Mục mỉm cười: "Anh bạn cùng phòng Tôn Kiên của anh cũng là người Nam Tô đấy. Hôm qua gã vừa rủ anh đi cùng xong, anh cũng đã nhận lời rồi."
-
-"Thật sao?"
-
-Tô Ánh Tuyết vui mừng hớn hở, vội vàng bảo: "Thế thì tốt quá rồi. Em vốn chẳng muốn đi chút nào, nhưng đã không từ chối được thì có anh đi cùng là yên tâm rồi."
-
-Mấy ngày nay Lý Mục không được gặp Tô Ánh Tuyết, nên cậu hỏi xem dạo này cô bận bịu gì. Câu trả lời của Tô Ánh Tuyết cũng giống hệt Triệu Tử Thu. Ngoài việc lên lớp và học bài, cô dành hầu hết thời gian ở thư viện. Tô Ánh Tuyết bảo sang học kỳ tới cô có thể chọn môn tự chọn, nên cô muốn chuẩn bị trước ngay từ bây giờ.
-
-Nghe xong, Lý Mục dở khóc dở cười hỏi: "Khó khăn lắm mới vượt qua được cái năm lớp 12 kinh khủng đó. Em không muốn nghỉ ngơi thư giãn chút sao?"
-
-Tô Ánh Tuyết cười: "Chẳng phải kỳ nghỉ hè đã trôi qua rồi sao?"
-
-"Làm sao mà giống nhau được chứ?"
-
-Lý Mục bĩu môi bảo: "Đại học không phải là lớp 12. Không cần thiết phải tự biến mình thành một cái máy học như thế đâu."
-
-Tô Ánh Tuyết suy nghĩ một hồi, thè lưỡi một cái rồi bảo: "Nhưng nếu không học thì em cũng chẳng biết làm gì nữa. Chứ không lẽ tối nào ăn cơm xong cũng chỉ biết nằm lì trong phòng ngủ sao?"
-
-Lý Mục hoàn toàn bị thuyết phục. Cậu biết mình chẳng thể nào hiểu nổi thế giới của một học sinh giỏi, nên chỉ biết cười ha hả rồi bảo: "Em nói cũng đúng..."
-
-Thời gian gặp mặt được ấn định là hai giờ chiều. Nghe đâu là đã đặt toàn bộ quán quán Gió Mùa rồi. Sau khi Lý Mục và Tô Ánh Tuyết ăn xong, cả hai cùng thong thả dạo bộ bên ngoài trường. Sắp đến giờ hẹn, Lý Mục gọi điện cho Tôn Kiên bố trí gặp nhau ở cổng Nam của trường. Cậu và Tô Ánh Tuyết cũng sẽ đứng đợi gã ở đó.
-
-Tôn Kiên nhanh chóng có mặt và thấy Lý Mục đang đứng cùng Tô Ánh Tuyết. Anh có chút ngạc nhiên, nhưng khi nghĩ lại là cô nàng hoa khôi đang cực hot trong trường này chính là bạn học cấp ba của Lý Mục, mà Lý Mục cũng là người Nam Tô, nên chuyện xuất hiện cùng nhau ở đây cũng là lẽ thường.
-
-Lý Mục giới thiệu lại Tôn Kiên với Tô Ánh Tuyết một lần nữa, rồi cả ba cùng tiến về phía quán Gió Mùa.
-
-Khi tới nơi, thấy có hai đàn anh khóa trên đang ngồi ở một cái bàn nhỏ ngay cửa để đăng ký. Bọn họ đã thu thập sẵn thông tin về các tân sinh viên người Nam Tô và lập thành một cái bảng danh sách. Bất kể là có nhận được lời mời hay không, cứ là sinh viên Nhân Đại gốc Nam Tô là đều có thể tham dự.
-
-Khi Lý Mục, Tô Ánh Tuyết và Tôn Kiên đi tới chỗ đăng ký, họ thấy hai gã đàn anh kia cứ dán mắt nhìn chằm chằm vào Tô Ánh Tuyết.
-
-Một gã vội vàng đứng bật dậy, tươi cười bảo: "Ồ, là Ánh Tuyết đấy à. Mời vào, mời vào!"
-
-Tô Ánh Tuyết chỉ vào hai bạn sinh viên vừa mới đăng ký và nộp tiền xong, hỏi: "Chúng em không cần phải nộp tiền sao?"
-
-Gã kia vội bảo: "Ngô Soái, phó chủ tịch hội đồng hương mình, đã nộp tiền hộ em rồi."
-
-Tô Ánh Tuyết nhíu mày hỏi: "Ngô Soái là ai thế? Em chẳng cần anh ta nộp hộ em làm gì." Nói đoạn, Tô Ánh Tuyết định rút tiền ra nộp.
-
-Gã kia buột miệng: "Ơ, em không biết Ngô Soái à? Anh ấy là gã đẹp trai nhất khoa Kinh tế trường mình đấy. Người Kim Lăng, anh ấy..."
-
-"Đây là tiền của ba anh em chúng tôi."
-
-Tô Ánh Tuyết chẳng thèm để gã nói tiếp. Cô rút tờ một trăm tệ đặt thẳng xuống trước mặt gã.
-
-Vẻ mặt gã đàn anh trông sượng sùng vô cùng: "Anh Ngô đã dặn tụi anh rồi, tiền anh ấy nộp tụi anh cũng đã nhận rồi. Giờ mà nhận tiền của em nữa thì tí nữa anh biết giải thích thế nào với anh ấy đây. Vả lại sổ sách sẽ bị sai lệch, tiền thừa biết xử lý thế nào, phải không?"
-
-Lý Mục đứng bên cạnh bồi thêm một câu: "Thừa tiền mà cũng là cái sai à? Thế thì anh cứ lấy tiền đó nộp hộ cho các bạn sinh viên phía sau đi."
-
-Vừa nói, Lý Mục vừa chỉ vào một cậu sinh viên đang đứng sau mình bảo: "Này người anh em, chú không cần nộp tiền nữa nhé. Có một anh khóa trên tên là Ngô gì đó tâm huyết lắm, đã nộp hộ cho chú rồi đấy."
-
-"Hả?"
-
-Cậu sinh viên kia vẫn còn đang ngơ ngác, còn hai gã phụ trách đăng ký thì nhìn nhau chẳng biết nói gì. Đúng lúc này, Lý Mục rút tờ một trăm tệ của mình ra đưa trả lại cho Tô Ánh Tuyết. Sau đó cậu đặt tiền của mình xuống trước mặt cậu sinh viên kia rồi gõ gõ tay xuống bàn bảo gã đàn anh: "Mau trả lại mười tệ cho tôi đi chứ. Anh còn đang thẩn thơ cái gì thế?"
-
-"Cái này..." Hai gã kia bối rối vô cùng. Họ nhìn nhau, rồi cái gã nhận tiền rốt cuộc cũng phải móc mười tệ trả lại cho Lý Mục. Sau đó gã đưa cuốn sổ đăng ký ra bảo: "Hai bạn có thể đăng ký được rồi."
-
-Lý Mục thầm nghĩ: "Mấy gã này bị mù à? Bọn tôi có những ba người cơ mà."
-
-Tuy nhiên khi cầm cuốn sổ lên, cậu thấy họ đã đánh dấu sẵn vào tên của Tô Ánh Tuyết rồi. Lý Mục thầm khinh bỉ trong lòng. Cậu tìm thấy tên mình rồi đánh dấu vào. Khi định tìm tên cho Tôn Kiên thì Tôn Kiên đã chỉ vào tên mình rồi bảo: "Tên anh ở đây này."
-
-Lý Mục gật đầu, đánh dấu hộ cho Tôn Kiên rồi đưa trả lại cuốn sổ cho gã đàn anh: "Xong rồi chứ? Giờ chúng tôi vào được chưa?"
-
-Gã đàn anh vội bảo: "Chờ chút đã."
-
-Nói đoạn, gã rút ra ba tấm thẻ đánh số rồi đưa cho Lý Mục: "Mỗi người sẽ có một số thứ tự riêng. Cầm lấy rồi lên thẳng tầng hai nhé."
-
-Lý Mục gật đầu nhận lấy thẻ. Ba tấm thẻ mang số 50, 51 và 52. Cậu đưa số 51 cho Tô Ánh Tuyết, còn số 52 cho Tôn Kiên.
-
-Khi thấy Lý Mục và nhóm bạn đã đi khuất, hai gã phụ trách đón tiếp liền cầm cuốn sổ đăng ký lên tìm tên của Lý Mục. Một gã thầm thì: "Lý Mục... Cái thằng này đúng là 'phong cách' thật đấy!" [Dịch thoát ý: Thằng này đúng là thích thể hiện]
-
-Gã còn lại mỉm cười chỉ vào phần quê quán ghi sau tên Lý Mục, bảo: "Nhìn này, cậu ta cũng là người Hải Châu đấy. Chắc chắn là bạn học cấp ba của Tô Ánh Tuyết rồi. Vả lại nhìn cậu ta cũng bảnh bao phết. Lần này anh Ngô gặp phải đối thủ nặng ký rồi đây." [Dịch thoát ý: Ngô Soái gặp đúng 'đá tảng' rồi]
+Lý Mục nắm lấy bàn tay mềm mại của Su Yingxue, bình thản dắt cô bước vào hội trường, để lại những cái nhìn kinh ngạc phía sau. Cậu biết rằng, cuộc chơi mới chỉ vừa bắt đầu.
