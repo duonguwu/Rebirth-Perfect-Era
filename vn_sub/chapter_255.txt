@@ -1,0 +1,129 @@
+Chương 255
+
+Bản tin phỏng vấn của **Lý Mục** không phải là điều gì quá mới mẻ đối với **Đàm Diệu Thành**. Hôm nay chẳng qua cũng chỉ là một buổi kiểm tra của lãnh đạo mới mà thôi. Ban đầu ông cũng không quá để tâm, nhưng sau khi xem kỹ lại, ông lập tức nhận thấy một vài manh mối đáng quan tâm.
+
+Lý Mục nói trên TV rằng để giải quyết vấn đề thanh toán cho dự án 3321, họ đã tự phát triển một nền tảng thanh toán trực tuyến. Điều này thực sự khá thú vị.
+
+Đàm Diệu Thành không nghĩ quá nhiều về tầm quan trọng của một nền tảng thanh toán vào lúc này. Điều ông thắc mắc là: Lý Mục đã lấy đâu ra nhân lực để phát triển nó?
+
+Dựa trên những gì ông hiểu về Lý Mục, một kẻ khôn ngoan như cậu chắc chắn sẽ không bỏ tiền túi ra thuê một công ty gia công bên ngoài. Hơn nữa, các công ty gia công thường thiếu sự kiểm soát, mà một người luôn muốn nắm trọn cuộc chơi trong tay như Lý Mục thì tuyệt đối không bao giờ bắt tay với họ.
+
+Vậy chỉ còn lại một khả năng duy nhất: Nền tảng thanh toán này được phát triển bởi chính đội ngũ kỹ thuật của Công nghệ Mục Dã.
+
+Nói đi cũng phải nói lại, chuyện này vốn cũng chẳng có gì to tát. Với một đội ngũ sẵn có, việc bảo họ phát triển thêm một sản phẩm phụ cũng là điều dễ hiểu. Nhưng vấn đề ở chỗ, Công nghệ Mục Dã không thuộc về một mình Lý Mục. Cậu dùng người của Mục Dã để làm sản phẩm mới, nhưng sản phẩm đó dường như lại không thuộc sở hữu của Mục Dã. Đây chính là điểm lắt léo.
+
+Tuy nhiên, Đàm Diệu Thành vẫn chưa được tận mắt thấy cái "nền tảng thanh toán" đó mặt mũi ra sao nên cũng chưa muốn suy diễn quá xa. Có điều nếu sản phẩm này thực sự có tương lai, Baidu chắc chắn sẽ yêu cầu đưa nó về dưới trướng Mục Dã. Nếu Lý Mục từ chối, Baidu cũng không hẳn sẽ vì chuyện này mà trở mặt. Họ chỉ muốn nắm lấy cái cán này để có thêm lợi thế trong các cuộc đàm phán đầu tư sau này mà thôi.
+
+Xem xong bản tin, Đàm Diệu Thành bốc máy gọi cho Lý Mục. Sau vài câu xã giao dông dài, ông khéo léo dẫn dắt câu chuyện sang nền tảng thanh toán: "Tôi vừa xem phỏng vấn trên TV thấy cậu bảo mới làm một trang thanh toán trực tuyến à?"
+
+Lý Mục thừa nhận thẳng thắn: "Đúng vậy anh ạ."
+
+Đàm Diệu Thành giả vờ tò mò, cười nói: "Sao cậu lại lẳng lặng làm cái đó thế? Chẳng lẽ chỉ để phục vụ riêng cho 3321 thôi sao?"
+
+Lý Mục thản nhiên đáp: "Không hẳn. Em đã đăng ký một công ty mới, và nền tảng thanh toán đó đứng tên pháp nhân mới này."
+
+Đàm Diệu Thành lập tức ngồi bật dậy. Lại một công ty nữa sao?
+
+Mày không hề nói với bọn tao một tiếng nào? Thế có nghĩa là về mặt vốn liếng, bọn tao chẳng có xơ múi gì được ở đó à? Nhưng rõ ràng đội ngũ kỹ thuật của mày là người của Mục Dã, làm thế này chẳng phải là quá bất công sao?
+
+Đàm Diệu Thành suy nghĩ một lát rồi cười nói: "Nếu đội ngũ kỹ thuật của Mục Dã không cáng đáng nổi thì cứ bảo anh một tiếng. Nguồn lực kỹ thuật của Baidu vẫn còn rất mạnh, có thể hỗ trợ các chú được nhiều đấy."
+
+Lời nói của Đàm Diệu Thành tuy lịch sự nhưng lại ẩn chứa hàm ý sâu xa. Ông muốn nhắc nhở Lý Mục: "Bọn anh biết chú đang dùng tài nguyên của Mục Dã để làm việc riêng cho mình đấy nhé."
+
+Lý Mục nghe qua là hiểu ngay ý tứ trong lời nói đó.
+
+Thế nhưng, cậu lại thuận theo lời Đàm Diệu Thành mà cười đáp: "Vừa hay em cũng đang có một kế hoạch phát triển mới cho bước đi tiếp theo của Mục Dã, mọi thứ đã cơ bản hoàn thiện và sẵn sàng triển khai. Nếu anh hứng thú, sáng mai em sẽ mang qua cho anh xem. Sau này dĩ nhiên là em sẽ cần đến 'quyền trợ giúp' về mặt kỹ thuật từ phía các anh rồi."
+
+Đàm Diệu Thành ngạc nhiên hỏi: "Kế hoạch phát triển mới ư? Chú định tung ra chiêu bài gì nữa đây?"
+
+"Dĩ nhiên rồi."
+
+Lý Mục cười tràn đầy nhuệ khí: "Nếu kế hoạch này được thực thi, nó sẽ đủ sức đưa Mục Dã vọt lên vị trí công ty Internet hàng đầu cả nước chỉ trong một nốt nhạc!"
+
+Đàm Diệu Thành mừng rơn. Chẳng lẽ thằng nhóc này lại nảy ra ý tưởng gì đột phá như Tiệm Ba sao? Nếu quả thực như vậy thì Mục Dã sẽ trở thành một con gà đẻ trứng vàng thực sự.
+
+Vì thế Đàm Diệu Thành vội vàng hỏi: "Thế bao giờ cậu rảnh? Anh em mình gặp nhau cái nhỉ!"
+
+Lý Mục tính toán một lát rồi đáp: "Sáng mai đi anh. Khoảng 9 giờ rưỡi em sẽ qua văn phòng các anh."
+
+Đàm Diệu Thành hỏi: "Sáng mai cậu không phải lên lớp à?"
+
+"Có chứ, nhưng em bùng cũng được mà."
+
+Đàm Diệu Thành lập tức chốt hạ: "Được, để anh báo cáo ngay với CEO bên anh, sáng mai mời anh ấy cùng tham gia thảo luận với chúng ta."
+
+Lý Mục thoáng giật mình, thầm nghĩ: "Chẳng lẽ sáng mai mình sẽ được gặp **Lý Ngạn Hoành** (Robin Li)? Một trong ba gã khổng lồ BTA của tương lai sao? Sao mình chẳng thấy có tí cảm giác hồi hộp nào thế này nhỉ?"
+
+Lý Mục cười nhạt rồi chốt lịch hẹn với Đàm Diệu Thành.
+
+...
+
+Đám chiến hữu ở phòng 606 dạo này cũng bận rộn không kém. Cuối tuần nào họ cũng tất tả ngược xuôi khắp các tỉnh thành để hỗ trợ sinh viên trong dự án 3321.
+
+Lần một lần hai còn thấy hào hứng, chứ làm mãi nhiều lần liên tục thì ai nấy đều thấm mệt. Chiều nay cả đám về tới phòng là nằm vật ra như những xác không hồn, đến sức để đi ăn cơm cũng chẳng còn. Chỉ có mỗi **Huỳnh Chính Đạo** là còn nghiến răng trụ vững để chạy qua thăm **Vương Á Nam** và mẹ cô ấy.
+
+Bốn người còn lại thì đều đang dán chặt lưng xuống giường.
+
+Thấy Lý Mục tới, **Tôn Kiên** uể oải lên tiếng: "Bọn tớ vừa bàn nhau rồi. Sau này chắc không thể tuần nào cũng di chuyển như thế được nữa, có mà chết vì kiệt sức mất. Hay cậu bàn với chị Đổng Ngải thành lập một đội ngũ chuyên nghiệp đi, để bọn tớ thay phiên nhau phụ trách thôi."
+
+Ba người còn lại cũng đồng thanh hưởng ứng. **Lý Nhã Vi** mếu máo: "Mục ca ơi, lúc máy bay hạ cánh tớ chỉ muốn ngủ luôn trên máy bay chẳng muốn xuống nữa. Mệt rụng rời chân tay rồi. Mấy cái cuối tuần rồi tớ còn chẳng có thời gian đi chơi với người yêu đây này."
+
+Lý Mục mỉm cười: "Tớ có bắt các cậu tuần nào cũng phải đi đâu. Thấy các cậu nhiệt tình thế tớ còn tưởng các cậu đang tận hưởng quá trình đó chứ."
+
+**Lưu Niệm** thở dài: "Lúc đầu thì vui thật, nhưng sau bận quá thì chịu không thấu."
+
+Lý Mục gật đầu: "Được rồi, để tớ bảo chị Đổng Ngải lo liệu chuyện này. Nguồn vốn đổ vào 3321 mỗi tuần thừa sức để thuê một đội ngũ vận hành chuyên nghiệp mà."
+
+Cả bốn người thở phào nhẹ nhõm, nhưng cũng thấy hơi áy náy vì không thể kiên trì đến cùng. Lý Mục đánh trống lảng sang chuyện khác: "Lâu lắm rồi phòng mình chưa tụ tập nhỉ. Nhã Vi, chuyện 'nóc nhà' cậu ở dưới đó thế nào rồi? Có cần tớ quan tâm tí không?"
+
+Lý Nhã Vi ngồi bật dậy, nhìn Lý Mục với vẻ mặt cực kỳ nghiêm trọng: "Cậu nên quan tâm từ lâu rồi mới phải! Nếu cậu còn thờ ơ thế này, tớ e là **Triệu Tử Thu** sẽ bị người ta nẫng tay trên mất thôi."
+
+Lý Mục nhíu mày hỏi: "Chuyện là thế nào?"
+
+"Đang có kẻ theo đuổi Tử Thu cực kỳ ráo riết đấy," Lý Nhã Vi tiết lộ.
+
+"Người yêu tớ bảo, có một gã đang tấn công Tử Thu một cách điên cuồng. Hắn ta không chỉ đẹp trai, nhà giàu mà còn là một học bá chính hiệu. Ở Đại học Bắc Kinh đã hơn một năm mà đám con gái cứ mê mẩn rụng rời, nhưng gã này tuyệt nhiên không có điều tiếng gì, đúng kiểu 'nam thần' vạn người mê. Người ta còn đặt cho hắn biệt danh là 'Sát thủ tình trường' đấy."
+
+Lý Mục bán tín bán nghi: "Có đến mức thần thánh hóa thế không?"
+
+Lý Nhã Vi gật đầu lia lịa: "Thật đấy! Á Nam cũng kể với tớ rồi. Cậu không tin thì hỏi **Tiết Kiến Phong** xem, chẳng lẽ Trần Kiều nhà nó không kể cho nó nghe à?"
+
+Tiết Kiến Phong chen vào: "Có chứ! Nghe bảo gã đó về mọi mặt đều 'ăn đứt' Lý Mục nhà mình."
+
+Lưu Niệm ngớ người hỏi: "Đẹp trai hơn cả Mục ca cơ á?"
+
+Tiết Kiến Phong gật đầu: "Đẹp trai hơn một chút thôi, cụ thể là khoảng mười sáu ngàn lần."
+
+Lý Mục cười mắng: "Cút đi! Cậu đào đâu ra cái con số chính xác đến từng đơn vị thế hả?"
+
+Tiết Kiến Phong cười hì hì: "Lão phu nhẩm tính một cái là ra ngay ấy mà. Hơn nữa, khí chất của gã đó phải hơn cậu tới hai mươi ngàn lần. Nghe bảo gã chưa bao giờ thốt ra một lời thô tục nào, chứ không như ai kia, suốt ngày đm với đệch."
+
+Lý Mục đá vào thành giường của Kiến Phong: "Cái đám đàn ông các cậu còn ngồi lê đôi mách hơn cả mấy bà già."
+
+Kiến Phong nghiêm túc lại: "Nhã Vi không nói chơi đâu. Bọn tớ chỉ muốn nhắc cậu đừng có kén cá chọn canh quá, kẻo cuối cùng lại xôi hỏng bỏng không. Tử Thu là một cô gái tốt như thế, vừa xinh đẹp, hiểu chuyện, lại hiền lành, nghe đâu gia cảnh cũng thuộc hàng đại gia. Cậu bị làm sao thế hả? Sao cứ dửng dưng như không vậy?"
+
+Lý Nhã Vi ngồi trên giường tầng, giơ chân lên minh họa: "Kiến Phong, cậu còn thiếu một điểm cực kỳ quan trọng: Tử Thu có một tâm hồn rất 'to và tròn' đấy nhé!"
+
+Tiết Kiến Phong gật đầu lia lịa: "Đúng đúng đúng! Ngực lớn, dáng chuẩn, đúng là cực phẩm trong các loại cực phẩm!"
+
+Lý Nhã Vi giả vờ không hài lòng: "Gì mà cực phẩm? Đó gọi là tiên nữ giáng trần mới đúng!"
+
+Lý Mục thở dài: "Mấy cậu không đi diễn hài kịch thì đúng là phí hoài tài năng. Để tớ tống các cậu ra đầu cầu mà hành nghề nhé!"
+
+Lý Nhã Vi bĩu môi: "Đừng có đánh trống lảng. Bọn tớ đang khai sáng cho cậu đấy. Tử Thu tốt thế kia, nếu để lỡ thì cậu sẽ hối hận cả đời cho xem."
+
+Tiết Kiến Phong phụ họa: "Đâu chỉ một đời, có khi hai đời cũng chẳng tìm lại được đâu."
+
+Lý Mục không khỏi thấy có chút bối rối và khó xử. Trong bóng tối, tâm trí cậu không tự chủ được mà lướt qua những hình ảnh nóng bỏng về Triệu Tử Thu. Cậu nhớ lại cảm giác khi nhìn thấy cô trong chiếc áo thun bó sát, bộ ngực đồ sộ và căng tròn như hai trái bưởi chín mọng cứ thế đung đưa theo mỗi bước đi, hai đỉnh hồng đào dường như muốn xuyên thủng lớp vải mỏng manh để mời gọi kẻ khác khám phá. Rồi còn cả vòng eo thon thả dẫn lối đến bờ mông to tròn, săn chắc, mỗi khi cô cúi xuống, đường cong ấy lại trở nên dâm mỹ đến tột cùng, khiến bất cứ gã đàn ông nào cũng phải nảy sinh ham muốn được thô bạo chiếm hữu từ phía sau. Làn da trắng ngần, mịn như lụa của cô dường như đang run rẩy dưới sự vuốt ve tưởng tượng của cậu, tỏa ra một mùi hương kích dục nồng nàn.
+
+Sự xuất hiện của gã "Sát thủ tình trường" kia bỗng nhiên làm nảy sinh một luồng điện ghen tuông nhẹ trong hạ bộ, khiến Lý Mục thầm thề rằng nhất định sẽ không để bất kỳ kẻ nào chạm vào bộ ngực tuyệt mỹ và cơ thể đầy mê hoặc của bảo bối mình. Cậu thực sự không biết phải đối diện với tình cảm của Tử Thu như thế nào lúc này, khi mà ham muốn thể xác và tình cảm chân thành đang đan xen hỗn loạn.
+
+Trong thâm tâm, Lý Mục lại vô tình tưởng tượng ra hình ảnh Triệu Tử Thu với khuôn mặt ửng hồng, đôi gò bồng đảo căng mọng đang phập phồng sau lớp áo len mỏng manh. Mỗi khi cô mỉm cười, vẻ dâm mỹ dịu dàng ấy lại khiến cậu thấy rạo rực khó tả. Sự xuất hiện của gã "Sát thủ tình trường" kia bỗng nhiên làm nảy sinh một luồng điện ghen tuông nhẹ trong hạ bộ, khiến Lý Mục thầm thề rằng nhất định sẽ không để bất kỳ kẻ nào chạm vào bảo bối của mình.
+
+Thấy Lý Mục lúng túng, Tôn Kiên mới lên tiếng giải vây: "Đừng có chỉ đạo lung tung nữa. Lý Mục còn có cô bạn cùng quê xinh đẹp kia mà, thanh mai trúc mã cơ mà, nền tảng tình cảm chắc chắn là sâu đậm hơn Tử Thu nhiều."
+
+Lý Nhã Vi gật đầu: "Ừ, tớ thừa nhận Tô Ánh Tuyết cũng chẳng kém cạnh gì Tử Thu về mọi mặt. Nhưng các cậu không thấy cô ấy hơi 'lạnh' sao? Ngoài lúc đi cùng Mục ca ra là cô ấy chẳng bao giờ cười nói gì với ai cả."
+
+Tôn Kiên vặn lại: "Thế chẳng lẽ đi đứng, ăn uống, đọc sách cũng phải cười nói hô hố à?"
+
+Lý Nhã Vi xua tay: "Tớ không có ý đó. Chỉ là cảm giác thôi, cậu hiểu không? Cảm giác của phụ nữ ấy mà!"
